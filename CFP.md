@@ -5,6 +5,18 @@
 
 ### CALL FOR PAPERS
 
+Relevant topics for the workshop include, but are not limited to: 
+- handling spelling variation; 
+- detection and correction of OCR errors; 
+- creation and annotation of digital resources; 
+- deciphering;
+- morphological/syntactic/semantic analysis of textual data;
+- adaptation of tools to address diachronic/diatopic/diastratic variation in texts; 
+- teaching ancient languages with NLP tools; 
+- NLP-driven theoretical studies in historical linguistics;
+- evaluation of NLP tools.
+
+
 ### SUBMISSIONS
 We invite papers of different types such as *experimental papers*, *reproduction papers*, *resource papers*, *position papers*, *survey papers*. 
 
