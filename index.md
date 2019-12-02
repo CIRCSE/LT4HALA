@@ -3,7 +3,7 @@
 <p style="text-align: center;">--Home--&nbsp;&nbsp;--<a href="EvaLatin">EvaLatin</a>--&nbsp;&nbsp;--<a href="Keynote">Keynote Speaker</a>--&nbsp;&nbsp;--<a href="organization">Organization</a>--</p>
 ***
 
-<p style="text-align: center;"># Workshop on Language Technologies for Historical and Ancient Languages (#LT4HALA)</p>
+# Workshop on Language Technologies for Historical and Ancient Languages (#LT4HALA)
 
 The ever increasing number of writings in historical and ancient languages available in digital form is leading to a growth of interest in the creation of tools for their automatic linguistic processing. However, these languages present a number of characteristics, which set them apart from modern languages, with a significant impact on language technologies. 
 
