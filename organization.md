@@ -10,34 +10,28 @@
 ## Programme Committee
 
 **Confirmed:**
-- Amir Zeldes, Georgetown University, USA;
-- Barbara McGillivray, University of Cambridge, UK;
-- Beáta Megyesi, Uppsala University, Sweden;
-- Chao-Lin Liu, National Chengchi University, Taiwan;
-- Daniel Zeman, Charles University, Czech Republic;
-- Eva Pettersson, Uppsala University, Sweden;
+- Marcel Bollmann, University of Copenhagen; Denmark;
 - Gerlof Bouma, University of Gothenburg, Sweden;
-- Halim Sayoud, USTHB University;
+- Patrick Burns, University of Texas at Austin, USA;
+- Oksana Dereza, Insight Centre for Data Analytics, Ireland;
+- Stefanie Dipper, Ruhr-Universität Bochum, Germany;
 - Hanne Eckoff, Oxford University, UK;
+- Maud Ehrmann, EPFL, Switzerland;
 - Hannes A. Fellner, Universität Wien, Austria;
 - Heidi Jauhiainen, University of Helsinki, Finland;
-- Joakim Nivre, Uppsala University, Sweden;
-- John Lee City University of Hong Kong;
 - Julia Krasselt, Zurich University of Applied Sciences, Switzerland;
-- Marcel Bollmann, University of Copenhagen; Denmark;
-- Maud Ehrmann, EPFL, Switzerland;
-- Michael Piotrowski, University of Lausanne, Switzerland;
-- Neel Smith, College of the Holy Cross, USA;
-- Oksana Dereza, Insight Centre for Data Analytics, Ireland;
-- Olga Scrivner, Indiana University, USA;
-- Patrick Burns, University of Texas at Austin, USA;
-- Sara Tonelli, Fondazione Bruno Kessler, Italy;
+- John Lee, City University of Hong Kong;
+- Chao-Lin  Liu, National Chengchi University, Taiwan;
+- Barbara McGillivray, University of Cambridge, UK;
+- Beáta  Megyesi, Uppsala University, Sweden;
 - So Miyagawa, University of Göttingen; Germany;
+- Joakim Nivre, Uppsala University, Sweden;
+- Eva Pettersson, Uppsala University, Sweden;
+- Michael Piotrowski, University of Lausanne, Switzerland;
 - Sophie Prévost, Laboratoire Lattice, France;
-- Stefanie Dipper, Ruhr-Universität Bochum, Germany.
-
-**To be confirmed:**
-- Ann Taylor, University of York, UK;
-- Donald Sturgeon, Harvard University, USA;
-- Heike Zinsmeister, University of Hamburg, Germany;
-- Lamia Hadrich Belguith, University of Sfax, Tunisia.
+- Halim Sayoud, USTHB University;
+- Olga Scrivner, Indiana University, USA;
+- Neel Smith, College of the Holy Cross, USA;
+- Sara Tonelli, Fondazione Bruno Kessler, Italy;
+- Amir Zeldes, Georgetown University, USA;
+- Daniel Zeman, Charles University, Czech Republic.
