@@ -9,19 +9,6 @@ The ever increasing number of writings in historical and ancient languages avail
 
 Typically, historical and ancient languages lack large linguistic resources, such as annotated corpora, and data can be sparse and very inconsistent; texts present considerable orthographic variation, they can be transmitted by different witnesses and in different critical editions, they can be incomplete and scattered across a wide temporal and geographical span. This makes the selection of representative texts, and thus the development of benchmarks, very hard. Moreover, texts in machine-readable format are often the result of manuscript digitization processes during which OCR systems can cause errors degrading the quality of the documents. Another peculiarity is that most of the texts written in historical and ancient languages are literary, philosophical or documentary, therefore of a very different genre from that on which LTs are usually trained, i.e. news. This is strictly connected to the fact that the final users of LTs for historical and ancient languages are mostly humanists, such as philologists, who expect a high accuracy of results that allows a precise analysis of linguistic data.
 
-
-Relevant topics for the workshop include, but are not limited to: 
-- handling spelling variation; 
-- detection and correction of OCR errors; 
-- creation and annotation of digital resources; 
-- deciphering;
-- morphological/syntactic/semantic analysis of textual data;
-- adaptation of tools to address diachronic/diatopic/diastratic variation in texts; 
-- teaching ancient languages with NLP tools; 
-- NLP-driven theoretical studies in historical linguistics;
-- evaluation of NLP tools.
-
-
 The workshop will also be the venue of [EvaLatin](EvaLatin), the first evaluation campaign totally devoted to the evaluation of NLP tools for Latin.
 
 ## References
