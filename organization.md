@@ -8,8 +8,6 @@
 
 
 ## Programme Committee
-
-**Confirmed:**
 - Marcel Bollmann, University of Copenhagen; Denmark;
 - Gerlof Bouma, University of Gothenburg, Sweden;
 - Patrick Burns, University of Texas at Austin, USA;
