@@ -15,6 +15,10 @@ This **one-day workshop** seeks to bring together scholars, who are developing a
 
 The workshop will also be the venue of [EvaLatin](EvaLatin), the first evaluation campaign totally devoted to the evaluation of NLP tools for Latin.
 
+This workshop is organized in the context of the [*LiLa: Linking Latin*](https://lila-erc.eu/#page-top) ERC project, Grant Agreement No. 769994.
+
+![](LiLa.png)
+
 ## References
 - Bollmann, M., Dipper, S., Krasselt, J., & Petran, F. Manual and semi-automatic normalization of historical spelling-case studies from Early New High German. In KONVENS (pp. 342-350). 2012.
 - Burns, Patrick J. “Building a Text Analysis Pipeline for Classical Languages.” In Berti, M. (Ed.) Digital Classical Philology. Ancient Greek and Latin in the Digital Revolution. Berlin, Boston: De Gruyter Saur. 2019.     
