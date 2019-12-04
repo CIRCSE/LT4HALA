@@ -42,9 +42,9 @@ As for **EvaLatin**, participants will be required to submit a technical report 
 - 10 December 2019: training data available
 Evaluation Period:
 
-Evaluation Window I - Task: Lemmatization
-- 17 February 2010: test data available
-- 21 February 2020 system results due to organizers
+  - Evaluation Window I - Task: Lemmatization
+    - 17 February 2010: test data available
+    - 21 February 2020 system results due to organizers
 
 Evaluation Window II - Task: PoS tagging
 - 24 February 2020: test data available
