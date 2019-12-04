@@ -35,3 +35,10 @@
 - Sara Tonelli, Fondazione Bruno Kessler, Italy;
 - Amir Zeldes, Georgetown University, USA;
 - Daniel Zeman, Charles University, Czech Republic.
+
+## Contact
+rachele.sprugnoli[AT]unicatt.it
+
+Please, write "LT4HALA" or "EvaLatin" in the subject of your email.
+
+Follow @ERC_LiLa and the hashtag #LT4HALA on Twitter for updates.
