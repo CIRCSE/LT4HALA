@@ -7,6 +7,7 @@
 ![](LOGO.png)
 
 - [Introduction](#introduction)
+- [Important Dates](#important-dates)
 - [Data](#data)
   * [Training Data](#training-data)
   * [Test Data](#test-data)
@@ -21,6 +22,19 @@ The workshop will also be the venue of *EvaLatin*, the first evaluation campaign
 EvaLatin first edition will have 2 tasks (i.e. Lemmatization and PoS tagging) each with 3 sub-tasks (i.e. Classical, Cross-Genre, Cross-Time). Shared data in CoNLL-U format and an evaluation script will be provided to the participants who will choose to participate in either one or all tasks and subtasks. 
 
 We plan to have one oral session and one poster session to disseminate the results of EvaLatin.
+
+### Important Dates
+- 12 December 2019: training data available
+- Evaluation Window I - Task: Lemmatization
+  - 17 February 2010: test data available
+  - 21 February 2020 system results due to organizers
+- Evaluation Window II - Task: PoS tagging
+  - 24 February 2020: test data available
+  - 28 February 2020: system results due to organizers
+- 6 March 2020: assessment returned to participants
+- 27 March 2020: reports due to organizers
+- 10 April 2020: camera ready version of reports due to organizers
+- 12 May 2020: workshop
 
 ### Data
 Training data will be distributed in the [CoNLL-U format](https://universaldependencies.org/format.html). In our dataset ID, FORM, LEMMA and UPOS fields are annotated: all the other fields are filled in with underscores.
