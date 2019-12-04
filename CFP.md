@@ -45,9 +45,11 @@ Evaluation Period:
 Evaluation Window I - Task: Lemmatization
 - 17 February 2010: test data available
 - 21 February 2020 system results due to organizers
+
 Evaluation Window II - Task: PoS tagging
 - 24 February 2020: test data available
 - 28 February 2020: system results due to organizers
+
 - 6 March 2020: assessment returned to participants
 - 27 March 2020: reports due to organizers
 - 10 April 2020: camera ready version of reports due to organizers
