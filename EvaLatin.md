@@ -13,7 +13,7 @@
   * [Test Data](#test-data)
 - [How to participate](#how-to-participate)
 
-### Introduction
+### INTRODUCTION
 
 The workshop will also be the venue of *EvaLatin*, the first evaluation campaign totally devoted to the evaluation of NLP tools for Latin. The campaign is designed with the aim of answering two questions:
 - How can we promote the development of resources and language technologies for the Latin language?
@@ -23,7 +23,7 @@ EvaLatin first edition will have 2 tasks (i.e. Lemmatization and PoS tagging) ea
 
 We plan to have one oral session and one poster session to disseminate the results of EvaLatin.
 
-### Important Dates
+### IMPORTANT DATES
 - 10 December 2019: training data available
 - Evaluation Window I - Task: Lemmatization
   - 17 February 2010: test data available
@@ -36,7 +36,7 @@ We plan to have one oral session and one poster session to disseminate the resul
 - 10 April 2020: camera ready version of reports due to organizers
 - 12 May 2020: workshop
 
-### Data
+### DATA
 Training data will be distributed in the [CoNLL-U format](https://universaldependencies.org/format.html). In our dataset ID, FORM, LEMMA and UPOS fields are annotated: all the other fields are filled in with underscores.
 
 #### Training Data
@@ -56,7 +56,8 @@ Texts provided as training data are by 5 Classical authors: Caesar, Cicero, Sene
 Tokenisation is a central issue in evaluation and comparison because each system could apply different tokenisation rules leading to different outputs. In order to avoid this problem, test data will be provided in tokenised format, one token per line, and with a white line separating each sentence. Test data will contain only the tokenized words but not the correct tags, that have to be added by the participant systems to be submitted for the evaluation.
 The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation.
 
-### How to participate
+### HOW TO PARTICIPATE
 Participants will be required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
   
 The first run will be produced according to the *closed modality*: the only annotated data to be used for training and tuning the systems are those distributed by the organizers. Other non-annotated resources, e.g. word embeddings, are instead allowed. The second run will be produced according to the *open modality*: annotated external data, such as the Latin datasets of the Universal Dependecies initiative, can be also employed. All external resources are expected to be described in the systems' reports. The closed run is compulsory, while the open run is optional.
+
