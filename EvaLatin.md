@@ -24,7 +24,7 @@ EvaLatin first edition will have 2 tasks (i.e. Lemmatization and PoS tagging) ea
 We plan to have one oral session and one poster session to disseminate the results of EvaLatin.
 
 ### Important Dates
-- 12 December 2019: training data available
+- 10 December 2019: training data available
 - Evaluation Window I - Task: Lemmatization
   - 17 February 2010: test data available
   - 21 February 2020 system results due to organizers
