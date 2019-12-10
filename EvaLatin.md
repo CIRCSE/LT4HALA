@@ -18,21 +18,9 @@ ___
 
 ***
 
-Three or more...
-
----
-
-Hyphens
-
-***
-
-Asterisks
-
-___
-
 ### INTRODUCTION
 
-The workshop will also be the venue of *EvaLatin*, the first evaluation campaign totally devoted to the evaluation of NLP tools for Latin. The campaign is designed with the aim of answering two questions:
+The LT4HALA workshop will also be the venue of *EvaLatin*, the first evaluation campaign totally devoted to the evaluation of NLP tools for Latin. The campaign is designed with the aim of answering two questions:
 - How can we promote the development of resources and language technologies for the Latin language?
 - How can we foster collaboration among scholars working on Latin and attract researchers from different disciplines?
 
