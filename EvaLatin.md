@@ -13,6 +13,8 @@
   * [Test Data](#test-data)
 - [How to participate](#how-to-participate)
 
+Training data, scorer and detailed guidelines available [here](https://github.com/CIRCSE/LT4HALA/tree/master/data_and_doc).
+
 ### INTRODUCTION
 
 The workshop will also be the venue of *EvaLatin*, the first evaluation campaign totally devoted to the evaluation of NLP tools for Latin. The campaign is designed with the aim of answering two questions:
