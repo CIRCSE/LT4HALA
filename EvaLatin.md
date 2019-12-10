@@ -18,6 +18,18 @@ ___
 
 ***
 
+Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
 ### INTRODUCTION
 
 The workshop will also be the venue of *EvaLatin*, the first evaluation campaign totally devoted to the evaluation of NLP tools for Latin. The campaign is designed with the aim of answering two questions:
