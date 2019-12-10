@@ -13,7 +13,9 @@
   * [Test Data](#test-data)
 - [How to participate](#how-to-participate)
 
-Training data, scorer and detailed guidelines available [here](https://github.com/CIRCSE/LT4HALA/tree/master/data_and_doc).
+___
+10/12/2019 - Training data, scorer and detailed guidelines available [here](https://github.com/CIRCSE/LT4HALA/tree/master/data_and_doc).
+___
 
 ### INTRODUCTION
 
