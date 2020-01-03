@@ -6,6 +6,7 @@
 ## CALL FOR PAPERS
 
 - Website: [https://circse.github.io/LT4HALA/](https://circse.github.io/LT4HALA/)
+- Submission page: [https://www.softconf.com/lrec2020/LT4HALA](https://www.softconf.com/lrec2020/LT4HALA)
 - Date: May 12, 2020
 - Place: co-located with [LREC 2020](https://lrec2020.lrec-conf.org/), May 11-16, Marseille, France
 
