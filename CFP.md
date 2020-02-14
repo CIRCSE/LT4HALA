@@ -9,6 +9,7 @@
 - Submission page: [https://www.softconf.com/lrec2020/LT4HALA](https://www.softconf.com/lrec2020/LT4HALA)
 - Date: May 12, 2020
 - Place: co-located with [LREC 2020](https://lrec2020.lrec-conf.org/), May 11-16, Marseille, France
+- **NEW SUBMISSION DEADLINE: February 21, 2020**
 
 ### DESCRIPTION
 
@@ -42,12 +43,13 @@ As for [**EvaLatin**](EvaLatin), participants will be required to submit a techn
 
 ### IMPORTANT DATES
 **Workshop**
-- 17 February 2020: submissions due
+- ~~17 February 2020: submissions due~~ **NEW DEADLINE: 21 February 2020**
 - 10 March 2020: notifications to authors
 - 27 March 2020: camera-ready (PDF) due
 - 12 May 2020: workshop
 
-**EvaLatin**
+**EvaLatin** 
+**PLEASE NOTE THAT NO EXTENSION IS PLANNED FOR THE SHARED TASKS**
 - 10 December 2019: training data available
 - Evaluation Window I - Task: Lemmatization
   - 17 February 2020: test data available
