@@ -29,7 +29,6 @@
 - Sophie Prévost, Laboratoire Lattice, France;
 - Halim Sayoud, USTHB University;
 - Olga Scrivner, Indiana University, USA;
-- Neel Smith, College of the Holy Cross, USA;
 - Amir Zeldes, Georgetown University, USA;
 - Daniel Zeman, Charles University, Czech Republic.
 
