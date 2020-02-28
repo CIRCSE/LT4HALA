@@ -11,6 +11,7 @@
 - Marcel Bollmann, University of Copenhagen; Denmark;
 - Gerlof Bouma, University of Gothenburg, Sweden;
 - Patrick Burns, University of Texas at Austin, USA;
+- Flavio Massimiliano Cecchini, Università Cattolica del Sacro Cuore, Italy;
 - Oksana Dereza, Insight Centre for Data Analytics, Ireland;
 - Stefanie Dipper, Ruhr-Universität Bochum, Germany;
 - Hanne Eckoff, Oxford University, UK;
@@ -24,6 +25,7 @@
 - Beáta  Megyesi, Uppsala University, Sweden;
 - So Miyagawa, University of Göttingen; Germany;
 - Joakim Nivre, Uppsala University, Sweden;
+- Andrea Peverelli, Università Cattolica del Sacro Cuore, Italy;
 - Eva Pettersson, Uppsala University, Sweden;
 - Michael Piotrowski, University of Lausanne, Switzerland;
 - Sophie Prévost, Laboratoire Lattice, France;
