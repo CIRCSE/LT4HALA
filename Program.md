@@ -19,5 +19,13 @@
 - "Latin-Spanish Neural Machine Translation: from the Bible to Saint Augustine" -*Eva Martínez Garcia and Álvaro García Tejedor*
 - "Detecting Direct Speech in Multilingual Collection of 19th-century Novels" -*Joanna Byszuk, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa and Maciej Eder*
 
+## EvaLatin reports
+- "Overview of the EvaLatin 2020 Evaluation Campaign" - *Rachele Sprugnoli, Marco Passarotti, Flavio Massimiliano Cecchini and Matteo Pellegrini*
+- "Data-driven Choices in Neural Part-of-Speech Tagging for Latin" - *Geoff Bacon*
+- "JHUBC’s Submission to LT4HALA EvaLatin 2020" - *Winston Wu and Garrett Nicolai*
+- "A Gradient Boosting-Seq2Seq System for Latin POS Tagging and Lemmatization" - *Celano Giuseppe*
+- "UDPipe at EvaLatin 2020: Contextualized Embeddings and Treebank Embeddings" - *Milan Straka and Jana Straková*
+- "Voting for POS tagging of Latin texts: Using the flair of FLAIR to better Ensemble Classifiers by Example of Latin" - *Manuel Stoeckel, Alexander Henlein, Wahed Hemati and Alexander Mehler*
+
 Cities of affiliation of the authors.
 ![](mappa.PNG)
