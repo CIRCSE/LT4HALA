@@ -6,7 +6,11 @@
 # Workshop on Language Technologies for Historical and Ancient Languages (#LT4HALA)
 ## Co-located with [LREC 2020](https://lrec2020.lrec-conf.org/)
 ## Tuesday, May 12 2020 - Marseille, France
-### New submission deadline: February 21, 2020
+
+**Due to the COVID-19 pandemic, the workshop will not take place. However, the [proceedings are published online](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf).**
+
+Word-cloud of keywords extracted from the abstracts.
+![](KD.png)
 
 The ever increasing number of writings in historical and ancient languages available in digital form is leading to a growth of interest in the creation of tools for their automatic linguistic processing. However, these languages present a number of characteristics, which set them apart from modern languages, with a significant impact on language technologies. 
 
