@@ -1,6 +1,6 @@
 <p style="text-align: center;">--<a href="index">Home</a>--&nbsp;&nbsp;--<a href="CFP">CFP</a>--&nbsp;&nbsp;--<a href="EvaLatin">EvaLatin</a>--&nbsp;&nbsp;--<a href="Keynote">Keynote Speaker</a>--&nbsp;&nbsp;--Program--&nbsp;&nbsp;--<a href="organization">Organization</a>--</p>
 
-**Due to the COVID-19 pandemic, the workshop will not take place. However, the proceedings are published online: [https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf)
+**Due to the COVID-19 pandemic, the workshop will not take place. However, the proceedings are published online: [https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf)**
 
 Cities of affiliation of the authors.
 ![](mappa.png)
