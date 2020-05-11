@@ -9,7 +9,7 @@
 
 **Due to the COVID-19 pandemic, the workshop will not take place. However, the [proceedings are published online](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf).**
 
-Word-cloud of keywords extracted from the abstracts.
+Word-cloud of keywords extracted from the abstracts with [KD-Keyphrase digger](http://celct.fbk.eu:8080/KD_KeyDigger/).
 ![](KD.png)
 
 The ever increasing number of writings in historical and ancient languages available in digital form is leading to a growth of interest in the creation of tools for their automatic linguistic processing. However, these languages present a number of characteristics, which set them apart from modern languages, with a significant impact on language technologies. 
