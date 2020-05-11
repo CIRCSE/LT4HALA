@@ -2,9 +2,6 @@
 
 **Due to the COVID-19 pandemic, the workshop will not take place. However, the proceedings are published online: [https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf)**
 
-Cities of affiliation of the authors.
-![](mappa.PNG)
-
 ## Accepted Papers
 - "Dating and Stratifying a Historical Corpus with a Bayesian Mixture Model" -*Oliver Hellwig*
 - "Automatic Construction of Aramaic-Hebrew Translation Lexicon" -*Chaya Liebeskind and Shmuel Liebeskind*
@@ -22,3 +19,5 @@ Cities of affiliation of the authors.
 - "Latin-Spanish Neural Machine Translation: from the Bible to Saint Augustine" -*Eva Martínez Garcia and Álvaro García Tejedor*
 - "Detecting Direct Speech in Multilingual Collection of 19th-century Novels" -*Joanna Byszuk, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa and Maciej Eder*
 
+Cities of affiliation of the authors.
+![](mappa.PNG)
