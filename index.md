@@ -1,6 +1,6 @@
 ***
-
-<p style="text-align: center;">--<a href="2020">2020</a>--&nbsp;&nbsp;--<a href="2022">2022</a>--</p>
+<p style="text-align: center;"><b>EDITIONS</b></p>
+<p style="text-align: center;">--<a href="2020">LT4HALA 2020</a>--&nbsp;&nbsp;--<a href="2022">LT4HALA 2022</a>--</p>
 ***
 
 # Workshop on Language Technologies for Historical and Ancient Languages
