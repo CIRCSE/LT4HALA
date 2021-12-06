@@ -1,5 +1,5 @@
 ***
-
+<p style="text-align: center;"><b>LT4HALA 2022</b></p>
 <p style="text-align: center;">--Home--&nbsp;&nbsp;--<a href="CFP">CFP</a>--&nbsp;&nbsp;--<a href="EvaLatin">EvaLatin</a>--&nbsp;&nbsp;--<a href="Keynote">Keynote Speaker</a>--&nbsp;&nbsp;--<a href="Program">Program</a>--&nbsp;&nbsp;--<a href="organization">Organization</a>--</p>
 ***
 
