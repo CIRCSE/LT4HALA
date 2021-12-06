@@ -55,4 +55,7 @@ EvaHan 2022 is organized by Li Bin, Yiguo Yuan, Feng Minxuan,Chao Xu, Wang Dongb
 
 ### HOW TO PARTICIPATE
 
+***
+<p style="text-align: center;">Back to the <a href="https://circse.github.io/LT4HALA/"><b>Main Page</b></a></p>
+***
 
