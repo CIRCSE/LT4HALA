@@ -3,7 +3,7 @@
 <p style="text-align: center;">--Home--&nbsp;&nbsp;--<a href="CFP">CFP</a>--&nbsp;&nbsp;--<a href="EvaLatin">EvaLatin</a>--&nbsp;&nbsp;--<a href="Keynote">Keynote Speaker</a>--&nbsp;&nbsp;--<a href="Program">Program</a>--&nbsp;&nbsp;--<a href="organization">Organization</a>--</p>
 ***
 
-# Workshop on Language Technologies for Historical and Ancient Languages (#LT4HALA)
+# First Workshop on Language Technologies for Historical and Ancient Languages
 ## Co-located with [LREC 2020](https://lrec2020.lrec-conf.org/)
 ## Tuesday, May 12 2020 - Marseille, France
 
