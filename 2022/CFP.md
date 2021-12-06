@@ -1,19 +1,18 @@
 ***
-
+<p style="text-align: center;"><b>LT4HALA 2022</b></p>
 <p style="text-align: center;">--<a href="index">Home</a>--&nbsp;&nbsp;--CFP--&nbsp;&nbsp;--<a href="EvaLatin">EvaLatin</a>--&nbsp;&nbsp;--<a href="Keynote">Keynote Speaker</a>--&nbsp;&nbsp;--<a href="Program">Program</a>--&nbsp;&nbsp;--<a href="organization">Organization</a>--</p>
 ***
 
 ## CALL FOR PAPERS
 
-- Website: [https://circse.github.io/LT4HALA/](https://circse.github.io/LT4HALA/)
-- Submission page: [https://www.softconf.com/lrec2020/LT4HALA](https://www.softconf.com/lrec2020/LT4HALA)
-- Date: May 12, 2020
-- Place: co-located with [LREC 2020](https://lrec2020.lrec-conf.org/), May 11-16, Marseille, France
-- **NEW SUBMISSION DEADLINE: February 21, 2020**
+- Website: [https://circse.github.io/LT4HALA/2022](https://circse.github.io/LT4HALA/2022)
+- Submission page: [https://www.softconf.com/lrec2020/LT4HALA](https://www.softconf.com/lrec2022/LT4HALA)
+- Date: TBA
+- Place: co-located with [LREC 2022](https://lrec2022.lrec-conf.org/), June 20-25, Marseille, France
 
 ### DESCRIPTION
 
-LT4HALA is a **one-day workshop** that seeks to bring together scholars who are developing and/or are using Language Technologies (LTs) for historically attested languages, so to foster cross-fertilization between the Computational Linguistics community and the areas in the Humanities dealing with historical linguistic data, e.g. historians, philologists, linguists, archaeologists and literary scholars. Despite the current availability of large collections of digitized texts written in historical languages, such interdisciplinary collaboration is still hampered by the limited availability of annotated linguistic resources for most of the historical languages. Creating such resources is a challenge and an obligation for LTs, both to support historical linguistic research with the most updated technologies and to preserve those precious linguistic data that survived from past times.
+LT4HALA 2022 is a **one-day workshop** that seeks to bring together scholars who are developing and/or are using Language Technologies (LTs) for historically attested languages, so to foster cross-fertilization between the Computational Linguistics community and the areas in the Humanities dealing with historical linguistic data, e.g. historians, philologists, linguists, archaeologists and literary scholars. Despite the current availability of large collections of digitized texts written in historical languages, such interdisciplinary collaboration is still hampered by the limited availability of annotated linguistic resources for most of the historical languages. Creating such resources is a challenge and an obligation for LTs, both to support historical linguistic research with the most updated technologies and to preserve those precious linguistic data that survived from past times.
 
 Relevant topics for the workshop include, but are not limited to: 
 - handling spelling variation; 
@@ -42,25 +41,7 @@ The submission is NOT anonymous. The [LREC official format](https://lrec2020.lre
 As for [**EvaLatin**](EvaLatin), participants will be required to submit a technical report for each task (with all the related sub-tasks) they took part in. Technical reports will be included in the proceedings as short papers: the maximum length is 4 pages (excluding references) and they should follow the [LREC official format](https://lrec2020.lrec-conf.org/en/submission2020/authors-kit/). Reports will receive a light review (we will check for the correctness of the format, the exactness of results and ranking, and overall exposition). All participants will have the possibility to present their results at the workshop: we will allocate an oral session and a poster session fully devoted to the shared tasks in the afternoon.
 
 ### IMPORTANT DATES
-**Workshop**
-- ~~17 February 2020: submissions due~~ **NEW DEADLINE: 21 February 2020**
-- 10 March 2020: notifications to authors
-- 27 March 2020: camera-ready (PDF) due
-- 12 May 2020: workshop
-
-**EvaLatin** 
-**PLEASE NOTE THAT NO EXTENSION IS PLANNED FOR THE SHARED TASKS**
-- 10 December 2019: training data available
-- Evaluation Window I - Task: Lemmatization
-  - 17 February 2020: test data available
-  - 21 February 2020 system results due to organizers
-- Evaluation Window II - Task: PoS tagging
-  - 24 February 2020: test data available
-  - 28 February 2020: system results due to organizers
-- 6 March 2020: assessment returned to participants
-- 27 March 2020: reports due to organizers
-- 10 April 2020: camera ready version of reports due to organizers
-- 12 May 2020: workshop
+TBA
 
 ### SHARE YOUR LRs!
 Describing your LRs in the [LRE Map](http://lremap.elra.info/) is now a normal practice in the submission procedure of LREC (introduced in 2010 and adopted by other conferences). To continue the efforts initiated at LREC 2014 about “Sharing LRs” (data, tools, web-services, etc.), authors will have the possibility,  when submitting a paper, to upload LRs in a special LREC repository.  This effort of sharing LRs, linked to the LRE Map for their description, may become a new “regular” feature for conferences in our field, thus contributing to creating a common repository where everyone can deposit and share data.
