@@ -26,6 +26,4 @@ This workshop is organized in the context of the [*LiLa: Linking Latin*](https:/
 - Piotrowski, Michael. "Natural language processing for historical texts." Synthesis lectures on human language technologies 5.2 (2012): 1-157.
 - Sayoud, Halim, and Siham Ouamour. "Score Fusion Based Authorship Attribution of Ancient Arabic Texts." In The Thirtieth International Flairs Conference. 2017.
 
-***
-<p style="text-align: center;">Back to the <a href="https://circse.github.io/LT4HALA/"><b>Main Page</b></a></p>
-***
+
