@@ -1,0 +1,6404 @@
+# sent_id = 1
+# text = Germania omnis a Gallis Raetisque et Pannoniis Rheno et Danubio fluminibus a Sarmatis Dacisque mutuo metu aut montibus separatur cetera Oceanus ambit latos sinus et insularum immensa spatia complectens nuper cognitis quibusdam gentibus ac regibus quos bellum aperuit
+1	Germania	_	_	_	_	_	_	_	_
+2	omnis	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	Gallis	_	_	_	_	_	_	_	_
+5	Raetisque	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	Pannoniis	_	_	_	_	_	_	_	_
+8	Rheno	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	Danubio	_	_	_	_	_	_	_	_
+11	fluminibus	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	Sarmatis	_	_	_	_	_	_	_	_
+14	Dacisque	_	_	_	_	_	_	_	_
+15	mutuo	_	_	_	_	_	_	_	_
+16	metu	_	_	_	_	_	_	_	_
+17	aut	_	_	_	_	_	_	_	_
+18	montibus	_	_	_	_	_	_	_	_
+19	separatur	_	_	_	_	_	_	_	_
+20	cetera	_	_	_	_	_	_	_	_
+21	Oceanus	_	_	_	_	_	_	_	_
+22	ambit	_	_	_	_	_	_	_	_
+23	latos	_	_	_	_	_	_	_	_
+24	sinus	_	_	_	_	_	_	_	_
+25	et	_	_	_	_	_	_	_	_
+26	insularum	_	_	_	_	_	_	_	_
+27	immensa	_	_	_	_	_	_	_	_
+28	spatia	_	_	_	_	_	_	_	_
+29	complectens	_	_	_	_	_	_	_	_
+30	nuper	_	_	_	_	_	_	_	_
+31	cognitis	_	_	_	_	_	_	_	_
+32	quibusdam	_	_	_	_	_	_	_	_
+33	gentibus	_	_	_	_	_	_	_	_
+34	ac	_	_	_	_	_	_	_	_
+35	regibus	_	_	_	_	_	_	_	_
+36	quos	_	_	_	_	_	_	_	_
+37	bellum	_	_	_	_	_	_	_	_
+38	aperuit	_	_	_	_	_	_	_	_
+
+# sent_id = 2
+# text = Rhenus Raeticarum Alpium inaccesso ac praecipiti uertice ortus modico flexu in occidentem uersus septentrionali Oceano miscetur
+1	Rhenus	_	_	_	_	_	_	_	_
+2	Raeticarum	_	_	_	_	_	_	_	_
+3	Alpium	_	_	_	_	_	_	_	_
+4	inaccesso	_	_	_	_	_	_	_	_
+5	ac	_	_	_	_	_	_	_	_
+6	praecipiti	_	_	_	_	_	_	_	_
+7	uertice	_	_	_	_	_	_	_	_
+8	ortus	_	_	_	_	_	_	_	_
+9	modico	_	_	_	_	_	_	_	_
+10	flexu	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	occidentem	_	_	_	_	_	_	_	_
+13	uersus	_	_	_	_	_	_	_	_
+14	septentrionali	_	_	_	_	_	_	_	_
+15	Oceano	_	_	_	_	_	_	_	_
+16	miscetur	_	_	_	_	_	_	_	_
+
+# sent_id = 3
+# text = Danubius molli et clementer edito montis Abnobae iugo effusus plures populos adit donec in Ponticum mare sex meatibus erumpat septimum os paludibus hauritur
+1	Danubius	_	_	_	_	_	_	_	_
+2	molli	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	clementer	_	_	_	_	_	_	_	_
+5	edito	_	_	_	_	_	_	_	_
+6	montis	_	_	_	_	_	_	_	_
+7	Abnobae	_	_	_	_	_	_	_	_
+8	iugo	_	_	_	_	_	_	_	_
+9	effusus	_	_	_	_	_	_	_	_
+10	plures	_	_	_	_	_	_	_	_
+11	populos	_	_	_	_	_	_	_	_
+12	adit	_	_	_	_	_	_	_	_
+13	donec	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	Ponticum	_	_	_	_	_	_	_	_
+16	mare	_	_	_	_	_	_	_	_
+17	sex	_	_	_	_	_	_	_	_
+18	meatibus	_	_	_	_	_	_	_	_
+19	erumpat	_	_	_	_	_	_	_	_
+20	septimum	_	_	_	_	_	_	_	_
+21	os	_	_	_	_	_	_	_	_
+22	paludibus	_	_	_	_	_	_	_	_
+23	hauritur	_	_	_	_	_	_	_	_
+
+# sent_id = 4
+# text = Ipsos Germanos indigenas crediderim minimeque aliarum gentium aduentibus et hospitiis mixtos quia nec terra olim sed classibus aduehebantur qui mutare sedes quaerebant et immensus ultra utque sic dixerim aduersus Oceanus raris ab orbe nostro nauibus aditur
+1	Ipsos	_	_	_	_	_	_	_	_
+2	Germanos	_	_	_	_	_	_	_	_
+3	indigenas	_	_	_	_	_	_	_	_
+4	crediderim	_	_	_	_	_	_	_	_
+5	minimeque	_	_	_	_	_	_	_	_
+6	aliarum	_	_	_	_	_	_	_	_
+7	gentium	_	_	_	_	_	_	_	_
+8	aduentibus	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	hospitiis	_	_	_	_	_	_	_	_
+11	mixtos	_	_	_	_	_	_	_	_
+12	quia	_	_	_	_	_	_	_	_
+13	nec	_	_	_	_	_	_	_	_
+14	terra	_	_	_	_	_	_	_	_
+15	olim	_	_	_	_	_	_	_	_
+16	sed	_	_	_	_	_	_	_	_
+17	classibus	_	_	_	_	_	_	_	_
+18	aduehebantur	_	_	_	_	_	_	_	_
+19	qui	_	_	_	_	_	_	_	_
+20	mutare	_	_	_	_	_	_	_	_
+21	sedes	_	_	_	_	_	_	_	_
+22	quaerebant	_	_	_	_	_	_	_	_
+23	et	_	_	_	_	_	_	_	_
+24	immensus	_	_	_	_	_	_	_	_
+25	ultra	_	_	_	_	_	_	_	_
+26	utque	_	_	_	_	_	_	_	_
+27	sic	_	_	_	_	_	_	_	_
+28	dixerim	_	_	_	_	_	_	_	_
+29	aduersus	_	_	_	_	_	_	_	_
+30	Oceanus	_	_	_	_	_	_	_	_
+31	raris	_	_	_	_	_	_	_	_
+32	ab	_	_	_	_	_	_	_	_
+33	orbe	_	_	_	_	_	_	_	_
+34	nostro	_	_	_	_	_	_	_	_
+35	nauibus	_	_	_	_	_	_	_	_
+36	aditur	_	_	_	_	_	_	_	_
+
+# sent_id = 5
+# text = quis porro praeter periculum horridi et ignoti maris Asia aut Africa aut Italia relicta Germaniam peteret informem terris asperam caelo tristem cultu aspectuque nisi si patria sit
+1	quis	_	_	_	_	_	_	_	_
+2	porro	_	_	_	_	_	_	_	_
+3	praeter	_	_	_	_	_	_	_	_
+4	periculum	_	_	_	_	_	_	_	_
+5	horridi	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	ignoti	_	_	_	_	_	_	_	_
+8	maris	_	_	_	_	_	_	_	_
+9	Asia	_	_	_	_	_	_	_	_
+10	aut	_	_	_	_	_	_	_	_
+11	Africa	_	_	_	_	_	_	_	_
+12	aut	_	_	_	_	_	_	_	_
+13	Italia	_	_	_	_	_	_	_	_
+14	relicta	_	_	_	_	_	_	_	_
+15	Germaniam	_	_	_	_	_	_	_	_
+16	peteret	_	_	_	_	_	_	_	_
+17	informem	_	_	_	_	_	_	_	_
+18	terris	_	_	_	_	_	_	_	_
+19	asperam	_	_	_	_	_	_	_	_
+20	caelo	_	_	_	_	_	_	_	_
+21	tristem	_	_	_	_	_	_	_	_
+22	cultu	_	_	_	_	_	_	_	_
+23	aspectuque	_	_	_	_	_	_	_	_
+24	nisi	_	_	_	_	_	_	_	_
+25	si	_	_	_	_	_	_	_	_
+26	patria	_	_	_	_	_	_	_	_
+27	sit	_	_	_	_	_	_	_	_
+
+# sent_id = 6
+# text = Celebrant carminibus antiquis quod unum apud illos memoriae et annalium genus est Tuistonem deum terra editum
+1	Celebrant	_	_	_	_	_	_	_	_
+2	carminibus	_	_	_	_	_	_	_	_
+3	antiquis	_	_	_	_	_	_	_	_
+4	quod	_	_	_	_	_	_	_	_
+5	unum	_	_	_	_	_	_	_	_
+6	apud	_	_	_	_	_	_	_	_
+7	illos	_	_	_	_	_	_	_	_
+8	memoriae	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	annalium	_	_	_	_	_	_	_	_
+11	genus	_	_	_	_	_	_	_	_
+12	est	_	_	_	_	_	_	_	_
+13	Tuistonem	_	_	_	_	_	_	_	_
+14	deum	_	_	_	_	_	_	_	_
+15	terra	_	_	_	_	_	_	_	_
+16	editum	_	_	_	_	_	_	_	_
+
+# sent_id = 7
+# text = ei filium Mannum originem gentis conditoresque Manno tres filios adsignant e quorum nominibus proximi Oceano Ingaeuones medii Herminones ceteri Istaeuones uocentur
+1	ei	_	_	_	_	_	_	_	_
+2	filium	_	_	_	_	_	_	_	_
+3	Mannum	_	_	_	_	_	_	_	_
+4	originem	_	_	_	_	_	_	_	_
+5	gentis	_	_	_	_	_	_	_	_
+6	conditoresque	_	_	_	_	_	_	_	_
+7	Manno	_	_	_	_	_	_	_	_
+8	tres	_	_	_	_	_	_	_	_
+9	filios	_	_	_	_	_	_	_	_
+10	adsignant	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	quorum	_	_	_	_	_	_	_	_
+13	nominibus	_	_	_	_	_	_	_	_
+14	proximi	_	_	_	_	_	_	_	_
+15	Oceano	_	_	_	_	_	_	_	_
+16	Ingaeuones	_	_	_	_	_	_	_	_
+17	medii	_	_	_	_	_	_	_	_
+18	Herminones	_	_	_	_	_	_	_	_
+19	ceteri	_	_	_	_	_	_	_	_
+20	Istaeuones	_	_	_	_	_	_	_	_
+21	uocentur	_	_	_	_	_	_	_	_
+
+# sent_id = 8
+# text = quidam ut in licentia uetustatis plures deo ortos pluresque gentis appellationes Marsos Gambriuios Suebos Uandilios adfirmant eaque uera et antiqua nomina
+1	quidam	_	_	_	_	_	_	_	_
+2	ut	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	licentia	_	_	_	_	_	_	_	_
+5	uetustatis	_	_	_	_	_	_	_	_
+6	plures	_	_	_	_	_	_	_	_
+7	deo	_	_	_	_	_	_	_	_
+8	ortos	_	_	_	_	_	_	_	_
+9	pluresque	_	_	_	_	_	_	_	_
+10	gentis	_	_	_	_	_	_	_	_
+11	appellationes	_	_	_	_	_	_	_	_
+12	Marsos	_	_	_	_	_	_	_	_
+13	Gambriuios	_	_	_	_	_	_	_	_
+14	Suebos	_	_	_	_	_	_	_	_
+15	Uandilios	_	_	_	_	_	_	_	_
+16	adfirmant	_	_	_	_	_	_	_	_
+17	eaque	_	_	_	_	_	_	_	_
+18	uera	_	_	_	_	_	_	_	_
+19	et	_	_	_	_	_	_	_	_
+20	antiqua	_	_	_	_	_	_	_	_
+21	nomina	_	_	_	_	_	_	_	_
+
+# sent_id = 9
+# text = ceterum Germaniae uocabulum recens et nuper additum quoniam qui primi Rhenum transgressi Gallos expulerint ac nunc Tungri tunc Germani uocati sint ita nationis nomen non gentis eualuisse paulatim ut omnes primum a uictore ob metum mox et a se ipsis inuento nomine Germani uocarentur
+1	ceterum	_	_	_	_	_	_	_	_
+2	Germaniae	_	_	_	_	_	_	_	_
+3	uocabulum	_	_	_	_	_	_	_	_
+4	recens	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	nuper	_	_	_	_	_	_	_	_
+7	additum	_	_	_	_	_	_	_	_
+8	quoniam	_	_	_	_	_	_	_	_
+9	qui	_	_	_	_	_	_	_	_
+10	primi	_	_	_	_	_	_	_	_
+11	Rhenum	_	_	_	_	_	_	_	_
+12	transgressi	_	_	_	_	_	_	_	_
+13	Gallos	_	_	_	_	_	_	_	_
+14	expulerint	_	_	_	_	_	_	_	_
+15	ac	_	_	_	_	_	_	_	_
+16	nunc	_	_	_	_	_	_	_	_
+17	Tungri	_	_	_	_	_	_	_	_
+18	tunc	_	_	_	_	_	_	_	_
+19	Germani	_	_	_	_	_	_	_	_
+20	uocati	_	_	_	_	_	_	_	_
+21	sint	_	_	_	_	_	_	_	_
+22	ita	_	_	_	_	_	_	_	_
+23	nationis	_	_	_	_	_	_	_	_
+24	nomen	_	_	_	_	_	_	_	_
+25	non	_	_	_	_	_	_	_	_
+26	gentis	_	_	_	_	_	_	_	_
+27	eualuisse	_	_	_	_	_	_	_	_
+28	paulatim	_	_	_	_	_	_	_	_
+29	ut	_	_	_	_	_	_	_	_
+30	omnes	_	_	_	_	_	_	_	_
+31	primum	_	_	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	uictore	_	_	_	_	_	_	_	_
+34	ob	_	_	_	_	_	_	_	_
+35	metum	_	_	_	_	_	_	_	_
+36	mox	_	_	_	_	_	_	_	_
+37	et	_	_	_	_	_	_	_	_
+38	a	_	_	_	_	_	_	_	_
+39	se	_	_	_	_	_	_	_	_
+40	ipsis	_	_	_	_	_	_	_	_
+41	inuento	_	_	_	_	_	_	_	_
+42	nomine	_	_	_	_	_	_	_	_
+43	Germani	_	_	_	_	_	_	_	_
+44	uocarentur	_	_	_	_	_	_	_	_
+
+# sent_id = 10
+# text = Fuisse et apud eos Herculem memorant primumque omnium uirorum fortium ituri in proelia canunt
+1	Fuisse	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	apud	_	_	_	_	_	_	_	_
+4	eos	_	_	_	_	_	_	_	_
+5	Herculem	_	_	_	_	_	_	_	_
+6	memorant	_	_	_	_	_	_	_	_
+7	primumque	_	_	_	_	_	_	_	_
+8	omnium	_	_	_	_	_	_	_	_
+9	uirorum	_	_	_	_	_	_	_	_
+10	fortium	_	_	_	_	_	_	_	_
+11	ituri	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	proelia	_	_	_	_	_	_	_	_
+14	canunt	_	_	_	_	_	_	_	_
+
+# sent_id = 11
+# text = sunt illis haec quoque carmina quorum relatu quem baritum uocant accendunt animos futuraeque pugnae fortunam ipso cantu augurantur terrent enim trepidantue prout sonuit acies nec tam uocis illae quam uirtutis concentus uidetur
+1	sunt	_	_	_	_	_	_	_	_
+2	illis	_	_	_	_	_	_	_	_
+3	haec	_	_	_	_	_	_	_	_
+4	quoque	_	_	_	_	_	_	_	_
+5	carmina	_	_	_	_	_	_	_	_
+6	quorum	_	_	_	_	_	_	_	_
+7	relatu	_	_	_	_	_	_	_	_
+8	quem	_	_	_	_	_	_	_	_
+9	baritum	_	_	_	_	_	_	_	_
+10	uocant	_	_	_	_	_	_	_	_
+11	accendunt	_	_	_	_	_	_	_	_
+12	animos	_	_	_	_	_	_	_	_
+13	futuraeque	_	_	_	_	_	_	_	_
+14	pugnae	_	_	_	_	_	_	_	_
+15	fortunam	_	_	_	_	_	_	_	_
+16	ipso	_	_	_	_	_	_	_	_
+17	cantu	_	_	_	_	_	_	_	_
+18	augurantur	_	_	_	_	_	_	_	_
+19	terrent	_	_	_	_	_	_	_	_
+20	enim	_	_	_	_	_	_	_	_
+21	trepidantue	_	_	_	_	_	_	_	_
+22	prout	_	_	_	_	_	_	_	_
+23	sonuit	_	_	_	_	_	_	_	_
+24	acies	_	_	_	_	_	_	_	_
+25	nec	_	_	_	_	_	_	_	_
+26	tam	_	_	_	_	_	_	_	_
+27	uocis	_	_	_	_	_	_	_	_
+28	illae	_	_	_	_	_	_	_	_
+29	quam	_	_	_	_	_	_	_	_
+30	uirtutis	_	_	_	_	_	_	_	_
+31	concentus	_	_	_	_	_	_	_	_
+32	uidetur	_	_	_	_	_	_	_	_
+
+# sent_id = 12
+# text = adfectatur praecipue asperitas soni et fractum murmur obiectis ad os scutis quo plenior et grauior uox repercussu intumescat
+1	adfectatur	_	_	_	_	_	_	_	_
+2	praecipue	_	_	_	_	_	_	_	_
+3	asperitas	_	_	_	_	_	_	_	_
+4	soni	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	fractum	_	_	_	_	_	_	_	_
+7	murmur	_	_	_	_	_	_	_	_
+8	obiectis	_	_	_	_	_	_	_	_
+9	ad	_	_	_	_	_	_	_	_
+10	os	_	_	_	_	_	_	_	_
+11	scutis	_	_	_	_	_	_	_	_
+12	quo	_	_	_	_	_	_	_	_
+13	plenior	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	grauior	_	_	_	_	_	_	_	_
+16	uox	_	_	_	_	_	_	_	_
+17	repercussu	_	_	_	_	_	_	_	_
+18	intumescat	_	_	_	_	_	_	_	_
+
+# sent_id = 13
+# text = ceterum et Ulixen quidam opinantur longo illo et fabuloso errore in hunc Oceanum delatum adisse Germaniae terras Asciburgiumque quod in ripa Rheni situm hodieque incolitur ab illo constitutum nominatumque aram quin etiam Ulixi consecratam adiecto Laertae patris nomine eodem loco olim repertam monumentaque et tumulos quosdam Graecis litteris inscriptos in confinio Germaniae Raetiaeque adhuc extare
+1	ceterum	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	Ulixen	_	_	_	_	_	_	_	_
+4	quidam	_	_	_	_	_	_	_	_
+5	opinantur	_	_	_	_	_	_	_	_
+6	longo	_	_	_	_	_	_	_	_
+7	illo	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	fabuloso	_	_	_	_	_	_	_	_
+10	errore	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	hunc	_	_	_	_	_	_	_	_
+13	Oceanum	_	_	_	_	_	_	_	_
+14	delatum	_	_	_	_	_	_	_	_
+15	adisse	_	_	_	_	_	_	_	_
+16	Germaniae	_	_	_	_	_	_	_	_
+17	terras	_	_	_	_	_	_	_	_
+18	Asciburgiumque	_	_	_	_	_	_	_	_
+19	quod	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	ripa	_	_	_	_	_	_	_	_
+22	Rheni	_	_	_	_	_	_	_	_
+23	situm	_	_	_	_	_	_	_	_
+24	hodieque	_	_	_	_	_	_	_	_
+25	incolitur	_	_	_	_	_	_	_	_
+26	ab	_	_	_	_	_	_	_	_
+27	illo	_	_	_	_	_	_	_	_
+28	constitutum	_	_	_	_	_	_	_	_
+29	nominatumque	_	_	_	_	_	_	_	_
+30	aram	_	_	_	_	_	_	_	_
+31	quin	_	_	_	_	_	_	_	_
+32	etiam	_	_	_	_	_	_	_	_
+33	Ulixi	_	_	_	_	_	_	_	_
+34	consecratam	_	_	_	_	_	_	_	_
+35	adiecto	_	_	_	_	_	_	_	_
+36	Laertae	_	_	_	_	_	_	_	_
+37	patris	_	_	_	_	_	_	_	_
+38	nomine	_	_	_	_	_	_	_	_
+39	eodem	_	_	_	_	_	_	_	_
+40	loco	_	_	_	_	_	_	_	_
+41	olim	_	_	_	_	_	_	_	_
+42	repertam	_	_	_	_	_	_	_	_
+43	monumentaque	_	_	_	_	_	_	_	_
+44	et	_	_	_	_	_	_	_	_
+45	tumulos	_	_	_	_	_	_	_	_
+46	quosdam	_	_	_	_	_	_	_	_
+47	Graecis	_	_	_	_	_	_	_	_
+48	litteris	_	_	_	_	_	_	_	_
+49	inscriptos	_	_	_	_	_	_	_	_
+50	in	_	_	_	_	_	_	_	_
+51	confinio	_	_	_	_	_	_	_	_
+52	Germaniae	_	_	_	_	_	_	_	_
+53	Raetiaeque	_	_	_	_	_	_	_	_
+54	adhuc	_	_	_	_	_	_	_	_
+55	extare	_	_	_	_	_	_	_	_
+
+# sent_id = 14
+# text = quae neque confirmare argumentis neque refellere in animo est ex ingenio suo quisque demat uel addat fidem
+1	quae	_	_	_	_	_	_	_	_
+2	neque	_	_	_	_	_	_	_	_
+3	confirmare	_	_	_	_	_	_	_	_
+4	argumentis	_	_	_	_	_	_	_	_
+5	neque	_	_	_	_	_	_	_	_
+6	refellere	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	animo	_	_	_	_	_	_	_	_
+9	est	_	_	_	_	_	_	_	_
+10	ex	_	_	_	_	_	_	_	_
+11	ingenio	_	_	_	_	_	_	_	_
+12	suo	_	_	_	_	_	_	_	_
+13	quisque	_	_	_	_	_	_	_	_
+14	demat	_	_	_	_	_	_	_	_
+15	uel	_	_	_	_	_	_	_	_
+16	addat	_	_	_	_	_	_	_	_
+17	fidem	_	_	_	_	_	_	_	_
+
+# sent_id = 15
+# text = Ipse eorum opinionibus accedo qui Germaniae populos nullis aliarum nationum conubiis infectos propriam et sinceram et tantum sui similem gentem extitisse arbitrantur
+1	Ipse	_	_	_	_	_	_	_	_
+2	eorum	_	_	_	_	_	_	_	_
+3	opinionibus	_	_	_	_	_	_	_	_
+4	accedo	_	_	_	_	_	_	_	_
+5	qui	_	_	_	_	_	_	_	_
+6	Germaniae	_	_	_	_	_	_	_	_
+7	populos	_	_	_	_	_	_	_	_
+8	nullis	_	_	_	_	_	_	_	_
+9	aliarum	_	_	_	_	_	_	_	_
+10	nationum	_	_	_	_	_	_	_	_
+11	conubiis	_	_	_	_	_	_	_	_
+12	infectos	_	_	_	_	_	_	_	_
+13	propriam	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	sinceram	_	_	_	_	_	_	_	_
+16	et	_	_	_	_	_	_	_	_
+17	tantum	_	_	_	_	_	_	_	_
+18	sui	_	_	_	_	_	_	_	_
+19	similem	_	_	_	_	_	_	_	_
+20	gentem	_	_	_	_	_	_	_	_
+21	extitisse	_	_	_	_	_	_	_	_
+22	arbitrantur	_	_	_	_	_	_	_	_
+
+# sent_id = 16
+# text = unde habitus quoque corporum tamquam in tanto hominum numero idem omnibus truces et caerulei oculi rutilae comae magna corpora et tantum ad impetum ualida
+1	unde	_	_	_	_	_	_	_	_
+2	habitus	_	_	_	_	_	_	_	_
+3	quoque	_	_	_	_	_	_	_	_
+4	corporum	_	_	_	_	_	_	_	_
+5	tamquam	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	tanto	_	_	_	_	_	_	_	_
+8	hominum	_	_	_	_	_	_	_	_
+9	numero	_	_	_	_	_	_	_	_
+10	idem	_	_	_	_	_	_	_	_
+11	omnibus	_	_	_	_	_	_	_	_
+12	truces	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	caerulei	_	_	_	_	_	_	_	_
+15	oculi	_	_	_	_	_	_	_	_
+16	rutilae	_	_	_	_	_	_	_	_
+17	comae	_	_	_	_	_	_	_	_
+18	magna	_	_	_	_	_	_	_	_
+19	corpora	_	_	_	_	_	_	_	_
+20	et	_	_	_	_	_	_	_	_
+21	tantum	_	_	_	_	_	_	_	_
+22	ad	_	_	_	_	_	_	_	_
+23	impetum	_	_	_	_	_	_	_	_
+24	ualida	_	_	_	_	_	_	_	_
+
+# sent_id = 17
+# text = laboris atque operum non eadem patientia minimeque sitim aestumque tolerare frigora atque inediam caelo soloue adsueuerunt
+1	laboris	_	_	_	_	_	_	_	_
+2	atque	_	_	_	_	_	_	_	_
+3	operum	_	_	_	_	_	_	_	_
+4	non	_	_	_	_	_	_	_	_
+5	eadem	_	_	_	_	_	_	_	_
+6	patientia	_	_	_	_	_	_	_	_
+7	minimeque	_	_	_	_	_	_	_	_
+8	sitim	_	_	_	_	_	_	_	_
+9	aestumque	_	_	_	_	_	_	_	_
+10	tolerare	_	_	_	_	_	_	_	_
+11	frigora	_	_	_	_	_	_	_	_
+12	atque	_	_	_	_	_	_	_	_
+13	inediam	_	_	_	_	_	_	_	_
+14	caelo	_	_	_	_	_	_	_	_
+15	soloue	_	_	_	_	_	_	_	_
+16	adsueuerunt	_	_	_	_	_	_	_	_
+
+# sent_id = 18
+# text = Terra etsi aliquanto specie differt in uniuersum tamen aut siluis horrida aut paludibus foeda humidior qua Gallias uentosior qua Noricum ac Pannoniam aspicit satis ferax frugiferarum arborum impatiens pecorum fecunda sed plerumque improcera
+1	Terra	_	_	_	_	_	_	_	_
+2	etsi	_	_	_	_	_	_	_	_
+3	aliquanto	_	_	_	_	_	_	_	_
+4	specie	_	_	_	_	_	_	_	_
+5	differt	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	uniuersum	_	_	_	_	_	_	_	_
+8	tamen	_	_	_	_	_	_	_	_
+9	aut	_	_	_	_	_	_	_	_
+10	siluis	_	_	_	_	_	_	_	_
+11	horrida	_	_	_	_	_	_	_	_
+12	aut	_	_	_	_	_	_	_	_
+13	paludibus	_	_	_	_	_	_	_	_
+14	foeda	_	_	_	_	_	_	_	_
+15	humidior	_	_	_	_	_	_	_	_
+16	qua	_	_	_	_	_	_	_	_
+17	Gallias	_	_	_	_	_	_	_	_
+18	uentosior	_	_	_	_	_	_	_	_
+19	qua	_	_	_	_	_	_	_	_
+20	Noricum	_	_	_	_	_	_	_	_
+21	ac	_	_	_	_	_	_	_	_
+22	Pannoniam	_	_	_	_	_	_	_	_
+23	aspicit	_	_	_	_	_	_	_	_
+24	satis	_	_	_	_	_	_	_	_
+25	ferax	_	_	_	_	_	_	_	_
+26	frugiferarum	_	_	_	_	_	_	_	_
+27	arborum	_	_	_	_	_	_	_	_
+28	impatiens	_	_	_	_	_	_	_	_
+29	pecorum	_	_	_	_	_	_	_	_
+30	fecunda	_	_	_	_	_	_	_	_
+31	sed	_	_	_	_	_	_	_	_
+32	plerumque	_	_	_	_	_	_	_	_
+33	improcera	_	_	_	_	_	_	_	_
+
+# sent_id = 19
+# text = ne armentis quidem suus honor aut gloria frontis numero gaudent eaeque solae et gratissimae opes sunt
+1	ne	_	_	_	_	_	_	_	_
+2	armentis	_	_	_	_	_	_	_	_
+3	quidem	_	_	_	_	_	_	_	_
+4	suus	_	_	_	_	_	_	_	_
+5	honor	_	_	_	_	_	_	_	_
+6	aut	_	_	_	_	_	_	_	_
+7	gloria	_	_	_	_	_	_	_	_
+8	frontis	_	_	_	_	_	_	_	_
+9	numero	_	_	_	_	_	_	_	_
+10	gaudent	_	_	_	_	_	_	_	_
+11	eaeque	_	_	_	_	_	_	_	_
+12	solae	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	gratissimae	_	_	_	_	_	_	_	_
+15	opes	_	_	_	_	_	_	_	_
+16	sunt	_	_	_	_	_	_	_	_
+
+# sent_id = 20
+# text = argentum et aurum propitiine an irati dii negauerint dubito
+1	argentum	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	aurum	_	_	_	_	_	_	_	_
+4	propitiine	_	_	_	_	_	_	_	_
+5	an	_	_	_	_	_	_	_	_
+6	irati	_	_	_	_	_	_	_	_
+7	dii	_	_	_	_	_	_	_	_
+8	negauerint	_	_	_	_	_	_	_	_
+9	dubito	_	_	_	_	_	_	_	_
+
+# sent_id = 21
+# text = nec tamen adfirmauerim nullam Germaniae uenam argentum aurumue gignere quis enim scrutatus est
+1	nec	_	_	_	_	_	_	_	_
+2	tamen	_	_	_	_	_	_	_	_
+3	adfirmauerim	_	_	_	_	_	_	_	_
+4	nullam	_	_	_	_	_	_	_	_
+5	Germaniae	_	_	_	_	_	_	_	_
+6	uenam	_	_	_	_	_	_	_	_
+7	argentum	_	_	_	_	_	_	_	_
+8	aurumue	_	_	_	_	_	_	_	_
+9	gignere	_	_	_	_	_	_	_	_
+10	quis	_	_	_	_	_	_	_	_
+11	enim	_	_	_	_	_	_	_	_
+12	scrutatus	_	_	_	_	_	_	_	_
+13	est	_	_	_	_	_	_	_	_
+
+# sent_id = 22
+# text = possessione et usu haud perinde adficiuntur est uidere apud illos argentea uasa legatis et principibus eorum muneri data non in alia uilitate quam quae humo finguntur
+1	possessione	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	usu	_	_	_	_	_	_	_	_
+4	haud	_	_	_	_	_	_	_	_
+5	perinde	_	_	_	_	_	_	_	_
+6	adficiuntur	_	_	_	_	_	_	_	_
+7	est	_	_	_	_	_	_	_	_
+8	uidere	_	_	_	_	_	_	_	_
+9	apud	_	_	_	_	_	_	_	_
+10	illos	_	_	_	_	_	_	_	_
+11	argentea	_	_	_	_	_	_	_	_
+12	uasa	_	_	_	_	_	_	_	_
+13	legatis	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	principibus	_	_	_	_	_	_	_	_
+16	eorum	_	_	_	_	_	_	_	_
+17	muneri	_	_	_	_	_	_	_	_
+18	data	_	_	_	_	_	_	_	_
+19	non	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	alia	_	_	_	_	_	_	_	_
+22	uilitate	_	_	_	_	_	_	_	_
+23	quam	_	_	_	_	_	_	_	_
+24	quae	_	_	_	_	_	_	_	_
+25	humo	_	_	_	_	_	_	_	_
+26	finguntur	_	_	_	_	_	_	_	_
+
+# sent_id = 23
+# text = quamquam proximi ob usum commerciorum aurum et argentum in pretio habent formasque quasdam nostrae pecuniae agnoscunt atque eligunt interiores simplicius et antiquius permutatione mercium utuntur
+1	quamquam	_	_	_	_	_	_	_	_
+2	proximi	_	_	_	_	_	_	_	_
+3	ob	_	_	_	_	_	_	_	_
+4	usum	_	_	_	_	_	_	_	_
+5	commerciorum	_	_	_	_	_	_	_	_
+6	aurum	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	argentum	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	pretio	_	_	_	_	_	_	_	_
+11	habent	_	_	_	_	_	_	_	_
+12	formasque	_	_	_	_	_	_	_	_
+13	quasdam	_	_	_	_	_	_	_	_
+14	nostrae	_	_	_	_	_	_	_	_
+15	pecuniae	_	_	_	_	_	_	_	_
+16	agnoscunt	_	_	_	_	_	_	_	_
+17	atque	_	_	_	_	_	_	_	_
+18	eligunt	_	_	_	_	_	_	_	_
+19	interiores	_	_	_	_	_	_	_	_
+20	simplicius	_	_	_	_	_	_	_	_
+21	et	_	_	_	_	_	_	_	_
+22	antiquius	_	_	_	_	_	_	_	_
+23	permutatione	_	_	_	_	_	_	_	_
+24	mercium	_	_	_	_	_	_	_	_
+25	utuntur	_	_	_	_	_	_	_	_
+
+# sent_id = 24
+# text = pecuniam probant ueterem et diu notam serratos bigatosque
+1	pecuniam	_	_	_	_	_	_	_	_
+2	probant	_	_	_	_	_	_	_	_
+3	ueterem	_	_	_	_	_	_	_	_
+4	et	_	_	_	_	_	_	_	_
+5	diu	_	_	_	_	_	_	_	_
+6	notam	_	_	_	_	_	_	_	_
+7	serratos	_	_	_	_	_	_	_	_
+8	bigatosque	_	_	_	_	_	_	_	_
+
+# sent_id = 25
+# text = argentum quoque magis quam aurum sequuntur nulla adfectione animi sed quia numerus argenteorum facilior usui est promisca ac uilia mercantibus
+1	argentum	_	_	_	_	_	_	_	_
+2	quoque	_	_	_	_	_	_	_	_
+3	magis	_	_	_	_	_	_	_	_
+4	quam	_	_	_	_	_	_	_	_
+5	aurum	_	_	_	_	_	_	_	_
+6	sequuntur	_	_	_	_	_	_	_	_
+7	nulla	_	_	_	_	_	_	_	_
+8	adfectione	_	_	_	_	_	_	_	_
+9	animi	_	_	_	_	_	_	_	_
+10	sed	_	_	_	_	_	_	_	_
+11	quia	_	_	_	_	_	_	_	_
+12	numerus	_	_	_	_	_	_	_	_
+13	argenteorum	_	_	_	_	_	_	_	_
+14	facilior	_	_	_	_	_	_	_	_
+15	usui	_	_	_	_	_	_	_	_
+16	est	_	_	_	_	_	_	_	_
+17	promisca	_	_	_	_	_	_	_	_
+18	ac	_	_	_	_	_	_	_	_
+19	uilia	_	_	_	_	_	_	_	_
+20	mercantibus	_	_	_	_	_	_	_	_
+
+# sent_id = 26
+# text = Ne ferrum quidem superest sicut ex genere telorum colligitur
+1	Ne	_	_	_	_	_	_	_	_
+2	ferrum	_	_	_	_	_	_	_	_
+3	quidem	_	_	_	_	_	_	_	_
+4	superest	_	_	_	_	_	_	_	_
+5	sicut	_	_	_	_	_	_	_	_
+6	ex	_	_	_	_	_	_	_	_
+7	genere	_	_	_	_	_	_	_	_
+8	telorum	_	_	_	_	_	_	_	_
+9	colligitur	_	_	_	_	_	_	_	_
+
+# sent_id = 27
+# text = rari gladiis aut maioribus lanceis utuntur hastas uel ipsorum uocabulo frameas gerunt angusto et breui ferro sed ita acri et ad usum habili ut eodem telo prout ratio poscit uel comminus uel eminus pugnent
+1	rari	_	_	_	_	_	_	_	_
+2	gladiis	_	_	_	_	_	_	_	_
+3	aut	_	_	_	_	_	_	_	_
+4	maioribus	_	_	_	_	_	_	_	_
+5	lanceis	_	_	_	_	_	_	_	_
+6	utuntur	_	_	_	_	_	_	_	_
+7	hastas	_	_	_	_	_	_	_	_
+8	uel	_	_	_	_	_	_	_	_
+9	ipsorum	_	_	_	_	_	_	_	_
+10	uocabulo	_	_	_	_	_	_	_	_
+11	frameas	_	_	_	_	_	_	_	_
+12	gerunt	_	_	_	_	_	_	_	_
+13	angusto	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	breui	_	_	_	_	_	_	_	_
+16	ferro	_	_	_	_	_	_	_	_
+17	sed	_	_	_	_	_	_	_	_
+18	ita	_	_	_	_	_	_	_	_
+19	acri	_	_	_	_	_	_	_	_
+20	et	_	_	_	_	_	_	_	_
+21	ad	_	_	_	_	_	_	_	_
+22	usum	_	_	_	_	_	_	_	_
+23	habili	_	_	_	_	_	_	_	_
+24	ut	_	_	_	_	_	_	_	_
+25	eodem	_	_	_	_	_	_	_	_
+26	telo	_	_	_	_	_	_	_	_
+27	prout	_	_	_	_	_	_	_	_
+28	ratio	_	_	_	_	_	_	_	_
+29	poscit	_	_	_	_	_	_	_	_
+30	uel	_	_	_	_	_	_	_	_
+31	comminus	_	_	_	_	_	_	_	_
+32	uel	_	_	_	_	_	_	_	_
+33	eminus	_	_	_	_	_	_	_	_
+34	pugnent	_	_	_	_	_	_	_	_
+
+# sent_id = 28
+# text = et eques quidem scuto frameaque contentus est pedites et missilia spargunt pluraque singuli atque in immensum uibrant nudi aut sagulo leues
+1	et	_	_	_	_	_	_	_	_
+2	eques	_	_	_	_	_	_	_	_
+3	quidem	_	_	_	_	_	_	_	_
+4	scuto	_	_	_	_	_	_	_	_
+5	frameaque	_	_	_	_	_	_	_	_
+6	contentus	_	_	_	_	_	_	_	_
+7	est	_	_	_	_	_	_	_	_
+8	pedites	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	missilia	_	_	_	_	_	_	_	_
+11	spargunt	_	_	_	_	_	_	_	_
+12	pluraque	_	_	_	_	_	_	_	_
+13	singuli	_	_	_	_	_	_	_	_
+14	atque	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	immensum	_	_	_	_	_	_	_	_
+17	uibrant	_	_	_	_	_	_	_	_
+18	nudi	_	_	_	_	_	_	_	_
+19	aut	_	_	_	_	_	_	_	_
+20	sagulo	_	_	_	_	_	_	_	_
+21	leues	_	_	_	_	_	_	_	_
+
+# sent_id = 29
+# text = nulla cultus iactatio scuta tantum lectissimis coloribus distinguunt
+1	nulla	_	_	_	_	_	_	_	_
+2	cultus	_	_	_	_	_	_	_	_
+3	iactatio	_	_	_	_	_	_	_	_
+4	scuta	_	_	_	_	_	_	_	_
+5	tantum	_	_	_	_	_	_	_	_
+6	lectissimis	_	_	_	_	_	_	_	_
+7	coloribus	_	_	_	_	_	_	_	_
+8	distinguunt	_	_	_	_	_	_	_	_
+
+# sent_id = 30
+# text = paucis loricae uix uni alteriue cassis aut galea
+1	paucis	_	_	_	_	_	_	_	_
+2	loricae	_	_	_	_	_	_	_	_
+3	uix	_	_	_	_	_	_	_	_
+4	uni	_	_	_	_	_	_	_	_
+5	alteriue	_	_	_	_	_	_	_	_
+6	cassis	_	_	_	_	_	_	_	_
+7	aut	_	_	_	_	_	_	_	_
+8	galea	_	_	_	_	_	_	_	_
+
+# sent_id = 31
+# text = equi non forma non uelocitate conspicui
+1	equi	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+3	forma	_	_	_	_	_	_	_	_
+4	non	_	_	_	_	_	_	_	_
+5	uelocitate	_	_	_	_	_	_	_	_
+6	conspicui	_	_	_	_	_	_	_	_
+
+# sent_id = 32
+# text = sed nec uariare gyros in morem nostrum docentur in rectum aut uno flexu dextros agunt ita coniuncto orbe ut nemo posterior sit
+1	sed	_	_	_	_	_	_	_	_
+2	nec	_	_	_	_	_	_	_	_
+3	uariare	_	_	_	_	_	_	_	_
+4	gyros	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	morem	_	_	_	_	_	_	_	_
+7	nostrum	_	_	_	_	_	_	_	_
+8	docentur	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	rectum	_	_	_	_	_	_	_	_
+11	aut	_	_	_	_	_	_	_	_
+12	uno	_	_	_	_	_	_	_	_
+13	flexu	_	_	_	_	_	_	_	_
+14	dextros	_	_	_	_	_	_	_	_
+15	agunt	_	_	_	_	_	_	_	_
+16	ita	_	_	_	_	_	_	_	_
+17	coniuncto	_	_	_	_	_	_	_	_
+18	orbe	_	_	_	_	_	_	_	_
+19	ut	_	_	_	_	_	_	_	_
+20	nemo	_	_	_	_	_	_	_	_
+21	posterior	_	_	_	_	_	_	_	_
+22	sit	_	_	_	_	_	_	_	_
+
+# sent_id = 33
+# text = in uniuersum aestimanti plus penes peditem roboris eoque mixti proeliantur apta et congruente ad equestrem pugnam uelocitate peditum quos ex omni iuuentute delectos ante aciem locant
+1	in	_	_	_	_	_	_	_	_
+2	uniuersum	_	_	_	_	_	_	_	_
+3	aestimanti	_	_	_	_	_	_	_	_
+4	plus	_	_	_	_	_	_	_	_
+5	penes	_	_	_	_	_	_	_	_
+6	peditem	_	_	_	_	_	_	_	_
+7	roboris	_	_	_	_	_	_	_	_
+8	eoque	_	_	_	_	_	_	_	_
+9	mixti	_	_	_	_	_	_	_	_
+10	proeliantur	_	_	_	_	_	_	_	_
+11	apta	_	_	_	_	_	_	_	_
+12	et	_	_	_	_	_	_	_	_
+13	congruente	_	_	_	_	_	_	_	_
+14	ad	_	_	_	_	_	_	_	_
+15	equestrem	_	_	_	_	_	_	_	_
+16	pugnam	_	_	_	_	_	_	_	_
+17	uelocitate	_	_	_	_	_	_	_	_
+18	peditum	_	_	_	_	_	_	_	_
+19	quos	_	_	_	_	_	_	_	_
+20	ex	_	_	_	_	_	_	_	_
+21	omni	_	_	_	_	_	_	_	_
+22	iuuentute	_	_	_	_	_	_	_	_
+23	delectos	_	_	_	_	_	_	_	_
+24	ante	_	_	_	_	_	_	_	_
+25	aciem	_	_	_	_	_	_	_	_
+26	locant	_	_	_	_	_	_	_	_
+
+# sent_id = 34
+# text = definitur et numerus centeni ex singulis pagis sunt idque ipsum inter suos uocantur et quod primo numerus fuit iam nomen et honor est
+1	definitur	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	numerus	_	_	_	_	_	_	_	_
+4	centeni	_	_	_	_	_	_	_	_
+5	ex	_	_	_	_	_	_	_	_
+6	singulis	_	_	_	_	_	_	_	_
+7	pagis	_	_	_	_	_	_	_	_
+8	sunt	_	_	_	_	_	_	_	_
+9	idque	_	_	_	_	_	_	_	_
+10	ipsum	_	_	_	_	_	_	_	_
+11	inter	_	_	_	_	_	_	_	_
+12	suos	_	_	_	_	_	_	_	_
+13	uocantur	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	quod	_	_	_	_	_	_	_	_
+16	primo	_	_	_	_	_	_	_	_
+17	numerus	_	_	_	_	_	_	_	_
+18	fuit	_	_	_	_	_	_	_	_
+19	iam	_	_	_	_	_	_	_	_
+20	nomen	_	_	_	_	_	_	_	_
+21	et	_	_	_	_	_	_	_	_
+22	honor	_	_	_	_	_	_	_	_
+23	est	_	_	_	_	_	_	_	_
+
+# sent_id = 35
+# text = acies per cuneos componitur
+1	acies	_	_	_	_	_	_	_	_
+2	per	_	_	_	_	_	_	_	_
+3	cuneos	_	_	_	_	_	_	_	_
+4	componitur	_	_	_	_	_	_	_	_
+
+# sent_id = 36
+# text = cedere loco dummodo rursus instes consilii quam formidinis arbitrantur
+1	cedere	_	_	_	_	_	_	_	_
+2	loco	_	_	_	_	_	_	_	_
+3	dummodo	_	_	_	_	_	_	_	_
+4	rursus	_	_	_	_	_	_	_	_
+5	instes	_	_	_	_	_	_	_	_
+6	consilii	_	_	_	_	_	_	_	_
+7	quam	_	_	_	_	_	_	_	_
+8	formidinis	_	_	_	_	_	_	_	_
+9	arbitrantur	_	_	_	_	_	_	_	_
+
+# sent_id = 37
+# text = corpora suorum etiam in dubiis proeliis referunt
+1	corpora	_	_	_	_	_	_	_	_
+2	suorum	_	_	_	_	_	_	_	_
+3	etiam	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	dubiis	_	_	_	_	_	_	_	_
+6	proeliis	_	_	_	_	_	_	_	_
+7	referunt	_	_	_	_	_	_	_	_
+
+# sent_id = 38
+# text = scutum reliquisse praecipuum flagitium nec aut sacris adesse aut concilium inire ignominioso fas multique superstites bellorum infamiam laqueo finierunt
+1	scutum	_	_	_	_	_	_	_	_
+2	reliquisse	_	_	_	_	_	_	_	_
+3	praecipuum	_	_	_	_	_	_	_	_
+4	flagitium	_	_	_	_	_	_	_	_
+5	nec	_	_	_	_	_	_	_	_
+6	aut	_	_	_	_	_	_	_	_
+7	sacris	_	_	_	_	_	_	_	_
+8	adesse	_	_	_	_	_	_	_	_
+9	aut	_	_	_	_	_	_	_	_
+10	concilium	_	_	_	_	_	_	_	_
+11	inire	_	_	_	_	_	_	_	_
+12	ignominioso	_	_	_	_	_	_	_	_
+13	fas	_	_	_	_	_	_	_	_
+14	multique	_	_	_	_	_	_	_	_
+15	superstites	_	_	_	_	_	_	_	_
+16	bellorum	_	_	_	_	_	_	_	_
+17	infamiam	_	_	_	_	_	_	_	_
+18	laqueo	_	_	_	_	_	_	_	_
+19	finierunt	_	_	_	_	_	_	_	_
+
+# sent_id = 39
+# text = Reges ex nobilitate duces ex uirtute sumunt
+1	Reges	_	_	_	_	_	_	_	_
+2	ex	_	_	_	_	_	_	_	_
+3	nobilitate	_	_	_	_	_	_	_	_
+4	duces	_	_	_	_	_	_	_	_
+5	ex	_	_	_	_	_	_	_	_
+6	uirtute	_	_	_	_	_	_	_	_
+7	sumunt	_	_	_	_	_	_	_	_
+
+# sent_id = 40
+# text = nec regibus infinita ac libera potestas et duces exemplo potius quam imperio si prompti si conspicui si ante aciem agant admiratione praesunt
+1	nec	_	_	_	_	_	_	_	_
+2	regibus	_	_	_	_	_	_	_	_
+3	infinita	_	_	_	_	_	_	_	_
+4	ac	_	_	_	_	_	_	_	_
+5	libera	_	_	_	_	_	_	_	_
+6	potestas	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	duces	_	_	_	_	_	_	_	_
+9	exemplo	_	_	_	_	_	_	_	_
+10	potius	_	_	_	_	_	_	_	_
+11	quam	_	_	_	_	_	_	_	_
+12	imperio	_	_	_	_	_	_	_	_
+13	si	_	_	_	_	_	_	_	_
+14	prompti	_	_	_	_	_	_	_	_
+15	si	_	_	_	_	_	_	_	_
+16	conspicui	_	_	_	_	_	_	_	_
+17	si	_	_	_	_	_	_	_	_
+18	ante	_	_	_	_	_	_	_	_
+19	aciem	_	_	_	_	_	_	_	_
+20	agant	_	_	_	_	_	_	_	_
+21	admiratione	_	_	_	_	_	_	_	_
+22	praesunt	_	_	_	_	_	_	_	_
+
+# sent_id = 41
+# text = ceterum neque animaduertere neque uincire ne uerberare quidem nisi sacerdotibus permissum non quasi in poenam nec ducis iussu sed uelut deo imperante quem adesse bellantibus credunt
+1	ceterum	_	_	_	_	_	_	_	_
+2	neque	_	_	_	_	_	_	_	_
+3	animaduertere	_	_	_	_	_	_	_	_
+4	neque	_	_	_	_	_	_	_	_
+5	uincire	_	_	_	_	_	_	_	_
+6	ne	_	_	_	_	_	_	_	_
+7	uerberare	_	_	_	_	_	_	_	_
+8	quidem	_	_	_	_	_	_	_	_
+9	nisi	_	_	_	_	_	_	_	_
+10	sacerdotibus	_	_	_	_	_	_	_	_
+11	permissum	_	_	_	_	_	_	_	_
+12	non	_	_	_	_	_	_	_	_
+13	quasi	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	poenam	_	_	_	_	_	_	_	_
+16	nec	_	_	_	_	_	_	_	_
+17	ducis	_	_	_	_	_	_	_	_
+18	iussu	_	_	_	_	_	_	_	_
+19	sed	_	_	_	_	_	_	_	_
+20	uelut	_	_	_	_	_	_	_	_
+21	deo	_	_	_	_	_	_	_	_
+22	imperante	_	_	_	_	_	_	_	_
+23	quem	_	_	_	_	_	_	_	_
+24	adesse	_	_	_	_	_	_	_	_
+25	bellantibus	_	_	_	_	_	_	_	_
+26	credunt	_	_	_	_	_	_	_	_
+
+# sent_id = 42
+# text = effigiesque et signa quaedam detracta lucis in proelium ferunt quodque praecipuum fortitudinis incitamentum est non casus nec fortuita conglobatio turmam aut cuneum facit sed familiae et propinquitates et in proximo pignora unde feminarum ululatus audiri unde uagitus infantium
+1	effigiesque	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	signa	_	_	_	_	_	_	_	_
+4	quaedam	_	_	_	_	_	_	_	_
+5	detracta	_	_	_	_	_	_	_	_
+6	lucis	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	proelium	_	_	_	_	_	_	_	_
+9	ferunt	_	_	_	_	_	_	_	_
+10	quodque	_	_	_	_	_	_	_	_
+11	praecipuum	_	_	_	_	_	_	_	_
+12	fortitudinis	_	_	_	_	_	_	_	_
+13	incitamentum	_	_	_	_	_	_	_	_
+14	est	_	_	_	_	_	_	_	_
+15	non	_	_	_	_	_	_	_	_
+16	casus	_	_	_	_	_	_	_	_
+17	nec	_	_	_	_	_	_	_	_
+18	fortuita	_	_	_	_	_	_	_	_
+19	conglobatio	_	_	_	_	_	_	_	_
+20	turmam	_	_	_	_	_	_	_	_
+21	aut	_	_	_	_	_	_	_	_
+22	cuneum	_	_	_	_	_	_	_	_
+23	facit	_	_	_	_	_	_	_	_
+24	sed	_	_	_	_	_	_	_	_
+25	familiae	_	_	_	_	_	_	_	_
+26	et	_	_	_	_	_	_	_	_
+27	propinquitates	_	_	_	_	_	_	_	_
+28	et	_	_	_	_	_	_	_	_
+29	in	_	_	_	_	_	_	_	_
+30	proximo	_	_	_	_	_	_	_	_
+31	pignora	_	_	_	_	_	_	_	_
+32	unde	_	_	_	_	_	_	_	_
+33	feminarum	_	_	_	_	_	_	_	_
+34	ululatus	_	_	_	_	_	_	_	_
+35	audiri	_	_	_	_	_	_	_	_
+36	unde	_	_	_	_	_	_	_	_
+37	uagitus	_	_	_	_	_	_	_	_
+38	infantium	_	_	_	_	_	_	_	_
+
+# sent_id = 43
+# text = hi cuique sanctissimi testes hi maximi laudatores ad matres ad coniuges uulnera ferunt nec illae numerare et exigere plagas pauent cibosque et hortamina pugnantibus gestant
+1	hi	_	_	_	_	_	_	_	_
+2	cuique	_	_	_	_	_	_	_	_
+3	sanctissimi	_	_	_	_	_	_	_	_
+4	testes	_	_	_	_	_	_	_	_
+5	hi	_	_	_	_	_	_	_	_
+6	maximi	_	_	_	_	_	_	_	_
+7	laudatores	_	_	_	_	_	_	_	_
+8	ad	_	_	_	_	_	_	_	_
+9	matres	_	_	_	_	_	_	_	_
+10	ad	_	_	_	_	_	_	_	_
+11	coniuges	_	_	_	_	_	_	_	_
+12	uulnera	_	_	_	_	_	_	_	_
+13	ferunt	_	_	_	_	_	_	_	_
+14	nec	_	_	_	_	_	_	_	_
+15	illae	_	_	_	_	_	_	_	_
+16	numerare	_	_	_	_	_	_	_	_
+17	et	_	_	_	_	_	_	_	_
+18	exigere	_	_	_	_	_	_	_	_
+19	plagas	_	_	_	_	_	_	_	_
+20	pauent	_	_	_	_	_	_	_	_
+21	cibosque	_	_	_	_	_	_	_	_
+22	et	_	_	_	_	_	_	_	_
+23	hortamina	_	_	_	_	_	_	_	_
+24	pugnantibus	_	_	_	_	_	_	_	_
+25	gestant	_	_	_	_	_	_	_	_
+
+# sent_id = 44
+# text = Memoriae proditur quasdam acies inclinatas iam et labantes a feminis restitutas constantia precum et obiectu pectorum et monstrata comminus captiuitate quam longe impatientius feminarum suarum nomine timent adeo ut efficacius obligentur animi ciuitatum quibus inter obsides puellae quoque nobiles imperantur
+1	Memoriae	_	_	_	_	_	_	_	_
+2	proditur	_	_	_	_	_	_	_	_
+3	quasdam	_	_	_	_	_	_	_	_
+4	acies	_	_	_	_	_	_	_	_
+5	inclinatas	_	_	_	_	_	_	_	_
+6	iam	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	labantes	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	feminis	_	_	_	_	_	_	_	_
+11	restitutas	_	_	_	_	_	_	_	_
+12	constantia	_	_	_	_	_	_	_	_
+13	precum	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	obiectu	_	_	_	_	_	_	_	_
+16	pectorum	_	_	_	_	_	_	_	_
+17	et	_	_	_	_	_	_	_	_
+18	monstrata	_	_	_	_	_	_	_	_
+19	comminus	_	_	_	_	_	_	_	_
+20	captiuitate	_	_	_	_	_	_	_	_
+21	quam	_	_	_	_	_	_	_	_
+22	longe	_	_	_	_	_	_	_	_
+23	impatientius	_	_	_	_	_	_	_	_
+24	feminarum	_	_	_	_	_	_	_	_
+25	suarum	_	_	_	_	_	_	_	_
+26	nomine	_	_	_	_	_	_	_	_
+27	timent	_	_	_	_	_	_	_	_
+28	adeo	_	_	_	_	_	_	_	_
+29	ut	_	_	_	_	_	_	_	_
+30	efficacius	_	_	_	_	_	_	_	_
+31	obligentur	_	_	_	_	_	_	_	_
+32	animi	_	_	_	_	_	_	_	_
+33	ciuitatum	_	_	_	_	_	_	_	_
+34	quibus	_	_	_	_	_	_	_	_
+35	inter	_	_	_	_	_	_	_	_
+36	obsides	_	_	_	_	_	_	_	_
+37	puellae	_	_	_	_	_	_	_	_
+38	quoque	_	_	_	_	_	_	_	_
+39	nobiles	_	_	_	_	_	_	_	_
+40	imperantur	_	_	_	_	_	_	_	_
+
+# sent_id = 45
+# text = inesse quin etiam sanctum aliquid et prouidum putant nec aut consilia earum aspernantur aut responsa neglegunt
+1	inesse	_	_	_	_	_	_	_	_
+2	quin	_	_	_	_	_	_	_	_
+3	etiam	_	_	_	_	_	_	_	_
+4	sanctum	_	_	_	_	_	_	_	_
+5	aliquid	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	prouidum	_	_	_	_	_	_	_	_
+8	putant	_	_	_	_	_	_	_	_
+9	nec	_	_	_	_	_	_	_	_
+10	aut	_	_	_	_	_	_	_	_
+11	consilia	_	_	_	_	_	_	_	_
+12	earum	_	_	_	_	_	_	_	_
+13	aspernantur	_	_	_	_	_	_	_	_
+14	aut	_	_	_	_	_	_	_	_
+15	responsa	_	_	_	_	_	_	_	_
+16	neglegunt	_	_	_	_	_	_	_	_
+
+# sent_id = 46
+# text = uidimus sub diuo Uespasiano Ueledam diu apud plerosque numinis loco habitam sed et olim Auriniam et complures alias uenerati sunt non adulatione nec tamquam facerent deas
+1	uidimus	_	_	_	_	_	_	_	_
+2	sub	_	_	_	_	_	_	_	_
+3	diuo	_	_	_	_	_	_	_	_
+4	Uespasiano	_	_	_	_	_	_	_	_
+5	Ueledam	_	_	_	_	_	_	_	_
+6	diu	_	_	_	_	_	_	_	_
+7	apud	_	_	_	_	_	_	_	_
+8	plerosque	_	_	_	_	_	_	_	_
+9	numinis	_	_	_	_	_	_	_	_
+10	loco	_	_	_	_	_	_	_	_
+11	habitam	_	_	_	_	_	_	_	_
+12	sed	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	olim	_	_	_	_	_	_	_	_
+15	Auriniam	_	_	_	_	_	_	_	_
+16	et	_	_	_	_	_	_	_	_
+17	complures	_	_	_	_	_	_	_	_
+18	alias	_	_	_	_	_	_	_	_
+19	uenerati	_	_	_	_	_	_	_	_
+20	sunt	_	_	_	_	_	_	_	_
+21	non	_	_	_	_	_	_	_	_
+22	adulatione	_	_	_	_	_	_	_	_
+23	nec	_	_	_	_	_	_	_	_
+24	tamquam	_	_	_	_	_	_	_	_
+25	facerent	_	_	_	_	_	_	_	_
+26	deas	_	_	_	_	_	_	_	_
+
+# sent_id = 47
+# text = Deorum maxime Mercurium colunt cui certis diebus humanis quoque hostiis litare fas habent
+1	Deorum	_	_	_	_	_	_	_	_
+2	maxime	_	_	_	_	_	_	_	_
+3	Mercurium	_	_	_	_	_	_	_	_
+4	colunt	_	_	_	_	_	_	_	_
+5	cui	_	_	_	_	_	_	_	_
+6	certis	_	_	_	_	_	_	_	_
+7	diebus	_	_	_	_	_	_	_	_
+8	humanis	_	_	_	_	_	_	_	_
+9	quoque	_	_	_	_	_	_	_	_
+10	hostiis	_	_	_	_	_	_	_	_
+11	litare	_	_	_	_	_	_	_	_
+12	fas	_	_	_	_	_	_	_	_
+13	habent	_	_	_	_	_	_	_	_
+
+# sent_id = 48
+# text = Herculem ac Martem concessis animalibus placant
+1	Herculem	_	_	_	_	_	_	_	_
+2	ac	_	_	_	_	_	_	_	_
+3	Martem	_	_	_	_	_	_	_	_
+4	concessis	_	_	_	_	_	_	_	_
+5	animalibus	_	_	_	_	_	_	_	_
+6	placant	_	_	_	_	_	_	_	_
+
+# sent_id = 49
+# text = pars Sueborum et Isidi sacrificat unde causa et origo peregrino sacro parum comperi nisi quod signum ipsum in modum liburnae figuratum docet aduectam religionem
+1	pars	_	_	_	_	_	_	_	_
+2	Sueborum	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	Isidi	_	_	_	_	_	_	_	_
+5	sacrificat	_	_	_	_	_	_	_	_
+6	unde	_	_	_	_	_	_	_	_
+7	causa	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	origo	_	_	_	_	_	_	_	_
+10	peregrino	_	_	_	_	_	_	_	_
+11	sacro	_	_	_	_	_	_	_	_
+12	parum	_	_	_	_	_	_	_	_
+13	comperi	_	_	_	_	_	_	_	_
+14	nisi	_	_	_	_	_	_	_	_
+15	quod	_	_	_	_	_	_	_	_
+16	signum	_	_	_	_	_	_	_	_
+17	ipsum	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	modum	_	_	_	_	_	_	_	_
+20	liburnae	_	_	_	_	_	_	_	_
+21	figuratum	_	_	_	_	_	_	_	_
+22	docet	_	_	_	_	_	_	_	_
+23	aduectam	_	_	_	_	_	_	_	_
+24	religionem	_	_	_	_	_	_	_	_
+
+# sent_id = 50
+# text = ceterum nec cohibere parietibus deos neque in ullam humani oris speciem adsimulare ex magnitudine caelestium arbitrantur lucos ac nemora consecrant deorumque nominibus appellant secretum illud quod sola reuerentia uident
+1	ceterum	_	_	_	_	_	_	_	_
+2	nec	_	_	_	_	_	_	_	_
+3	cohibere	_	_	_	_	_	_	_	_
+4	parietibus	_	_	_	_	_	_	_	_
+5	deos	_	_	_	_	_	_	_	_
+6	neque	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	ullam	_	_	_	_	_	_	_	_
+9	humani	_	_	_	_	_	_	_	_
+10	oris	_	_	_	_	_	_	_	_
+11	speciem	_	_	_	_	_	_	_	_
+12	adsimulare	_	_	_	_	_	_	_	_
+13	ex	_	_	_	_	_	_	_	_
+14	magnitudine	_	_	_	_	_	_	_	_
+15	caelestium	_	_	_	_	_	_	_	_
+16	arbitrantur	_	_	_	_	_	_	_	_
+17	lucos	_	_	_	_	_	_	_	_
+18	ac	_	_	_	_	_	_	_	_
+19	nemora	_	_	_	_	_	_	_	_
+20	consecrant	_	_	_	_	_	_	_	_
+21	deorumque	_	_	_	_	_	_	_	_
+22	nominibus	_	_	_	_	_	_	_	_
+23	appellant	_	_	_	_	_	_	_	_
+24	secretum	_	_	_	_	_	_	_	_
+25	illud	_	_	_	_	_	_	_	_
+26	quod	_	_	_	_	_	_	_	_
+27	sola	_	_	_	_	_	_	_	_
+28	reuerentia	_	_	_	_	_	_	_	_
+29	uident	_	_	_	_	_	_	_	_
+
+# sent_id = 51
+# text = Auspicia sortesque ut qui maxime obseruant
+1	Auspicia	_	_	_	_	_	_	_	_
+2	sortesque	_	_	_	_	_	_	_	_
+3	ut	_	_	_	_	_	_	_	_
+4	qui	_	_	_	_	_	_	_	_
+5	maxime	_	_	_	_	_	_	_	_
+6	obseruant	_	_	_	_	_	_	_	_
+
+# sent_id = 52
+# text = sortium consuetudo simplex
+1	sortium	_	_	_	_	_	_	_	_
+2	consuetudo	_	_	_	_	_	_	_	_
+3	simplex	_	_	_	_	_	_	_	_
+
+# sent_id = 53
+# text = uirgam frugiferae arbori decisam in surculos amputant eosque notis quibusdam discretos super candidam uestem temere ac fortuito spargunt
+1	uirgam	_	_	_	_	_	_	_	_
+2	frugiferae	_	_	_	_	_	_	_	_
+3	arbori	_	_	_	_	_	_	_	_
+4	decisam	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	surculos	_	_	_	_	_	_	_	_
+7	amputant	_	_	_	_	_	_	_	_
+8	eosque	_	_	_	_	_	_	_	_
+9	notis	_	_	_	_	_	_	_	_
+10	quibusdam	_	_	_	_	_	_	_	_
+11	discretos	_	_	_	_	_	_	_	_
+12	super	_	_	_	_	_	_	_	_
+13	candidam	_	_	_	_	_	_	_	_
+14	uestem	_	_	_	_	_	_	_	_
+15	temere	_	_	_	_	_	_	_	_
+16	ac	_	_	_	_	_	_	_	_
+17	fortuito	_	_	_	_	_	_	_	_
+18	spargunt	_	_	_	_	_	_	_	_
+
+# sent_id = 54
+# text = mox si publice consultetur sacerdos ciuitatis sin priuatim ipse pater familiae precatus deos caelumque suspiciens ter singulos tollit sublatos secundum impressam ante notam interpretatur
+1	mox	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	publice	_	_	_	_	_	_	_	_
+4	consultetur	_	_	_	_	_	_	_	_
+5	sacerdos	_	_	_	_	_	_	_	_
+6	ciuitatis	_	_	_	_	_	_	_	_
+7	sin	_	_	_	_	_	_	_	_
+8	priuatim	_	_	_	_	_	_	_	_
+9	ipse	_	_	_	_	_	_	_	_
+10	pater	_	_	_	_	_	_	_	_
+11	familiae	_	_	_	_	_	_	_	_
+12	precatus	_	_	_	_	_	_	_	_
+13	deos	_	_	_	_	_	_	_	_
+14	caelumque	_	_	_	_	_	_	_	_
+15	suspiciens	_	_	_	_	_	_	_	_
+16	ter	_	_	_	_	_	_	_	_
+17	singulos	_	_	_	_	_	_	_	_
+18	tollit	_	_	_	_	_	_	_	_
+19	sublatos	_	_	_	_	_	_	_	_
+20	secundum	_	_	_	_	_	_	_	_
+21	impressam	_	_	_	_	_	_	_	_
+22	ante	_	_	_	_	_	_	_	_
+23	notam	_	_	_	_	_	_	_	_
+24	interpretatur	_	_	_	_	_	_	_	_
+
+# sent_id = 55
+# text = si prohibuerunt nulla de eadem re in eundem diem consultatio sin permissum auspiciorum adhuc fides exigitur
+1	si	_	_	_	_	_	_	_	_
+2	prohibuerunt	_	_	_	_	_	_	_	_
+3	nulla	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	eadem	_	_	_	_	_	_	_	_
+6	re	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	eundem	_	_	_	_	_	_	_	_
+9	diem	_	_	_	_	_	_	_	_
+10	consultatio	_	_	_	_	_	_	_	_
+11	sin	_	_	_	_	_	_	_	_
+12	permissum	_	_	_	_	_	_	_	_
+13	auspiciorum	_	_	_	_	_	_	_	_
+14	adhuc	_	_	_	_	_	_	_	_
+15	fides	_	_	_	_	_	_	_	_
+16	exigitur	_	_	_	_	_	_	_	_
+
+# sent_id = 56
+# text = et illud quidem etiam hic notum auium uoces uolatusque interrogare proprium gentis equorum quoque praesagia ac monitus experiri
+1	et	_	_	_	_	_	_	_	_
+2	illud	_	_	_	_	_	_	_	_
+3	quidem	_	_	_	_	_	_	_	_
+4	etiam	_	_	_	_	_	_	_	_
+5	hic	_	_	_	_	_	_	_	_
+6	notum	_	_	_	_	_	_	_	_
+7	auium	_	_	_	_	_	_	_	_
+8	uoces	_	_	_	_	_	_	_	_
+9	uolatusque	_	_	_	_	_	_	_	_
+10	interrogare	_	_	_	_	_	_	_	_
+11	proprium	_	_	_	_	_	_	_	_
+12	gentis	_	_	_	_	_	_	_	_
+13	equorum	_	_	_	_	_	_	_	_
+14	quoque	_	_	_	_	_	_	_	_
+15	praesagia	_	_	_	_	_	_	_	_
+16	ac	_	_	_	_	_	_	_	_
+17	monitus	_	_	_	_	_	_	_	_
+18	experiri	_	_	_	_	_	_	_	_
+
+# sent_id = 57
+# text = publice aluntur isdem nemoribus ac lucis candidi et nullo mortali opere contacti quos pressos sacro curru sacerdos ac rex uel princeps ciuitatis comitantur hinnitusque ac fremitus obseruant
+1	publice	_	_	_	_	_	_	_	_
+2	aluntur	_	_	_	_	_	_	_	_
+3	isdem	_	_	_	_	_	_	_	_
+4	nemoribus	_	_	_	_	_	_	_	_
+5	ac	_	_	_	_	_	_	_	_
+6	lucis	_	_	_	_	_	_	_	_
+7	candidi	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	nullo	_	_	_	_	_	_	_	_
+10	mortali	_	_	_	_	_	_	_	_
+11	opere	_	_	_	_	_	_	_	_
+12	contacti	_	_	_	_	_	_	_	_
+13	quos	_	_	_	_	_	_	_	_
+14	pressos	_	_	_	_	_	_	_	_
+15	sacro	_	_	_	_	_	_	_	_
+16	curru	_	_	_	_	_	_	_	_
+17	sacerdos	_	_	_	_	_	_	_	_
+18	ac	_	_	_	_	_	_	_	_
+19	rex	_	_	_	_	_	_	_	_
+20	uel	_	_	_	_	_	_	_	_
+21	princeps	_	_	_	_	_	_	_	_
+22	ciuitatis	_	_	_	_	_	_	_	_
+23	comitantur	_	_	_	_	_	_	_	_
+24	hinnitusque	_	_	_	_	_	_	_	_
+25	ac	_	_	_	_	_	_	_	_
+26	fremitus	_	_	_	_	_	_	_	_
+27	obseruant	_	_	_	_	_	_	_	_
+
+# sent_id = 58
+# text = nec ulli auspicio maior fides non solum apud plebem sed apud proceres apud sacerdotes se enim ministros deorum illos conscios putant
+1	nec	_	_	_	_	_	_	_	_
+2	ulli	_	_	_	_	_	_	_	_
+3	auspicio	_	_	_	_	_	_	_	_
+4	maior	_	_	_	_	_	_	_	_
+5	fides	_	_	_	_	_	_	_	_
+6	non	_	_	_	_	_	_	_	_
+7	solum	_	_	_	_	_	_	_	_
+8	apud	_	_	_	_	_	_	_	_
+9	plebem	_	_	_	_	_	_	_	_
+10	sed	_	_	_	_	_	_	_	_
+11	apud	_	_	_	_	_	_	_	_
+12	proceres	_	_	_	_	_	_	_	_
+13	apud	_	_	_	_	_	_	_	_
+14	sacerdotes	_	_	_	_	_	_	_	_
+15	se	_	_	_	_	_	_	_	_
+16	enim	_	_	_	_	_	_	_	_
+17	ministros	_	_	_	_	_	_	_	_
+18	deorum	_	_	_	_	_	_	_	_
+19	illos	_	_	_	_	_	_	_	_
+20	conscios	_	_	_	_	_	_	_	_
+21	putant	_	_	_	_	_	_	_	_
+
+# sent_id = 59
+# text = est et alia obseruatio auspiciorum qua grauium bellorum euentus explorant
+1	est	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	alia	_	_	_	_	_	_	_	_
+4	obseruatio	_	_	_	_	_	_	_	_
+5	auspiciorum	_	_	_	_	_	_	_	_
+6	qua	_	_	_	_	_	_	_	_
+7	grauium	_	_	_	_	_	_	_	_
+8	bellorum	_	_	_	_	_	_	_	_
+9	euentus	_	_	_	_	_	_	_	_
+10	explorant	_	_	_	_	_	_	_	_
+
+# sent_id = 60
+# text = eius gentis cum qua bellum est captiuum quoquo modo interceptum cum electo popularium suorum patriis quemque armis committunt uictoria huius uel illius pro praeiudicio accipitur
+1	eius	_	_	_	_	_	_	_	_
+2	gentis	_	_	_	_	_	_	_	_
+3	cum	_	_	_	_	_	_	_	_
+4	qua	_	_	_	_	_	_	_	_
+5	bellum	_	_	_	_	_	_	_	_
+6	est	_	_	_	_	_	_	_	_
+7	captiuum	_	_	_	_	_	_	_	_
+8	quoquo	_	_	_	_	_	_	_	_
+9	modo	_	_	_	_	_	_	_	_
+10	interceptum	_	_	_	_	_	_	_	_
+11	cum	_	_	_	_	_	_	_	_
+12	electo	_	_	_	_	_	_	_	_
+13	popularium	_	_	_	_	_	_	_	_
+14	suorum	_	_	_	_	_	_	_	_
+15	patriis	_	_	_	_	_	_	_	_
+16	quemque	_	_	_	_	_	_	_	_
+17	armis	_	_	_	_	_	_	_	_
+18	committunt	_	_	_	_	_	_	_	_
+19	uictoria	_	_	_	_	_	_	_	_
+20	huius	_	_	_	_	_	_	_	_
+21	uel	_	_	_	_	_	_	_	_
+22	illius	_	_	_	_	_	_	_	_
+23	pro	_	_	_	_	_	_	_	_
+24	praeiudicio	_	_	_	_	_	_	_	_
+25	accipitur	_	_	_	_	_	_	_	_
+
+# sent_id = 61
+# text = De minoribus rebus principes consultant de maioribus omnes ita tamen ut ea quoque quorum penes plebem arbitrium est apud principes praetractentur
+1	De	_	_	_	_	_	_	_	_
+2	minoribus	_	_	_	_	_	_	_	_
+3	rebus	_	_	_	_	_	_	_	_
+4	principes	_	_	_	_	_	_	_	_
+5	consultant	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	_
+7	maioribus	_	_	_	_	_	_	_	_
+8	omnes	_	_	_	_	_	_	_	_
+9	ita	_	_	_	_	_	_	_	_
+10	tamen	_	_	_	_	_	_	_	_
+11	ut	_	_	_	_	_	_	_	_
+12	ea	_	_	_	_	_	_	_	_
+13	quoque	_	_	_	_	_	_	_	_
+14	quorum	_	_	_	_	_	_	_	_
+15	penes	_	_	_	_	_	_	_	_
+16	plebem	_	_	_	_	_	_	_	_
+17	arbitrium	_	_	_	_	_	_	_	_
+18	est	_	_	_	_	_	_	_	_
+19	apud	_	_	_	_	_	_	_	_
+20	principes	_	_	_	_	_	_	_	_
+21	praetractentur	_	_	_	_	_	_	_	_
+
+# sent_id = 62
+# text = coeunt nisi quid fortuitum et subitum incidit certis diebus cum aut incohatur luna aut impletur nam agendis rebus hoc auspicatissimum initium credunt
+1	coeunt	_	_	_	_	_	_	_	_
+2	nisi	_	_	_	_	_	_	_	_
+3	quid	_	_	_	_	_	_	_	_
+4	fortuitum	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	subitum	_	_	_	_	_	_	_	_
+7	incidit	_	_	_	_	_	_	_	_
+8	certis	_	_	_	_	_	_	_	_
+9	diebus	_	_	_	_	_	_	_	_
+10	cum	_	_	_	_	_	_	_	_
+11	aut	_	_	_	_	_	_	_	_
+12	incohatur	_	_	_	_	_	_	_	_
+13	luna	_	_	_	_	_	_	_	_
+14	aut	_	_	_	_	_	_	_	_
+15	impletur	_	_	_	_	_	_	_	_
+16	nam	_	_	_	_	_	_	_	_
+17	agendis	_	_	_	_	_	_	_	_
+18	rebus	_	_	_	_	_	_	_	_
+19	hoc	_	_	_	_	_	_	_	_
+20	auspicatissimum	_	_	_	_	_	_	_	_
+21	initium	_	_	_	_	_	_	_	_
+22	credunt	_	_	_	_	_	_	_	_
+
+# sent_id = 63
+# text = nec dierum numerum ut nos sed noctium computant
+1	nec	_	_	_	_	_	_	_	_
+2	dierum	_	_	_	_	_	_	_	_
+3	numerum	_	_	_	_	_	_	_	_
+4	ut	_	_	_	_	_	_	_	_
+5	nos	_	_	_	_	_	_	_	_
+6	sed	_	_	_	_	_	_	_	_
+7	noctium	_	_	_	_	_	_	_	_
+8	computant	_	_	_	_	_	_	_	_
+
+# sent_id = 64
+# text = sic constituunt sic condicunt nox ducere diem uidetur
+1	sic	_	_	_	_	_	_	_	_
+2	constituunt	_	_	_	_	_	_	_	_
+3	sic	_	_	_	_	_	_	_	_
+4	condicunt	_	_	_	_	_	_	_	_
+5	nox	_	_	_	_	_	_	_	_
+6	ducere	_	_	_	_	_	_	_	_
+7	diem	_	_	_	_	_	_	_	_
+8	uidetur	_	_	_	_	_	_	_	_
+
+# sent_id = 65
+# text = illud ex libertate uitium quod non simul nec ut iussi conueniunt sed et alter et tertius dies cunctatione coeuntium absumitur
+1	illud	_	_	_	_	_	_	_	_
+2	ex	_	_	_	_	_	_	_	_
+3	libertate	_	_	_	_	_	_	_	_
+4	uitium	_	_	_	_	_	_	_	_
+5	quod	_	_	_	_	_	_	_	_
+6	non	_	_	_	_	_	_	_	_
+7	simul	_	_	_	_	_	_	_	_
+8	nec	_	_	_	_	_	_	_	_
+9	ut	_	_	_	_	_	_	_	_
+10	iussi	_	_	_	_	_	_	_	_
+11	conueniunt	_	_	_	_	_	_	_	_
+12	sed	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	alter	_	_	_	_	_	_	_	_
+15	et	_	_	_	_	_	_	_	_
+16	tertius	_	_	_	_	_	_	_	_
+17	dies	_	_	_	_	_	_	_	_
+18	cunctatione	_	_	_	_	_	_	_	_
+19	coeuntium	_	_	_	_	_	_	_	_
+20	absumitur	_	_	_	_	_	_	_	_
+
+# sent_id = 66
+# text = ut turbae placuit considunt armati
+1	ut	_	_	_	_	_	_	_	_
+2	turbae	_	_	_	_	_	_	_	_
+3	placuit	_	_	_	_	_	_	_	_
+4	considunt	_	_	_	_	_	_	_	_
+5	armati	_	_	_	_	_	_	_	_
+
+# sent_id = 67
+# text = silentium per sacerdotes quibus tum et coercendi ius est imperatur
+1	silentium	_	_	_	_	_	_	_	_
+2	per	_	_	_	_	_	_	_	_
+3	sacerdotes	_	_	_	_	_	_	_	_
+4	quibus	_	_	_	_	_	_	_	_
+5	tum	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	coercendi	_	_	_	_	_	_	_	_
+8	ius	_	_	_	_	_	_	_	_
+9	est	_	_	_	_	_	_	_	_
+10	imperatur	_	_	_	_	_	_	_	_
+
+# sent_id = 68
+# text = mox rex uel princeps prout aetas cuique prout nobilitas prout decus bellorum prout facundia est audiuntur auctoritate suadendi magis quam iubendi potestate
+1	mox	_	_	_	_	_	_	_	_
+2	rex	_	_	_	_	_	_	_	_
+3	uel	_	_	_	_	_	_	_	_
+4	princeps	_	_	_	_	_	_	_	_
+5	prout	_	_	_	_	_	_	_	_
+6	aetas	_	_	_	_	_	_	_	_
+7	cuique	_	_	_	_	_	_	_	_
+8	prout	_	_	_	_	_	_	_	_
+9	nobilitas	_	_	_	_	_	_	_	_
+10	prout	_	_	_	_	_	_	_	_
+11	decus	_	_	_	_	_	_	_	_
+12	bellorum	_	_	_	_	_	_	_	_
+13	prout	_	_	_	_	_	_	_	_
+14	facundia	_	_	_	_	_	_	_	_
+15	est	_	_	_	_	_	_	_	_
+16	audiuntur	_	_	_	_	_	_	_	_
+17	auctoritate	_	_	_	_	_	_	_	_
+18	suadendi	_	_	_	_	_	_	_	_
+19	magis	_	_	_	_	_	_	_	_
+20	quam	_	_	_	_	_	_	_	_
+21	iubendi	_	_	_	_	_	_	_	_
+22	potestate	_	_	_	_	_	_	_	_
+
+# sent_id = 69
+# text = si displicuit sententia fremitu aspernantur sin placuit frameas concutiunt honoratissimum adsensus genus est armis laudare
+1	si	_	_	_	_	_	_	_	_
+2	displicuit	_	_	_	_	_	_	_	_
+3	sententia	_	_	_	_	_	_	_	_
+4	fremitu	_	_	_	_	_	_	_	_
+5	aspernantur	_	_	_	_	_	_	_	_
+6	sin	_	_	_	_	_	_	_	_
+7	placuit	_	_	_	_	_	_	_	_
+8	frameas	_	_	_	_	_	_	_	_
+9	concutiunt	_	_	_	_	_	_	_	_
+10	honoratissimum	_	_	_	_	_	_	_	_
+11	adsensus	_	_	_	_	_	_	_	_
+12	genus	_	_	_	_	_	_	_	_
+13	est	_	_	_	_	_	_	_	_
+14	armis	_	_	_	_	_	_	_	_
+15	laudare	_	_	_	_	_	_	_	_
+
+# sent_id = 70
+# text = Licet apud concilium accusare quoque et discrimen capitis intendere
+1	Licet	_	_	_	_	_	_	_	_
+2	apud	_	_	_	_	_	_	_	_
+3	concilium	_	_	_	_	_	_	_	_
+4	accusare	_	_	_	_	_	_	_	_
+5	quoque	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	discrimen	_	_	_	_	_	_	_	_
+8	capitis	_	_	_	_	_	_	_	_
+9	intendere	_	_	_	_	_	_	_	_
+
+# sent_id = 71
+# text = distinctio poenarum ex delicto proditores et transfugas arboribus suspendunt ignauos et imbelles et corpore infames caeno ac palude iniecta insuper crate mergunt
+1	distinctio	_	_	_	_	_	_	_	_
+2	poenarum	_	_	_	_	_	_	_	_
+3	ex	_	_	_	_	_	_	_	_
+4	delicto	_	_	_	_	_	_	_	_
+5	proditores	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	transfugas	_	_	_	_	_	_	_	_
+8	arboribus	_	_	_	_	_	_	_	_
+9	suspendunt	_	_	_	_	_	_	_	_
+10	ignauos	_	_	_	_	_	_	_	_
+11	et	_	_	_	_	_	_	_	_
+12	imbelles	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	corpore	_	_	_	_	_	_	_	_
+15	infames	_	_	_	_	_	_	_	_
+16	caeno	_	_	_	_	_	_	_	_
+17	ac	_	_	_	_	_	_	_	_
+18	palude	_	_	_	_	_	_	_	_
+19	iniecta	_	_	_	_	_	_	_	_
+20	insuper	_	_	_	_	_	_	_	_
+21	crate	_	_	_	_	_	_	_	_
+22	mergunt	_	_	_	_	_	_	_	_
+
+# sent_id = 72
+# text = diuersitas supplicii illuc respicit tamquam scelera ostendi oporteat dum puniuntur flagitia abscondi
+1	diuersitas	_	_	_	_	_	_	_	_
+2	supplicii	_	_	_	_	_	_	_	_
+3	illuc	_	_	_	_	_	_	_	_
+4	respicit	_	_	_	_	_	_	_	_
+5	tamquam	_	_	_	_	_	_	_	_
+6	scelera	_	_	_	_	_	_	_	_
+7	ostendi	_	_	_	_	_	_	_	_
+8	oporteat	_	_	_	_	_	_	_	_
+9	dum	_	_	_	_	_	_	_	_
+10	puniuntur	_	_	_	_	_	_	_	_
+11	flagitia	_	_	_	_	_	_	_	_
+12	abscondi	_	_	_	_	_	_	_	_
+
+# sent_id = 73
+# text = sed et leuioribus delictis pro modo poena equorum pecorumque numero conuicti multantur
+1	sed	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	leuioribus	_	_	_	_	_	_	_	_
+4	delictis	_	_	_	_	_	_	_	_
+5	pro	_	_	_	_	_	_	_	_
+6	modo	_	_	_	_	_	_	_	_
+7	poena	_	_	_	_	_	_	_	_
+8	equorum	_	_	_	_	_	_	_	_
+9	pecorumque	_	_	_	_	_	_	_	_
+10	numero	_	_	_	_	_	_	_	_
+11	conuicti	_	_	_	_	_	_	_	_
+12	multantur	_	_	_	_	_	_	_	_
+
+# sent_id = 74
+# text = pars multae regi uel ciuitati pars ipsi qui uindicatur uel propinquis eius exsoluitur
+1	pars	_	_	_	_	_	_	_	_
+2	multae	_	_	_	_	_	_	_	_
+3	regi	_	_	_	_	_	_	_	_
+4	uel	_	_	_	_	_	_	_	_
+5	ciuitati	_	_	_	_	_	_	_	_
+6	pars	_	_	_	_	_	_	_	_
+7	ipsi	_	_	_	_	_	_	_	_
+8	qui	_	_	_	_	_	_	_	_
+9	uindicatur	_	_	_	_	_	_	_	_
+10	uel	_	_	_	_	_	_	_	_
+11	propinquis	_	_	_	_	_	_	_	_
+12	eius	_	_	_	_	_	_	_	_
+13	exsoluitur	_	_	_	_	_	_	_	_
+
+# sent_id = 75
+# text = eliguntur in isdem conciliis et principes qui iura per pagos uicosque reddunt centeni singulis ex plebe comites consilium simul et auctoritas adsunt
+1	eliguntur	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	isdem	_	_	_	_	_	_	_	_
+4	conciliis	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	principes	_	_	_	_	_	_	_	_
+7	qui	_	_	_	_	_	_	_	_
+8	iura	_	_	_	_	_	_	_	_
+9	per	_	_	_	_	_	_	_	_
+10	pagos	_	_	_	_	_	_	_	_
+11	uicosque	_	_	_	_	_	_	_	_
+12	reddunt	_	_	_	_	_	_	_	_
+13	centeni	_	_	_	_	_	_	_	_
+14	singulis	_	_	_	_	_	_	_	_
+15	ex	_	_	_	_	_	_	_	_
+16	plebe	_	_	_	_	_	_	_	_
+17	comites	_	_	_	_	_	_	_	_
+18	consilium	_	_	_	_	_	_	_	_
+19	simul	_	_	_	_	_	_	_	_
+20	et	_	_	_	_	_	_	_	_
+21	auctoritas	_	_	_	_	_	_	_	_
+22	adsunt	_	_	_	_	_	_	_	_
+
+# sent_id = 76
+# text = Nihil autem neque publicae neque priuatae rei nisi armati agunt
+1	Nihil	_	_	_	_	_	_	_	_
+2	autem	_	_	_	_	_	_	_	_
+3	neque	_	_	_	_	_	_	_	_
+4	publicae	_	_	_	_	_	_	_	_
+5	neque	_	_	_	_	_	_	_	_
+6	priuatae	_	_	_	_	_	_	_	_
+7	rei	_	_	_	_	_	_	_	_
+8	nisi	_	_	_	_	_	_	_	_
+9	armati	_	_	_	_	_	_	_	_
+10	agunt	_	_	_	_	_	_	_	_
+
+# sent_id = 77
+# text = sed arma sumere non ante cuiquam moris quam ciuitas suffecturum probauerit
+1	sed	_	_	_	_	_	_	_	_
+2	arma	_	_	_	_	_	_	_	_
+3	sumere	_	_	_	_	_	_	_	_
+4	non	_	_	_	_	_	_	_	_
+5	ante	_	_	_	_	_	_	_	_
+6	cuiquam	_	_	_	_	_	_	_	_
+7	moris	_	_	_	_	_	_	_	_
+8	quam	_	_	_	_	_	_	_	_
+9	ciuitas	_	_	_	_	_	_	_	_
+10	suffecturum	_	_	_	_	_	_	_	_
+11	probauerit	_	_	_	_	_	_	_	_
+
+# sent_id = 78
+# text = tum in ipso concilio uel principum aliquis uel pater uel propinqui scuto frameaque iuuenem ornant haec apud illos toga hic primus iuuentae honos ante hoc domus pars uidentur mox rei publicae
+1	tum	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	ipso	_	_	_	_	_	_	_	_
+4	concilio	_	_	_	_	_	_	_	_
+5	uel	_	_	_	_	_	_	_	_
+6	principum	_	_	_	_	_	_	_	_
+7	aliquis	_	_	_	_	_	_	_	_
+8	uel	_	_	_	_	_	_	_	_
+9	pater	_	_	_	_	_	_	_	_
+10	uel	_	_	_	_	_	_	_	_
+11	propinqui	_	_	_	_	_	_	_	_
+12	scuto	_	_	_	_	_	_	_	_
+13	frameaque	_	_	_	_	_	_	_	_
+14	iuuenem	_	_	_	_	_	_	_	_
+15	ornant	_	_	_	_	_	_	_	_
+16	haec	_	_	_	_	_	_	_	_
+17	apud	_	_	_	_	_	_	_	_
+18	illos	_	_	_	_	_	_	_	_
+19	toga	_	_	_	_	_	_	_	_
+20	hic	_	_	_	_	_	_	_	_
+21	primus	_	_	_	_	_	_	_	_
+22	iuuentae	_	_	_	_	_	_	_	_
+23	honos	_	_	_	_	_	_	_	_
+24	ante	_	_	_	_	_	_	_	_
+25	hoc	_	_	_	_	_	_	_	_
+26	domus	_	_	_	_	_	_	_	_
+27	pars	_	_	_	_	_	_	_	_
+28	uidentur	_	_	_	_	_	_	_	_
+29	mox	_	_	_	_	_	_	_	_
+30	rei	_	_	_	_	_	_	_	_
+31	publicae	_	_	_	_	_	_	_	_
+
+# sent_id = 79
+# text = insignis nobilitas aut magna patrum merita principis dignationem etiam adulescentulis adsignant ceteris robustioribus ac iam pridem probatis adgregantur nec rubor inter comites aspici
+1	insignis	_	_	_	_	_	_	_	_
+2	nobilitas	_	_	_	_	_	_	_	_
+3	aut	_	_	_	_	_	_	_	_
+4	magna	_	_	_	_	_	_	_	_
+5	patrum	_	_	_	_	_	_	_	_
+6	merita	_	_	_	_	_	_	_	_
+7	principis	_	_	_	_	_	_	_	_
+8	dignationem	_	_	_	_	_	_	_	_
+9	etiam	_	_	_	_	_	_	_	_
+10	adulescentulis	_	_	_	_	_	_	_	_
+11	adsignant	_	_	_	_	_	_	_	_
+12	ceteris	_	_	_	_	_	_	_	_
+13	robustioribus	_	_	_	_	_	_	_	_
+14	ac	_	_	_	_	_	_	_	_
+15	iam	_	_	_	_	_	_	_	_
+16	pridem	_	_	_	_	_	_	_	_
+17	probatis	_	_	_	_	_	_	_	_
+18	adgregantur	_	_	_	_	_	_	_	_
+19	nec	_	_	_	_	_	_	_	_
+20	rubor	_	_	_	_	_	_	_	_
+21	inter	_	_	_	_	_	_	_	_
+22	comites	_	_	_	_	_	_	_	_
+23	aspici	_	_	_	_	_	_	_	_
+
+# sent_id = 80
+# text = gradus quin etiam ipse comitatus habet iudicio eius quem sectantur magnaque et comitum aemulatio quibus primus apud principem suum locus et principum cui plurimi et acerrimi comites
+1	gradus	_	_	_	_	_	_	_	_
+2	quin	_	_	_	_	_	_	_	_
+3	etiam	_	_	_	_	_	_	_	_
+4	ipse	_	_	_	_	_	_	_	_
+5	comitatus	_	_	_	_	_	_	_	_
+6	habet	_	_	_	_	_	_	_	_
+7	iudicio	_	_	_	_	_	_	_	_
+8	eius	_	_	_	_	_	_	_	_
+9	quem	_	_	_	_	_	_	_	_
+10	sectantur	_	_	_	_	_	_	_	_
+11	magnaque	_	_	_	_	_	_	_	_
+12	et	_	_	_	_	_	_	_	_
+13	comitum	_	_	_	_	_	_	_	_
+14	aemulatio	_	_	_	_	_	_	_	_
+15	quibus	_	_	_	_	_	_	_	_
+16	primus	_	_	_	_	_	_	_	_
+17	apud	_	_	_	_	_	_	_	_
+18	principem	_	_	_	_	_	_	_	_
+19	suum	_	_	_	_	_	_	_	_
+20	locus	_	_	_	_	_	_	_	_
+21	et	_	_	_	_	_	_	_	_
+22	principum	_	_	_	_	_	_	_	_
+23	cui	_	_	_	_	_	_	_	_
+24	plurimi	_	_	_	_	_	_	_	_
+25	et	_	_	_	_	_	_	_	_
+26	acerrimi	_	_	_	_	_	_	_	_
+27	comites	_	_	_	_	_	_	_	_
+
+# sent_id = 81
+# text = haec dignitas hae uires magno semper electorum iuuenum globo circumdari in pace decus in bello praesidium
+1	haec	_	_	_	_	_	_	_	_
+2	dignitas	_	_	_	_	_	_	_	_
+3	hae	_	_	_	_	_	_	_	_
+4	uires	_	_	_	_	_	_	_	_
+5	magno	_	_	_	_	_	_	_	_
+6	semper	_	_	_	_	_	_	_	_
+7	electorum	_	_	_	_	_	_	_	_
+8	iuuenum	_	_	_	_	_	_	_	_
+9	globo	_	_	_	_	_	_	_	_
+10	circumdari	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	pace	_	_	_	_	_	_	_	_
+13	decus	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	bello	_	_	_	_	_	_	_	_
+16	praesidium	_	_	_	_	_	_	_	_
+
+# sent_id = 82
+# text = nec solum in sua gente cuique sed apud finitimas quoque ciuitates id nomen ea gloria est si numero ac uirtute comitatus emineat expetuntur enim legationibus et muneribus ornantur et ipsa plerumque fama bella profligant
+1	nec	_	_	_	_	_	_	_	_
+2	solum	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	sua	_	_	_	_	_	_	_	_
+5	gente	_	_	_	_	_	_	_	_
+6	cuique	_	_	_	_	_	_	_	_
+7	sed	_	_	_	_	_	_	_	_
+8	apud	_	_	_	_	_	_	_	_
+9	finitimas	_	_	_	_	_	_	_	_
+10	quoque	_	_	_	_	_	_	_	_
+11	ciuitates	_	_	_	_	_	_	_	_
+12	id	_	_	_	_	_	_	_	_
+13	nomen	_	_	_	_	_	_	_	_
+14	ea	_	_	_	_	_	_	_	_
+15	gloria	_	_	_	_	_	_	_	_
+16	est	_	_	_	_	_	_	_	_
+17	si	_	_	_	_	_	_	_	_
+18	numero	_	_	_	_	_	_	_	_
+19	ac	_	_	_	_	_	_	_	_
+20	uirtute	_	_	_	_	_	_	_	_
+21	comitatus	_	_	_	_	_	_	_	_
+22	emineat	_	_	_	_	_	_	_	_
+23	expetuntur	_	_	_	_	_	_	_	_
+24	enim	_	_	_	_	_	_	_	_
+25	legationibus	_	_	_	_	_	_	_	_
+26	et	_	_	_	_	_	_	_	_
+27	muneribus	_	_	_	_	_	_	_	_
+28	ornantur	_	_	_	_	_	_	_	_
+29	et	_	_	_	_	_	_	_	_
+30	ipsa	_	_	_	_	_	_	_	_
+31	plerumque	_	_	_	_	_	_	_	_
+32	fama	_	_	_	_	_	_	_	_
+33	bella	_	_	_	_	_	_	_	_
+34	profligant	_	_	_	_	_	_	_	_
+
+# sent_id = 83
+# text = Cum uentum in aciem turpe principi uirtute uinci turpe comitatui uirtutem principis non adaequare
+1	Cum	_	_	_	_	_	_	_	_
+2	uentum	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	aciem	_	_	_	_	_	_	_	_
+5	turpe	_	_	_	_	_	_	_	_
+6	principi	_	_	_	_	_	_	_	_
+7	uirtute	_	_	_	_	_	_	_	_
+8	uinci	_	_	_	_	_	_	_	_
+9	turpe	_	_	_	_	_	_	_	_
+10	comitatui	_	_	_	_	_	_	_	_
+11	uirtutem	_	_	_	_	_	_	_	_
+12	principis	_	_	_	_	_	_	_	_
+13	non	_	_	_	_	_	_	_	_
+14	adaequare	_	_	_	_	_	_	_	_
+
+# sent_id = 84
+# text = iam uero infame in omnem uitam ac probrosum superstitem principi suo ex acie recessisse illum defendere tueri sua quoque fortia facta gloriae eius adsignare praecipuum sacramentum est principes pro uictoria pugnant comites pro principe
+1	iam	_	_	_	_	_	_	_	_
+2	uero	_	_	_	_	_	_	_	_
+3	infame	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	omnem	_	_	_	_	_	_	_	_
+6	uitam	_	_	_	_	_	_	_	_
+7	ac	_	_	_	_	_	_	_	_
+8	probrosum	_	_	_	_	_	_	_	_
+9	superstitem	_	_	_	_	_	_	_	_
+10	principi	_	_	_	_	_	_	_	_
+11	suo	_	_	_	_	_	_	_	_
+12	ex	_	_	_	_	_	_	_	_
+13	acie	_	_	_	_	_	_	_	_
+14	recessisse	_	_	_	_	_	_	_	_
+15	illum	_	_	_	_	_	_	_	_
+16	defendere	_	_	_	_	_	_	_	_
+17	tueri	_	_	_	_	_	_	_	_
+18	sua	_	_	_	_	_	_	_	_
+19	quoque	_	_	_	_	_	_	_	_
+20	fortia	_	_	_	_	_	_	_	_
+21	facta	_	_	_	_	_	_	_	_
+22	gloriae	_	_	_	_	_	_	_	_
+23	eius	_	_	_	_	_	_	_	_
+24	adsignare	_	_	_	_	_	_	_	_
+25	praecipuum	_	_	_	_	_	_	_	_
+26	sacramentum	_	_	_	_	_	_	_	_
+27	est	_	_	_	_	_	_	_	_
+28	principes	_	_	_	_	_	_	_	_
+29	pro	_	_	_	_	_	_	_	_
+30	uictoria	_	_	_	_	_	_	_	_
+31	pugnant	_	_	_	_	_	_	_	_
+32	comites	_	_	_	_	_	_	_	_
+33	pro	_	_	_	_	_	_	_	_
+34	principe	_	_	_	_	_	_	_	_
+
+# sent_id = 85
+# text = si ciuitas in qua orti sunt longa pace et otio torpeat plerique nobilium adulescentium petunt ultro eas nationes quae tum bellum aliquod gerunt quia et ingrata genti quies et facilius inter ancipitia clarescunt magnumque comitatum non nisi ui belloque tueare exigunt enim principis sui liberalitate illum bellatorem equum illam cruentam uictricemque frameam nam epulae et quamquam incompti largi tamen apparatus pro stipendio cedunt
+1	si	_	_	_	_	_	_	_	_
+2	ciuitas	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	qua	_	_	_	_	_	_	_	_
+5	orti	_	_	_	_	_	_	_	_
+6	sunt	_	_	_	_	_	_	_	_
+7	longa	_	_	_	_	_	_	_	_
+8	pace	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	otio	_	_	_	_	_	_	_	_
+11	torpeat	_	_	_	_	_	_	_	_
+12	plerique	_	_	_	_	_	_	_	_
+13	nobilium	_	_	_	_	_	_	_	_
+14	adulescentium	_	_	_	_	_	_	_	_
+15	petunt	_	_	_	_	_	_	_	_
+16	ultro	_	_	_	_	_	_	_	_
+17	eas	_	_	_	_	_	_	_	_
+18	nationes	_	_	_	_	_	_	_	_
+19	quae	_	_	_	_	_	_	_	_
+20	tum	_	_	_	_	_	_	_	_
+21	bellum	_	_	_	_	_	_	_	_
+22	aliquod	_	_	_	_	_	_	_	_
+23	gerunt	_	_	_	_	_	_	_	_
+24	quia	_	_	_	_	_	_	_	_
+25	et	_	_	_	_	_	_	_	_
+26	ingrata	_	_	_	_	_	_	_	_
+27	genti	_	_	_	_	_	_	_	_
+28	quies	_	_	_	_	_	_	_	_
+29	et	_	_	_	_	_	_	_	_
+30	facilius	_	_	_	_	_	_	_	_
+31	inter	_	_	_	_	_	_	_	_
+32	ancipitia	_	_	_	_	_	_	_	_
+33	clarescunt	_	_	_	_	_	_	_	_
+34	magnumque	_	_	_	_	_	_	_	_
+35	comitatum	_	_	_	_	_	_	_	_
+36	non	_	_	_	_	_	_	_	_
+37	nisi	_	_	_	_	_	_	_	_
+38	ui	_	_	_	_	_	_	_	_
+39	belloque	_	_	_	_	_	_	_	_
+40	tueare	_	_	_	_	_	_	_	_
+41	exigunt	_	_	_	_	_	_	_	_
+42	enim	_	_	_	_	_	_	_	_
+43	principis	_	_	_	_	_	_	_	_
+44	sui	_	_	_	_	_	_	_	_
+45	liberalitate	_	_	_	_	_	_	_	_
+46	illum	_	_	_	_	_	_	_	_
+47	bellatorem	_	_	_	_	_	_	_	_
+48	equum	_	_	_	_	_	_	_	_
+49	illam	_	_	_	_	_	_	_	_
+50	cruentam	_	_	_	_	_	_	_	_
+51	uictricemque	_	_	_	_	_	_	_	_
+52	frameam	_	_	_	_	_	_	_	_
+53	nam	_	_	_	_	_	_	_	_
+54	epulae	_	_	_	_	_	_	_	_
+55	et	_	_	_	_	_	_	_	_
+56	quamquam	_	_	_	_	_	_	_	_
+57	incompti	_	_	_	_	_	_	_	_
+58	largi	_	_	_	_	_	_	_	_
+59	tamen	_	_	_	_	_	_	_	_
+60	apparatus	_	_	_	_	_	_	_	_
+61	pro	_	_	_	_	_	_	_	_
+62	stipendio	_	_	_	_	_	_	_	_
+63	cedunt	_	_	_	_	_	_	_	_
+
+# sent_id = 86
+# text = materia munificentiae per bella et raptus
+1	materia	_	_	_	_	_	_	_	_
+2	munificentiae	_	_	_	_	_	_	_	_
+3	per	_	_	_	_	_	_	_	_
+4	bella	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	raptus	_	_	_	_	_	_	_	_
+
+# sent_id = 87
+# text = nec arare terram aut expectare annum tam facile persuaseris quam uocare hostem et uulnera mereri pigrum quin immo et iners uidetur sudore adquirere quod possis sanguine parare
+1	nec	_	_	_	_	_	_	_	_
+2	arare	_	_	_	_	_	_	_	_
+3	terram	_	_	_	_	_	_	_	_
+4	aut	_	_	_	_	_	_	_	_
+5	expectare	_	_	_	_	_	_	_	_
+6	annum	_	_	_	_	_	_	_	_
+7	tam	_	_	_	_	_	_	_	_
+8	facile	_	_	_	_	_	_	_	_
+9	persuaseris	_	_	_	_	_	_	_	_
+10	quam	_	_	_	_	_	_	_	_
+11	uocare	_	_	_	_	_	_	_	_
+12	hostem	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	uulnera	_	_	_	_	_	_	_	_
+15	mereri	_	_	_	_	_	_	_	_
+16	pigrum	_	_	_	_	_	_	_	_
+17	quin	_	_	_	_	_	_	_	_
+18	immo	_	_	_	_	_	_	_	_
+19	et	_	_	_	_	_	_	_	_
+20	iners	_	_	_	_	_	_	_	_
+21	uidetur	_	_	_	_	_	_	_	_
+22	sudore	_	_	_	_	_	_	_	_
+23	adquirere	_	_	_	_	_	_	_	_
+24	quod	_	_	_	_	_	_	_	_
+25	possis	_	_	_	_	_	_	_	_
+26	sanguine	_	_	_	_	_	_	_	_
+27	parare	_	_	_	_	_	_	_	_
+
+# sent_id = 88
+# text = Quotiens bella non ineunt non multum uenatibus plus per otium transigunt dediti somno ciboque fortissimus quisque ac bellicosissimus nihil agens delegata domus et penatium et agrorum cura feminis senibusque et infirmissimo cuique ex familia ipsi hebent mira diuersitate naturae cum idem homines sic ament inertiam et oderint quietem
+1	Quotiens	_	_	_	_	_	_	_	_
+2	bella	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	ineunt	_	_	_	_	_	_	_	_
+5	non	_	_	_	_	_	_	_	_
+6	multum	_	_	_	_	_	_	_	_
+7	uenatibus	_	_	_	_	_	_	_	_
+8	plus	_	_	_	_	_	_	_	_
+9	per	_	_	_	_	_	_	_	_
+10	otium	_	_	_	_	_	_	_	_
+11	transigunt	_	_	_	_	_	_	_	_
+12	dediti	_	_	_	_	_	_	_	_
+13	somno	_	_	_	_	_	_	_	_
+14	ciboque	_	_	_	_	_	_	_	_
+15	fortissimus	_	_	_	_	_	_	_	_
+16	quisque	_	_	_	_	_	_	_	_
+17	ac	_	_	_	_	_	_	_	_
+18	bellicosissimus	_	_	_	_	_	_	_	_
+19	nihil	_	_	_	_	_	_	_	_
+20	agens	_	_	_	_	_	_	_	_
+21	delegata	_	_	_	_	_	_	_	_
+22	domus	_	_	_	_	_	_	_	_
+23	et	_	_	_	_	_	_	_	_
+24	penatium	_	_	_	_	_	_	_	_
+25	et	_	_	_	_	_	_	_	_
+26	agrorum	_	_	_	_	_	_	_	_
+27	cura	_	_	_	_	_	_	_	_
+28	feminis	_	_	_	_	_	_	_	_
+29	senibusque	_	_	_	_	_	_	_	_
+30	et	_	_	_	_	_	_	_	_
+31	infirmissimo	_	_	_	_	_	_	_	_
+32	cuique	_	_	_	_	_	_	_	_
+33	ex	_	_	_	_	_	_	_	_
+34	familia	_	_	_	_	_	_	_	_
+35	ipsi	_	_	_	_	_	_	_	_
+36	hebent	_	_	_	_	_	_	_	_
+37	mira	_	_	_	_	_	_	_	_
+38	diuersitate	_	_	_	_	_	_	_	_
+39	naturae	_	_	_	_	_	_	_	_
+40	cum	_	_	_	_	_	_	_	_
+41	idem	_	_	_	_	_	_	_	_
+42	homines	_	_	_	_	_	_	_	_
+43	sic	_	_	_	_	_	_	_	_
+44	ament	_	_	_	_	_	_	_	_
+45	inertiam	_	_	_	_	_	_	_	_
+46	et	_	_	_	_	_	_	_	_
+47	oderint	_	_	_	_	_	_	_	_
+48	quietem	_	_	_	_	_	_	_	_
+
+# sent_id = 89
+# text = mos est ciuitatibus ultro ac uiritim conferre principibus uel armentorum uel frugum quod pro honore acceptum etiam necessitatibus subuenit
+1	mos	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	ciuitatibus	_	_	_	_	_	_	_	_
+4	ultro	_	_	_	_	_	_	_	_
+5	ac	_	_	_	_	_	_	_	_
+6	uiritim	_	_	_	_	_	_	_	_
+7	conferre	_	_	_	_	_	_	_	_
+8	principibus	_	_	_	_	_	_	_	_
+9	uel	_	_	_	_	_	_	_	_
+10	armentorum	_	_	_	_	_	_	_	_
+11	uel	_	_	_	_	_	_	_	_
+12	frugum	_	_	_	_	_	_	_	_
+13	quod	_	_	_	_	_	_	_	_
+14	pro	_	_	_	_	_	_	_	_
+15	honore	_	_	_	_	_	_	_	_
+16	acceptum	_	_	_	_	_	_	_	_
+17	etiam	_	_	_	_	_	_	_	_
+18	necessitatibus	_	_	_	_	_	_	_	_
+19	subuenit	_	_	_	_	_	_	_	_
+
+# sent_id = 90
+# text = gaudent praecipue finitimarum gentium donis quae non modo a singulis sed et publice mittuntur electi equi magnifica arma phalerae torquesque iam et pecuniam accipere docuimus
+1	gaudent	_	_	_	_	_	_	_	_
+2	praecipue	_	_	_	_	_	_	_	_
+3	finitimarum	_	_	_	_	_	_	_	_
+4	gentium	_	_	_	_	_	_	_	_
+5	donis	_	_	_	_	_	_	_	_
+6	quae	_	_	_	_	_	_	_	_
+7	non	_	_	_	_	_	_	_	_
+8	modo	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	singulis	_	_	_	_	_	_	_	_
+11	sed	_	_	_	_	_	_	_	_
+12	et	_	_	_	_	_	_	_	_
+13	publice	_	_	_	_	_	_	_	_
+14	mittuntur	_	_	_	_	_	_	_	_
+15	electi	_	_	_	_	_	_	_	_
+16	equi	_	_	_	_	_	_	_	_
+17	magnifica	_	_	_	_	_	_	_	_
+18	arma	_	_	_	_	_	_	_	_
+19	phalerae	_	_	_	_	_	_	_	_
+20	torquesque	_	_	_	_	_	_	_	_
+21	iam	_	_	_	_	_	_	_	_
+22	et	_	_	_	_	_	_	_	_
+23	pecuniam	_	_	_	_	_	_	_	_
+24	accipere	_	_	_	_	_	_	_	_
+25	docuimus	_	_	_	_	_	_	_	_
+
+# sent_id = 91
+# text = Nullas Germanorum populis urbes habitari satis notum est ne pati quidem inter se iunctas sedes
+1	Nullas	_	_	_	_	_	_	_	_
+2	Germanorum	_	_	_	_	_	_	_	_
+3	populis	_	_	_	_	_	_	_	_
+4	urbes	_	_	_	_	_	_	_	_
+5	habitari	_	_	_	_	_	_	_	_
+6	satis	_	_	_	_	_	_	_	_
+7	notum	_	_	_	_	_	_	_	_
+8	est	_	_	_	_	_	_	_	_
+9	ne	_	_	_	_	_	_	_	_
+10	pati	_	_	_	_	_	_	_	_
+11	quidem	_	_	_	_	_	_	_	_
+12	inter	_	_	_	_	_	_	_	_
+13	se	_	_	_	_	_	_	_	_
+14	iunctas	_	_	_	_	_	_	_	_
+15	sedes	_	_	_	_	_	_	_	_
+
+# sent_id = 92
+# text = colunt discreti ac diuersi ut fons ut campus ut nemus placuit
+1	colunt	_	_	_	_	_	_	_	_
+2	discreti	_	_	_	_	_	_	_	_
+3	ac	_	_	_	_	_	_	_	_
+4	diuersi	_	_	_	_	_	_	_	_
+5	ut	_	_	_	_	_	_	_	_
+6	fons	_	_	_	_	_	_	_	_
+7	ut	_	_	_	_	_	_	_	_
+8	campus	_	_	_	_	_	_	_	_
+9	ut	_	_	_	_	_	_	_	_
+10	nemus	_	_	_	_	_	_	_	_
+11	placuit	_	_	_	_	_	_	_	_
+
+# sent_id = 93
+# text = uicos locant non in nostrum morem conexis et cohaerentibus aedificiis suam quisque domum spatio circumdat siue aduersus casus ignis remedium siue inscitia aedificandi
+1	uicos	_	_	_	_	_	_	_	_
+2	locant	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	nostrum	_	_	_	_	_	_	_	_
+6	morem	_	_	_	_	_	_	_	_
+7	conexis	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	cohaerentibus	_	_	_	_	_	_	_	_
+10	aedificiis	_	_	_	_	_	_	_	_
+11	suam	_	_	_	_	_	_	_	_
+12	quisque	_	_	_	_	_	_	_	_
+13	domum	_	_	_	_	_	_	_	_
+14	spatio	_	_	_	_	_	_	_	_
+15	circumdat	_	_	_	_	_	_	_	_
+16	siue	_	_	_	_	_	_	_	_
+17	aduersus	_	_	_	_	_	_	_	_
+18	casus	_	_	_	_	_	_	_	_
+19	ignis	_	_	_	_	_	_	_	_
+20	remedium	_	_	_	_	_	_	_	_
+21	siue	_	_	_	_	_	_	_	_
+22	inscitia	_	_	_	_	_	_	_	_
+23	aedificandi	_	_	_	_	_	_	_	_
+
+# sent_id = 94
+# text = ne caementorum quidem apud illos aut tegularum usus materia ad omnia utuntur informi et citra speciem aut delectationem
+1	ne	_	_	_	_	_	_	_	_
+2	caementorum	_	_	_	_	_	_	_	_
+3	quidem	_	_	_	_	_	_	_	_
+4	apud	_	_	_	_	_	_	_	_
+5	illos	_	_	_	_	_	_	_	_
+6	aut	_	_	_	_	_	_	_	_
+7	tegularum	_	_	_	_	_	_	_	_
+8	usus	_	_	_	_	_	_	_	_
+9	materia	_	_	_	_	_	_	_	_
+10	ad	_	_	_	_	_	_	_	_
+11	omnia	_	_	_	_	_	_	_	_
+12	utuntur	_	_	_	_	_	_	_	_
+13	informi	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	citra	_	_	_	_	_	_	_	_
+16	speciem	_	_	_	_	_	_	_	_
+17	aut	_	_	_	_	_	_	_	_
+18	delectationem	_	_	_	_	_	_	_	_
+
+# sent_id = 95
+# text = quaedam loca diligentius inlinunt terra ita pura ac splendente ut picturam ac lineamenta colorum imitetur
+1	quaedam	_	_	_	_	_	_	_	_
+2	loca	_	_	_	_	_	_	_	_
+3	diligentius	_	_	_	_	_	_	_	_
+4	inlinunt	_	_	_	_	_	_	_	_
+5	terra	_	_	_	_	_	_	_	_
+6	ita	_	_	_	_	_	_	_	_
+7	pura	_	_	_	_	_	_	_	_
+8	ac	_	_	_	_	_	_	_	_
+9	splendente	_	_	_	_	_	_	_	_
+10	ut	_	_	_	_	_	_	_	_
+11	picturam	_	_	_	_	_	_	_	_
+12	ac	_	_	_	_	_	_	_	_
+13	lineamenta	_	_	_	_	_	_	_	_
+14	colorum	_	_	_	_	_	_	_	_
+15	imitetur	_	_	_	_	_	_	_	_
+
+# sent_id = 96
+# text = solent et subterraneos specus aperire eosque multo insuper fimo onerant suffugium hiemis et receptaculum frugibus quia rigorem frigorum eius modi loci molliunt et si quando hostis aduenit aperta populatur abdita autem et defossa aut ignorantur aut eo ipso fallunt quod quaerenda sunt
+1	solent	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	subterraneos	_	_	_	_	_	_	_	_
+4	specus	_	_	_	_	_	_	_	_
+5	aperire	_	_	_	_	_	_	_	_
+6	eosque	_	_	_	_	_	_	_	_
+7	multo	_	_	_	_	_	_	_	_
+8	insuper	_	_	_	_	_	_	_	_
+9	fimo	_	_	_	_	_	_	_	_
+10	onerant	_	_	_	_	_	_	_	_
+11	suffugium	_	_	_	_	_	_	_	_
+12	hiemis	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	receptaculum	_	_	_	_	_	_	_	_
+15	frugibus	_	_	_	_	_	_	_	_
+16	quia	_	_	_	_	_	_	_	_
+17	rigorem	_	_	_	_	_	_	_	_
+18	frigorum	_	_	_	_	_	_	_	_
+19	eius	_	_	_	_	_	_	_	_
+20	modi	_	_	_	_	_	_	_	_
+21	loci	_	_	_	_	_	_	_	_
+22	molliunt	_	_	_	_	_	_	_	_
+23	et	_	_	_	_	_	_	_	_
+24	si	_	_	_	_	_	_	_	_
+25	quando	_	_	_	_	_	_	_	_
+26	hostis	_	_	_	_	_	_	_	_
+27	aduenit	_	_	_	_	_	_	_	_
+28	aperta	_	_	_	_	_	_	_	_
+29	populatur	_	_	_	_	_	_	_	_
+30	abdita	_	_	_	_	_	_	_	_
+31	autem	_	_	_	_	_	_	_	_
+32	et	_	_	_	_	_	_	_	_
+33	defossa	_	_	_	_	_	_	_	_
+34	aut	_	_	_	_	_	_	_	_
+35	ignorantur	_	_	_	_	_	_	_	_
+36	aut	_	_	_	_	_	_	_	_
+37	eo	_	_	_	_	_	_	_	_
+38	ipso	_	_	_	_	_	_	_	_
+39	fallunt	_	_	_	_	_	_	_	_
+40	quod	_	_	_	_	_	_	_	_
+41	quaerenda	_	_	_	_	_	_	_	_
+42	sunt	_	_	_	_	_	_	_	_
+
+# sent_id = 97
+# text = Tegumen omnibus sagum fibula aut si desit spina consertum cetera intecti totos dies iuxta focum atque ignem agunt
+1	Tegumen	_	_	_	_	_	_	_	_
+2	omnibus	_	_	_	_	_	_	_	_
+3	sagum	_	_	_	_	_	_	_	_
+4	fibula	_	_	_	_	_	_	_	_
+5	aut	_	_	_	_	_	_	_	_
+6	si	_	_	_	_	_	_	_	_
+7	desit	_	_	_	_	_	_	_	_
+8	spina	_	_	_	_	_	_	_	_
+9	consertum	_	_	_	_	_	_	_	_
+10	cetera	_	_	_	_	_	_	_	_
+11	intecti	_	_	_	_	_	_	_	_
+12	totos	_	_	_	_	_	_	_	_
+13	dies	_	_	_	_	_	_	_	_
+14	iuxta	_	_	_	_	_	_	_	_
+15	focum	_	_	_	_	_	_	_	_
+16	atque	_	_	_	_	_	_	_	_
+17	ignem	_	_	_	_	_	_	_	_
+18	agunt	_	_	_	_	_	_	_	_
+
+# sent_id = 98
+# text = locupletissimi ueste distinguuntur non fluitante sicut Sarmatae ac Parthi sed stricta et singulos artus exprimente
+1	locupletissimi	_	_	_	_	_	_	_	_
+2	ueste	_	_	_	_	_	_	_	_
+3	distinguuntur	_	_	_	_	_	_	_	_
+4	non	_	_	_	_	_	_	_	_
+5	fluitante	_	_	_	_	_	_	_	_
+6	sicut	_	_	_	_	_	_	_	_
+7	Sarmatae	_	_	_	_	_	_	_	_
+8	ac	_	_	_	_	_	_	_	_
+9	Parthi	_	_	_	_	_	_	_	_
+10	sed	_	_	_	_	_	_	_	_
+11	stricta	_	_	_	_	_	_	_	_
+12	et	_	_	_	_	_	_	_	_
+13	singulos	_	_	_	_	_	_	_	_
+14	artus	_	_	_	_	_	_	_	_
+15	exprimente	_	_	_	_	_	_	_	_
+
+# sent_id = 99
+# text = gerunt et ferarum pelles proximi ripae neglegenter ulteriores exquisitius ut quibus nullus per commercia cultus
+1	gerunt	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	ferarum	_	_	_	_	_	_	_	_
+4	pelles	_	_	_	_	_	_	_	_
+5	proximi	_	_	_	_	_	_	_	_
+6	ripae	_	_	_	_	_	_	_	_
+7	neglegenter	_	_	_	_	_	_	_	_
+8	ulteriores	_	_	_	_	_	_	_	_
+9	exquisitius	_	_	_	_	_	_	_	_
+10	ut	_	_	_	_	_	_	_	_
+11	quibus	_	_	_	_	_	_	_	_
+12	nullus	_	_	_	_	_	_	_	_
+13	per	_	_	_	_	_	_	_	_
+14	commercia	_	_	_	_	_	_	_	_
+15	cultus	_	_	_	_	_	_	_	_
+
+# sent_id = 100
+# text = eligunt feras et detracta uelamina spargunt maculis pellibusque beluarum quas exterior Oceanus atque ignotum mare gignit
+1	eligunt	_	_	_	_	_	_	_	_
+2	feras	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	detracta	_	_	_	_	_	_	_	_
+5	uelamina	_	_	_	_	_	_	_	_
+6	spargunt	_	_	_	_	_	_	_	_
+7	maculis	_	_	_	_	_	_	_	_
+8	pellibusque	_	_	_	_	_	_	_	_
+9	beluarum	_	_	_	_	_	_	_	_
+10	quas	_	_	_	_	_	_	_	_
+11	exterior	_	_	_	_	_	_	_	_
+12	Oceanus	_	_	_	_	_	_	_	_
+13	atque	_	_	_	_	_	_	_	_
+14	ignotum	_	_	_	_	_	_	_	_
+15	mare	_	_	_	_	_	_	_	_
+16	gignit	_	_	_	_	_	_	_	_
+
+# sent_id = 101
+# text = nec alius feminis quam uiris habitus nisi quod feminae saepius lineis amictibus uelantur eosque purpura uariant partemque uestitus superioris in manicas non extendunt nudae brachia ac lacertos sed et proxima pars pectoris patet
+1	nec	_	_	_	_	_	_	_	_
+2	alius	_	_	_	_	_	_	_	_
+3	feminis	_	_	_	_	_	_	_	_
+4	quam	_	_	_	_	_	_	_	_
+5	uiris	_	_	_	_	_	_	_	_
+6	habitus	_	_	_	_	_	_	_	_
+7	nisi	_	_	_	_	_	_	_	_
+8	quod	_	_	_	_	_	_	_	_
+9	feminae	_	_	_	_	_	_	_	_
+10	saepius	_	_	_	_	_	_	_	_
+11	lineis	_	_	_	_	_	_	_	_
+12	amictibus	_	_	_	_	_	_	_	_
+13	uelantur	_	_	_	_	_	_	_	_
+14	eosque	_	_	_	_	_	_	_	_
+15	purpura	_	_	_	_	_	_	_	_
+16	uariant	_	_	_	_	_	_	_	_
+17	partemque	_	_	_	_	_	_	_	_
+18	uestitus	_	_	_	_	_	_	_	_
+19	superioris	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	manicas	_	_	_	_	_	_	_	_
+22	non	_	_	_	_	_	_	_	_
+23	extendunt	_	_	_	_	_	_	_	_
+24	nudae	_	_	_	_	_	_	_	_
+25	brachia	_	_	_	_	_	_	_	_
+26	ac	_	_	_	_	_	_	_	_
+27	lacertos	_	_	_	_	_	_	_	_
+28	sed	_	_	_	_	_	_	_	_
+29	et	_	_	_	_	_	_	_	_
+30	proxima	_	_	_	_	_	_	_	_
+31	pars	_	_	_	_	_	_	_	_
+32	pectoris	_	_	_	_	_	_	_	_
+33	patet	_	_	_	_	_	_	_	_
+
+# sent_id = 102
+# text = Quamquam seuera illic matrimonia nec ullam morum partem magis laudaueris
+1	Quamquam	_	_	_	_	_	_	_	_
+2	seuera	_	_	_	_	_	_	_	_
+3	illic	_	_	_	_	_	_	_	_
+4	matrimonia	_	_	_	_	_	_	_	_
+5	nec	_	_	_	_	_	_	_	_
+6	ullam	_	_	_	_	_	_	_	_
+7	morum	_	_	_	_	_	_	_	_
+8	partem	_	_	_	_	_	_	_	_
+9	magis	_	_	_	_	_	_	_	_
+10	laudaueris	_	_	_	_	_	_	_	_
+
+# sent_id = 103
+# text = nam prope soli barbarorum singulis uxoribus contenti sunt exceptis admodum paucis qui non libidine sed ob nobilitatem plurimis nuptiis ambiuntur
+1	nam	_	_	_	_	_	_	_	_
+2	prope	_	_	_	_	_	_	_	_
+3	soli	_	_	_	_	_	_	_	_
+4	barbarorum	_	_	_	_	_	_	_	_
+5	singulis	_	_	_	_	_	_	_	_
+6	uxoribus	_	_	_	_	_	_	_	_
+7	contenti	_	_	_	_	_	_	_	_
+8	sunt	_	_	_	_	_	_	_	_
+9	exceptis	_	_	_	_	_	_	_	_
+10	admodum	_	_	_	_	_	_	_	_
+11	paucis	_	_	_	_	_	_	_	_
+12	qui	_	_	_	_	_	_	_	_
+13	non	_	_	_	_	_	_	_	_
+14	libidine	_	_	_	_	_	_	_	_
+15	sed	_	_	_	_	_	_	_	_
+16	ob	_	_	_	_	_	_	_	_
+17	nobilitatem	_	_	_	_	_	_	_	_
+18	plurimis	_	_	_	_	_	_	_	_
+19	nuptiis	_	_	_	_	_	_	_	_
+20	ambiuntur	_	_	_	_	_	_	_	_
+
+# sent_id = 104
+# text = dotem non uxor marito sed uxori maritus offert
+1	dotem	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+3	uxor	_	_	_	_	_	_	_	_
+4	marito	_	_	_	_	_	_	_	_
+5	sed	_	_	_	_	_	_	_	_
+6	uxori	_	_	_	_	_	_	_	_
+7	maritus	_	_	_	_	_	_	_	_
+8	offert	_	_	_	_	_	_	_	_
+
+# sent_id = 105
+# text = intersunt parentes et propinqui ac munera probant munera non ad delicias muliebres quaesita nec quibus noua nupta comatur sed boues et frenatum equum et scutum cum framea gladioque
+1	intersunt	_	_	_	_	_	_	_	_
+2	parentes	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	propinqui	_	_	_	_	_	_	_	_
+5	ac	_	_	_	_	_	_	_	_
+6	munera	_	_	_	_	_	_	_	_
+7	probant	_	_	_	_	_	_	_	_
+8	munera	_	_	_	_	_	_	_	_
+9	non	_	_	_	_	_	_	_	_
+10	ad	_	_	_	_	_	_	_	_
+11	delicias	_	_	_	_	_	_	_	_
+12	muliebres	_	_	_	_	_	_	_	_
+13	quaesita	_	_	_	_	_	_	_	_
+14	nec	_	_	_	_	_	_	_	_
+15	quibus	_	_	_	_	_	_	_	_
+16	noua	_	_	_	_	_	_	_	_
+17	nupta	_	_	_	_	_	_	_	_
+18	comatur	_	_	_	_	_	_	_	_
+19	sed	_	_	_	_	_	_	_	_
+20	boues	_	_	_	_	_	_	_	_
+21	et	_	_	_	_	_	_	_	_
+22	frenatum	_	_	_	_	_	_	_	_
+23	equum	_	_	_	_	_	_	_	_
+24	et	_	_	_	_	_	_	_	_
+25	scutum	_	_	_	_	_	_	_	_
+26	cum	_	_	_	_	_	_	_	_
+27	framea	_	_	_	_	_	_	_	_
+28	gladioque	_	_	_	_	_	_	_	_
+
+# sent_id = 106
+# text = in haec munera uxor accipitur atque in uicem ipsa armorum aliquid uiro adfert hoc maximum uinculum haec arcana sacra hos coniugales deos arbitrantur
+1	in	_	_	_	_	_	_	_	_
+2	haec	_	_	_	_	_	_	_	_
+3	munera	_	_	_	_	_	_	_	_
+4	uxor	_	_	_	_	_	_	_	_
+5	accipitur	_	_	_	_	_	_	_	_
+6	atque	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	uicem	_	_	_	_	_	_	_	_
+9	ipsa	_	_	_	_	_	_	_	_
+10	armorum	_	_	_	_	_	_	_	_
+11	aliquid	_	_	_	_	_	_	_	_
+12	uiro	_	_	_	_	_	_	_	_
+13	adfert	_	_	_	_	_	_	_	_
+14	hoc	_	_	_	_	_	_	_	_
+15	maximum	_	_	_	_	_	_	_	_
+16	uinculum	_	_	_	_	_	_	_	_
+17	haec	_	_	_	_	_	_	_	_
+18	arcana	_	_	_	_	_	_	_	_
+19	sacra	_	_	_	_	_	_	_	_
+20	hos	_	_	_	_	_	_	_	_
+21	coniugales	_	_	_	_	_	_	_	_
+22	deos	_	_	_	_	_	_	_	_
+23	arbitrantur	_	_	_	_	_	_	_	_
+
+# sent_id = 107
+# text = ne se mulier extra uirtutum cogitationes extraque bellorum casus putet ipsis incipientis matrimonii auspiciis admonetur uenire se laborum periculorumque sociam idem in pace idem in proelio passuram ausuramque hoc iuncti boues hoc paratus equus hoc data arma denuntiant
+1	ne	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	mulier	_	_	_	_	_	_	_	_
+4	extra	_	_	_	_	_	_	_	_
+5	uirtutum	_	_	_	_	_	_	_	_
+6	cogitationes	_	_	_	_	_	_	_	_
+7	extraque	_	_	_	_	_	_	_	_
+8	bellorum	_	_	_	_	_	_	_	_
+9	casus	_	_	_	_	_	_	_	_
+10	putet	_	_	_	_	_	_	_	_
+11	ipsis	_	_	_	_	_	_	_	_
+12	incipientis	_	_	_	_	_	_	_	_
+13	matrimonii	_	_	_	_	_	_	_	_
+14	auspiciis	_	_	_	_	_	_	_	_
+15	admonetur	_	_	_	_	_	_	_	_
+16	uenire	_	_	_	_	_	_	_	_
+17	se	_	_	_	_	_	_	_	_
+18	laborum	_	_	_	_	_	_	_	_
+19	periculorumque	_	_	_	_	_	_	_	_
+20	sociam	_	_	_	_	_	_	_	_
+21	idem	_	_	_	_	_	_	_	_
+22	in	_	_	_	_	_	_	_	_
+23	pace	_	_	_	_	_	_	_	_
+24	idem	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	proelio	_	_	_	_	_	_	_	_
+27	passuram	_	_	_	_	_	_	_	_
+28	ausuramque	_	_	_	_	_	_	_	_
+29	hoc	_	_	_	_	_	_	_	_
+30	iuncti	_	_	_	_	_	_	_	_
+31	boues	_	_	_	_	_	_	_	_
+32	hoc	_	_	_	_	_	_	_	_
+33	paratus	_	_	_	_	_	_	_	_
+34	equus	_	_	_	_	_	_	_	_
+35	hoc	_	_	_	_	_	_	_	_
+36	data	_	_	_	_	_	_	_	_
+37	arma	_	_	_	_	_	_	_	_
+38	denuntiant	_	_	_	_	_	_	_	_
+
+# sent_id = 108
+# text = sic uiuendum sic pariendum accipere se quae liberis inuiolata ac digna reddat quae nurus accipiant rursusque ad nepotes referantur
+1	sic	_	_	_	_	_	_	_	_
+2	uiuendum	_	_	_	_	_	_	_	_
+3	sic	_	_	_	_	_	_	_	_
+4	pariendum	_	_	_	_	_	_	_	_
+5	accipere	_	_	_	_	_	_	_	_
+6	se	_	_	_	_	_	_	_	_
+7	quae	_	_	_	_	_	_	_	_
+8	liberis	_	_	_	_	_	_	_	_
+9	inuiolata	_	_	_	_	_	_	_	_
+10	ac	_	_	_	_	_	_	_	_
+11	digna	_	_	_	_	_	_	_	_
+12	reddat	_	_	_	_	_	_	_	_
+13	quae	_	_	_	_	_	_	_	_
+14	nurus	_	_	_	_	_	_	_	_
+15	accipiant	_	_	_	_	_	_	_	_
+16	rursusque	_	_	_	_	_	_	_	_
+17	ad	_	_	_	_	_	_	_	_
+18	nepotes	_	_	_	_	_	_	_	_
+19	referantur	_	_	_	_	_	_	_	_
+
+# sent_id = 109
+# text = Ergo saepta pudicitia agunt nullis spectaculorum illecebris nullis conuiuiorum irritationibus corruptae
+1	Ergo	_	_	_	_	_	_	_	_
+2	saepta	_	_	_	_	_	_	_	_
+3	pudicitia	_	_	_	_	_	_	_	_
+4	agunt	_	_	_	_	_	_	_	_
+5	nullis	_	_	_	_	_	_	_	_
+6	spectaculorum	_	_	_	_	_	_	_	_
+7	illecebris	_	_	_	_	_	_	_	_
+8	nullis	_	_	_	_	_	_	_	_
+9	conuiuiorum	_	_	_	_	_	_	_	_
+10	irritationibus	_	_	_	_	_	_	_	_
+11	corruptae	_	_	_	_	_	_	_	_
+
+# sent_id = 110
+# text = litterarum secreta uiri pariter ac feminae ignorant
+1	litterarum	_	_	_	_	_	_	_	_
+2	secreta	_	_	_	_	_	_	_	_
+3	uiri	_	_	_	_	_	_	_	_
+4	pariter	_	_	_	_	_	_	_	_
+5	ac	_	_	_	_	_	_	_	_
+6	feminae	_	_	_	_	_	_	_	_
+7	ignorant	_	_	_	_	_	_	_	_
+
+# sent_id = 111
+# text = paucissima in tam numerosa gente adulteria quorum poena praesens et maritis permissa abscisis crinibus nudatam coram propinquis expellit domo maritus ac per omnem uicum uerbere agit publicatae enim pudicitiae nulla uenia non forma non aetate non opibus maritum inuenerit
+1	paucissima	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	tam	_	_	_	_	_	_	_	_
+4	numerosa	_	_	_	_	_	_	_	_
+5	gente	_	_	_	_	_	_	_	_
+6	adulteria	_	_	_	_	_	_	_	_
+7	quorum	_	_	_	_	_	_	_	_
+8	poena	_	_	_	_	_	_	_	_
+9	praesens	_	_	_	_	_	_	_	_
+10	et	_	_	_	_	_	_	_	_
+11	maritis	_	_	_	_	_	_	_	_
+12	permissa	_	_	_	_	_	_	_	_
+13	abscisis	_	_	_	_	_	_	_	_
+14	crinibus	_	_	_	_	_	_	_	_
+15	nudatam	_	_	_	_	_	_	_	_
+16	coram	_	_	_	_	_	_	_	_
+17	propinquis	_	_	_	_	_	_	_	_
+18	expellit	_	_	_	_	_	_	_	_
+19	domo	_	_	_	_	_	_	_	_
+20	maritus	_	_	_	_	_	_	_	_
+21	ac	_	_	_	_	_	_	_	_
+22	per	_	_	_	_	_	_	_	_
+23	omnem	_	_	_	_	_	_	_	_
+24	uicum	_	_	_	_	_	_	_	_
+25	uerbere	_	_	_	_	_	_	_	_
+26	agit	_	_	_	_	_	_	_	_
+27	publicatae	_	_	_	_	_	_	_	_
+28	enim	_	_	_	_	_	_	_	_
+29	pudicitiae	_	_	_	_	_	_	_	_
+30	nulla	_	_	_	_	_	_	_	_
+31	uenia	_	_	_	_	_	_	_	_
+32	non	_	_	_	_	_	_	_	_
+33	forma	_	_	_	_	_	_	_	_
+34	non	_	_	_	_	_	_	_	_
+35	aetate	_	_	_	_	_	_	_	_
+36	non	_	_	_	_	_	_	_	_
+37	opibus	_	_	_	_	_	_	_	_
+38	maritum	_	_	_	_	_	_	_	_
+39	inuenerit	_	_	_	_	_	_	_	_
+
+# sent_id = 112
+# text = nemo enim illic uitia ridet nec corrumpere et corrumpi saeculum uocatur
+1	nemo	_	_	_	_	_	_	_	_
+2	enim	_	_	_	_	_	_	_	_
+3	illic	_	_	_	_	_	_	_	_
+4	uitia	_	_	_	_	_	_	_	_
+5	ridet	_	_	_	_	_	_	_	_
+6	nec	_	_	_	_	_	_	_	_
+7	corrumpere	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	corrumpi	_	_	_	_	_	_	_	_
+10	saeculum	_	_	_	_	_	_	_	_
+11	uocatur	_	_	_	_	_	_	_	_
+
+# sent_id = 113
+# text = melius quidem adhuc eae ciuitates in quibus tantum uirgines nubunt et cum spe uotoque uxoris semel transigitur
+1	melius	_	_	_	_	_	_	_	_
+2	quidem	_	_	_	_	_	_	_	_
+3	adhuc	_	_	_	_	_	_	_	_
+4	eae	_	_	_	_	_	_	_	_
+5	ciuitates	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	quibus	_	_	_	_	_	_	_	_
+8	tantum	_	_	_	_	_	_	_	_
+9	uirgines	_	_	_	_	_	_	_	_
+10	nubunt	_	_	_	_	_	_	_	_
+11	et	_	_	_	_	_	_	_	_
+12	cum	_	_	_	_	_	_	_	_
+13	spe	_	_	_	_	_	_	_	_
+14	uotoque	_	_	_	_	_	_	_	_
+15	uxoris	_	_	_	_	_	_	_	_
+16	semel	_	_	_	_	_	_	_	_
+17	transigitur	_	_	_	_	_	_	_	_
+
+# sent_id = 114
+# text = sic unum accipiunt maritum quo modo unum corpus unamque uitam ne ulla cogitatio ultra ne longior cupiditas ne tamquam maritum sed tamquam matrimonium ament
+1	sic	_	_	_	_	_	_	_	_
+2	unum	_	_	_	_	_	_	_	_
+3	accipiunt	_	_	_	_	_	_	_	_
+4	maritum	_	_	_	_	_	_	_	_
+5	quo	_	_	_	_	_	_	_	_
+6	modo	_	_	_	_	_	_	_	_
+7	unum	_	_	_	_	_	_	_	_
+8	corpus	_	_	_	_	_	_	_	_
+9	unamque	_	_	_	_	_	_	_	_
+10	uitam	_	_	_	_	_	_	_	_
+11	ne	_	_	_	_	_	_	_	_
+12	ulla	_	_	_	_	_	_	_	_
+13	cogitatio	_	_	_	_	_	_	_	_
+14	ultra	_	_	_	_	_	_	_	_
+15	ne	_	_	_	_	_	_	_	_
+16	longior	_	_	_	_	_	_	_	_
+17	cupiditas	_	_	_	_	_	_	_	_
+18	ne	_	_	_	_	_	_	_	_
+19	tamquam	_	_	_	_	_	_	_	_
+20	maritum	_	_	_	_	_	_	_	_
+21	sed	_	_	_	_	_	_	_	_
+22	tamquam	_	_	_	_	_	_	_	_
+23	matrimonium	_	_	_	_	_	_	_	_
+24	ament	_	_	_	_	_	_	_	_
+
+# sent_id = 115
+# text = numerum liberorum finire aut quemquam ex agnatis necare flagitium habetur plusque ibi boni mores ualent quam alibi bonae leges
+1	numerum	_	_	_	_	_	_	_	_
+2	liberorum	_	_	_	_	_	_	_	_
+3	finire	_	_	_	_	_	_	_	_
+4	aut	_	_	_	_	_	_	_	_
+5	quemquam	_	_	_	_	_	_	_	_
+6	ex	_	_	_	_	_	_	_	_
+7	agnatis	_	_	_	_	_	_	_	_
+8	necare	_	_	_	_	_	_	_	_
+9	flagitium	_	_	_	_	_	_	_	_
+10	habetur	_	_	_	_	_	_	_	_
+11	plusque	_	_	_	_	_	_	_	_
+12	ibi	_	_	_	_	_	_	_	_
+13	boni	_	_	_	_	_	_	_	_
+14	mores	_	_	_	_	_	_	_	_
+15	ualent	_	_	_	_	_	_	_	_
+16	quam	_	_	_	_	_	_	_	_
+17	alibi	_	_	_	_	_	_	_	_
+18	bonae	_	_	_	_	_	_	_	_
+19	leges	_	_	_	_	_	_	_	_
+
+# sent_id = 116
+# text = In omni domo nudi ac sordidi in hos artus in haec corpora quae miramur excrescunt
+1	In	_	_	_	_	_	_	_	_
+2	omni	_	_	_	_	_	_	_	_
+3	domo	_	_	_	_	_	_	_	_
+4	nudi	_	_	_	_	_	_	_	_
+5	ac	_	_	_	_	_	_	_	_
+6	sordidi	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	hos	_	_	_	_	_	_	_	_
+9	artus	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	haec	_	_	_	_	_	_	_	_
+12	corpora	_	_	_	_	_	_	_	_
+13	quae	_	_	_	_	_	_	_	_
+14	miramur	_	_	_	_	_	_	_	_
+15	excrescunt	_	_	_	_	_	_	_	_
+
+# sent_id = 117
+# text = sua quemque mater uberibus alit nec ancillis ac nutricibus delegantur
+1	sua	_	_	_	_	_	_	_	_
+2	quemque	_	_	_	_	_	_	_	_
+3	mater	_	_	_	_	_	_	_	_
+4	uberibus	_	_	_	_	_	_	_	_
+5	alit	_	_	_	_	_	_	_	_
+6	nec	_	_	_	_	_	_	_	_
+7	ancillis	_	_	_	_	_	_	_	_
+8	ac	_	_	_	_	_	_	_	_
+9	nutricibus	_	_	_	_	_	_	_	_
+10	delegantur	_	_	_	_	_	_	_	_
+
+# sent_id = 118
+# text = dominum ac seruum nullis educationis deliciis dignoscas inter eadem pecora in eadem humo degunt donec aetas separet ingenuos uirtus agnoscat
+1	dominum	_	_	_	_	_	_	_	_
+2	ac	_	_	_	_	_	_	_	_
+3	seruum	_	_	_	_	_	_	_	_
+4	nullis	_	_	_	_	_	_	_	_
+5	educationis	_	_	_	_	_	_	_	_
+6	deliciis	_	_	_	_	_	_	_	_
+7	dignoscas	_	_	_	_	_	_	_	_
+8	inter	_	_	_	_	_	_	_	_
+9	eadem	_	_	_	_	_	_	_	_
+10	pecora	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	eadem	_	_	_	_	_	_	_	_
+13	humo	_	_	_	_	_	_	_	_
+14	degunt	_	_	_	_	_	_	_	_
+15	donec	_	_	_	_	_	_	_	_
+16	aetas	_	_	_	_	_	_	_	_
+17	separet	_	_	_	_	_	_	_	_
+18	ingenuos	_	_	_	_	_	_	_	_
+19	uirtus	_	_	_	_	_	_	_	_
+20	agnoscat	_	_	_	_	_	_	_	_
+
+# sent_id = 119
+# text = sera iuuenum uenus eoque inexhausta pubertas
+1	sera	_	_	_	_	_	_	_	_
+2	iuuenum	_	_	_	_	_	_	_	_
+3	uenus	_	_	_	_	_	_	_	_
+4	eoque	_	_	_	_	_	_	_	_
+5	inexhausta	_	_	_	_	_	_	_	_
+6	pubertas	_	_	_	_	_	_	_	_
+
+# sent_id = 120
+# text = nec uirgines festinantur eadem iuuenta similis proceritas pares ualidaeque miscentur ac robora parentum liberi referunt
+1	nec	_	_	_	_	_	_	_	_
+2	uirgines	_	_	_	_	_	_	_	_
+3	festinantur	_	_	_	_	_	_	_	_
+4	eadem	_	_	_	_	_	_	_	_
+5	iuuenta	_	_	_	_	_	_	_	_
+6	similis	_	_	_	_	_	_	_	_
+7	proceritas	_	_	_	_	_	_	_	_
+8	pares	_	_	_	_	_	_	_	_
+9	ualidaeque	_	_	_	_	_	_	_	_
+10	miscentur	_	_	_	_	_	_	_	_
+11	ac	_	_	_	_	_	_	_	_
+12	robora	_	_	_	_	_	_	_	_
+13	parentum	_	_	_	_	_	_	_	_
+14	liberi	_	_	_	_	_	_	_	_
+15	referunt	_	_	_	_	_	_	_	_
+
+# sent_id = 121
+# text = sororum filiis idem apud auunculum qui apud patrem honor
+1	sororum	_	_	_	_	_	_	_	_
+2	filiis	_	_	_	_	_	_	_	_
+3	idem	_	_	_	_	_	_	_	_
+4	apud	_	_	_	_	_	_	_	_
+5	auunculum	_	_	_	_	_	_	_	_
+6	qui	_	_	_	_	_	_	_	_
+7	apud	_	_	_	_	_	_	_	_
+8	patrem	_	_	_	_	_	_	_	_
+9	honor	_	_	_	_	_	_	_	_
+
+# sent_id = 122
+# text = quidam sanctiorem artioremque hunc nexum sanguinis arbitrantur et in accipiendis obsidibus magis exigunt tamquam et animum firmius et domum latius teneant
+1	quidam	_	_	_	_	_	_	_	_
+2	sanctiorem	_	_	_	_	_	_	_	_
+3	artioremque	_	_	_	_	_	_	_	_
+4	hunc	_	_	_	_	_	_	_	_
+5	nexum	_	_	_	_	_	_	_	_
+6	sanguinis	_	_	_	_	_	_	_	_
+7	arbitrantur	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	accipiendis	_	_	_	_	_	_	_	_
+11	obsidibus	_	_	_	_	_	_	_	_
+12	magis	_	_	_	_	_	_	_	_
+13	exigunt	_	_	_	_	_	_	_	_
+14	tamquam	_	_	_	_	_	_	_	_
+15	et	_	_	_	_	_	_	_	_
+16	animum	_	_	_	_	_	_	_	_
+17	firmius	_	_	_	_	_	_	_	_
+18	et	_	_	_	_	_	_	_	_
+19	domum	_	_	_	_	_	_	_	_
+20	latius	_	_	_	_	_	_	_	_
+21	teneant	_	_	_	_	_	_	_	_
+
+# sent_id = 123
+# text = heredes tamen successoresque sui cuique liberi et nullum testamentum
+1	heredes	_	_	_	_	_	_	_	_
+2	tamen	_	_	_	_	_	_	_	_
+3	successoresque	_	_	_	_	_	_	_	_
+4	sui	_	_	_	_	_	_	_	_
+5	cuique	_	_	_	_	_	_	_	_
+6	liberi	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	nullum	_	_	_	_	_	_	_	_
+9	testamentum	_	_	_	_	_	_	_	_
+
+# sent_id = 124
+# text = si liberi non sunt proximus gradus in possessione fratres patrui auunculi
+1	si	_	_	_	_	_	_	_	_
+2	liberi	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	sunt	_	_	_	_	_	_	_	_
+5	proximus	_	_	_	_	_	_	_	_
+6	gradus	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	possessione	_	_	_	_	_	_	_	_
+9	fratres	_	_	_	_	_	_	_	_
+10	patrui	_	_	_	_	_	_	_	_
+11	auunculi	_	_	_	_	_	_	_	_
+
+# sent_id = 125
+# text = quanto plus propinquorum quanto maior adfinium numerus tanto gratiosior senectus nec ulla orbitatis pretia
+1	quanto	_	_	_	_	_	_	_	_
+2	plus	_	_	_	_	_	_	_	_
+3	propinquorum	_	_	_	_	_	_	_	_
+4	quanto	_	_	_	_	_	_	_	_
+5	maior	_	_	_	_	_	_	_	_
+6	adfinium	_	_	_	_	_	_	_	_
+7	numerus	_	_	_	_	_	_	_	_
+8	tanto	_	_	_	_	_	_	_	_
+9	gratiosior	_	_	_	_	_	_	_	_
+10	senectus	_	_	_	_	_	_	_	_
+11	nec	_	_	_	_	_	_	_	_
+12	ulla	_	_	_	_	_	_	_	_
+13	orbitatis	_	_	_	_	_	_	_	_
+14	pretia	_	_	_	_	_	_	_	_
+
+# sent_id = 126
+# text = Suscipere tam inimicitias seu patris seu propinqui quam amicitias necesse est
+1	Suscipere	_	_	_	_	_	_	_	_
+2	tam	_	_	_	_	_	_	_	_
+3	inimicitias	_	_	_	_	_	_	_	_
+4	seu	_	_	_	_	_	_	_	_
+5	patris	_	_	_	_	_	_	_	_
+6	seu	_	_	_	_	_	_	_	_
+7	propinqui	_	_	_	_	_	_	_	_
+8	quam	_	_	_	_	_	_	_	_
+9	amicitias	_	_	_	_	_	_	_	_
+10	necesse	_	_	_	_	_	_	_	_
+11	est	_	_	_	_	_	_	_	_
+
+# sent_id = 127
+# text = nec implacabiles durant luitur enim etiam homicidium certo armentorum ac pecorum numero recipitque satisfactionem uniuersa domus utiliter in publicum quia periculosiores sunt inimicitiae iuxta libertatem
+1	nec	_	_	_	_	_	_	_	_
+2	implacabiles	_	_	_	_	_	_	_	_
+3	durant	_	_	_	_	_	_	_	_
+4	luitur	_	_	_	_	_	_	_	_
+5	enim	_	_	_	_	_	_	_	_
+6	etiam	_	_	_	_	_	_	_	_
+7	homicidium	_	_	_	_	_	_	_	_
+8	certo	_	_	_	_	_	_	_	_
+9	armentorum	_	_	_	_	_	_	_	_
+10	ac	_	_	_	_	_	_	_	_
+11	pecorum	_	_	_	_	_	_	_	_
+12	numero	_	_	_	_	_	_	_	_
+13	recipitque	_	_	_	_	_	_	_	_
+14	satisfactionem	_	_	_	_	_	_	_	_
+15	uniuersa	_	_	_	_	_	_	_	_
+16	domus	_	_	_	_	_	_	_	_
+17	utiliter	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	publicum	_	_	_	_	_	_	_	_
+20	quia	_	_	_	_	_	_	_	_
+21	periculosiores	_	_	_	_	_	_	_	_
+22	sunt	_	_	_	_	_	_	_	_
+23	inimicitiae	_	_	_	_	_	_	_	_
+24	iuxta	_	_	_	_	_	_	_	_
+25	libertatem	_	_	_	_	_	_	_	_
+
+# sent_id = 128
+# text = Conuictibus et hospitiis non alia gens effusius indulget
+1	Conuictibus	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	hospitiis	_	_	_	_	_	_	_	_
+4	non	_	_	_	_	_	_	_	_
+5	alia	_	_	_	_	_	_	_	_
+6	gens	_	_	_	_	_	_	_	_
+7	effusius	_	_	_	_	_	_	_	_
+8	indulget	_	_	_	_	_	_	_	_
+
+# sent_id = 129
+# text = quemcumque mortalium arcere tecto nefas habetur pro fortuna quisque apparatis epulis excipit
+1	quemcumque	_	_	_	_	_	_	_	_
+2	mortalium	_	_	_	_	_	_	_	_
+3	arcere	_	_	_	_	_	_	_	_
+4	tecto	_	_	_	_	_	_	_	_
+5	nefas	_	_	_	_	_	_	_	_
+6	habetur	_	_	_	_	_	_	_	_
+7	pro	_	_	_	_	_	_	_	_
+8	fortuna	_	_	_	_	_	_	_	_
+9	quisque	_	_	_	_	_	_	_	_
+10	apparatis	_	_	_	_	_	_	_	_
+11	epulis	_	_	_	_	_	_	_	_
+12	excipit	_	_	_	_	_	_	_	_
+
+# sent_id = 130
+# text = cum defecere qui modo hospes fuerat monstrator hospitii et comes proximam domum non inuitati adeunt
+1	cum	_	_	_	_	_	_	_	_
+2	defecere	_	_	_	_	_	_	_	_
+3	qui	_	_	_	_	_	_	_	_
+4	modo	_	_	_	_	_	_	_	_
+5	hospes	_	_	_	_	_	_	_	_
+6	fuerat	_	_	_	_	_	_	_	_
+7	monstrator	_	_	_	_	_	_	_	_
+8	hospitii	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	comes	_	_	_	_	_	_	_	_
+11	proximam	_	_	_	_	_	_	_	_
+12	domum	_	_	_	_	_	_	_	_
+13	non	_	_	_	_	_	_	_	_
+14	inuitati	_	_	_	_	_	_	_	_
+15	adeunt	_	_	_	_	_	_	_	_
+
+# sent_id = 131
+# text = nec interest pari humanitate accipiuntur
+1	nec	_	_	_	_	_	_	_	_
+2	interest	_	_	_	_	_	_	_	_
+3	pari	_	_	_	_	_	_	_	_
+4	humanitate	_	_	_	_	_	_	_	_
+5	accipiuntur	_	_	_	_	_	_	_	_
+
+# sent_id = 132
+# text = notum ignotumque quantum ad ius hospitis nemo discernit
+1	notum	_	_	_	_	_	_	_	_
+2	ignotumque	_	_	_	_	_	_	_	_
+3	quantum	_	_	_	_	_	_	_	_
+4	ad	_	_	_	_	_	_	_	_
+5	ius	_	_	_	_	_	_	_	_
+6	hospitis	_	_	_	_	_	_	_	_
+7	nemo	_	_	_	_	_	_	_	_
+8	discernit	_	_	_	_	_	_	_	_
+
+# sent_id = 133
+# text = abeunti si quid poposcerit concedere moris et poscendi in uicem eadem facilitas
+1	abeunti	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	quid	_	_	_	_	_	_	_	_
+4	poposcerit	_	_	_	_	_	_	_	_
+5	concedere	_	_	_	_	_	_	_	_
+6	moris	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	poscendi	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	uicem	_	_	_	_	_	_	_	_
+11	eadem	_	_	_	_	_	_	_	_
+12	facilitas	_	_	_	_	_	_	_	_
+
+# sent_id = 134
+# text = gaudent muneribus sed nec data imputant nec acceptis obligantur
+1	gaudent	_	_	_	_	_	_	_	_
+2	muneribus	_	_	_	_	_	_	_	_
+3	sed	_	_	_	_	_	_	_	_
+4	nec	_	_	_	_	_	_	_	_
+5	data	_	_	_	_	_	_	_	_
+6	imputant	_	_	_	_	_	_	_	_
+7	nec	_	_	_	_	_	_	_	_
+8	acceptis	_	_	_	_	_	_	_	_
+9	obligantur	_	_	_	_	_	_	_	_
+
+# sent_id = 135
+# text = Statim e somno quem plerumque in diem extrahunt lauantur saepius calida ut apud quos plurimum hiems occupat
+1	Statim	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	somno	_	_	_	_	_	_	_	_
+4	quem	_	_	_	_	_	_	_	_
+5	plerumque	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	diem	_	_	_	_	_	_	_	_
+8	extrahunt	_	_	_	_	_	_	_	_
+9	lauantur	_	_	_	_	_	_	_	_
+10	saepius	_	_	_	_	_	_	_	_
+11	calida	_	_	_	_	_	_	_	_
+12	ut	_	_	_	_	_	_	_	_
+13	apud	_	_	_	_	_	_	_	_
+14	quos	_	_	_	_	_	_	_	_
+15	plurimum	_	_	_	_	_	_	_	_
+16	hiems	_	_	_	_	_	_	_	_
+17	occupat	_	_	_	_	_	_	_	_
+
+# sent_id = 136
+# text = lauti cibum capiunt separatae singulis sedes et sua cuique mensa
+1	lauti	_	_	_	_	_	_	_	_
+2	cibum	_	_	_	_	_	_	_	_
+3	capiunt	_	_	_	_	_	_	_	_
+4	separatae	_	_	_	_	_	_	_	_
+5	singulis	_	_	_	_	_	_	_	_
+6	sedes	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	sua	_	_	_	_	_	_	_	_
+9	cuique	_	_	_	_	_	_	_	_
+10	mensa	_	_	_	_	_	_	_	_
+
+# sent_id = 137
+# text = tum ad negotia nec minus saepe ad conuiuia procedunt armati
+1	tum	_	_	_	_	_	_	_	_
+2	ad	_	_	_	_	_	_	_	_
+3	negotia	_	_	_	_	_	_	_	_
+4	nec	_	_	_	_	_	_	_	_
+5	minus	_	_	_	_	_	_	_	_
+6	saepe	_	_	_	_	_	_	_	_
+7	ad	_	_	_	_	_	_	_	_
+8	conuiuia	_	_	_	_	_	_	_	_
+9	procedunt	_	_	_	_	_	_	_	_
+10	armati	_	_	_	_	_	_	_	_
+
+# sent_id = 138
+# text = diem noctemque continuare potando nulli probrum
+1	diem	_	_	_	_	_	_	_	_
+2	noctemque	_	_	_	_	_	_	_	_
+3	continuare	_	_	_	_	_	_	_	_
+4	potando	_	_	_	_	_	_	_	_
+5	nulli	_	_	_	_	_	_	_	_
+6	probrum	_	_	_	_	_	_	_	_
+
+# sent_id = 139
+# text = crebrae ut inter uinolentos rixae raro conuiciis saepius caede et uulneribus transiguntur
+1	crebrae	_	_	_	_	_	_	_	_
+2	ut	_	_	_	_	_	_	_	_
+3	inter	_	_	_	_	_	_	_	_
+4	uinolentos	_	_	_	_	_	_	_	_
+5	rixae	_	_	_	_	_	_	_	_
+6	raro	_	_	_	_	_	_	_	_
+7	conuiciis	_	_	_	_	_	_	_	_
+8	saepius	_	_	_	_	_	_	_	_
+9	caede	_	_	_	_	_	_	_	_
+10	et	_	_	_	_	_	_	_	_
+11	uulneribus	_	_	_	_	_	_	_	_
+12	transiguntur	_	_	_	_	_	_	_	_
+
+# sent_id = 140
+# text = sed et de reconciliandis inuicem inimicis et iungendis adfinitatibus et adsciscendis principibus de pace denique ac bello plerumque in conuiuiis consultant tamquam nullo magis tempore aut ad simplices cogitationes pateat animus aut ad magnas incalescat
+1	sed	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	de	_	_	_	_	_	_	_	_
+4	reconciliandis	_	_	_	_	_	_	_	_
+5	inuicem	_	_	_	_	_	_	_	_
+6	inimicis	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	iungendis	_	_	_	_	_	_	_	_
+9	adfinitatibus	_	_	_	_	_	_	_	_
+10	et	_	_	_	_	_	_	_	_
+11	adsciscendis	_	_	_	_	_	_	_	_
+12	principibus	_	_	_	_	_	_	_	_
+13	de	_	_	_	_	_	_	_	_
+14	pace	_	_	_	_	_	_	_	_
+15	denique	_	_	_	_	_	_	_	_
+16	ac	_	_	_	_	_	_	_	_
+17	bello	_	_	_	_	_	_	_	_
+18	plerumque	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	conuiuiis	_	_	_	_	_	_	_	_
+21	consultant	_	_	_	_	_	_	_	_
+22	tamquam	_	_	_	_	_	_	_	_
+23	nullo	_	_	_	_	_	_	_	_
+24	magis	_	_	_	_	_	_	_	_
+25	tempore	_	_	_	_	_	_	_	_
+26	aut	_	_	_	_	_	_	_	_
+27	ad	_	_	_	_	_	_	_	_
+28	simplices	_	_	_	_	_	_	_	_
+29	cogitationes	_	_	_	_	_	_	_	_
+30	pateat	_	_	_	_	_	_	_	_
+31	animus	_	_	_	_	_	_	_	_
+32	aut	_	_	_	_	_	_	_	_
+33	ad	_	_	_	_	_	_	_	_
+34	magnas	_	_	_	_	_	_	_	_
+35	incalescat	_	_	_	_	_	_	_	_
+
+# sent_id = 141
+# text = gens non astuta nec callida aperit adhuc secreta pectoris licentia loci ergo detecta et nuda omnium mens
+1	gens	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+3	astuta	_	_	_	_	_	_	_	_
+4	nec	_	_	_	_	_	_	_	_
+5	callida	_	_	_	_	_	_	_	_
+6	aperit	_	_	_	_	_	_	_	_
+7	adhuc	_	_	_	_	_	_	_	_
+8	secreta	_	_	_	_	_	_	_	_
+9	pectoris	_	_	_	_	_	_	_	_
+10	licentia	_	_	_	_	_	_	_	_
+11	loci	_	_	_	_	_	_	_	_
+12	ergo	_	_	_	_	_	_	_	_
+13	detecta	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	nuda	_	_	_	_	_	_	_	_
+16	omnium	_	_	_	_	_	_	_	_
+17	mens	_	_	_	_	_	_	_	_
+
+# sent_id = 142
+# text = postera die retractatur et salua utriusque temporis ratio est deliberant dum fingere nesciunt constituunt dum errare non possunt
+1	postera	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	retractatur	_	_	_	_	_	_	_	_
+4	et	_	_	_	_	_	_	_	_
+5	salua	_	_	_	_	_	_	_	_
+6	utriusque	_	_	_	_	_	_	_	_
+7	temporis	_	_	_	_	_	_	_	_
+8	ratio	_	_	_	_	_	_	_	_
+9	est	_	_	_	_	_	_	_	_
+10	deliberant	_	_	_	_	_	_	_	_
+11	dum	_	_	_	_	_	_	_	_
+12	fingere	_	_	_	_	_	_	_	_
+13	nesciunt	_	_	_	_	_	_	_	_
+14	constituunt	_	_	_	_	_	_	_	_
+15	dum	_	_	_	_	_	_	_	_
+16	errare	_	_	_	_	_	_	_	_
+17	non	_	_	_	_	_	_	_	_
+18	possunt	_	_	_	_	_	_	_	_
+
+# sent_id = 143
+# text = Potui humor ex hordeo aut frumento in quandam similitudinem uini corruptus proximi ripae et uinum mercantur
+1	Potui	_	_	_	_	_	_	_	_
+2	humor	_	_	_	_	_	_	_	_
+3	ex	_	_	_	_	_	_	_	_
+4	hordeo	_	_	_	_	_	_	_	_
+5	aut	_	_	_	_	_	_	_	_
+6	frumento	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	quandam	_	_	_	_	_	_	_	_
+9	similitudinem	_	_	_	_	_	_	_	_
+10	uini	_	_	_	_	_	_	_	_
+11	corruptus	_	_	_	_	_	_	_	_
+12	proximi	_	_	_	_	_	_	_	_
+13	ripae	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	uinum	_	_	_	_	_	_	_	_
+16	mercantur	_	_	_	_	_	_	_	_
+
+# sent_id = 144
+# text = cibi simplices agrestia poma recens fera aut lac concretum sine apparatu sine blandimentis expellunt famem
+1	cibi	_	_	_	_	_	_	_	_
+2	simplices	_	_	_	_	_	_	_	_
+3	agrestia	_	_	_	_	_	_	_	_
+4	poma	_	_	_	_	_	_	_	_
+5	recens	_	_	_	_	_	_	_	_
+6	fera	_	_	_	_	_	_	_	_
+7	aut	_	_	_	_	_	_	_	_
+8	lac	_	_	_	_	_	_	_	_
+9	concretum	_	_	_	_	_	_	_	_
+10	sine	_	_	_	_	_	_	_	_
+11	apparatu	_	_	_	_	_	_	_	_
+12	sine	_	_	_	_	_	_	_	_
+13	blandimentis	_	_	_	_	_	_	_	_
+14	expellunt	_	_	_	_	_	_	_	_
+15	famem	_	_	_	_	_	_	_	_
+
+# sent_id = 145
+# text = aduersus sitim non eadem temperantia
+1	aduersus	_	_	_	_	_	_	_	_
+2	sitim	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	eadem	_	_	_	_	_	_	_	_
+5	temperantia	_	_	_	_	_	_	_	_
+
+# sent_id = 146
+# text = si indulseris ebrietati suggerendo quantum concupiscunt haud minus facile uitiis quam armis uincentur
+1	si	_	_	_	_	_	_	_	_
+2	indulseris	_	_	_	_	_	_	_	_
+3	ebrietati	_	_	_	_	_	_	_	_
+4	suggerendo	_	_	_	_	_	_	_	_
+5	quantum	_	_	_	_	_	_	_	_
+6	concupiscunt	_	_	_	_	_	_	_	_
+7	haud	_	_	_	_	_	_	_	_
+8	minus	_	_	_	_	_	_	_	_
+9	facile	_	_	_	_	_	_	_	_
+10	uitiis	_	_	_	_	_	_	_	_
+11	quam	_	_	_	_	_	_	_	_
+12	armis	_	_	_	_	_	_	_	_
+13	uincentur	_	_	_	_	_	_	_	_
+
+# sent_id = 147
+# text = Genus spectaculorum unum atque in omni coetu idem nudi iuuenes quibus id ludicrum est inter gladios se atque infestas frameas saltu iaciunt
+1	Genus	_	_	_	_	_	_	_	_
+2	spectaculorum	_	_	_	_	_	_	_	_
+3	unum	_	_	_	_	_	_	_	_
+4	atque	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	omni	_	_	_	_	_	_	_	_
+7	coetu	_	_	_	_	_	_	_	_
+8	idem	_	_	_	_	_	_	_	_
+9	nudi	_	_	_	_	_	_	_	_
+10	iuuenes	_	_	_	_	_	_	_	_
+11	quibus	_	_	_	_	_	_	_	_
+12	id	_	_	_	_	_	_	_	_
+13	ludicrum	_	_	_	_	_	_	_	_
+14	est	_	_	_	_	_	_	_	_
+15	inter	_	_	_	_	_	_	_	_
+16	gladios	_	_	_	_	_	_	_	_
+17	se	_	_	_	_	_	_	_	_
+18	atque	_	_	_	_	_	_	_	_
+19	infestas	_	_	_	_	_	_	_	_
+20	frameas	_	_	_	_	_	_	_	_
+21	saltu	_	_	_	_	_	_	_	_
+22	iaciunt	_	_	_	_	_	_	_	_
+
+# sent_id = 148
+# text = exercitatio artem parauit ars decorem non in quaestum tamen aut mercedem quamuis audacis lasciuiae pretium est uoluptas spectantium
+1	exercitatio	_	_	_	_	_	_	_	_
+2	artem	_	_	_	_	_	_	_	_
+3	parauit	_	_	_	_	_	_	_	_
+4	ars	_	_	_	_	_	_	_	_
+5	decorem	_	_	_	_	_	_	_	_
+6	non	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	quaestum	_	_	_	_	_	_	_	_
+9	tamen	_	_	_	_	_	_	_	_
+10	aut	_	_	_	_	_	_	_	_
+11	mercedem	_	_	_	_	_	_	_	_
+12	quamuis	_	_	_	_	_	_	_	_
+13	audacis	_	_	_	_	_	_	_	_
+14	lasciuiae	_	_	_	_	_	_	_	_
+15	pretium	_	_	_	_	_	_	_	_
+16	est	_	_	_	_	_	_	_	_
+17	uoluptas	_	_	_	_	_	_	_	_
+18	spectantium	_	_	_	_	_	_	_	_
+
+# sent_id = 149
+# text = aleam quod mirere sobrii inter seria exercent tanta lucrandi perdendiue temeritate ut cum omnia defecerunt extremo ac nouissimo iactu de libertate ac de corpore contendant
+1	aleam	_	_	_	_	_	_	_	_
+2	quod	_	_	_	_	_	_	_	_
+3	mirere	_	_	_	_	_	_	_	_
+4	sobrii	_	_	_	_	_	_	_	_
+5	inter	_	_	_	_	_	_	_	_
+6	seria	_	_	_	_	_	_	_	_
+7	exercent	_	_	_	_	_	_	_	_
+8	tanta	_	_	_	_	_	_	_	_
+9	lucrandi	_	_	_	_	_	_	_	_
+10	perdendiue	_	_	_	_	_	_	_	_
+11	temeritate	_	_	_	_	_	_	_	_
+12	ut	_	_	_	_	_	_	_	_
+13	cum	_	_	_	_	_	_	_	_
+14	omnia	_	_	_	_	_	_	_	_
+15	defecerunt	_	_	_	_	_	_	_	_
+16	extremo	_	_	_	_	_	_	_	_
+17	ac	_	_	_	_	_	_	_	_
+18	nouissimo	_	_	_	_	_	_	_	_
+19	iactu	_	_	_	_	_	_	_	_
+20	de	_	_	_	_	_	_	_	_
+21	libertate	_	_	_	_	_	_	_	_
+22	ac	_	_	_	_	_	_	_	_
+23	de	_	_	_	_	_	_	_	_
+24	corpore	_	_	_	_	_	_	_	_
+25	contendant	_	_	_	_	_	_	_	_
+
+# sent_id = 150
+# text = uictus uoluntariam seruitutem adit quamuis iuuenior quamuis robustior alligari se ac uenire patitur
+1	uictus	_	_	_	_	_	_	_	_
+2	uoluntariam	_	_	_	_	_	_	_	_
+3	seruitutem	_	_	_	_	_	_	_	_
+4	adit	_	_	_	_	_	_	_	_
+5	quamuis	_	_	_	_	_	_	_	_
+6	iuuenior	_	_	_	_	_	_	_	_
+7	quamuis	_	_	_	_	_	_	_	_
+8	robustior	_	_	_	_	_	_	_	_
+9	alligari	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	ac	_	_	_	_	_	_	_	_
+12	uenire	_	_	_	_	_	_	_	_
+13	patitur	_	_	_	_	_	_	_	_
+
+# sent_id = 151
+# text = ea est in re praua peruicacia ipsi fidem uocant
+1	ea	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	re	_	_	_	_	_	_	_	_
+5	praua	_	_	_	_	_	_	_	_
+6	peruicacia	_	_	_	_	_	_	_	_
+7	ipsi	_	_	_	_	_	_	_	_
+8	fidem	_	_	_	_	_	_	_	_
+9	uocant	_	_	_	_	_	_	_	_
+
+# sent_id = 152
+# text = seruos condicionis huius per commercia tradunt ut se quoque pudore uictoriae exsoluant
+1	seruos	_	_	_	_	_	_	_	_
+2	condicionis	_	_	_	_	_	_	_	_
+3	huius	_	_	_	_	_	_	_	_
+4	per	_	_	_	_	_	_	_	_
+5	commercia	_	_	_	_	_	_	_	_
+6	tradunt	_	_	_	_	_	_	_	_
+7	ut	_	_	_	_	_	_	_	_
+8	se	_	_	_	_	_	_	_	_
+9	quoque	_	_	_	_	_	_	_	_
+10	pudore	_	_	_	_	_	_	_	_
+11	uictoriae	_	_	_	_	_	_	_	_
+12	exsoluant	_	_	_	_	_	_	_	_
+
+# sent_id = 153
+# text = Ceteris seruis non in nostrum morem descriptis per familiam ministeriis utuntur suam quisque sedem suos penates regit
+1	Ceteris	_	_	_	_	_	_	_	_
+2	seruis	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	nostrum	_	_	_	_	_	_	_	_
+6	morem	_	_	_	_	_	_	_	_
+7	descriptis	_	_	_	_	_	_	_	_
+8	per	_	_	_	_	_	_	_	_
+9	familiam	_	_	_	_	_	_	_	_
+10	ministeriis	_	_	_	_	_	_	_	_
+11	utuntur	_	_	_	_	_	_	_	_
+12	suam	_	_	_	_	_	_	_	_
+13	quisque	_	_	_	_	_	_	_	_
+14	sedem	_	_	_	_	_	_	_	_
+15	suos	_	_	_	_	_	_	_	_
+16	penates	_	_	_	_	_	_	_	_
+17	regit	_	_	_	_	_	_	_	_
+
+# sent_id = 154
+# text = frumenti modum dominus aut pecoris aut uestis ut colono iniungit et seruus hactenus paret cetera domus officia uxor ac liberi exequuntur
+1	frumenti	_	_	_	_	_	_	_	_
+2	modum	_	_	_	_	_	_	_	_
+3	dominus	_	_	_	_	_	_	_	_
+4	aut	_	_	_	_	_	_	_	_
+5	pecoris	_	_	_	_	_	_	_	_
+6	aut	_	_	_	_	_	_	_	_
+7	uestis	_	_	_	_	_	_	_	_
+8	ut	_	_	_	_	_	_	_	_
+9	colono	_	_	_	_	_	_	_	_
+10	iniungit	_	_	_	_	_	_	_	_
+11	et	_	_	_	_	_	_	_	_
+12	seruus	_	_	_	_	_	_	_	_
+13	hactenus	_	_	_	_	_	_	_	_
+14	paret	_	_	_	_	_	_	_	_
+15	cetera	_	_	_	_	_	_	_	_
+16	domus	_	_	_	_	_	_	_	_
+17	officia	_	_	_	_	_	_	_	_
+18	uxor	_	_	_	_	_	_	_	_
+19	ac	_	_	_	_	_	_	_	_
+20	liberi	_	_	_	_	_	_	_	_
+21	exequuntur	_	_	_	_	_	_	_	_
+
+# sent_id = 155
+# text = uerberare seruum ac uinculis et opere coercere rarum occidere solent non disciplina et seueritate sed impetu et ira ut inimicum nisi quod impune est
+1	uerberare	_	_	_	_	_	_	_	_
+2	seruum	_	_	_	_	_	_	_	_
+3	ac	_	_	_	_	_	_	_	_
+4	uinculis	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	opere	_	_	_	_	_	_	_	_
+7	coercere	_	_	_	_	_	_	_	_
+8	rarum	_	_	_	_	_	_	_	_
+9	occidere	_	_	_	_	_	_	_	_
+10	solent	_	_	_	_	_	_	_	_
+11	non	_	_	_	_	_	_	_	_
+12	disciplina	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	seueritate	_	_	_	_	_	_	_	_
+15	sed	_	_	_	_	_	_	_	_
+16	impetu	_	_	_	_	_	_	_	_
+17	et	_	_	_	_	_	_	_	_
+18	ira	_	_	_	_	_	_	_	_
+19	ut	_	_	_	_	_	_	_	_
+20	inimicum	_	_	_	_	_	_	_	_
+21	nisi	_	_	_	_	_	_	_	_
+22	quod	_	_	_	_	_	_	_	_
+23	impune	_	_	_	_	_	_	_	_
+24	est	_	_	_	_	_	_	_	_
+
+# sent_id = 156
+# text = liberti non multum supra seruos sunt raro aliquod momentum in domo numquam in ciuitate exceptis dumtaxat iis gentibus quae regnantur
+1	liberti	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+3	multum	_	_	_	_	_	_	_	_
+4	supra	_	_	_	_	_	_	_	_
+5	seruos	_	_	_	_	_	_	_	_
+6	sunt	_	_	_	_	_	_	_	_
+7	raro	_	_	_	_	_	_	_	_
+8	aliquod	_	_	_	_	_	_	_	_
+9	momentum	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	domo	_	_	_	_	_	_	_	_
+12	numquam	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	ciuitate	_	_	_	_	_	_	_	_
+15	exceptis	_	_	_	_	_	_	_	_
+16	dumtaxat	_	_	_	_	_	_	_	_
+17	iis	_	_	_	_	_	_	_	_
+18	gentibus	_	_	_	_	_	_	_	_
+19	quae	_	_	_	_	_	_	_	_
+20	regnantur	_	_	_	_	_	_	_	_
+
+# sent_id = 157
+# text = ibi enim et super ingenuos et super nobiles ascendunt apud ceteros impares libertini libertatis argumentum sunt
+1	ibi	_	_	_	_	_	_	_	_
+2	enim	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	super	_	_	_	_	_	_	_	_
+5	ingenuos	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	super	_	_	_	_	_	_	_	_
+8	nobiles	_	_	_	_	_	_	_	_
+9	ascendunt	_	_	_	_	_	_	_	_
+10	apud	_	_	_	_	_	_	_	_
+11	ceteros	_	_	_	_	_	_	_	_
+12	impares	_	_	_	_	_	_	_	_
+13	libertini	_	_	_	_	_	_	_	_
+14	libertatis	_	_	_	_	_	_	_	_
+15	argumentum	_	_	_	_	_	_	_	_
+16	sunt	_	_	_	_	_	_	_	_
+
+# sent_id = 158
+# text = Faenus agitare et in usuras extendere ignotum ideoque magis seruatur quam si uetitum esset
+1	Faenus	_	_	_	_	_	_	_	_
+2	agitare	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	usuras	_	_	_	_	_	_	_	_
+6	extendere	_	_	_	_	_	_	_	_
+7	ignotum	_	_	_	_	_	_	_	_
+8	ideoque	_	_	_	_	_	_	_	_
+9	magis	_	_	_	_	_	_	_	_
+10	seruatur	_	_	_	_	_	_	_	_
+11	quam	_	_	_	_	_	_	_	_
+12	si	_	_	_	_	_	_	_	_
+13	uetitum	_	_	_	_	_	_	_	_
+14	esset	_	_	_	_	_	_	_	_
+
+# sent_id = 159
+# text = agri pro numero cultorum ab uniuersis in uices occupantur quos mox inter se secundum dignationem partiuntur facilitatem partiendi camporum spatia praestant
+1	agri	_	_	_	_	_	_	_	_
+2	pro	_	_	_	_	_	_	_	_
+3	numero	_	_	_	_	_	_	_	_
+4	cultorum	_	_	_	_	_	_	_	_
+5	ab	_	_	_	_	_	_	_	_
+6	uniuersis	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	uices	_	_	_	_	_	_	_	_
+9	occupantur	_	_	_	_	_	_	_	_
+10	quos	_	_	_	_	_	_	_	_
+11	mox	_	_	_	_	_	_	_	_
+12	inter	_	_	_	_	_	_	_	_
+13	se	_	_	_	_	_	_	_	_
+14	secundum	_	_	_	_	_	_	_	_
+15	dignationem	_	_	_	_	_	_	_	_
+16	partiuntur	_	_	_	_	_	_	_	_
+17	facilitatem	_	_	_	_	_	_	_	_
+18	partiendi	_	_	_	_	_	_	_	_
+19	camporum	_	_	_	_	_	_	_	_
+20	spatia	_	_	_	_	_	_	_	_
+21	praestant	_	_	_	_	_	_	_	_
+
+# sent_id = 160
+# text = arua per annos mutant et superest ager
+1	arua	_	_	_	_	_	_	_	_
+2	per	_	_	_	_	_	_	_	_
+3	annos	_	_	_	_	_	_	_	_
+4	mutant	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	superest	_	_	_	_	_	_	_	_
+7	ager	_	_	_	_	_	_	_	_
+
+# sent_id = 161
+# text = nec enim cum ubertate et amplitudine soli labore contendunt ut pomaria conserant et prata separent et hortos rigent sola terrae seges imperatur
+1	nec	_	_	_	_	_	_	_	_
+2	enim	_	_	_	_	_	_	_	_
+3	cum	_	_	_	_	_	_	_	_
+4	ubertate	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	amplitudine	_	_	_	_	_	_	_	_
+7	soli	_	_	_	_	_	_	_	_
+8	labore	_	_	_	_	_	_	_	_
+9	contendunt	_	_	_	_	_	_	_	_
+10	ut	_	_	_	_	_	_	_	_
+11	pomaria	_	_	_	_	_	_	_	_
+12	conserant	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	prata	_	_	_	_	_	_	_	_
+15	separent	_	_	_	_	_	_	_	_
+16	et	_	_	_	_	_	_	_	_
+17	hortos	_	_	_	_	_	_	_	_
+18	rigent	_	_	_	_	_	_	_	_
+19	sola	_	_	_	_	_	_	_	_
+20	terrae	_	_	_	_	_	_	_	_
+21	seges	_	_	_	_	_	_	_	_
+22	imperatur	_	_	_	_	_	_	_	_
+
+# sent_id = 162
+# text = unde annum quoque ipsum non in totidem digerunt species hiems et uer et aestas intellectum ac uocabula habent autumni perinde nomen ac bona ignorantur
+1	unde	_	_	_	_	_	_	_	_
+2	annum	_	_	_	_	_	_	_	_
+3	quoque	_	_	_	_	_	_	_	_
+4	ipsum	_	_	_	_	_	_	_	_
+5	non	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	totidem	_	_	_	_	_	_	_	_
+8	digerunt	_	_	_	_	_	_	_	_
+9	species	_	_	_	_	_	_	_	_
+10	hiems	_	_	_	_	_	_	_	_
+11	et	_	_	_	_	_	_	_	_
+12	uer	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	aestas	_	_	_	_	_	_	_	_
+15	intellectum	_	_	_	_	_	_	_	_
+16	ac	_	_	_	_	_	_	_	_
+17	uocabula	_	_	_	_	_	_	_	_
+18	habent	_	_	_	_	_	_	_	_
+19	autumni	_	_	_	_	_	_	_	_
+20	perinde	_	_	_	_	_	_	_	_
+21	nomen	_	_	_	_	_	_	_	_
+22	ac	_	_	_	_	_	_	_	_
+23	bona	_	_	_	_	_	_	_	_
+24	ignorantur	_	_	_	_	_	_	_	_
+
+# sent_id = 163
+# text = Funerum nulla ambitio id solum obseruatur ut corpora clarorum uirorum certis lignis crementur
+1	Funerum	_	_	_	_	_	_	_	_
+2	nulla	_	_	_	_	_	_	_	_
+3	ambitio	_	_	_	_	_	_	_	_
+4	id	_	_	_	_	_	_	_	_
+5	solum	_	_	_	_	_	_	_	_
+6	obseruatur	_	_	_	_	_	_	_	_
+7	ut	_	_	_	_	_	_	_	_
+8	corpora	_	_	_	_	_	_	_	_
+9	clarorum	_	_	_	_	_	_	_	_
+10	uirorum	_	_	_	_	_	_	_	_
+11	certis	_	_	_	_	_	_	_	_
+12	lignis	_	_	_	_	_	_	_	_
+13	crementur	_	_	_	_	_	_	_	_
+
+# sent_id = 164
+# text = struem rogi nec uestibus nec odoribus cumulant sua cuique arma quorundam igni et equus adicitur
+1	struem	_	_	_	_	_	_	_	_
+2	rogi	_	_	_	_	_	_	_	_
+3	nec	_	_	_	_	_	_	_	_
+4	uestibus	_	_	_	_	_	_	_	_
+5	nec	_	_	_	_	_	_	_	_
+6	odoribus	_	_	_	_	_	_	_	_
+7	cumulant	_	_	_	_	_	_	_	_
+8	sua	_	_	_	_	_	_	_	_
+9	cuique	_	_	_	_	_	_	_	_
+10	arma	_	_	_	_	_	_	_	_
+11	quorundam	_	_	_	_	_	_	_	_
+12	igni	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	equus	_	_	_	_	_	_	_	_
+15	adicitur	_	_	_	_	_	_	_	_
+
+# sent_id = 165
+# text = sepulcrum caespes erigit monumentorum arduum et operosum honorem ut grauem defunctis aspernantur
+1	sepulcrum	_	_	_	_	_	_	_	_
+2	caespes	_	_	_	_	_	_	_	_
+3	erigit	_	_	_	_	_	_	_	_
+4	monumentorum	_	_	_	_	_	_	_	_
+5	arduum	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	operosum	_	_	_	_	_	_	_	_
+8	honorem	_	_	_	_	_	_	_	_
+9	ut	_	_	_	_	_	_	_	_
+10	grauem	_	_	_	_	_	_	_	_
+11	defunctis	_	_	_	_	_	_	_	_
+12	aspernantur	_	_	_	_	_	_	_	_
+
+# sent_id = 166
+# text = lamenta ac lacrimas cito dolorem et tristitiam tarde ponunt
+1	lamenta	_	_	_	_	_	_	_	_
+2	ac	_	_	_	_	_	_	_	_
+3	lacrimas	_	_	_	_	_	_	_	_
+4	cito	_	_	_	_	_	_	_	_
+5	dolorem	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	tristitiam	_	_	_	_	_	_	_	_
+8	tarde	_	_	_	_	_	_	_	_
+9	ponunt	_	_	_	_	_	_	_	_
+
+# sent_id = 167
+# text = feminis lugere honestum est uiris meminisse
+1	feminis	_	_	_	_	_	_	_	_
+2	lugere	_	_	_	_	_	_	_	_
+3	honestum	_	_	_	_	_	_	_	_
+4	est	_	_	_	_	_	_	_	_
+5	uiris	_	_	_	_	_	_	_	_
+6	meminisse	_	_	_	_	_	_	_	_
+
+# sent_id = 168
+# text = Haec in commune de omnium Germanorum origine ac moribus accepimus nunc singularum gentium instituta ritusque quatenus differant quaeque nationes e Germania in Gallias commigrauerint expediam
+1	Haec	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	commune	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	omnium	_	_	_	_	_	_	_	_
+6	Germanorum	_	_	_	_	_	_	_	_
+7	origine	_	_	_	_	_	_	_	_
+8	ac	_	_	_	_	_	_	_	_
+9	moribus	_	_	_	_	_	_	_	_
+10	accepimus	_	_	_	_	_	_	_	_
+11	nunc	_	_	_	_	_	_	_	_
+12	singularum	_	_	_	_	_	_	_	_
+13	gentium	_	_	_	_	_	_	_	_
+14	instituta	_	_	_	_	_	_	_	_
+15	ritusque	_	_	_	_	_	_	_	_
+16	quatenus	_	_	_	_	_	_	_	_
+17	differant	_	_	_	_	_	_	_	_
+18	quaeque	_	_	_	_	_	_	_	_
+19	nationes	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	Germania	_	_	_	_	_	_	_	_
+22	in	_	_	_	_	_	_	_	_
+23	Gallias	_	_	_	_	_	_	_	_
+24	commigrauerint	_	_	_	_	_	_	_	_
+25	expediam	_	_	_	_	_	_	_	_
+
+# sent_id = 169
+# text = Ualidiores olim Gallorum res fuisse summus auctorum diuus Iulius tradit eoque credibile est etiam Gallos in Germaniam transgressos
+1	Ualidiores	_	_	_	_	_	_	_	_
+2	olim	_	_	_	_	_	_	_	_
+3	Gallorum	_	_	_	_	_	_	_	_
+4	res	_	_	_	_	_	_	_	_
+5	fuisse	_	_	_	_	_	_	_	_
+6	summus	_	_	_	_	_	_	_	_
+7	auctorum	_	_	_	_	_	_	_	_
+8	diuus	_	_	_	_	_	_	_	_
+9	Iulius	_	_	_	_	_	_	_	_
+10	tradit	_	_	_	_	_	_	_	_
+11	eoque	_	_	_	_	_	_	_	_
+12	credibile	_	_	_	_	_	_	_	_
+13	est	_	_	_	_	_	_	_	_
+14	etiam	_	_	_	_	_	_	_	_
+15	Gallos	_	_	_	_	_	_	_	_
+16	in	_	_	_	_	_	_	_	_
+17	Germaniam	_	_	_	_	_	_	_	_
+18	transgressos	_	_	_	_	_	_	_	_
+
+# sent_id = 170
+# text = quantulum enim amnis obstabat quo minus ut quaeque gens eualuerat occuparet permutaretque sedes promiscas adhuc et nulla regnorum potentia diuisas
+1	quantulum	_	_	_	_	_	_	_	_
+2	enim	_	_	_	_	_	_	_	_
+3	amnis	_	_	_	_	_	_	_	_
+4	obstabat	_	_	_	_	_	_	_	_
+5	quo	_	_	_	_	_	_	_	_
+6	minus	_	_	_	_	_	_	_	_
+7	ut	_	_	_	_	_	_	_	_
+8	quaeque	_	_	_	_	_	_	_	_
+9	gens	_	_	_	_	_	_	_	_
+10	eualuerat	_	_	_	_	_	_	_	_
+11	occuparet	_	_	_	_	_	_	_	_
+12	permutaretque	_	_	_	_	_	_	_	_
+13	sedes	_	_	_	_	_	_	_	_
+14	promiscas	_	_	_	_	_	_	_	_
+15	adhuc	_	_	_	_	_	_	_	_
+16	et	_	_	_	_	_	_	_	_
+17	nulla	_	_	_	_	_	_	_	_
+18	regnorum	_	_	_	_	_	_	_	_
+19	potentia	_	_	_	_	_	_	_	_
+20	diuisas	_	_	_	_	_	_	_	_
+
+# sent_id = 171
+# text = igitur inter Hercyniam siluam Rhenumque et Moenum amnes Heluetii ulteriora Boii Gallica utraque gens tenuere
+1	igitur	_	_	_	_	_	_	_	_
+2	inter	_	_	_	_	_	_	_	_
+3	Hercyniam	_	_	_	_	_	_	_	_
+4	siluam	_	_	_	_	_	_	_	_
+5	Rhenumque	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	Moenum	_	_	_	_	_	_	_	_
+8	amnes	_	_	_	_	_	_	_	_
+9	Heluetii	_	_	_	_	_	_	_	_
+10	ulteriora	_	_	_	_	_	_	_	_
+11	Boii	_	_	_	_	_	_	_	_
+12	Gallica	_	_	_	_	_	_	_	_
+13	utraque	_	_	_	_	_	_	_	_
+14	gens	_	_	_	_	_	_	_	_
+15	tenuere	_	_	_	_	_	_	_	_
+
+# sent_id = 172
+# text = manet adhuc Boihaemi nomen signatque loci ueterem memoriam quamuis mutatis cultoribus
+1	manet	_	_	_	_	_	_	_	_
+2	adhuc	_	_	_	_	_	_	_	_
+3	Boihaemi	_	_	_	_	_	_	_	_
+4	nomen	_	_	_	_	_	_	_	_
+5	signatque	_	_	_	_	_	_	_	_
+6	loci	_	_	_	_	_	_	_	_
+7	ueterem	_	_	_	_	_	_	_	_
+8	memoriam	_	_	_	_	_	_	_	_
+9	quamuis	_	_	_	_	_	_	_	_
+10	mutatis	_	_	_	_	_	_	_	_
+11	cultoribus	_	_	_	_	_	_	_	_
+
+# sent_id = 173
+# text = sed utrum Arauisci in Pannoniam ab Osis Germanorum natione an Osi ab Arauiscis in Germaniam commigrauerint cum eodem adhuc sermone institutis moribus utantur incertum est quia pari olim inopia ac libertate eadem utriusque ripae bona malaque erant
+1	sed	_	_	_	_	_	_	_	_
+2	utrum	_	_	_	_	_	_	_	_
+3	Arauisci	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	Pannoniam	_	_	_	_	_	_	_	_
+6	ab	_	_	_	_	_	_	_	_
+7	Osis	_	_	_	_	_	_	_	_
+8	Germanorum	_	_	_	_	_	_	_	_
+9	natione	_	_	_	_	_	_	_	_
+10	an	_	_	_	_	_	_	_	_
+11	Osi	_	_	_	_	_	_	_	_
+12	ab	_	_	_	_	_	_	_	_
+13	Arauiscis	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	Germaniam	_	_	_	_	_	_	_	_
+16	commigrauerint	_	_	_	_	_	_	_	_
+17	cum	_	_	_	_	_	_	_	_
+18	eodem	_	_	_	_	_	_	_	_
+19	adhuc	_	_	_	_	_	_	_	_
+20	sermone	_	_	_	_	_	_	_	_
+21	institutis	_	_	_	_	_	_	_	_
+22	moribus	_	_	_	_	_	_	_	_
+23	utantur	_	_	_	_	_	_	_	_
+24	incertum	_	_	_	_	_	_	_	_
+25	est	_	_	_	_	_	_	_	_
+26	quia	_	_	_	_	_	_	_	_
+27	pari	_	_	_	_	_	_	_	_
+28	olim	_	_	_	_	_	_	_	_
+29	inopia	_	_	_	_	_	_	_	_
+30	ac	_	_	_	_	_	_	_	_
+31	libertate	_	_	_	_	_	_	_	_
+32	eadem	_	_	_	_	_	_	_	_
+33	utriusque	_	_	_	_	_	_	_	_
+34	ripae	_	_	_	_	_	_	_	_
+35	bona	_	_	_	_	_	_	_	_
+36	malaque	_	_	_	_	_	_	_	_
+37	erant	_	_	_	_	_	_	_	_
+
+# sent_id = 174
+# text = Treueri et Neruii circa adfectationem Germanicae originis ultro ambitiosi sunt tamquam per hanc gloriam sanguinis a similitudine et inertia Gallorum separentur
+1	Treueri	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	Neruii	_	_	_	_	_	_	_	_
+4	circa	_	_	_	_	_	_	_	_
+5	adfectationem	_	_	_	_	_	_	_	_
+6	Germanicae	_	_	_	_	_	_	_	_
+7	originis	_	_	_	_	_	_	_	_
+8	ultro	_	_	_	_	_	_	_	_
+9	ambitiosi	_	_	_	_	_	_	_	_
+10	sunt	_	_	_	_	_	_	_	_
+11	tamquam	_	_	_	_	_	_	_	_
+12	per	_	_	_	_	_	_	_	_
+13	hanc	_	_	_	_	_	_	_	_
+14	gloriam	_	_	_	_	_	_	_	_
+15	sanguinis	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	similitudine	_	_	_	_	_	_	_	_
+18	et	_	_	_	_	_	_	_	_
+19	inertia	_	_	_	_	_	_	_	_
+20	Gallorum	_	_	_	_	_	_	_	_
+21	separentur	_	_	_	_	_	_	_	_
+
+# sent_id = 175
+# text = ipsam Rheni ripam haud dubie Germanorum populi colunt Uangiones Triboci Nemetes
+1	ipsam	_	_	_	_	_	_	_	_
+2	Rheni	_	_	_	_	_	_	_	_
+3	ripam	_	_	_	_	_	_	_	_
+4	haud	_	_	_	_	_	_	_	_
+5	dubie	_	_	_	_	_	_	_	_
+6	Germanorum	_	_	_	_	_	_	_	_
+7	populi	_	_	_	_	_	_	_	_
+8	colunt	_	_	_	_	_	_	_	_
+9	Uangiones	_	_	_	_	_	_	_	_
+10	Triboci	_	_	_	_	_	_	_	_
+11	Nemetes	_	_	_	_	_	_	_	_
+
+# sent_id = 176
+# text = ne Ubii quidem quamquam Romana colonia esse meruerint ac libentius Agrippinenses conditoris sui nomine uocentur origine erubescunt transgressi olim et experimento fidei super ipsam Rheni ripam collocati ut arcerent non ut custodirentur
+1	ne	_	_	_	_	_	_	_	_
+2	Ubii	_	_	_	_	_	_	_	_
+3	quidem	_	_	_	_	_	_	_	_
+4	quamquam	_	_	_	_	_	_	_	_
+5	Romana	_	_	_	_	_	_	_	_
+6	colonia	_	_	_	_	_	_	_	_
+7	esse	_	_	_	_	_	_	_	_
+8	meruerint	_	_	_	_	_	_	_	_
+9	ac	_	_	_	_	_	_	_	_
+10	libentius	_	_	_	_	_	_	_	_
+11	Agrippinenses	_	_	_	_	_	_	_	_
+12	conditoris	_	_	_	_	_	_	_	_
+13	sui	_	_	_	_	_	_	_	_
+14	nomine	_	_	_	_	_	_	_	_
+15	uocentur	_	_	_	_	_	_	_	_
+16	origine	_	_	_	_	_	_	_	_
+17	erubescunt	_	_	_	_	_	_	_	_
+18	transgressi	_	_	_	_	_	_	_	_
+19	olim	_	_	_	_	_	_	_	_
+20	et	_	_	_	_	_	_	_	_
+21	experimento	_	_	_	_	_	_	_	_
+22	fidei	_	_	_	_	_	_	_	_
+23	super	_	_	_	_	_	_	_	_
+24	ipsam	_	_	_	_	_	_	_	_
+25	Rheni	_	_	_	_	_	_	_	_
+26	ripam	_	_	_	_	_	_	_	_
+27	collocati	_	_	_	_	_	_	_	_
+28	ut	_	_	_	_	_	_	_	_
+29	arcerent	_	_	_	_	_	_	_	_
+30	non	_	_	_	_	_	_	_	_
+31	ut	_	_	_	_	_	_	_	_
+32	custodirentur	_	_	_	_	_	_	_	_
+
+# sent_id = 177
+# text = Omnium harum gentium uirtute praecipui Bataui non multum ex ripa sed insulam Rheni amnis colunt Chattorum quondam populus et seditione domestica in eas sedes transgressus in quibus pars Romani imperii fierent
+1	Omnium	_	_	_	_	_	_	_	_
+2	harum	_	_	_	_	_	_	_	_
+3	gentium	_	_	_	_	_	_	_	_
+4	uirtute	_	_	_	_	_	_	_	_
+5	praecipui	_	_	_	_	_	_	_	_
+6	Bataui	_	_	_	_	_	_	_	_
+7	non	_	_	_	_	_	_	_	_
+8	multum	_	_	_	_	_	_	_	_
+9	ex	_	_	_	_	_	_	_	_
+10	ripa	_	_	_	_	_	_	_	_
+11	sed	_	_	_	_	_	_	_	_
+12	insulam	_	_	_	_	_	_	_	_
+13	Rheni	_	_	_	_	_	_	_	_
+14	amnis	_	_	_	_	_	_	_	_
+15	colunt	_	_	_	_	_	_	_	_
+16	Chattorum	_	_	_	_	_	_	_	_
+17	quondam	_	_	_	_	_	_	_	_
+18	populus	_	_	_	_	_	_	_	_
+19	et	_	_	_	_	_	_	_	_
+20	seditione	_	_	_	_	_	_	_	_
+21	domestica	_	_	_	_	_	_	_	_
+22	in	_	_	_	_	_	_	_	_
+23	eas	_	_	_	_	_	_	_	_
+24	sedes	_	_	_	_	_	_	_	_
+25	transgressus	_	_	_	_	_	_	_	_
+26	in	_	_	_	_	_	_	_	_
+27	quibus	_	_	_	_	_	_	_	_
+28	pars	_	_	_	_	_	_	_	_
+29	Romani	_	_	_	_	_	_	_	_
+30	imperii	_	_	_	_	_	_	_	_
+31	fierent	_	_	_	_	_	_	_	_
+
+# sent_id = 178
+# text = manet honos et antiquae societatis insigne nam nec tributis contemnuntur nec publicanus atterit exempti oneribus et collationibus et tantum in usum proeliorum sepositi uelut tela atque arma bellis reseruantur
+1	manet	_	_	_	_	_	_	_	_
+2	honos	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	antiquae	_	_	_	_	_	_	_	_
+5	societatis	_	_	_	_	_	_	_	_
+6	insigne	_	_	_	_	_	_	_	_
+7	nam	_	_	_	_	_	_	_	_
+8	nec	_	_	_	_	_	_	_	_
+9	tributis	_	_	_	_	_	_	_	_
+10	contemnuntur	_	_	_	_	_	_	_	_
+11	nec	_	_	_	_	_	_	_	_
+12	publicanus	_	_	_	_	_	_	_	_
+13	atterit	_	_	_	_	_	_	_	_
+14	exempti	_	_	_	_	_	_	_	_
+15	oneribus	_	_	_	_	_	_	_	_
+16	et	_	_	_	_	_	_	_	_
+17	collationibus	_	_	_	_	_	_	_	_
+18	et	_	_	_	_	_	_	_	_
+19	tantum	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	usum	_	_	_	_	_	_	_	_
+22	proeliorum	_	_	_	_	_	_	_	_
+23	sepositi	_	_	_	_	_	_	_	_
+24	uelut	_	_	_	_	_	_	_	_
+25	tela	_	_	_	_	_	_	_	_
+26	atque	_	_	_	_	_	_	_	_
+27	arma	_	_	_	_	_	_	_	_
+28	bellis	_	_	_	_	_	_	_	_
+29	reseruantur	_	_	_	_	_	_	_	_
+
+# sent_id = 179
+# text = est in eodem obsequio et Mattiacorum gens protulit enim magnitudo populi Romani ultra Rhenum ultraque ueteres terminos imperii reuerentiam
+1	est	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	eodem	_	_	_	_	_	_	_	_
+4	obsequio	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	Mattiacorum	_	_	_	_	_	_	_	_
+7	gens	_	_	_	_	_	_	_	_
+8	protulit	_	_	_	_	_	_	_	_
+9	enim	_	_	_	_	_	_	_	_
+10	magnitudo	_	_	_	_	_	_	_	_
+11	populi	_	_	_	_	_	_	_	_
+12	Romani	_	_	_	_	_	_	_	_
+13	ultra	_	_	_	_	_	_	_	_
+14	Rhenum	_	_	_	_	_	_	_	_
+15	ultraque	_	_	_	_	_	_	_	_
+16	ueteres	_	_	_	_	_	_	_	_
+17	terminos	_	_	_	_	_	_	_	_
+18	imperii	_	_	_	_	_	_	_	_
+19	reuerentiam	_	_	_	_	_	_	_	_
+
+# sent_id = 180
+# text = ita sede finibusque in sua ripa mente animoque nobiscum agunt cetera similes Batauis nisi quod ipso adhuc terrae suae solo et caelo acrius animantur
+1	ita	_	_	_	_	_	_	_	_
+2	sede	_	_	_	_	_	_	_	_
+3	finibusque	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	sua	_	_	_	_	_	_	_	_
+6	ripa	_	_	_	_	_	_	_	_
+7	mente	_	_	_	_	_	_	_	_
+8	animoque	_	_	_	_	_	_	_	_
+9	nobiscum	_	_	_	_	_	_	_	_
+10	agunt	_	_	_	_	_	_	_	_
+11	cetera	_	_	_	_	_	_	_	_
+12	similes	_	_	_	_	_	_	_	_
+13	Batauis	_	_	_	_	_	_	_	_
+14	nisi	_	_	_	_	_	_	_	_
+15	quod	_	_	_	_	_	_	_	_
+16	ipso	_	_	_	_	_	_	_	_
+17	adhuc	_	_	_	_	_	_	_	_
+18	terrae	_	_	_	_	_	_	_	_
+19	suae	_	_	_	_	_	_	_	_
+20	solo	_	_	_	_	_	_	_	_
+21	et	_	_	_	_	_	_	_	_
+22	caelo	_	_	_	_	_	_	_	_
+23	acrius	_	_	_	_	_	_	_	_
+24	animantur	_	_	_	_	_	_	_	_
+
+# sent_id = 181
+# text = Non numerauerim inter Germaniae populos quamquam trans Rhenum Danubiumque consederint eos qui Decumates agros exercent leuissimus quisque Gallorum et inopia audax dubiae possessionis solum occupauere mox limite acto promotisque praesidiis sinus imperii et pars prouinciae habentur
+1	Non	_	_	_	_	_	_	_	_
+2	numerauerim	_	_	_	_	_	_	_	_
+3	inter	_	_	_	_	_	_	_	_
+4	Germaniae	_	_	_	_	_	_	_	_
+5	populos	_	_	_	_	_	_	_	_
+6	quamquam	_	_	_	_	_	_	_	_
+7	trans	_	_	_	_	_	_	_	_
+8	Rhenum	_	_	_	_	_	_	_	_
+9	Danubiumque	_	_	_	_	_	_	_	_
+10	consederint	_	_	_	_	_	_	_	_
+11	eos	_	_	_	_	_	_	_	_
+12	qui	_	_	_	_	_	_	_	_
+13	Decumates	_	_	_	_	_	_	_	_
+14	agros	_	_	_	_	_	_	_	_
+15	exercent	_	_	_	_	_	_	_	_
+16	leuissimus	_	_	_	_	_	_	_	_
+17	quisque	_	_	_	_	_	_	_	_
+18	Gallorum	_	_	_	_	_	_	_	_
+19	et	_	_	_	_	_	_	_	_
+20	inopia	_	_	_	_	_	_	_	_
+21	audax	_	_	_	_	_	_	_	_
+22	dubiae	_	_	_	_	_	_	_	_
+23	possessionis	_	_	_	_	_	_	_	_
+24	solum	_	_	_	_	_	_	_	_
+25	occupauere	_	_	_	_	_	_	_	_
+26	mox	_	_	_	_	_	_	_	_
+27	limite	_	_	_	_	_	_	_	_
+28	acto	_	_	_	_	_	_	_	_
+29	promotisque	_	_	_	_	_	_	_	_
+30	praesidiis	_	_	_	_	_	_	_	_
+31	sinus	_	_	_	_	_	_	_	_
+32	imperii	_	_	_	_	_	_	_	_
+33	et	_	_	_	_	_	_	_	_
+34	pars	_	_	_	_	_	_	_	_
+35	prouinciae	_	_	_	_	_	_	_	_
+36	habentur	_	_	_	_	_	_	_	_
+
+# sent_id = 182
+# text = Ultra hos Chatti initium sedis ab Hercynio saltu incohant non ita effusis ac palustribus locis ut ceterae ciuitates in quas Germania patescit durant siquidem colles paulatim rarescunt et Chattos suos saltus Hercynius prosequitur simul atque deponit
+1	Ultra	_	_	_	_	_	_	_	_
+2	hos	_	_	_	_	_	_	_	_
+3	Chatti	_	_	_	_	_	_	_	_
+4	initium	_	_	_	_	_	_	_	_
+5	sedis	_	_	_	_	_	_	_	_
+6	ab	_	_	_	_	_	_	_	_
+7	Hercynio	_	_	_	_	_	_	_	_
+8	saltu	_	_	_	_	_	_	_	_
+9	incohant	_	_	_	_	_	_	_	_
+10	non	_	_	_	_	_	_	_	_
+11	ita	_	_	_	_	_	_	_	_
+12	effusis	_	_	_	_	_	_	_	_
+13	ac	_	_	_	_	_	_	_	_
+14	palustribus	_	_	_	_	_	_	_	_
+15	locis	_	_	_	_	_	_	_	_
+16	ut	_	_	_	_	_	_	_	_
+17	ceterae	_	_	_	_	_	_	_	_
+18	ciuitates	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	quas	_	_	_	_	_	_	_	_
+21	Germania	_	_	_	_	_	_	_	_
+22	patescit	_	_	_	_	_	_	_	_
+23	durant	_	_	_	_	_	_	_	_
+24	siquidem	_	_	_	_	_	_	_	_
+25	colles	_	_	_	_	_	_	_	_
+26	paulatim	_	_	_	_	_	_	_	_
+27	rarescunt	_	_	_	_	_	_	_	_
+28	et	_	_	_	_	_	_	_	_
+29	Chattos	_	_	_	_	_	_	_	_
+30	suos	_	_	_	_	_	_	_	_
+31	saltus	_	_	_	_	_	_	_	_
+32	Hercynius	_	_	_	_	_	_	_	_
+33	prosequitur	_	_	_	_	_	_	_	_
+34	simul	_	_	_	_	_	_	_	_
+35	atque	_	_	_	_	_	_	_	_
+36	deponit	_	_	_	_	_	_	_	_
+
+# sent_id = 183
+# text = duriora genti corpora stricti artus minax uultus et maior animi uigor
+1	duriora	_	_	_	_	_	_	_	_
+2	genti	_	_	_	_	_	_	_	_
+3	corpora	_	_	_	_	_	_	_	_
+4	stricti	_	_	_	_	_	_	_	_
+5	artus	_	_	_	_	_	_	_	_
+6	minax	_	_	_	_	_	_	_	_
+7	uultus	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	maior	_	_	_	_	_	_	_	_
+10	animi	_	_	_	_	_	_	_	_
+11	uigor	_	_	_	_	_	_	_	_
+
+# sent_id = 184
+# text = multum ut inter Germanos rationis ac sollertiae praeponere electos audire praepositos nosse ordines intellegere occasiones differre impetus disponere diem uallare noctem fortunam inter dubia uirtutem inter certa numerare quodque rarissimum nec nisi Romanae disciplinae concessum plus reponere in duce quam in exercitu
+1	multum	_	_	_	_	_	_	_	_
+2	ut	_	_	_	_	_	_	_	_
+3	inter	_	_	_	_	_	_	_	_
+4	Germanos	_	_	_	_	_	_	_	_
+5	rationis	_	_	_	_	_	_	_	_
+6	ac	_	_	_	_	_	_	_	_
+7	sollertiae	_	_	_	_	_	_	_	_
+8	praeponere	_	_	_	_	_	_	_	_
+9	electos	_	_	_	_	_	_	_	_
+10	audire	_	_	_	_	_	_	_	_
+11	praepositos	_	_	_	_	_	_	_	_
+12	nosse	_	_	_	_	_	_	_	_
+13	ordines	_	_	_	_	_	_	_	_
+14	intellegere	_	_	_	_	_	_	_	_
+15	occasiones	_	_	_	_	_	_	_	_
+16	differre	_	_	_	_	_	_	_	_
+17	impetus	_	_	_	_	_	_	_	_
+18	disponere	_	_	_	_	_	_	_	_
+19	diem	_	_	_	_	_	_	_	_
+20	uallare	_	_	_	_	_	_	_	_
+21	noctem	_	_	_	_	_	_	_	_
+22	fortunam	_	_	_	_	_	_	_	_
+23	inter	_	_	_	_	_	_	_	_
+24	dubia	_	_	_	_	_	_	_	_
+25	uirtutem	_	_	_	_	_	_	_	_
+26	inter	_	_	_	_	_	_	_	_
+27	certa	_	_	_	_	_	_	_	_
+28	numerare	_	_	_	_	_	_	_	_
+29	quodque	_	_	_	_	_	_	_	_
+30	rarissimum	_	_	_	_	_	_	_	_
+31	nec	_	_	_	_	_	_	_	_
+32	nisi	_	_	_	_	_	_	_	_
+33	Romanae	_	_	_	_	_	_	_	_
+34	disciplinae	_	_	_	_	_	_	_	_
+35	concessum	_	_	_	_	_	_	_	_
+36	plus	_	_	_	_	_	_	_	_
+37	reponere	_	_	_	_	_	_	_	_
+38	in	_	_	_	_	_	_	_	_
+39	duce	_	_	_	_	_	_	_	_
+40	quam	_	_	_	_	_	_	_	_
+41	in	_	_	_	_	_	_	_	_
+42	exercitu	_	_	_	_	_	_	_	_
+
+# sent_id = 185
+# text = omne robur in pedite quem super arma ferramentis quoque et copiis onerant alios ad proelium ire uideas Chattos ad bellum
+1	omne	_	_	_	_	_	_	_	_
+2	robur	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	pedite	_	_	_	_	_	_	_	_
+5	quem	_	_	_	_	_	_	_	_
+6	super	_	_	_	_	_	_	_	_
+7	arma	_	_	_	_	_	_	_	_
+8	ferramentis	_	_	_	_	_	_	_	_
+9	quoque	_	_	_	_	_	_	_	_
+10	et	_	_	_	_	_	_	_	_
+11	copiis	_	_	_	_	_	_	_	_
+12	onerant	_	_	_	_	_	_	_	_
+13	alios	_	_	_	_	_	_	_	_
+14	ad	_	_	_	_	_	_	_	_
+15	proelium	_	_	_	_	_	_	_	_
+16	ire	_	_	_	_	_	_	_	_
+17	uideas	_	_	_	_	_	_	_	_
+18	Chattos	_	_	_	_	_	_	_	_
+19	ad	_	_	_	_	_	_	_	_
+20	bellum	_	_	_	_	_	_	_	_
+
+# sent_id = 186
+# text = rari excursus et fortuita pugna
+1	rari	_	_	_	_	_	_	_	_
+2	excursus	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	fortuita	_	_	_	_	_	_	_	_
+5	pugna	_	_	_	_	_	_	_	_
+
+# sent_id = 187
+# text = equestrium sane uirium id proprium cito parare uictoriam cito cedere peditum uelocitas iuxta formidinem cunctatio propior constantiae est
+1	equestrium	_	_	_	_	_	_	_	_
+2	sane	_	_	_	_	_	_	_	_
+3	uirium	_	_	_	_	_	_	_	_
+4	id	_	_	_	_	_	_	_	_
+5	proprium	_	_	_	_	_	_	_	_
+6	cito	_	_	_	_	_	_	_	_
+7	parare	_	_	_	_	_	_	_	_
+8	uictoriam	_	_	_	_	_	_	_	_
+9	cito	_	_	_	_	_	_	_	_
+10	cedere	_	_	_	_	_	_	_	_
+11	peditum	_	_	_	_	_	_	_	_
+12	uelocitas	_	_	_	_	_	_	_	_
+13	iuxta	_	_	_	_	_	_	_	_
+14	formidinem	_	_	_	_	_	_	_	_
+15	cunctatio	_	_	_	_	_	_	_	_
+16	propior	_	_	_	_	_	_	_	_
+17	constantiae	_	_	_	_	_	_	_	_
+18	est	_	_	_	_	_	_	_	_
+
+# sent_id = 188
+# text = Et aliis Germanorum populis usurpatum raro et priuata cuiusque audentia apud Chattos in consensum uertit ut primum adoleuerint crinem barbamque submittere nec nisi hoste caeso exuere uotiuum obligatumque uirtuti oris habitum
+1	Et	_	_	_	_	_	_	_	_
+2	aliis	_	_	_	_	_	_	_	_
+3	Germanorum	_	_	_	_	_	_	_	_
+4	populis	_	_	_	_	_	_	_	_
+5	usurpatum	_	_	_	_	_	_	_	_
+6	raro	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	priuata	_	_	_	_	_	_	_	_
+9	cuiusque	_	_	_	_	_	_	_	_
+10	audentia	_	_	_	_	_	_	_	_
+11	apud	_	_	_	_	_	_	_	_
+12	Chattos	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	consensum	_	_	_	_	_	_	_	_
+15	uertit	_	_	_	_	_	_	_	_
+16	ut	_	_	_	_	_	_	_	_
+17	primum	_	_	_	_	_	_	_	_
+18	adoleuerint	_	_	_	_	_	_	_	_
+19	crinem	_	_	_	_	_	_	_	_
+20	barbamque	_	_	_	_	_	_	_	_
+21	submittere	_	_	_	_	_	_	_	_
+22	nec	_	_	_	_	_	_	_	_
+23	nisi	_	_	_	_	_	_	_	_
+24	hoste	_	_	_	_	_	_	_	_
+25	caeso	_	_	_	_	_	_	_	_
+26	exuere	_	_	_	_	_	_	_	_
+27	uotiuum	_	_	_	_	_	_	_	_
+28	obligatumque	_	_	_	_	_	_	_	_
+29	uirtuti	_	_	_	_	_	_	_	_
+30	oris	_	_	_	_	_	_	_	_
+31	habitum	_	_	_	_	_	_	_	_
+
+# sent_id = 189
+# text = super sanguinem et spolia reuelant frontem seque tum demum pretia nascendi rettulisse dignosque patria ac parentibus ferunt ignauis et imbellibus manet squalor
+1	super	_	_	_	_	_	_	_	_
+2	sanguinem	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	spolia	_	_	_	_	_	_	_	_
+5	reuelant	_	_	_	_	_	_	_	_
+6	frontem	_	_	_	_	_	_	_	_
+7	seque	_	_	_	_	_	_	_	_
+8	tum	_	_	_	_	_	_	_	_
+9	demum	_	_	_	_	_	_	_	_
+10	pretia	_	_	_	_	_	_	_	_
+11	nascendi	_	_	_	_	_	_	_	_
+12	rettulisse	_	_	_	_	_	_	_	_
+13	dignosque	_	_	_	_	_	_	_	_
+14	patria	_	_	_	_	_	_	_	_
+15	ac	_	_	_	_	_	_	_	_
+16	parentibus	_	_	_	_	_	_	_	_
+17	ferunt	_	_	_	_	_	_	_	_
+18	ignauis	_	_	_	_	_	_	_	_
+19	et	_	_	_	_	_	_	_	_
+20	imbellibus	_	_	_	_	_	_	_	_
+21	manet	_	_	_	_	_	_	_	_
+22	squalor	_	_	_	_	_	_	_	_
+
+# sent_id = 190
+# text = fortissimus quisque ferreum insuper anulum ignominiosum id genti uelut uinculum gestat donec se caede hostis absoluat
+1	fortissimus	_	_	_	_	_	_	_	_
+2	quisque	_	_	_	_	_	_	_	_
+3	ferreum	_	_	_	_	_	_	_	_
+4	insuper	_	_	_	_	_	_	_	_
+5	anulum	_	_	_	_	_	_	_	_
+6	ignominiosum	_	_	_	_	_	_	_	_
+7	id	_	_	_	_	_	_	_	_
+8	genti	_	_	_	_	_	_	_	_
+9	uelut	_	_	_	_	_	_	_	_
+10	uinculum	_	_	_	_	_	_	_	_
+11	gestat	_	_	_	_	_	_	_	_
+12	donec	_	_	_	_	_	_	_	_
+13	se	_	_	_	_	_	_	_	_
+14	caede	_	_	_	_	_	_	_	_
+15	hostis	_	_	_	_	_	_	_	_
+16	absoluat	_	_	_	_	_	_	_	_
+
+# sent_id = 191
+# text = plurimis Chattorum hic placet habitus iamque canent insignes et hostibus simul suisque monstrati
+1	plurimis	_	_	_	_	_	_	_	_
+2	Chattorum	_	_	_	_	_	_	_	_
+3	hic	_	_	_	_	_	_	_	_
+4	placet	_	_	_	_	_	_	_	_
+5	habitus	_	_	_	_	_	_	_	_
+6	iamque	_	_	_	_	_	_	_	_
+7	canent	_	_	_	_	_	_	_	_
+8	insignes	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	hostibus	_	_	_	_	_	_	_	_
+11	simul	_	_	_	_	_	_	_	_
+12	suisque	_	_	_	_	_	_	_	_
+13	monstrati	_	_	_	_	_	_	_	_
+
+# sent_id = 192
+# text = omnium penes hos initia pugnarum haec prima semper acies uisu noua nam ne in pace quidem uultu mitiore mansuescunt
+1	omnium	_	_	_	_	_	_	_	_
+2	penes	_	_	_	_	_	_	_	_
+3	hos	_	_	_	_	_	_	_	_
+4	initia	_	_	_	_	_	_	_	_
+5	pugnarum	_	_	_	_	_	_	_	_
+6	haec	_	_	_	_	_	_	_	_
+7	prima	_	_	_	_	_	_	_	_
+8	semper	_	_	_	_	_	_	_	_
+9	acies	_	_	_	_	_	_	_	_
+10	uisu	_	_	_	_	_	_	_	_
+11	noua	_	_	_	_	_	_	_	_
+12	nam	_	_	_	_	_	_	_	_
+13	ne	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	pace	_	_	_	_	_	_	_	_
+16	quidem	_	_	_	_	_	_	_	_
+17	uultu	_	_	_	_	_	_	_	_
+18	mitiore	_	_	_	_	_	_	_	_
+19	mansuescunt	_	_	_	_	_	_	_	_
+
+# sent_id = 193
+# text = nulli domus aut ager aut aliqua cura prout ad quemque uenere aluntur prodigi alieni contemptores sui donec exsanguis senectus tam durae uirtuti impares faciat
+1	nulli	_	_	_	_	_	_	_	_
+2	domus	_	_	_	_	_	_	_	_
+3	aut	_	_	_	_	_	_	_	_
+4	ager	_	_	_	_	_	_	_	_
+5	aut	_	_	_	_	_	_	_	_
+6	aliqua	_	_	_	_	_	_	_	_
+7	cura	_	_	_	_	_	_	_	_
+8	prout	_	_	_	_	_	_	_	_
+9	ad	_	_	_	_	_	_	_	_
+10	quemque	_	_	_	_	_	_	_	_
+11	uenere	_	_	_	_	_	_	_	_
+12	aluntur	_	_	_	_	_	_	_	_
+13	prodigi	_	_	_	_	_	_	_	_
+14	alieni	_	_	_	_	_	_	_	_
+15	contemptores	_	_	_	_	_	_	_	_
+16	sui	_	_	_	_	_	_	_	_
+17	donec	_	_	_	_	_	_	_	_
+18	exsanguis	_	_	_	_	_	_	_	_
+19	senectus	_	_	_	_	_	_	_	_
+20	tam	_	_	_	_	_	_	_	_
+21	durae	_	_	_	_	_	_	_	_
+22	uirtuti	_	_	_	_	_	_	_	_
+23	impares	_	_	_	_	_	_	_	_
+24	faciat	_	_	_	_	_	_	_	_
+
+# sent_id = 194
+# text = Proximi Chattis certum iam alueo Rhenum quique terminus esse sufficiat Usipi ac Tencteri colunt
+1	Proximi	_	_	_	_	_	_	_	_
+2	Chattis	_	_	_	_	_	_	_	_
+3	certum	_	_	_	_	_	_	_	_
+4	iam	_	_	_	_	_	_	_	_
+5	alueo	_	_	_	_	_	_	_	_
+6	Rhenum	_	_	_	_	_	_	_	_
+7	quique	_	_	_	_	_	_	_	_
+8	terminus	_	_	_	_	_	_	_	_
+9	esse	_	_	_	_	_	_	_	_
+10	sufficiat	_	_	_	_	_	_	_	_
+11	Usipi	_	_	_	_	_	_	_	_
+12	ac	_	_	_	_	_	_	_	_
+13	Tencteri	_	_	_	_	_	_	_	_
+14	colunt	_	_	_	_	_	_	_	_
+
+# sent_id = 195
+# text = Tencteri super solitum bellorum decus equestris disciplinae arte praecellunt nec maior apud Chattos peditum laus quam Tencteris equitum
+1	Tencteri	_	_	_	_	_	_	_	_
+2	super	_	_	_	_	_	_	_	_
+3	solitum	_	_	_	_	_	_	_	_
+4	bellorum	_	_	_	_	_	_	_	_
+5	decus	_	_	_	_	_	_	_	_
+6	equestris	_	_	_	_	_	_	_	_
+7	disciplinae	_	_	_	_	_	_	_	_
+8	arte	_	_	_	_	_	_	_	_
+9	praecellunt	_	_	_	_	_	_	_	_
+10	nec	_	_	_	_	_	_	_	_
+11	maior	_	_	_	_	_	_	_	_
+12	apud	_	_	_	_	_	_	_	_
+13	Chattos	_	_	_	_	_	_	_	_
+14	peditum	_	_	_	_	_	_	_	_
+15	laus	_	_	_	_	_	_	_	_
+16	quam	_	_	_	_	_	_	_	_
+17	Tencteris	_	_	_	_	_	_	_	_
+18	equitum	_	_	_	_	_	_	_	_
+
+# sent_id = 196
+# text = sic instituere maiores posteri imitantur
+1	sic	_	_	_	_	_	_	_	_
+2	instituere	_	_	_	_	_	_	_	_
+3	maiores	_	_	_	_	_	_	_	_
+4	posteri	_	_	_	_	_	_	_	_
+5	imitantur	_	_	_	_	_	_	_	_
+
+# sent_id = 197
+# text = hi lusus infantium haec iuuenum aemulatio perseuerant senes
+1	hi	_	_	_	_	_	_	_	_
+2	lusus	_	_	_	_	_	_	_	_
+3	infantium	_	_	_	_	_	_	_	_
+4	haec	_	_	_	_	_	_	_	_
+5	iuuenum	_	_	_	_	_	_	_	_
+6	aemulatio	_	_	_	_	_	_	_	_
+7	perseuerant	_	_	_	_	_	_	_	_
+8	senes	_	_	_	_	_	_	_	_
+
+# sent_id = 198
+# text = inter familiam et penates et iura successionum equi traduntur excipit filius non ut cetera maximus natu sed prout ferox bello et melior
+1	inter	_	_	_	_	_	_	_	_
+2	familiam	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	penates	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	iura	_	_	_	_	_	_	_	_
+7	successionum	_	_	_	_	_	_	_	_
+8	equi	_	_	_	_	_	_	_	_
+9	traduntur	_	_	_	_	_	_	_	_
+10	excipit	_	_	_	_	_	_	_	_
+11	filius	_	_	_	_	_	_	_	_
+12	non	_	_	_	_	_	_	_	_
+13	ut	_	_	_	_	_	_	_	_
+14	cetera	_	_	_	_	_	_	_	_
+15	maximus	_	_	_	_	_	_	_	_
+16	natu	_	_	_	_	_	_	_	_
+17	sed	_	_	_	_	_	_	_	_
+18	prout	_	_	_	_	_	_	_	_
+19	ferox	_	_	_	_	_	_	_	_
+20	bello	_	_	_	_	_	_	_	_
+21	et	_	_	_	_	_	_	_	_
+22	melior	_	_	_	_	_	_	_	_
+
+# sent_id = 199
+# text = Iuxta Tencteros Bructeri olim occurrebant nunc Chamauos et Angriuarios immigrasse narratur pulsis Bructeris ac penitus excisis uicinarum consensu nationum seu superbiae odio seu praedae dulcedine seu fauore quodam erga nos deorum nam ne spectaculo quidem proelii inuidere
+1	Iuxta	_	_	_	_	_	_	_	_
+2	Tencteros	_	_	_	_	_	_	_	_
+3	Bructeri	_	_	_	_	_	_	_	_
+4	olim	_	_	_	_	_	_	_	_
+5	occurrebant	_	_	_	_	_	_	_	_
+6	nunc	_	_	_	_	_	_	_	_
+7	Chamauos	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	Angriuarios	_	_	_	_	_	_	_	_
+10	immigrasse	_	_	_	_	_	_	_	_
+11	narratur	_	_	_	_	_	_	_	_
+12	pulsis	_	_	_	_	_	_	_	_
+13	Bructeris	_	_	_	_	_	_	_	_
+14	ac	_	_	_	_	_	_	_	_
+15	penitus	_	_	_	_	_	_	_	_
+16	excisis	_	_	_	_	_	_	_	_
+17	uicinarum	_	_	_	_	_	_	_	_
+18	consensu	_	_	_	_	_	_	_	_
+19	nationum	_	_	_	_	_	_	_	_
+20	seu	_	_	_	_	_	_	_	_
+21	superbiae	_	_	_	_	_	_	_	_
+22	odio	_	_	_	_	_	_	_	_
+23	seu	_	_	_	_	_	_	_	_
+24	praedae	_	_	_	_	_	_	_	_
+25	dulcedine	_	_	_	_	_	_	_	_
+26	seu	_	_	_	_	_	_	_	_
+27	fauore	_	_	_	_	_	_	_	_
+28	quodam	_	_	_	_	_	_	_	_
+29	erga	_	_	_	_	_	_	_	_
+30	nos	_	_	_	_	_	_	_	_
+31	deorum	_	_	_	_	_	_	_	_
+32	nam	_	_	_	_	_	_	_	_
+33	ne	_	_	_	_	_	_	_	_
+34	spectaculo	_	_	_	_	_	_	_	_
+35	quidem	_	_	_	_	_	_	_	_
+36	proelii	_	_	_	_	_	_	_	_
+37	inuidere	_	_	_	_	_	_	_	_
+
+# sent_id = 200
+# text = super sexaginta milia non armis telisque Romanis sed quod magnificentius est oblectationi oculisque ceciderunt
+1	super	_	_	_	_	_	_	_	_
+2	sexaginta	_	_	_	_	_	_	_	_
+3	milia	_	_	_	_	_	_	_	_
+4	non	_	_	_	_	_	_	_	_
+5	armis	_	_	_	_	_	_	_	_
+6	telisque	_	_	_	_	_	_	_	_
+7	Romanis	_	_	_	_	_	_	_	_
+8	sed	_	_	_	_	_	_	_	_
+9	quod	_	_	_	_	_	_	_	_
+10	magnificentius	_	_	_	_	_	_	_	_
+11	est	_	_	_	_	_	_	_	_
+12	oblectationi	_	_	_	_	_	_	_	_
+13	oculisque	_	_	_	_	_	_	_	_
+14	ceciderunt	_	_	_	_	_	_	_	_
+
+# sent_id = 201
+# text = maneat quaeso duretque gentibus si non amor nostri at certe odium sui quando urgentibus imperii fatis nihil iam praestare fortuna maius potest quam hostium discordiam
+1	maneat	_	_	_	_	_	_	_	_
+2	quaeso	_	_	_	_	_	_	_	_
+3	duretque	_	_	_	_	_	_	_	_
+4	gentibus	_	_	_	_	_	_	_	_
+5	si	_	_	_	_	_	_	_	_
+6	non	_	_	_	_	_	_	_	_
+7	amor	_	_	_	_	_	_	_	_
+8	nostri	_	_	_	_	_	_	_	_
+9	at	_	_	_	_	_	_	_	_
+10	certe	_	_	_	_	_	_	_	_
+11	odium	_	_	_	_	_	_	_	_
+12	sui	_	_	_	_	_	_	_	_
+13	quando	_	_	_	_	_	_	_	_
+14	urgentibus	_	_	_	_	_	_	_	_
+15	imperii	_	_	_	_	_	_	_	_
+16	fatis	_	_	_	_	_	_	_	_
+17	nihil	_	_	_	_	_	_	_	_
+18	iam	_	_	_	_	_	_	_	_
+19	praestare	_	_	_	_	_	_	_	_
+20	fortuna	_	_	_	_	_	_	_	_
+21	maius	_	_	_	_	_	_	_	_
+22	potest	_	_	_	_	_	_	_	_
+23	quam	_	_	_	_	_	_	_	_
+24	hostium	_	_	_	_	_	_	_	_
+25	discordiam	_	_	_	_	_	_	_	_
+
+# sent_id = 202
+# text = Angriuarios et Chamauos a tergo Dulgubnii et Chasuarii cludunt aliaeque gentes haud perinde memoratae a fronte Frisii excipiunt
+1	Angriuarios	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	Chamauos	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	tergo	_	_	_	_	_	_	_	_
+6	Dulgubnii	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	Chasuarii	_	_	_	_	_	_	_	_
+9	cludunt	_	_	_	_	_	_	_	_
+10	aliaeque	_	_	_	_	_	_	_	_
+11	gentes	_	_	_	_	_	_	_	_
+12	haud	_	_	_	_	_	_	_	_
+13	perinde	_	_	_	_	_	_	_	_
+14	memoratae	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	fronte	_	_	_	_	_	_	_	_
+17	Frisii	_	_	_	_	_	_	_	_
+18	excipiunt	_	_	_	_	_	_	_	_
+
+# sent_id = 203
+# text = maioribus minoribusque Frisiis uocabulum est ex modo uirium
+1	maioribus	_	_	_	_	_	_	_	_
+2	minoribusque	_	_	_	_	_	_	_	_
+3	Frisiis	_	_	_	_	_	_	_	_
+4	uocabulum	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	ex	_	_	_	_	_	_	_	_
+7	modo	_	_	_	_	_	_	_	_
+8	uirium	_	_	_	_	_	_	_	_
+
+# sent_id = 204
+# text = utraeque nationes usque ad Oceanum Rheno praetexuntur ambiuntque immensos insuper lacus et Romanis classibus nauigatos
+1	utraeque	_	_	_	_	_	_	_	_
+2	nationes	_	_	_	_	_	_	_	_
+3	usque	_	_	_	_	_	_	_	_
+4	ad	_	_	_	_	_	_	_	_
+5	Oceanum	_	_	_	_	_	_	_	_
+6	Rheno	_	_	_	_	_	_	_	_
+7	praetexuntur	_	_	_	_	_	_	_	_
+8	ambiuntque	_	_	_	_	_	_	_	_
+9	immensos	_	_	_	_	_	_	_	_
+10	insuper	_	_	_	_	_	_	_	_
+11	lacus	_	_	_	_	_	_	_	_
+12	et	_	_	_	_	_	_	_	_
+13	Romanis	_	_	_	_	_	_	_	_
+14	classibus	_	_	_	_	_	_	_	_
+15	nauigatos	_	_	_	_	_	_	_	_
+
+# sent_id = 205
+# text = ipsum quin etiam Oceanum illa temptauimus et superesse adhuc Herculis columnas fama uulgauit siue adiit Hercules seu quicquid ubique magnificum est in claritatem eius referre consensimus
+1	ipsum	_	_	_	_	_	_	_	_
+2	quin	_	_	_	_	_	_	_	_
+3	etiam	_	_	_	_	_	_	_	_
+4	Oceanum	_	_	_	_	_	_	_	_
+5	illa	_	_	_	_	_	_	_	_
+6	temptauimus	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	superesse	_	_	_	_	_	_	_	_
+9	adhuc	_	_	_	_	_	_	_	_
+10	Herculis	_	_	_	_	_	_	_	_
+11	columnas	_	_	_	_	_	_	_	_
+12	fama	_	_	_	_	_	_	_	_
+13	uulgauit	_	_	_	_	_	_	_	_
+14	siue	_	_	_	_	_	_	_	_
+15	adiit	_	_	_	_	_	_	_	_
+16	Hercules	_	_	_	_	_	_	_	_
+17	seu	_	_	_	_	_	_	_	_
+18	quicquid	_	_	_	_	_	_	_	_
+19	ubique	_	_	_	_	_	_	_	_
+20	magnificum	_	_	_	_	_	_	_	_
+21	est	_	_	_	_	_	_	_	_
+22	in	_	_	_	_	_	_	_	_
+23	claritatem	_	_	_	_	_	_	_	_
+24	eius	_	_	_	_	_	_	_	_
+25	referre	_	_	_	_	_	_	_	_
+26	consensimus	_	_	_	_	_	_	_	_
+
+# sent_id = 206
+# text = nec defuit audentia Druso Germanico sed obstitit Oceanus in se simul atque in Herculem inquiri
+1	nec	_	_	_	_	_	_	_	_
+2	defuit	_	_	_	_	_	_	_	_
+3	audentia	_	_	_	_	_	_	_	_
+4	Druso	_	_	_	_	_	_	_	_
+5	Germanico	_	_	_	_	_	_	_	_
+6	sed	_	_	_	_	_	_	_	_
+7	obstitit	_	_	_	_	_	_	_	_
+8	Oceanus	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	simul	_	_	_	_	_	_	_	_
+12	atque	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	Herculem	_	_	_	_	_	_	_	_
+15	inquiri	_	_	_	_	_	_	_	_
+
+# sent_id = 207
+# text = mox nemo temptauit sanctiusque ac reuerentius uisum de actis deorum credere quam scire
+1	mox	_	_	_	_	_	_	_	_
+2	nemo	_	_	_	_	_	_	_	_
+3	temptauit	_	_	_	_	_	_	_	_
+4	sanctiusque	_	_	_	_	_	_	_	_
+5	ac	_	_	_	_	_	_	_	_
+6	reuerentius	_	_	_	_	_	_	_	_
+7	uisum	_	_	_	_	_	_	_	_
+8	de	_	_	_	_	_	_	_	_
+9	actis	_	_	_	_	_	_	_	_
+10	deorum	_	_	_	_	_	_	_	_
+11	credere	_	_	_	_	_	_	_	_
+12	quam	_	_	_	_	_	_	_	_
+13	scire	_	_	_	_	_	_	_	_
+
+# sent_id = 208
+# text = Hactenus in occidentem Germaniam nouimus in septentrionem ingenti flexu recedit
+1	Hactenus	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	occidentem	_	_	_	_	_	_	_	_
+4	Germaniam	_	_	_	_	_	_	_	_
+5	nouimus	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	septentrionem	_	_	_	_	_	_	_	_
+8	ingenti	_	_	_	_	_	_	_	_
+9	flexu	_	_	_	_	_	_	_	_
+10	recedit	_	_	_	_	_	_	_	_
+
+# sent_id = 209
+# text = ac primo statim Chaucorum gens quamquam incipiat a Frisiis ac partem litoris occupet omnium quas exposui gentium lateribus obtenditur donec in Chattos usque sinuetur
+1	ac	_	_	_	_	_	_	_	_
+2	primo	_	_	_	_	_	_	_	_
+3	statim	_	_	_	_	_	_	_	_
+4	Chaucorum	_	_	_	_	_	_	_	_
+5	gens	_	_	_	_	_	_	_	_
+6	quamquam	_	_	_	_	_	_	_	_
+7	incipiat	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	Frisiis	_	_	_	_	_	_	_	_
+10	ac	_	_	_	_	_	_	_	_
+11	partem	_	_	_	_	_	_	_	_
+12	litoris	_	_	_	_	_	_	_	_
+13	occupet	_	_	_	_	_	_	_	_
+14	omnium	_	_	_	_	_	_	_	_
+15	quas	_	_	_	_	_	_	_	_
+16	exposui	_	_	_	_	_	_	_	_
+17	gentium	_	_	_	_	_	_	_	_
+18	lateribus	_	_	_	_	_	_	_	_
+19	obtenditur	_	_	_	_	_	_	_	_
+20	donec	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	Chattos	_	_	_	_	_	_	_	_
+23	usque	_	_	_	_	_	_	_	_
+24	sinuetur	_	_	_	_	_	_	_	_
+
+# sent_id = 210
+# text = tam immensum terrarum spatium non tenent tantum Chauci sed et implent populus inter Germanos nobilissimus quique magnitudinem suam malit iustitia tueri
+1	tam	_	_	_	_	_	_	_	_
+2	immensum	_	_	_	_	_	_	_	_
+3	terrarum	_	_	_	_	_	_	_	_
+4	spatium	_	_	_	_	_	_	_	_
+5	non	_	_	_	_	_	_	_	_
+6	tenent	_	_	_	_	_	_	_	_
+7	tantum	_	_	_	_	_	_	_	_
+8	Chauci	_	_	_	_	_	_	_	_
+9	sed	_	_	_	_	_	_	_	_
+10	et	_	_	_	_	_	_	_	_
+11	implent	_	_	_	_	_	_	_	_
+12	populus	_	_	_	_	_	_	_	_
+13	inter	_	_	_	_	_	_	_	_
+14	Germanos	_	_	_	_	_	_	_	_
+15	nobilissimus	_	_	_	_	_	_	_	_
+16	quique	_	_	_	_	_	_	_	_
+17	magnitudinem	_	_	_	_	_	_	_	_
+18	suam	_	_	_	_	_	_	_	_
+19	malit	_	_	_	_	_	_	_	_
+20	iustitia	_	_	_	_	_	_	_	_
+21	tueri	_	_	_	_	_	_	_	_
+
+# sent_id = 211
+# text = sine cupiditate sine impotentia quieti secretique nulla prouocant bella nullis raptibus aut latrociniis populantur
+1	sine	_	_	_	_	_	_	_	_
+2	cupiditate	_	_	_	_	_	_	_	_
+3	sine	_	_	_	_	_	_	_	_
+4	impotentia	_	_	_	_	_	_	_	_
+5	quieti	_	_	_	_	_	_	_	_
+6	secretique	_	_	_	_	_	_	_	_
+7	nulla	_	_	_	_	_	_	_	_
+8	prouocant	_	_	_	_	_	_	_	_
+9	bella	_	_	_	_	_	_	_	_
+10	nullis	_	_	_	_	_	_	_	_
+11	raptibus	_	_	_	_	_	_	_	_
+12	aut	_	_	_	_	_	_	_	_
+13	latrociniis	_	_	_	_	_	_	_	_
+14	populantur	_	_	_	_	_	_	_	_
+
+# sent_id = 212
+# text = id praecipuum uirtutis ac uirium argumentum est quod ut superiores agant non per iniurias adsequuntur prompta tamen omnibus arma ac si res poscat exercitus plurimum uirorum equorumque et quiescentibus eadem fama
+1	id	_	_	_	_	_	_	_	_
+2	praecipuum	_	_	_	_	_	_	_	_
+3	uirtutis	_	_	_	_	_	_	_	_
+4	ac	_	_	_	_	_	_	_	_
+5	uirium	_	_	_	_	_	_	_	_
+6	argumentum	_	_	_	_	_	_	_	_
+7	est	_	_	_	_	_	_	_	_
+8	quod	_	_	_	_	_	_	_	_
+9	ut	_	_	_	_	_	_	_	_
+10	superiores	_	_	_	_	_	_	_	_
+11	agant	_	_	_	_	_	_	_	_
+12	non	_	_	_	_	_	_	_	_
+13	per	_	_	_	_	_	_	_	_
+14	iniurias	_	_	_	_	_	_	_	_
+15	adsequuntur	_	_	_	_	_	_	_	_
+16	prompta	_	_	_	_	_	_	_	_
+17	tamen	_	_	_	_	_	_	_	_
+18	omnibus	_	_	_	_	_	_	_	_
+19	arma	_	_	_	_	_	_	_	_
+20	ac	_	_	_	_	_	_	_	_
+21	si	_	_	_	_	_	_	_	_
+22	res	_	_	_	_	_	_	_	_
+23	poscat	_	_	_	_	_	_	_	_
+24	exercitus	_	_	_	_	_	_	_	_
+25	plurimum	_	_	_	_	_	_	_	_
+26	uirorum	_	_	_	_	_	_	_	_
+27	equorumque	_	_	_	_	_	_	_	_
+28	et	_	_	_	_	_	_	_	_
+29	quiescentibus	_	_	_	_	_	_	_	_
+30	eadem	_	_	_	_	_	_	_	_
+31	fama	_	_	_	_	_	_	_	_
+
+# sent_id = 213
+# text = In latere Chaucorum Chattorumque Cherusci nimiam ac marcentem diu pacem inlacessiti nutrierunt idque iucundius quam tutius fuit quia inter impotentes et ualidos falso quiescas ubi manu agitur modestia ac probitas nomina superioris sunt
+1	In	_	_	_	_	_	_	_	_
+2	latere	_	_	_	_	_	_	_	_
+3	Chaucorum	_	_	_	_	_	_	_	_
+4	Chattorumque	_	_	_	_	_	_	_	_
+5	Cherusci	_	_	_	_	_	_	_	_
+6	nimiam	_	_	_	_	_	_	_	_
+7	ac	_	_	_	_	_	_	_	_
+8	marcentem	_	_	_	_	_	_	_	_
+9	diu	_	_	_	_	_	_	_	_
+10	pacem	_	_	_	_	_	_	_	_
+11	inlacessiti	_	_	_	_	_	_	_	_
+12	nutrierunt	_	_	_	_	_	_	_	_
+13	idque	_	_	_	_	_	_	_	_
+14	iucundius	_	_	_	_	_	_	_	_
+15	quam	_	_	_	_	_	_	_	_
+16	tutius	_	_	_	_	_	_	_	_
+17	fuit	_	_	_	_	_	_	_	_
+18	quia	_	_	_	_	_	_	_	_
+19	inter	_	_	_	_	_	_	_	_
+20	impotentes	_	_	_	_	_	_	_	_
+21	et	_	_	_	_	_	_	_	_
+22	ualidos	_	_	_	_	_	_	_	_
+23	falso	_	_	_	_	_	_	_	_
+24	quiescas	_	_	_	_	_	_	_	_
+25	ubi	_	_	_	_	_	_	_	_
+26	manu	_	_	_	_	_	_	_	_
+27	agitur	_	_	_	_	_	_	_	_
+28	modestia	_	_	_	_	_	_	_	_
+29	ac	_	_	_	_	_	_	_	_
+30	probitas	_	_	_	_	_	_	_	_
+31	nomina	_	_	_	_	_	_	_	_
+32	superioris	_	_	_	_	_	_	_	_
+33	sunt	_	_	_	_	_	_	_	_
+
+# sent_id = 214
+# text = ita qui olim boni aequique Cherusci nunc inertes ac stulti uocantur Chattis uictoribus fortuna in sapientiam cessit
+1	ita	_	_	_	_	_	_	_	_
+2	qui	_	_	_	_	_	_	_	_
+3	olim	_	_	_	_	_	_	_	_
+4	boni	_	_	_	_	_	_	_	_
+5	aequique	_	_	_	_	_	_	_	_
+6	Cherusci	_	_	_	_	_	_	_	_
+7	nunc	_	_	_	_	_	_	_	_
+8	inertes	_	_	_	_	_	_	_	_
+9	ac	_	_	_	_	_	_	_	_
+10	stulti	_	_	_	_	_	_	_	_
+11	uocantur	_	_	_	_	_	_	_	_
+12	Chattis	_	_	_	_	_	_	_	_
+13	uictoribus	_	_	_	_	_	_	_	_
+14	fortuna	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	sapientiam	_	_	_	_	_	_	_	_
+17	cessit	_	_	_	_	_	_	_	_
+
+# sent_id = 215
+# text = tracti ruina Cheruscorum et Fosi contermina gens aduersarum rerum ex aequo socii sunt cum in secundis minores fuissent
+1	tracti	_	_	_	_	_	_	_	_
+2	ruina	_	_	_	_	_	_	_	_
+3	Cheruscorum	_	_	_	_	_	_	_	_
+4	et	_	_	_	_	_	_	_	_
+5	Fosi	_	_	_	_	_	_	_	_
+6	contermina	_	_	_	_	_	_	_	_
+7	gens	_	_	_	_	_	_	_	_
+8	aduersarum	_	_	_	_	_	_	_	_
+9	rerum	_	_	_	_	_	_	_	_
+10	ex	_	_	_	_	_	_	_	_
+11	aequo	_	_	_	_	_	_	_	_
+12	socii	_	_	_	_	_	_	_	_
+13	sunt	_	_	_	_	_	_	_	_
+14	cum	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	secundis	_	_	_	_	_	_	_	_
+17	minores	_	_	_	_	_	_	_	_
+18	fuissent	_	_	_	_	_	_	_	_
+
+# sent_id = 216
+# text = Eundem Germaniae sinum proximi Oceano Cimbri tenent parua nunc ciuitas sed gloria ingens
+1	Eundem	_	_	_	_	_	_	_	_
+2	Germaniae	_	_	_	_	_	_	_	_
+3	sinum	_	_	_	_	_	_	_	_
+4	proximi	_	_	_	_	_	_	_	_
+5	Oceano	_	_	_	_	_	_	_	_
+6	Cimbri	_	_	_	_	_	_	_	_
+7	tenent	_	_	_	_	_	_	_	_
+8	parua	_	_	_	_	_	_	_	_
+9	nunc	_	_	_	_	_	_	_	_
+10	ciuitas	_	_	_	_	_	_	_	_
+11	sed	_	_	_	_	_	_	_	_
+12	gloria	_	_	_	_	_	_	_	_
+13	ingens	_	_	_	_	_	_	_	_
+
+# sent_id = 217
+# text = ueterisque famae lata uestigia manent utraque ripa castra ac spatia quorum ambitu nunc quoque metiaris molem manusque gentis et tam magni exitus fidem
+1	ueterisque	_	_	_	_	_	_	_	_
+2	famae	_	_	_	_	_	_	_	_
+3	lata	_	_	_	_	_	_	_	_
+4	uestigia	_	_	_	_	_	_	_	_
+5	manent	_	_	_	_	_	_	_	_
+6	utraque	_	_	_	_	_	_	_	_
+7	ripa	_	_	_	_	_	_	_	_
+8	castra	_	_	_	_	_	_	_	_
+9	ac	_	_	_	_	_	_	_	_
+10	spatia	_	_	_	_	_	_	_	_
+11	quorum	_	_	_	_	_	_	_	_
+12	ambitu	_	_	_	_	_	_	_	_
+13	nunc	_	_	_	_	_	_	_	_
+14	quoque	_	_	_	_	_	_	_	_
+15	metiaris	_	_	_	_	_	_	_	_
+16	molem	_	_	_	_	_	_	_	_
+17	manusque	_	_	_	_	_	_	_	_
+18	gentis	_	_	_	_	_	_	_	_
+19	et	_	_	_	_	_	_	_	_
+20	tam	_	_	_	_	_	_	_	_
+21	magni	_	_	_	_	_	_	_	_
+22	exitus	_	_	_	_	_	_	_	_
+23	fidem	_	_	_	_	_	_	_	_
+
+# sent_id = 218
+# text = sescentesimum et quadragesimum annum urbs nostra agebat cum primum Cimbrorum audita sunt arma Caecilio Metello ac Papirio Carbone consulibus
+1	sescentesimum	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	quadragesimum	_	_	_	_	_	_	_	_
+4	annum	_	_	_	_	_	_	_	_
+5	urbs	_	_	_	_	_	_	_	_
+6	nostra	_	_	_	_	_	_	_	_
+7	agebat	_	_	_	_	_	_	_	_
+8	cum	_	_	_	_	_	_	_	_
+9	primum	_	_	_	_	_	_	_	_
+10	Cimbrorum	_	_	_	_	_	_	_	_
+11	audita	_	_	_	_	_	_	_	_
+12	sunt	_	_	_	_	_	_	_	_
+13	arma	_	_	_	_	_	_	_	_
+14	Caecilio	_	_	_	_	_	_	_	_
+15	Metello	_	_	_	_	_	_	_	_
+16	ac	_	_	_	_	_	_	_	_
+17	Papirio	_	_	_	_	_	_	_	_
+18	Carbone	_	_	_	_	_	_	_	_
+19	consulibus	_	_	_	_	_	_	_	_
+
+# sent_id = 219
+# text = ex quo si ad alterum imperatoris Traiani consulatum computemus ducenti ferme et decem anni colliguntur tam diu Germania uincitur
+1	ex	_	_	_	_	_	_	_	_
+2	quo	_	_	_	_	_	_	_	_
+3	si	_	_	_	_	_	_	_	_
+4	ad	_	_	_	_	_	_	_	_
+5	alterum	_	_	_	_	_	_	_	_
+6	imperatoris	_	_	_	_	_	_	_	_
+7	Traiani	_	_	_	_	_	_	_	_
+8	consulatum	_	_	_	_	_	_	_	_
+9	computemus	_	_	_	_	_	_	_	_
+10	ducenti	_	_	_	_	_	_	_	_
+11	ferme	_	_	_	_	_	_	_	_
+12	et	_	_	_	_	_	_	_	_
+13	decem	_	_	_	_	_	_	_	_
+14	anni	_	_	_	_	_	_	_	_
+15	colliguntur	_	_	_	_	_	_	_	_
+16	tam	_	_	_	_	_	_	_	_
+17	diu	_	_	_	_	_	_	_	_
+18	Germania	_	_	_	_	_	_	_	_
+19	uincitur	_	_	_	_	_	_	_	_
+
+# sent_id = 220
+# text = medio tam longi aeui spatio multa in uicem damna
+1	medio	_	_	_	_	_	_	_	_
+2	tam	_	_	_	_	_	_	_	_
+3	longi	_	_	_	_	_	_	_	_
+4	aeui	_	_	_	_	_	_	_	_
+5	spatio	_	_	_	_	_	_	_	_
+6	multa	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	uicem	_	_	_	_	_	_	_	_
+9	damna	_	_	_	_	_	_	_	_
+
+# sent_id = 221
+# text = non Samnis non Poeni non Hispaniae Galliaeue ne Parthi quidem saepius admonuere quippe regno Arsacis acrior est Germanorum libertas
+1	non	_	_	_	_	_	_	_	_
+2	Samnis	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	Poeni	_	_	_	_	_	_	_	_
+5	non	_	_	_	_	_	_	_	_
+6	Hispaniae	_	_	_	_	_	_	_	_
+7	Galliaeue	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+9	Parthi	_	_	_	_	_	_	_	_
+10	quidem	_	_	_	_	_	_	_	_
+11	saepius	_	_	_	_	_	_	_	_
+12	admonuere	_	_	_	_	_	_	_	_
+13	quippe	_	_	_	_	_	_	_	_
+14	regno	_	_	_	_	_	_	_	_
+15	Arsacis	_	_	_	_	_	_	_	_
+16	acrior	_	_	_	_	_	_	_	_
+17	est	_	_	_	_	_	_	_	_
+18	Germanorum	_	_	_	_	_	_	_	_
+19	libertas	_	_	_	_	_	_	_	_
+
+# sent_id = 222
+# text = quid enim aliud nobis quam caedem Crassi amisso et ipse Pacoro infra Uentidium deiectus Oriens obiecerit
+1	quid	_	_	_	_	_	_	_	_
+2	enim	_	_	_	_	_	_	_	_
+3	aliud	_	_	_	_	_	_	_	_
+4	nobis	_	_	_	_	_	_	_	_
+5	quam	_	_	_	_	_	_	_	_
+6	caedem	_	_	_	_	_	_	_	_
+7	Crassi	_	_	_	_	_	_	_	_
+8	amisso	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	ipse	_	_	_	_	_	_	_	_
+11	Pacoro	_	_	_	_	_	_	_	_
+12	infra	_	_	_	_	_	_	_	_
+13	Uentidium	_	_	_	_	_	_	_	_
+14	deiectus	_	_	_	_	_	_	_	_
+15	Oriens	_	_	_	_	_	_	_	_
+16	obiecerit	_	_	_	_	_	_	_	_
+
+# sent_id = 223
+# text = at Germani Carbone et Cassio et Scauro Aurelio et Seruilio Caepione Maximoque Mallio fusis uel captis quinque simul consulares exercitus populo Romano Uarum tresque cum eo legiones etiam Caesari abstulerunt nec impune C. Marius in Italia diuus Iulius in Gallia Drusus ac Nero et Germanicus in suis eos sedibus perculerunt mox ingentes C. Caesaris minae in ludibrium uersae
+1	at	_	_	_	_	_	_	_	_
+2	Germani	_	_	_	_	_	_	_	_
+3	Carbone	_	_	_	_	_	_	_	_
+4	et	_	_	_	_	_	_	_	_
+5	Cassio	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	Scauro	_	_	_	_	_	_	_	_
+8	Aurelio	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	Seruilio	_	_	_	_	_	_	_	_
+11	Caepione	_	_	_	_	_	_	_	_
+12	Maximoque	_	_	_	_	_	_	_	_
+13	Mallio	_	_	_	_	_	_	_	_
+14	fusis	_	_	_	_	_	_	_	_
+15	uel	_	_	_	_	_	_	_	_
+16	captis	_	_	_	_	_	_	_	_
+17	quinque	_	_	_	_	_	_	_	_
+18	simul	_	_	_	_	_	_	_	_
+19	consulares	_	_	_	_	_	_	_	_
+20	exercitus	_	_	_	_	_	_	_	_
+21	populo	_	_	_	_	_	_	_	_
+22	Romano	_	_	_	_	_	_	_	_
+23	Uarum	_	_	_	_	_	_	_	_
+24	tresque	_	_	_	_	_	_	_	_
+25	cum	_	_	_	_	_	_	_	_
+26	eo	_	_	_	_	_	_	_	_
+27	legiones	_	_	_	_	_	_	_	_
+28	etiam	_	_	_	_	_	_	_	_
+29	Caesari	_	_	_	_	_	_	_	_
+30	abstulerunt	_	_	_	_	_	_	_	_
+31	nec	_	_	_	_	_	_	_	_
+32	impune	_	_	_	_	_	_	_	_
+33	C.	_	_	_	_	_	_	_	_
+34	Marius	_	_	_	_	_	_	_	_
+35	in	_	_	_	_	_	_	_	_
+36	Italia	_	_	_	_	_	_	_	_
+37	diuus	_	_	_	_	_	_	_	_
+38	Iulius	_	_	_	_	_	_	_	_
+39	in	_	_	_	_	_	_	_	_
+40	Gallia	_	_	_	_	_	_	_	_
+41	Drusus	_	_	_	_	_	_	_	_
+42	ac	_	_	_	_	_	_	_	_
+43	Nero	_	_	_	_	_	_	_	_
+44	et	_	_	_	_	_	_	_	_
+45	Germanicus	_	_	_	_	_	_	_	_
+46	in	_	_	_	_	_	_	_	_
+47	suis	_	_	_	_	_	_	_	_
+48	eos	_	_	_	_	_	_	_	_
+49	sedibus	_	_	_	_	_	_	_	_
+50	perculerunt	_	_	_	_	_	_	_	_
+51	mox	_	_	_	_	_	_	_	_
+52	ingentes	_	_	_	_	_	_	_	_
+53	C.	_	_	_	_	_	_	_	_
+54	Caesaris	_	_	_	_	_	_	_	_
+55	minae	_	_	_	_	_	_	_	_
+56	in	_	_	_	_	_	_	_	_
+57	ludibrium	_	_	_	_	_	_	_	_
+58	uersae	_	_	_	_	_	_	_	_
+
+# sent_id = 224
+# text = inde otium donec occasione discordiae nostrae et ciuilium armorum expugnatis legionum hibernis etiam Gallias adfectauere ac rursus pulsi nam proximis temporibus triumphati magis quam uicti sunt
+1	inde	_	_	_	_	_	_	_	_
+2	otium	_	_	_	_	_	_	_	_
+3	donec	_	_	_	_	_	_	_	_
+4	occasione	_	_	_	_	_	_	_	_
+5	discordiae	_	_	_	_	_	_	_	_
+6	nostrae	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	ciuilium	_	_	_	_	_	_	_	_
+9	armorum	_	_	_	_	_	_	_	_
+10	expugnatis	_	_	_	_	_	_	_	_
+11	legionum	_	_	_	_	_	_	_	_
+12	hibernis	_	_	_	_	_	_	_	_
+13	etiam	_	_	_	_	_	_	_	_
+14	Gallias	_	_	_	_	_	_	_	_
+15	adfectauere	_	_	_	_	_	_	_	_
+16	ac	_	_	_	_	_	_	_	_
+17	rursus	_	_	_	_	_	_	_	_
+18	pulsi	_	_	_	_	_	_	_	_
+19	nam	_	_	_	_	_	_	_	_
+20	proximis	_	_	_	_	_	_	_	_
+21	temporibus	_	_	_	_	_	_	_	_
+22	triumphati	_	_	_	_	_	_	_	_
+23	magis	_	_	_	_	_	_	_	_
+24	quam	_	_	_	_	_	_	_	_
+25	uicti	_	_	_	_	_	_	_	_
+26	sunt	_	_	_	_	_	_	_	_
+
+# sent_id = 225
+# text = Nunc de Suebis dicendum est quorum non una ut Chattorum Tencterorumue gens maiorem enim Germaniae partem obtinent propriis adhuc nationibus nominibusque discreti quamquam in commune Suebi uocentur
+1	Nunc	_	_	_	_	_	_	_	_
+2	de	_	_	_	_	_	_	_	_
+3	Suebis	_	_	_	_	_	_	_	_
+4	dicendum	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	quorum	_	_	_	_	_	_	_	_
+7	non	_	_	_	_	_	_	_	_
+8	una	_	_	_	_	_	_	_	_
+9	ut	_	_	_	_	_	_	_	_
+10	Chattorum	_	_	_	_	_	_	_	_
+11	Tencterorumue	_	_	_	_	_	_	_	_
+12	gens	_	_	_	_	_	_	_	_
+13	maiorem	_	_	_	_	_	_	_	_
+14	enim	_	_	_	_	_	_	_	_
+15	Germaniae	_	_	_	_	_	_	_	_
+16	partem	_	_	_	_	_	_	_	_
+17	obtinent	_	_	_	_	_	_	_	_
+18	propriis	_	_	_	_	_	_	_	_
+19	adhuc	_	_	_	_	_	_	_	_
+20	nationibus	_	_	_	_	_	_	_	_
+21	nominibusque	_	_	_	_	_	_	_	_
+22	discreti	_	_	_	_	_	_	_	_
+23	quamquam	_	_	_	_	_	_	_	_
+24	in	_	_	_	_	_	_	_	_
+25	commune	_	_	_	_	_	_	_	_
+26	Suebi	_	_	_	_	_	_	_	_
+27	uocentur	_	_	_	_	_	_	_	_
+
+# sent_id = 226
+# text = insigne gentis obliquare crinem nodoque substringere sic Suebi a ceteris Germanis sic Sueborum ingenui a seruis separantur
+1	insigne	_	_	_	_	_	_	_	_
+2	gentis	_	_	_	_	_	_	_	_
+3	obliquare	_	_	_	_	_	_	_	_
+4	crinem	_	_	_	_	_	_	_	_
+5	nodoque	_	_	_	_	_	_	_	_
+6	substringere	_	_	_	_	_	_	_	_
+7	sic	_	_	_	_	_	_	_	_
+8	Suebi	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	ceteris	_	_	_	_	_	_	_	_
+11	Germanis	_	_	_	_	_	_	_	_
+12	sic	_	_	_	_	_	_	_	_
+13	Sueborum	_	_	_	_	_	_	_	_
+14	ingenui	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	seruis	_	_	_	_	_	_	_	_
+17	separantur	_	_	_	_	_	_	_	_
+
+# sent_id = 227
+# text = in aliis gentibus seu cognatione aliqua Sueborum seu quod saepius accidit imitatione rarum et intra iuuentae spatium apud Suebos usque ad canitiem horrentes capilli retorquentur ac saepe in ipso uertice religantur
+1	in	_	_	_	_	_	_	_	_
+2	aliis	_	_	_	_	_	_	_	_
+3	gentibus	_	_	_	_	_	_	_	_
+4	seu	_	_	_	_	_	_	_	_
+5	cognatione	_	_	_	_	_	_	_	_
+6	aliqua	_	_	_	_	_	_	_	_
+7	Sueborum	_	_	_	_	_	_	_	_
+8	seu	_	_	_	_	_	_	_	_
+9	quod	_	_	_	_	_	_	_	_
+10	saepius	_	_	_	_	_	_	_	_
+11	accidit	_	_	_	_	_	_	_	_
+12	imitatione	_	_	_	_	_	_	_	_
+13	rarum	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	intra	_	_	_	_	_	_	_	_
+16	iuuentae	_	_	_	_	_	_	_	_
+17	spatium	_	_	_	_	_	_	_	_
+18	apud	_	_	_	_	_	_	_	_
+19	Suebos	_	_	_	_	_	_	_	_
+20	usque	_	_	_	_	_	_	_	_
+21	ad	_	_	_	_	_	_	_	_
+22	canitiem	_	_	_	_	_	_	_	_
+23	horrentes	_	_	_	_	_	_	_	_
+24	capilli	_	_	_	_	_	_	_	_
+25	retorquentur	_	_	_	_	_	_	_	_
+26	ac	_	_	_	_	_	_	_	_
+27	saepe	_	_	_	_	_	_	_	_
+28	in	_	_	_	_	_	_	_	_
+29	ipso	_	_	_	_	_	_	_	_
+30	uertice	_	_	_	_	_	_	_	_
+31	religantur	_	_	_	_	_	_	_	_
+
+# sent_id = 228
+# text = principes et ornatiorem habent ea cura formae sed innoxia neque enim ut ament amenturue in altitudinem quandam et terrorem adituri bella compti ut hostium oculis ornantur
+1	principes	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	ornatiorem	_	_	_	_	_	_	_	_
+4	habent	_	_	_	_	_	_	_	_
+5	ea	_	_	_	_	_	_	_	_
+6	cura	_	_	_	_	_	_	_	_
+7	formae	_	_	_	_	_	_	_	_
+8	sed	_	_	_	_	_	_	_	_
+9	innoxia	_	_	_	_	_	_	_	_
+10	neque	_	_	_	_	_	_	_	_
+11	enim	_	_	_	_	_	_	_	_
+12	ut	_	_	_	_	_	_	_	_
+13	ament	_	_	_	_	_	_	_	_
+14	amenturue	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	altitudinem	_	_	_	_	_	_	_	_
+17	quandam	_	_	_	_	_	_	_	_
+18	et	_	_	_	_	_	_	_	_
+19	terrorem	_	_	_	_	_	_	_	_
+20	adituri	_	_	_	_	_	_	_	_
+21	bella	_	_	_	_	_	_	_	_
+22	compti	_	_	_	_	_	_	_	_
+23	ut	_	_	_	_	_	_	_	_
+24	hostium	_	_	_	_	_	_	_	_
+25	oculis	_	_	_	_	_	_	_	_
+26	ornantur	_	_	_	_	_	_	_	_
+
+# sent_id = 229
+# text = Uetustissimos nobilissimosque Sueborum Semnones memorant fides antiquitatis religione firmatur
+1	Uetustissimos	_	_	_	_	_	_	_	_
+2	nobilissimosque	_	_	_	_	_	_	_	_
+3	Sueborum	_	_	_	_	_	_	_	_
+4	Semnones	_	_	_	_	_	_	_	_
+5	memorant	_	_	_	_	_	_	_	_
+6	fides	_	_	_	_	_	_	_	_
+7	antiquitatis	_	_	_	_	_	_	_	_
+8	religione	_	_	_	_	_	_	_	_
+9	firmatur	_	_	_	_	_	_	_	_
+
+# sent_id = 230
+# text = stato tempore in siluam auguriis patrum et prisca formidine sacram nominis eiusdemque sanguinis populi legationibus coeunt caesoque publice homine celebrant barbari ritus horrenda primordia
+1	stato	_	_	_	_	_	_	_	_
+2	tempore	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	siluam	_	_	_	_	_	_	_	_
+5	auguriis	_	_	_	_	_	_	_	_
+6	patrum	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	prisca	_	_	_	_	_	_	_	_
+9	formidine	_	_	_	_	_	_	_	_
+10	sacram	_	_	_	_	_	_	_	_
+11	nominis	_	_	_	_	_	_	_	_
+12	eiusdemque	_	_	_	_	_	_	_	_
+13	sanguinis	_	_	_	_	_	_	_	_
+14	populi	_	_	_	_	_	_	_	_
+15	legationibus	_	_	_	_	_	_	_	_
+16	coeunt	_	_	_	_	_	_	_	_
+17	caesoque	_	_	_	_	_	_	_	_
+18	publice	_	_	_	_	_	_	_	_
+19	homine	_	_	_	_	_	_	_	_
+20	celebrant	_	_	_	_	_	_	_	_
+21	barbari	_	_	_	_	_	_	_	_
+22	ritus	_	_	_	_	_	_	_	_
+23	horrenda	_	_	_	_	_	_	_	_
+24	primordia	_	_	_	_	_	_	_	_
+
+# sent_id = 231
+# text = est et alia luco reuerentia nemo nisi uinculo ligatus ingreditur ut minor et potestatem numinis prae se ferens
+1	est	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	alia	_	_	_	_	_	_	_	_
+4	luco	_	_	_	_	_	_	_	_
+5	reuerentia	_	_	_	_	_	_	_	_
+6	nemo	_	_	_	_	_	_	_	_
+7	nisi	_	_	_	_	_	_	_	_
+8	uinculo	_	_	_	_	_	_	_	_
+9	ligatus	_	_	_	_	_	_	_	_
+10	ingreditur	_	_	_	_	_	_	_	_
+11	ut	_	_	_	_	_	_	_	_
+12	minor	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	potestatem	_	_	_	_	_	_	_	_
+15	numinis	_	_	_	_	_	_	_	_
+16	prae	_	_	_	_	_	_	_	_
+17	se	_	_	_	_	_	_	_	_
+18	ferens	_	_	_	_	_	_	_	_
+
+# sent_id = 232
+# text = si forte prolapsus est attolli et insurgere haud licitum per humum euoluuntur
+1	si	_	_	_	_	_	_	_	_
+2	forte	_	_	_	_	_	_	_	_
+3	prolapsus	_	_	_	_	_	_	_	_
+4	est	_	_	_	_	_	_	_	_
+5	attolli	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	insurgere	_	_	_	_	_	_	_	_
+8	haud	_	_	_	_	_	_	_	_
+9	licitum	_	_	_	_	_	_	_	_
+10	per	_	_	_	_	_	_	_	_
+11	humum	_	_	_	_	_	_	_	_
+12	euoluuntur	_	_	_	_	_	_	_	_
+
+# sent_id = 233
+# text = eoque omnis superstitio respicit tamquam inde initia gentis ibi regnator omnium deus cetera subiecta atque parentia
+1	eoque	_	_	_	_	_	_	_	_
+2	omnis	_	_	_	_	_	_	_	_
+3	superstitio	_	_	_	_	_	_	_	_
+4	respicit	_	_	_	_	_	_	_	_
+5	tamquam	_	_	_	_	_	_	_	_
+6	inde	_	_	_	_	_	_	_	_
+7	initia	_	_	_	_	_	_	_	_
+8	gentis	_	_	_	_	_	_	_	_
+9	ibi	_	_	_	_	_	_	_	_
+10	regnator	_	_	_	_	_	_	_	_
+11	omnium	_	_	_	_	_	_	_	_
+12	deus	_	_	_	_	_	_	_	_
+13	cetera	_	_	_	_	_	_	_	_
+14	subiecta	_	_	_	_	_	_	_	_
+15	atque	_	_	_	_	_	_	_	_
+16	parentia	_	_	_	_	_	_	_	_
+
+# sent_id = 234
+# text = adicit auctoritatem fortuna Semnonum centum pagis habitant magnoque corpore efficitur ut se Sueborum caput credant
+1	adicit	_	_	_	_	_	_	_	_
+2	auctoritatem	_	_	_	_	_	_	_	_
+3	fortuna	_	_	_	_	_	_	_	_
+4	Semnonum	_	_	_	_	_	_	_	_
+5	centum	_	_	_	_	_	_	_	_
+6	pagis	_	_	_	_	_	_	_	_
+7	habitant	_	_	_	_	_	_	_	_
+8	magnoque	_	_	_	_	_	_	_	_
+9	corpore	_	_	_	_	_	_	_	_
+10	efficitur	_	_	_	_	_	_	_	_
+11	ut	_	_	_	_	_	_	_	_
+12	se	_	_	_	_	_	_	_	_
+13	Sueborum	_	_	_	_	_	_	_	_
+14	caput	_	_	_	_	_	_	_	_
+15	credant	_	_	_	_	_	_	_	_
+
+# sent_id = 235
+# text = Contra Langobardos paucitas nobilitat plurimis ac ualentissimis nationibus cincti non per obsequium sed proeliis et periclitando tuti sunt
+1	Contra	_	_	_	_	_	_	_	_
+2	Langobardos	_	_	_	_	_	_	_	_
+3	paucitas	_	_	_	_	_	_	_	_
+4	nobilitat	_	_	_	_	_	_	_	_
+5	plurimis	_	_	_	_	_	_	_	_
+6	ac	_	_	_	_	_	_	_	_
+7	ualentissimis	_	_	_	_	_	_	_	_
+8	nationibus	_	_	_	_	_	_	_	_
+9	cincti	_	_	_	_	_	_	_	_
+10	non	_	_	_	_	_	_	_	_
+11	per	_	_	_	_	_	_	_	_
+12	obsequium	_	_	_	_	_	_	_	_
+13	sed	_	_	_	_	_	_	_	_
+14	proeliis	_	_	_	_	_	_	_	_
+15	et	_	_	_	_	_	_	_	_
+16	periclitando	_	_	_	_	_	_	_	_
+17	tuti	_	_	_	_	_	_	_	_
+18	sunt	_	_	_	_	_	_	_	_
+
+# sent_id = 236
+# text = Reudigni deinde et Auiones et Anglii et Uarini et Eudoses et Suardones et Nuitones fluminibus aut siluis muniuntur
+1	Reudigni	_	_	_	_	_	_	_	_
+2	deinde	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	Auiones	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	Anglii	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	Uarini	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	Eudoses	_	_	_	_	_	_	_	_
+11	et	_	_	_	_	_	_	_	_
+12	Suardones	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	Nuitones	_	_	_	_	_	_	_	_
+15	fluminibus	_	_	_	_	_	_	_	_
+16	aut	_	_	_	_	_	_	_	_
+17	siluis	_	_	_	_	_	_	_	_
+18	muniuntur	_	_	_	_	_	_	_	_
+
+# sent_id = 237
+# text = nec quicquam notabile in singulis nisi quod in commune Nerthum id est Terram matrem colunt eamque interuenire rebus hominum inuehi populis arbitrantur
+1	nec	_	_	_	_	_	_	_	_
+2	quicquam	_	_	_	_	_	_	_	_
+3	notabile	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	singulis	_	_	_	_	_	_	_	_
+6	nisi	_	_	_	_	_	_	_	_
+7	quod	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	commune	_	_	_	_	_	_	_	_
+10	Nerthum	_	_	_	_	_	_	_	_
+11	id	_	_	_	_	_	_	_	_
+12	est	_	_	_	_	_	_	_	_
+13	Terram	_	_	_	_	_	_	_	_
+14	matrem	_	_	_	_	_	_	_	_
+15	colunt	_	_	_	_	_	_	_	_
+16	eamque	_	_	_	_	_	_	_	_
+17	interuenire	_	_	_	_	_	_	_	_
+18	rebus	_	_	_	_	_	_	_	_
+19	hominum	_	_	_	_	_	_	_	_
+20	inuehi	_	_	_	_	_	_	_	_
+21	populis	_	_	_	_	_	_	_	_
+22	arbitrantur	_	_	_	_	_	_	_	_
+
+# sent_id = 238
+# text = est in insula Oceani castum nemus dicatumque in eo uehiculum ueste contectum attingere uni sacerdoti concessum
+1	est	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	insula	_	_	_	_	_	_	_	_
+4	Oceani	_	_	_	_	_	_	_	_
+5	castum	_	_	_	_	_	_	_	_
+6	nemus	_	_	_	_	_	_	_	_
+7	dicatumque	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	eo	_	_	_	_	_	_	_	_
+10	uehiculum	_	_	_	_	_	_	_	_
+11	ueste	_	_	_	_	_	_	_	_
+12	contectum	_	_	_	_	_	_	_	_
+13	attingere	_	_	_	_	_	_	_	_
+14	uni	_	_	_	_	_	_	_	_
+15	sacerdoti	_	_	_	_	_	_	_	_
+16	concessum	_	_	_	_	_	_	_	_
+
+# sent_id = 239
+# text = is adesse penetrali deam intellegit uectamque bubus feminis multa cum ueneratione prosequitur
+1	is	_	_	_	_	_	_	_	_
+2	adesse	_	_	_	_	_	_	_	_
+3	penetrali	_	_	_	_	_	_	_	_
+4	deam	_	_	_	_	_	_	_	_
+5	intellegit	_	_	_	_	_	_	_	_
+6	uectamque	_	_	_	_	_	_	_	_
+7	bubus	_	_	_	_	_	_	_	_
+8	feminis	_	_	_	_	_	_	_	_
+9	multa	_	_	_	_	_	_	_	_
+10	cum	_	_	_	_	_	_	_	_
+11	ueneratione	_	_	_	_	_	_	_	_
+12	prosequitur	_	_	_	_	_	_	_	_
+
+# sent_id = 240
+# text = laeti tunc dies festa loca quaecumque aduentu hospitioque dignatur
+1	laeti	_	_	_	_	_	_	_	_
+2	tunc	_	_	_	_	_	_	_	_
+3	dies	_	_	_	_	_	_	_	_
+4	festa	_	_	_	_	_	_	_	_
+5	loca	_	_	_	_	_	_	_	_
+6	quaecumque	_	_	_	_	_	_	_	_
+7	aduentu	_	_	_	_	_	_	_	_
+8	hospitioque	_	_	_	_	_	_	_	_
+9	dignatur	_	_	_	_	_	_	_	_
+
+# sent_id = 241
+# text = non bella ineunt non arma sumunt clausum omne ferrum pax et quies tunc tantum nota tunc tantum amata donec idem sacerdos satiatam conuersatione mortalium deam templo reddat
+1	non	_	_	_	_	_	_	_	_
+2	bella	_	_	_	_	_	_	_	_
+3	ineunt	_	_	_	_	_	_	_	_
+4	non	_	_	_	_	_	_	_	_
+5	arma	_	_	_	_	_	_	_	_
+6	sumunt	_	_	_	_	_	_	_	_
+7	clausum	_	_	_	_	_	_	_	_
+8	omne	_	_	_	_	_	_	_	_
+9	ferrum	_	_	_	_	_	_	_	_
+10	pax	_	_	_	_	_	_	_	_
+11	et	_	_	_	_	_	_	_	_
+12	quies	_	_	_	_	_	_	_	_
+13	tunc	_	_	_	_	_	_	_	_
+14	tantum	_	_	_	_	_	_	_	_
+15	nota	_	_	_	_	_	_	_	_
+16	tunc	_	_	_	_	_	_	_	_
+17	tantum	_	_	_	_	_	_	_	_
+18	amata	_	_	_	_	_	_	_	_
+19	donec	_	_	_	_	_	_	_	_
+20	idem	_	_	_	_	_	_	_	_
+21	sacerdos	_	_	_	_	_	_	_	_
+22	satiatam	_	_	_	_	_	_	_	_
+23	conuersatione	_	_	_	_	_	_	_	_
+24	mortalium	_	_	_	_	_	_	_	_
+25	deam	_	_	_	_	_	_	_	_
+26	templo	_	_	_	_	_	_	_	_
+27	reddat	_	_	_	_	_	_	_	_
+
+# sent_id = 242
+# text = mox uehiculum et uestis et si credere uelis numen ipsum secreto lacu abluitur
+1	mox	_	_	_	_	_	_	_	_
+2	uehiculum	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	uestis	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	si	_	_	_	_	_	_	_	_
+7	credere	_	_	_	_	_	_	_	_
+8	uelis	_	_	_	_	_	_	_	_
+9	numen	_	_	_	_	_	_	_	_
+10	ipsum	_	_	_	_	_	_	_	_
+11	secreto	_	_	_	_	_	_	_	_
+12	lacu	_	_	_	_	_	_	_	_
+13	abluitur	_	_	_	_	_	_	_	_
+
+# sent_id = 243
+# text = serui ministrant quos statim idem lacus haurit
+1	serui	_	_	_	_	_	_	_	_
+2	ministrant	_	_	_	_	_	_	_	_
+3	quos	_	_	_	_	_	_	_	_
+4	statim	_	_	_	_	_	_	_	_
+5	idem	_	_	_	_	_	_	_	_
+6	lacus	_	_	_	_	_	_	_	_
+7	haurit	_	_	_	_	_	_	_	_
+
+# sent_id = 244
+# text = arcanus hinc terror sanctaque ignorantia quid sit illud quod tantum perituri uident
+1	arcanus	_	_	_	_	_	_	_	_
+2	hinc	_	_	_	_	_	_	_	_
+3	terror	_	_	_	_	_	_	_	_
+4	sanctaque	_	_	_	_	_	_	_	_
+5	ignorantia	_	_	_	_	_	_	_	_
+6	quid	_	_	_	_	_	_	_	_
+7	sit	_	_	_	_	_	_	_	_
+8	illud	_	_	_	_	_	_	_	_
+9	quod	_	_	_	_	_	_	_	_
+10	tantum	_	_	_	_	_	_	_	_
+11	perituri	_	_	_	_	_	_	_	_
+12	uident	_	_	_	_	_	_	_	_
+
+# sent_id = 245
+# text = Et haec quidem pars Sueborum in secretiora Germaniae porrigitur propior ut quo modo paulo ante Rhenum sic nunc Danubium sequar Hermundurorum ciuitas fida Romanis eoque solis Germanorum non in ripa commercium sed penitus atque in splendidissima Raetiae prouinciae colonia
+1	Et	_	_	_	_	_	_	_	_
+2	haec	_	_	_	_	_	_	_	_
+3	quidem	_	_	_	_	_	_	_	_
+4	pars	_	_	_	_	_	_	_	_
+5	Sueborum	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	secretiora	_	_	_	_	_	_	_	_
+8	Germaniae	_	_	_	_	_	_	_	_
+9	porrigitur	_	_	_	_	_	_	_	_
+10	propior	_	_	_	_	_	_	_	_
+11	ut	_	_	_	_	_	_	_	_
+12	quo	_	_	_	_	_	_	_	_
+13	modo	_	_	_	_	_	_	_	_
+14	paulo	_	_	_	_	_	_	_	_
+15	ante	_	_	_	_	_	_	_	_
+16	Rhenum	_	_	_	_	_	_	_	_
+17	sic	_	_	_	_	_	_	_	_
+18	nunc	_	_	_	_	_	_	_	_
+19	Danubium	_	_	_	_	_	_	_	_
+20	sequar	_	_	_	_	_	_	_	_
+21	Hermundurorum	_	_	_	_	_	_	_	_
+22	ciuitas	_	_	_	_	_	_	_	_
+23	fida	_	_	_	_	_	_	_	_
+24	Romanis	_	_	_	_	_	_	_	_
+25	eoque	_	_	_	_	_	_	_	_
+26	solis	_	_	_	_	_	_	_	_
+27	Germanorum	_	_	_	_	_	_	_	_
+28	non	_	_	_	_	_	_	_	_
+29	in	_	_	_	_	_	_	_	_
+30	ripa	_	_	_	_	_	_	_	_
+31	commercium	_	_	_	_	_	_	_	_
+32	sed	_	_	_	_	_	_	_	_
+33	penitus	_	_	_	_	_	_	_	_
+34	atque	_	_	_	_	_	_	_	_
+35	in	_	_	_	_	_	_	_	_
+36	splendidissima	_	_	_	_	_	_	_	_
+37	Raetiae	_	_	_	_	_	_	_	_
+38	prouinciae	_	_	_	_	_	_	_	_
+39	colonia	_	_	_	_	_	_	_	_
+
+# sent_id = 246
+# text = passim sine custode transeunt et cum ceteris gentibus arma modo castraque nostra ostendamus his domos uillasque patefecimus non concupiscentibus
+1	passim	_	_	_	_	_	_	_	_
+2	sine	_	_	_	_	_	_	_	_
+3	custode	_	_	_	_	_	_	_	_
+4	transeunt	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	cum	_	_	_	_	_	_	_	_
+7	ceteris	_	_	_	_	_	_	_	_
+8	gentibus	_	_	_	_	_	_	_	_
+9	arma	_	_	_	_	_	_	_	_
+10	modo	_	_	_	_	_	_	_	_
+11	castraque	_	_	_	_	_	_	_	_
+12	nostra	_	_	_	_	_	_	_	_
+13	ostendamus	_	_	_	_	_	_	_	_
+14	his	_	_	_	_	_	_	_	_
+15	domos	_	_	_	_	_	_	_	_
+16	uillasque	_	_	_	_	_	_	_	_
+17	patefecimus	_	_	_	_	_	_	_	_
+18	non	_	_	_	_	_	_	_	_
+19	concupiscentibus	_	_	_	_	_	_	_	_
+
+# sent_id = 247
+# text = in Hermunduris Albis oritur flumen inclutum et notum olim nunc tantum auditur
+1	in	_	_	_	_	_	_	_	_
+2	Hermunduris	_	_	_	_	_	_	_	_
+3	Albis	_	_	_	_	_	_	_	_
+4	oritur	_	_	_	_	_	_	_	_
+5	flumen	_	_	_	_	_	_	_	_
+6	inclutum	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	notum	_	_	_	_	_	_	_	_
+9	olim	_	_	_	_	_	_	_	_
+10	nunc	_	_	_	_	_	_	_	_
+11	tantum	_	_	_	_	_	_	_	_
+12	auditur	_	_	_	_	_	_	_	_
+
+# sent_id = 248
+# text = Iuxta Hermunduros Naristi ac deinde Marcomani et Quadi agunt
+1	Iuxta	_	_	_	_	_	_	_	_
+2	Hermunduros	_	_	_	_	_	_	_	_
+3	Naristi	_	_	_	_	_	_	_	_
+4	ac	_	_	_	_	_	_	_	_
+5	deinde	_	_	_	_	_	_	_	_
+6	Marcomani	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	Quadi	_	_	_	_	_	_	_	_
+9	agunt	_	_	_	_	_	_	_	_
+
+# sent_id = 249
+# text = praecipua Marcomanorum gloria uiresque atque ipsa etiam sedes pulsis olim Boiis uirtute parta
+1	praecipua	_	_	_	_	_	_	_	_
+2	Marcomanorum	_	_	_	_	_	_	_	_
+3	gloria	_	_	_	_	_	_	_	_
+4	uiresque	_	_	_	_	_	_	_	_
+5	atque	_	_	_	_	_	_	_	_
+6	ipsa	_	_	_	_	_	_	_	_
+7	etiam	_	_	_	_	_	_	_	_
+8	sedes	_	_	_	_	_	_	_	_
+9	pulsis	_	_	_	_	_	_	_	_
+10	olim	_	_	_	_	_	_	_	_
+11	Boiis	_	_	_	_	_	_	_	_
+12	uirtute	_	_	_	_	_	_	_	_
+13	parta	_	_	_	_	_	_	_	_
+
+# sent_id = 250
+# text = nec Naristi Quadiue degenerant
+1	nec	_	_	_	_	_	_	_	_
+2	Naristi	_	_	_	_	_	_	_	_
+3	Quadiue	_	_	_	_	_	_	_	_
+4	degenerant	_	_	_	_	_	_	_	_
+
+# sent_id = 251
+# text = eaque Germaniae uelut frons est quatenus Danubio praecingitur
+1	eaque	_	_	_	_	_	_	_	_
+2	Germaniae	_	_	_	_	_	_	_	_
+3	uelut	_	_	_	_	_	_	_	_
+4	frons	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	quatenus	_	_	_	_	_	_	_	_
+7	Danubio	_	_	_	_	_	_	_	_
+8	praecingitur	_	_	_	_	_	_	_	_
+
+# sent_id = 252
+# text = Marcomanis Quadisque usque ad nostram memoriam reges manserunt ex gente ipsorum nobile Marobodui et Tudri genus iam et externos patiuntur sed uis et potentia regibus ex auctoritate Romana
+1	Marcomanis	_	_	_	_	_	_	_	_
+2	Quadisque	_	_	_	_	_	_	_	_
+3	usque	_	_	_	_	_	_	_	_
+4	ad	_	_	_	_	_	_	_	_
+5	nostram	_	_	_	_	_	_	_	_
+6	memoriam	_	_	_	_	_	_	_	_
+7	reges	_	_	_	_	_	_	_	_
+8	manserunt	_	_	_	_	_	_	_	_
+9	ex	_	_	_	_	_	_	_	_
+10	gente	_	_	_	_	_	_	_	_
+11	ipsorum	_	_	_	_	_	_	_	_
+12	nobile	_	_	_	_	_	_	_	_
+13	Marobodui	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	Tudri	_	_	_	_	_	_	_	_
+16	genus	_	_	_	_	_	_	_	_
+17	iam	_	_	_	_	_	_	_	_
+18	et	_	_	_	_	_	_	_	_
+19	externos	_	_	_	_	_	_	_	_
+20	patiuntur	_	_	_	_	_	_	_	_
+21	sed	_	_	_	_	_	_	_	_
+22	uis	_	_	_	_	_	_	_	_
+23	et	_	_	_	_	_	_	_	_
+24	potentia	_	_	_	_	_	_	_	_
+25	regibus	_	_	_	_	_	_	_	_
+26	ex	_	_	_	_	_	_	_	_
+27	auctoritate	_	_	_	_	_	_	_	_
+28	Romana	_	_	_	_	_	_	_	_
+
+# sent_id = 253
+# text = raro armis nostris saepius pecunia iuuantur nec minus ualent
+1	raro	_	_	_	_	_	_	_	_
+2	armis	_	_	_	_	_	_	_	_
+3	nostris	_	_	_	_	_	_	_	_
+4	saepius	_	_	_	_	_	_	_	_
+5	pecunia	_	_	_	_	_	_	_	_
+6	iuuantur	_	_	_	_	_	_	_	_
+7	nec	_	_	_	_	_	_	_	_
+8	minus	_	_	_	_	_	_	_	_
+9	ualent	_	_	_	_	_	_	_	_
+
+# sent_id = 254
+# text = Retro Marsigni Cotini Osi Buri terga Marcomanorum Quadorumque claudunt
+1	Retro	_	_	_	_	_	_	_	_
+2	Marsigni	_	_	_	_	_	_	_	_
+3	Cotini	_	_	_	_	_	_	_	_
+4	Osi	_	_	_	_	_	_	_	_
+5	Buri	_	_	_	_	_	_	_	_
+6	terga	_	_	_	_	_	_	_	_
+7	Marcomanorum	_	_	_	_	_	_	_	_
+8	Quadorumque	_	_	_	_	_	_	_	_
+9	claudunt	_	_	_	_	_	_	_	_
+
+# sent_id = 255
+# text = e quibus Marsigni et Buri sermone cultuque Suebos referunt Cotinos Gallica Osos Pannonica lingua coarguit non esse Germanos et quod tributa patiuntur
+1	e	_	_	_	_	_	_	_	_
+2	quibus	_	_	_	_	_	_	_	_
+3	Marsigni	_	_	_	_	_	_	_	_
+4	et	_	_	_	_	_	_	_	_
+5	Buri	_	_	_	_	_	_	_	_
+6	sermone	_	_	_	_	_	_	_	_
+7	cultuque	_	_	_	_	_	_	_	_
+8	Suebos	_	_	_	_	_	_	_	_
+9	referunt	_	_	_	_	_	_	_	_
+10	Cotinos	_	_	_	_	_	_	_	_
+11	Gallica	_	_	_	_	_	_	_	_
+12	Osos	_	_	_	_	_	_	_	_
+13	Pannonica	_	_	_	_	_	_	_	_
+14	lingua	_	_	_	_	_	_	_	_
+15	coarguit	_	_	_	_	_	_	_	_
+16	non	_	_	_	_	_	_	_	_
+17	esse	_	_	_	_	_	_	_	_
+18	Germanos	_	_	_	_	_	_	_	_
+19	et	_	_	_	_	_	_	_	_
+20	quod	_	_	_	_	_	_	_	_
+21	tributa	_	_	_	_	_	_	_	_
+22	patiuntur	_	_	_	_	_	_	_	_
+
+# sent_id = 256
+# text = partem tributorum Sarmatae partem Quadi ut alienigenis imponunt Cotini quo magis pudeat et ferrum effodiunt
+1	partem	_	_	_	_	_	_	_	_
+2	tributorum	_	_	_	_	_	_	_	_
+3	Sarmatae	_	_	_	_	_	_	_	_
+4	partem	_	_	_	_	_	_	_	_
+5	Quadi	_	_	_	_	_	_	_	_
+6	ut	_	_	_	_	_	_	_	_
+7	alienigenis	_	_	_	_	_	_	_	_
+8	imponunt	_	_	_	_	_	_	_	_
+9	Cotini	_	_	_	_	_	_	_	_
+10	quo	_	_	_	_	_	_	_	_
+11	magis	_	_	_	_	_	_	_	_
+12	pudeat	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	ferrum	_	_	_	_	_	_	_	_
+15	effodiunt	_	_	_	_	_	_	_	_
+
+# sent_id = 257
+# text = omnesque hi populi pauca campestrium ceterum saltus et uertices montium insederunt
+1	omnesque	_	_	_	_	_	_	_	_
+2	hi	_	_	_	_	_	_	_	_
+3	populi	_	_	_	_	_	_	_	_
+4	pauca	_	_	_	_	_	_	_	_
+5	campestrium	_	_	_	_	_	_	_	_
+6	ceterum	_	_	_	_	_	_	_	_
+7	saltus	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	uertices	_	_	_	_	_	_	_	_
+10	montium	_	_	_	_	_	_	_	_
+11	insederunt	_	_	_	_	_	_	_	_
+
+# sent_id = 258
+# text = dirimit enim scinditque Suebiam continuum montium iugum ultra quod plurimae gentes agunt ex quibus latissime patet Lugiorum nomen in plures ciuitates diffusum
+1	dirimit	_	_	_	_	_	_	_	_
+2	enim	_	_	_	_	_	_	_	_
+3	scinditque	_	_	_	_	_	_	_	_
+4	Suebiam	_	_	_	_	_	_	_	_
+5	continuum	_	_	_	_	_	_	_	_
+6	montium	_	_	_	_	_	_	_	_
+7	iugum	_	_	_	_	_	_	_	_
+8	ultra	_	_	_	_	_	_	_	_
+9	quod	_	_	_	_	_	_	_	_
+10	plurimae	_	_	_	_	_	_	_	_
+11	gentes	_	_	_	_	_	_	_	_
+12	agunt	_	_	_	_	_	_	_	_
+13	ex	_	_	_	_	_	_	_	_
+14	quibus	_	_	_	_	_	_	_	_
+15	latissime	_	_	_	_	_	_	_	_
+16	patet	_	_	_	_	_	_	_	_
+17	Lugiorum	_	_	_	_	_	_	_	_
+18	nomen	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	plures	_	_	_	_	_	_	_	_
+21	ciuitates	_	_	_	_	_	_	_	_
+22	diffusum	_	_	_	_	_	_	_	_
+
+# sent_id = 259
+# text = ualentissimas nominasse sufficiet Harios Helueconas Manimos Helisios Naharualos
+1	ualentissimas	_	_	_	_	_	_	_	_
+2	nominasse	_	_	_	_	_	_	_	_
+3	sufficiet	_	_	_	_	_	_	_	_
+4	Harios	_	_	_	_	_	_	_	_
+5	Helueconas	_	_	_	_	_	_	_	_
+6	Manimos	_	_	_	_	_	_	_	_
+7	Helisios	_	_	_	_	_	_	_	_
+8	Naharualos	_	_	_	_	_	_	_	_
+
+# sent_id = 260
+# text = apud Naharualos antiquae religionis lucus ostenditur
+1	apud	_	_	_	_	_	_	_	_
+2	Naharualos	_	_	_	_	_	_	_	_
+3	antiquae	_	_	_	_	_	_	_	_
+4	religionis	_	_	_	_	_	_	_	_
+5	lucus	_	_	_	_	_	_	_	_
+6	ostenditur	_	_	_	_	_	_	_	_
+
+# sent_id = 261
+# text = praesidet sacerdos muliebri ornatu sed deos interpretatione Romana Castorem Pollucemque memorant
+1	praesidet	_	_	_	_	_	_	_	_
+2	sacerdos	_	_	_	_	_	_	_	_
+3	muliebri	_	_	_	_	_	_	_	_
+4	ornatu	_	_	_	_	_	_	_	_
+5	sed	_	_	_	_	_	_	_	_
+6	deos	_	_	_	_	_	_	_	_
+7	interpretatione	_	_	_	_	_	_	_	_
+8	Romana	_	_	_	_	_	_	_	_
+9	Castorem	_	_	_	_	_	_	_	_
+10	Pollucemque	_	_	_	_	_	_	_	_
+11	memorant	_	_	_	_	_	_	_	_
+
+# sent_id = 262
+# text = ea uis numini nomen Alcis
+1	ea	_	_	_	_	_	_	_	_
+2	uis	_	_	_	_	_	_	_	_
+3	numini	_	_	_	_	_	_	_	_
+4	nomen	_	_	_	_	_	_	_	_
+5	Alcis	_	_	_	_	_	_	_	_
+
+# sent_id = 263
+# text = nulla simulacra nullum peregrinae superstitionis uestigium ut fratres tamen ut iuuenes uenerantur
+1	nulla	_	_	_	_	_	_	_	_
+2	simulacra	_	_	_	_	_	_	_	_
+3	nullum	_	_	_	_	_	_	_	_
+4	peregrinae	_	_	_	_	_	_	_	_
+5	superstitionis	_	_	_	_	_	_	_	_
+6	uestigium	_	_	_	_	_	_	_	_
+7	ut	_	_	_	_	_	_	_	_
+8	fratres	_	_	_	_	_	_	_	_
+9	tamen	_	_	_	_	_	_	_	_
+10	ut	_	_	_	_	_	_	_	_
+11	iuuenes	_	_	_	_	_	_	_	_
+12	uenerantur	_	_	_	_	_	_	_	_
+
+# sent_id = 264
+# text = ceterum Harii super uires quibus enumeratos paulo ante populos antecedunt truces insitae feritati arte ac tempore lenocinantur nigra scuta tincta corpora atras ad proelia noctes legunt ipsaque formidine atque umbra feralis exercitus terrorem inferunt nullo hostium sustinente nouum ac uelut infernum aspectum nam primi in omnibus proeliis oculi uincuntur
+1	ceterum	_	_	_	_	_	_	_	_
+2	Harii	_	_	_	_	_	_	_	_
+3	super	_	_	_	_	_	_	_	_
+4	uires	_	_	_	_	_	_	_	_
+5	quibus	_	_	_	_	_	_	_	_
+6	enumeratos	_	_	_	_	_	_	_	_
+7	paulo	_	_	_	_	_	_	_	_
+8	ante	_	_	_	_	_	_	_	_
+9	populos	_	_	_	_	_	_	_	_
+10	antecedunt	_	_	_	_	_	_	_	_
+11	truces	_	_	_	_	_	_	_	_
+12	insitae	_	_	_	_	_	_	_	_
+13	feritati	_	_	_	_	_	_	_	_
+14	arte	_	_	_	_	_	_	_	_
+15	ac	_	_	_	_	_	_	_	_
+16	tempore	_	_	_	_	_	_	_	_
+17	lenocinantur	_	_	_	_	_	_	_	_
+18	nigra	_	_	_	_	_	_	_	_
+19	scuta	_	_	_	_	_	_	_	_
+20	tincta	_	_	_	_	_	_	_	_
+21	corpora	_	_	_	_	_	_	_	_
+22	atras	_	_	_	_	_	_	_	_
+23	ad	_	_	_	_	_	_	_	_
+24	proelia	_	_	_	_	_	_	_	_
+25	noctes	_	_	_	_	_	_	_	_
+26	legunt	_	_	_	_	_	_	_	_
+27	ipsaque	_	_	_	_	_	_	_	_
+28	formidine	_	_	_	_	_	_	_	_
+29	atque	_	_	_	_	_	_	_	_
+30	umbra	_	_	_	_	_	_	_	_
+31	feralis	_	_	_	_	_	_	_	_
+32	exercitus	_	_	_	_	_	_	_	_
+33	terrorem	_	_	_	_	_	_	_	_
+34	inferunt	_	_	_	_	_	_	_	_
+35	nullo	_	_	_	_	_	_	_	_
+36	hostium	_	_	_	_	_	_	_	_
+37	sustinente	_	_	_	_	_	_	_	_
+38	nouum	_	_	_	_	_	_	_	_
+39	ac	_	_	_	_	_	_	_	_
+40	uelut	_	_	_	_	_	_	_	_
+41	infernum	_	_	_	_	_	_	_	_
+42	aspectum	_	_	_	_	_	_	_	_
+43	nam	_	_	_	_	_	_	_	_
+44	primi	_	_	_	_	_	_	_	_
+45	in	_	_	_	_	_	_	_	_
+46	omnibus	_	_	_	_	_	_	_	_
+47	proeliis	_	_	_	_	_	_	_	_
+48	oculi	_	_	_	_	_	_	_	_
+49	uincuntur	_	_	_	_	_	_	_	_
+
+# sent_id = 265
+# text = Trans Lugios Gotones regnantur paulo iam adductius quam ceterae Germanorum gentes nondum tamen supra libertatem
+1	Trans	_	_	_	_	_	_	_	_
+2	Lugios	_	_	_	_	_	_	_	_
+3	Gotones	_	_	_	_	_	_	_	_
+4	regnantur	_	_	_	_	_	_	_	_
+5	paulo	_	_	_	_	_	_	_	_
+6	iam	_	_	_	_	_	_	_	_
+7	adductius	_	_	_	_	_	_	_	_
+8	quam	_	_	_	_	_	_	_	_
+9	ceterae	_	_	_	_	_	_	_	_
+10	Germanorum	_	_	_	_	_	_	_	_
+11	gentes	_	_	_	_	_	_	_	_
+12	nondum	_	_	_	_	_	_	_	_
+13	tamen	_	_	_	_	_	_	_	_
+14	supra	_	_	_	_	_	_	_	_
+15	libertatem	_	_	_	_	_	_	_	_
+
+# sent_id = 266
+# text = protinus deinde ab Oceano Rugii et Lemouii omniumque harum gentium insigne rotunda scuta breues gladii et erga reges obsequium
+1	protinus	_	_	_	_	_	_	_	_
+2	deinde	_	_	_	_	_	_	_	_
+3	ab	_	_	_	_	_	_	_	_
+4	Oceano	_	_	_	_	_	_	_	_
+5	Rugii	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	Lemouii	_	_	_	_	_	_	_	_
+8	omniumque	_	_	_	_	_	_	_	_
+9	harum	_	_	_	_	_	_	_	_
+10	gentium	_	_	_	_	_	_	_	_
+11	insigne	_	_	_	_	_	_	_	_
+12	rotunda	_	_	_	_	_	_	_	_
+13	scuta	_	_	_	_	_	_	_	_
+14	breues	_	_	_	_	_	_	_	_
+15	gladii	_	_	_	_	_	_	_	_
+16	et	_	_	_	_	_	_	_	_
+17	erga	_	_	_	_	_	_	_	_
+18	reges	_	_	_	_	_	_	_	_
+19	obsequium	_	_	_	_	_	_	_	_
+
+# sent_id = 267
+# text = Suionum hinc ciuitates ipso in Oceano praeter uiros armaque classibus ualent
+1	Suionum	_	_	_	_	_	_	_	_
+2	hinc	_	_	_	_	_	_	_	_
+3	ciuitates	_	_	_	_	_	_	_	_
+4	ipso	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	Oceano	_	_	_	_	_	_	_	_
+7	praeter	_	_	_	_	_	_	_	_
+8	uiros	_	_	_	_	_	_	_	_
+9	armaque	_	_	_	_	_	_	_	_
+10	classibus	_	_	_	_	_	_	_	_
+11	ualent	_	_	_	_	_	_	_	_
+
+# sent_id = 268
+# text = forma nauium eo differt quod utrimque prora paratam semper adpulsui frontem agit
+1	forma	_	_	_	_	_	_	_	_
+2	nauium	_	_	_	_	_	_	_	_
+3	eo	_	_	_	_	_	_	_	_
+4	differt	_	_	_	_	_	_	_	_
+5	quod	_	_	_	_	_	_	_	_
+6	utrimque	_	_	_	_	_	_	_	_
+7	prora	_	_	_	_	_	_	_	_
+8	paratam	_	_	_	_	_	_	_	_
+9	semper	_	_	_	_	_	_	_	_
+10	adpulsui	_	_	_	_	_	_	_	_
+11	frontem	_	_	_	_	_	_	_	_
+12	agit	_	_	_	_	_	_	_	_
+
+# sent_id = 269
+# text = nec uelis ministrant nec remos in ordinem lateribus adiungunt solutum ut in quibusdam fluminum et mutabile ut res poscit hinc uel illinc remigium
+1	nec	_	_	_	_	_	_	_	_
+2	uelis	_	_	_	_	_	_	_	_
+3	ministrant	_	_	_	_	_	_	_	_
+4	nec	_	_	_	_	_	_	_	_
+5	remos	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	ordinem	_	_	_	_	_	_	_	_
+8	lateribus	_	_	_	_	_	_	_	_
+9	adiungunt	_	_	_	_	_	_	_	_
+10	solutum	_	_	_	_	_	_	_	_
+11	ut	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	quibusdam	_	_	_	_	_	_	_	_
+14	fluminum	_	_	_	_	_	_	_	_
+15	et	_	_	_	_	_	_	_	_
+16	mutabile	_	_	_	_	_	_	_	_
+17	ut	_	_	_	_	_	_	_	_
+18	res	_	_	_	_	_	_	_	_
+19	poscit	_	_	_	_	_	_	_	_
+20	hinc	_	_	_	_	_	_	_	_
+21	uel	_	_	_	_	_	_	_	_
+22	illinc	_	_	_	_	_	_	_	_
+23	remigium	_	_	_	_	_	_	_	_
+
+# sent_id = 270
+# text = est apud illos et opibus honos eoque unus imperitat nullis iam exceptionibus non precario iure parendi
+1	est	_	_	_	_	_	_	_	_
+2	apud	_	_	_	_	_	_	_	_
+3	illos	_	_	_	_	_	_	_	_
+4	et	_	_	_	_	_	_	_	_
+5	opibus	_	_	_	_	_	_	_	_
+6	honos	_	_	_	_	_	_	_	_
+7	eoque	_	_	_	_	_	_	_	_
+8	unus	_	_	_	_	_	_	_	_
+9	imperitat	_	_	_	_	_	_	_	_
+10	nullis	_	_	_	_	_	_	_	_
+11	iam	_	_	_	_	_	_	_	_
+12	exceptionibus	_	_	_	_	_	_	_	_
+13	non	_	_	_	_	_	_	_	_
+14	precario	_	_	_	_	_	_	_	_
+15	iure	_	_	_	_	_	_	_	_
+16	parendi	_	_	_	_	_	_	_	_
+
+# sent_id = 271
+# text = nec arma ut apud ceteros Germanos in promisco sed clausa sub custode et quidem seruo quia subitos hostium incursus prohibet Oceanus otiosae porro armatorum manus facile lasciuiunt enimuero neque nobilem neque ingenuum ne libertinum quidem armis praeponere regia utilitas est
+1	nec	_	_	_	_	_	_	_	_
+2	arma	_	_	_	_	_	_	_	_
+3	ut	_	_	_	_	_	_	_	_
+4	apud	_	_	_	_	_	_	_	_
+5	ceteros	_	_	_	_	_	_	_	_
+6	Germanos	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	promisco	_	_	_	_	_	_	_	_
+9	sed	_	_	_	_	_	_	_	_
+10	clausa	_	_	_	_	_	_	_	_
+11	sub	_	_	_	_	_	_	_	_
+12	custode	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	quidem	_	_	_	_	_	_	_	_
+15	seruo	_	_	_	_	_	_	_	_
+16	quia	_	_	_	_	_	_	_	_
+17	subitos	_	_	_	_	_	_	_	_
+18	hostium	_	_	_	_	_	_	_	_
+19	incursus	_	_	_	_	_	_	_	_
+20	prohibet	_	_	_	_	_	_	_	_
+21	Oceanus	_	_	_	_	_	_	_	_
+22	otiosae	_	_	_	_	_	_	_	_
+23	porro	_	_	_	_	_	_	_	_
+24	armatorum	_	_	_	_	_	_	_	_
+25	manus	_	_	_	_	_	_	_	_
+26	facile	_	_	_	_	_	_	_	_
+27	lasciuiunt	_	_	_	_	_	_	_	_
+28	enimuero	_	_	_	_	_	_	_	_
+29	neque	_	_	_	_	_	_	_	_
+30	nobilem	_	_	_	_	_	_	_	_
+31	neque	_	_	_	_	_	_	_	_
+32	ingenuum	_	_	_	_	_	_	_	_
+33	ne	_	_	_	_	_	_	_	_
+34	libertinum	_	_	_	_	_	_	_	_
+35	quidem	_	_	_	_	_	_	_	_
+36	armis	_	_	_	_	_	_	_	_
+37	praeponere	_	_	_	_	_	_	_	_
+38	regia	_	_	_	_	_	_	_	_
+39	utilitas	_	_	_	_	_	_	_	_
+40	est	_	_	_	_	_	_	_	_
+
+# sent_id = 272
+# text = Trans Suionas aliud mare pigrum ac prope immotum quo cingi cludique terrarum orbem hinc fides quod extremus cadentis iam solis fulgor in ortus edurat adeo clarus ut sidera hebetet sonum insuper emergentis audiri formasque equorum et radios capitis aspici persuasio adicit
+1	Trans	_	_	_	_	_	_	_	_
+2	Suionas	_	_	_	_	_	_	_	_
+3	aliud	_	_	_	_	_	_	_	_
+4	mare	_	_	_	_	_	_	_	_
+5	pigrum	_	_	_	_	_	_	_	_
+6	ac	_	_	_	_	_	_	_	_
+7	prope	_	_	_	_	_	_	_	_
+8	immotum	_	_	_	_	_	_	_	_
+9	quo	_	_	_	_	_	_	_	_
+10	cingi	_	_	_	_	_	_	_	_
+11	cludique	_	_	_	_	_	_	_	_
+12	terrarum	_	_	_	_	_	_	_	_
+13	orbem	_	_	_	_	_	_	_	_
+14	hinc	_	_	_	_	_	_	_	_
+15	fides	_	_	_	_	_	_	_	_
+16	quod	_	_	_	_	_	_	_	_
+17	extremus	_	_	_	_	_	_	_	_
+18	cadentis	_	_	_	_	_	_	_	_
+19	iam	_	_	_	_	_	_	_	_
+20	solis	_	_	_	_	_	_	_	_
+21	fulgor	_	_	_	_	_	_	_	_
+22	in	_	_	_	_	_	_	_	_
+23	ortus	_	_	_	_	_	_	_	_
+24	edurat	_	_	_	_	_	_	_	_
+25	adeo	_	_	_	_	_	_	_	_
+26	clarus	_	_	_	_	_	_	_	_
+27	ut	_	_	_	_	_	_	_	_
+28	sidera	_	_	_	_	_	_	_	_
+29	hebetet	_	_	_	_	_	_	_	_
+30	sonum	_	_	_	_	_	_	_	_
+31	insuper	_	_	_	_	_	_	_	_
+32	emergentis	_	_	_	_	_	_	_	_
+33	audiri	_	_	_	_	_	_	_	_
+34	formasque	_	_	_	_	_	_	_	_
+35	equorum	_	_	_	_	_	_	_	_
+36	et	_	_	_	_	_	_	_	_
+37	radios	_	_	_	_	_	_	_	_
+38	capitis	_	_	_	_	_	_	_	_
+39	aspici	_	_	_	_	_	_	_	_
+40	persuasio	_	_	_	_	_	_	_	_
+41	adicit	_	_	_	_	_	_	_	_
+
+# sent_id = 273
+# text = illuc usque et fama uera tantum natura
+1	illuc	_	_	_	_	_	_	_	_
+2	usque	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	fama	_	_	_	_	_	_	_	_
+5	uera	_	_	_	_	_	_	_	_
+6	tantum	_	_	_	_	_	_	_	_
+7	natura	_	_	_	_	_	_	_	_
+
+# sent_id = 274
+# text = ergo iam dextro Suebici maris litore Aestiorum gentes adluuntur quibus ritus habitusque Sueborum lingua Britannicae propior
+1	ergo	_	_	_	_	_	_	_	_
+2	iam	_	_	_	_	_	_	_	_
+3	dextro	_	_	_	_	_	_	_	_
+4	Suebici	_	_	_	_	_	_	_	_
+5	maris	_	_	_	_	_	_	_	_
+6	litore	_	_	_	_	_	_	_	_
+7	Aestiorum	_	_	_	_	_	_	_	_
+8	gentes	_	_	_	_	_	_	_	_
+9	adluuntur	_	_	_	_	_	_	_	_
+10	quibus	_	_	_	_	_	_	_	_
+11	ritus	_	_	_	_	_	_	_	_
+12	habitusque	_	_	_	_	_	_	_	_
+13	Sueborum	_	_	_	_	_	_	_	_
+14	lingua	_	_	_	_	_	_	_	_
+15	Britannicae	_	_	_	_	_	_	_	_
+16	propior	_	_	_	_	_	_	_	_
+
+# sent_id = 275
+# text = matrem deum uenerantur
+1	matrem	_	_	_	_	_	_	_	_
+2	deum	_	_	_	_	_	_	_	_
+3	uenerantur	_	_	_	_	_	_	_	_
+
+# sent_id = 276
+# text = insigne superstitionis formas aprorum gestant id pro armis hominumque tutela securum deae cultorem etiam inter hostes praestat
+1	insigne	_	_	_	_	_	_	_	_
+2	superstitionis	_	_	_	_	_	_	_	_
+3	formas	_	_	_	_	_	_	_	_
+4	aprorum	_	_	_	_	_	_	_	_
+5	gestant	_	_	_	_	_	_	_	_
+6	id	_	_	_	_	_	_	_	_
+7	pro	_	_	_	_	_	_	_	_
+8	armis	_	_	_	_	_	_	_	_
+9	hominumque	_	_	_	_	_	_	_	_
+10	tutela	_	_	_	_	_	_	_	_
+11	securum	_	_	_	_	_	_	_	_
+12	deae	_	_	_	_	_	_	_	_
+13	cultorem	_	_	_	_	_	_	_	_
+14	etiam	_	_	_	_	_	_	_	_
+15	inter	_	_	_	_	_	_	_	_
+16	hostes	_	_	_	_	_	_	_	_
+17	praestat	_	_	_	_	_	_	_	_
+
+# sent_id = 277
+# text = rarus ferri frequens fustium usus
+1	rarus	_	_	_	_	_	_	_	_
+2	ferri	_	_	_	_	_	_	_	_
+3	frequens	_	_	_	_	_	_	_	_
+4	fustium	_	_	_	_	_	_	_	_
+5	usus	_	_	_	_	_	_	_	_
+
+# sent_id = 278
+# text = frumenta ceterosque fructus patientius quam pro solita Germanorum inertia laborant
+1	frumenta	_	_	_	_	_	_	_	_
+2	ceterosque	_	_	_	_	_	_	_	_
+3	fructus	_	_	_	_	_	_	_	_
+4	patientius	_	_	_	_	_	_	_	_
+5	quam	_	_	_	_	_	_	_	_
+6	pro	_	_	_	_	_	_	_	_
+7	solita	_	_	_	_	_	_	_	_
+8	Germanorum	_	_	_	_	_	_	_	_
+9	inertia	_	_	_	_	_	_	_	_
+10	laborant	_	_	_	_	_	_	_	_
+
+# sent_id = 279
+# text = sed et mare scrutantur ac soli omnium sucinum quod ipsi glesum uocant inter uada atque in ipso litore legunt
+1	sed	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	mare	_	_	_	_	_	_	_	_
+4	scrutantur	_	_	_	_	_	_	_	_
+5	ac	_	_	_	_	_	_	_	_
+6	soli	_	_	_	_	_	_	_	_
+7	omnium	_	_	_	_	_	_	_	_
+8	sucinum	_	_	_	_	_	_	_	_
+9	quod	_	_	_	_	_	_	_	_
+10	ipsi	_	_	_	_	_	_	_	_
+11	glesum	_	_	_	_	_	_	_	_
+12	uocant	_	_	_	_	_	_	_	_
+13	inter	_	_	_	_	_	_	_	_
+14	uada	_	_	_	_	_	_	_	_
+15	atque	_	_	_	_	_	_	_	_
+16	in	_	_	_	_	_	_	_	_
+17	ipso	_	_	_	_	_	_	_	_
+18	litore	_	_	_	_	_	_	_	_
+19	legunt	_	_	_	_	_	_	_	_
+
+# sent_id = 280
+# text = nec quae natura quaeue ratio gignat ut barbaris quaesitum compertumue diu quin etiam inter cetera eiectamenta maris iacebat donec luxuria nostra dedit nomen
+1	nec	_	_	_	_	_	_	_	_
+2	quae	_	_	_	_	_	_	_	_
+3	natura	_	_	_	_	_	_	_	_
+4	quaeue	_	_	_	_	_	_	_	_
+5	ratio	_	_	_	_	_	_	_	_
+6	gignat	_	_	_	_	_	_	_	_
+7	ut	_	_	_	_	_	_	_	_
+8	barbaris	_	_	_	_	_	_	_	_
+9	quaesitum	_	_	_	_	_	_	_	_
+10	compertumue	_	_	_	_	_	_	_	_
+11	diu	_	_	_	_	_	_	_	_
+12	quin	_	_	_	_	_	_	_	_
+13	etiam	_	_	_	_	_	_	_	_
+14	inter	_	_	_	_	_	_	_	_
+15	cetera	_	_	_	_	_	_	_	_
+16	eiectamenta	_	_	_	_	_	_	_	_
+17	maris	_	_	_	_	_	_	_	_
+18	iacebat	_	_	_	_	_	_	_	_
+19	donec	_	_	_	_	_	_	_	_
+20	luxuria	_	_	_	_	_	_	_	_
+21	nostra	_	_	_	_	_	_	_	_
+22	dedit	_	_	_	_	_	_	_	_
+23	nomen	_	_	_	_	_	_	_	_
+
+# sent_id = 281
+# text = ipsis in nullo usu rude legitur informe perfertur pretiumque mirantes accipiunt
+1	ipsis	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	nullo	_	_	_	_	_	_	_	_
+4	usu	_	_	_	_	_	_	_	_
+5	rude	_	_	_	_	_	_	_	_
+6	legitur	_	_	_	_	_	_	_	_
+7	informe	_	_	_	_	_	_	_	_
+8	perfertur	_	_	_	_	_	_	_	_
+9	pretiumque	_	_	_	_	_	_	_	_
+10	mirantes	_	_	_	_	_	_	_	_
+11	accipiunt	_	_	_	_	_	_	_	_
+
+# sent_id = 282
+# text = sucum tamen arborum esse intellegas quia terrena quaedam atque etiam uolucria animalia plerumque interlucent quae implicata humore mox durescente materia clauduntur
+1	sucum	_	_	_	_	_	_	_	_
+2	tamen	_	_	_	_	_	_	_	_
+3	arborum	_	_	_	_	_	_	_	_
+4	esse	_	_	_	_	_	_	_	_
+5	intellegas	_	_	_	_	_	_	_	_
+6	quia	_	_	_	_	_	_	_	_
+7	terrena	_	_	_	_	_	_	_	_
+8	quaedam	_	_	_	_	_	_	_	_
+9	atque	_	_	_	_	_	_	_	_
+10	etiam	_	_	_	_	_	_	_	_
+11	uolucria	_	_	_	_	_	_	_	_
+12	animalia	_	_	_	_	_	_	_	_
+13	plerumque	_	_	_	_	_	_	_	_
+14	interlucent	_	_	_	_	_	_	_	_
+15	quae	_	_	_	_	_	_	_	_
+16	implicata	_	_	_	_	_	_	_	_
+17	humore	_	_	_	_	_	_	_	_
+18	mox	_	_	_	_	_	_	_	_
+19	durescente	_	_	_	_	_	_	_	_
+20	materia	_	_	_	_	_	_	_	_
+21	clauduntur	_	_	_	_	_	_	_	_
+
+# sent_id = 283
+# text = fecundiora igitur nemora lucosque sicut Orientis secretis ubi tura balsamaque sudantur ita Occidentis insulis terrisque inesse crediderim quae uicini solis radiis expressa atque liquentia in proximum mare labuntur ac ui tempestatum in aduersa litora exundant
+1	fecundiora	_	_	_	_	_	_	_	_
+2	igitur	_	_	_	_	_	_	_	_
+3	nemora	_	_	_	_	_	_	_	_
+4	lucosque	_	_	_	_	_	_	_	_
+5	sicut	_	_	_	_	_	_	_	_
+6	Orientis	_	_	_	_	_	_	_	_
+7	secretis	_	_	_	_	_	_	_	_
+8	ubi	_	_	_	_	_	_	_	_
+9	tura	_	_	_	_	_	_	_	_
+10	balsamaque	_	_	_	_	_	_	_	_
+11	sudantur	_	_	_	_	_	_	_	_
+12	ita	_	_	_	_	_	_	_	_
+13	Occidentis	_	_	_	_	_	_	_	_
+14	insulis	_	_	_	_	_	_	_	_
+15	terrisque	_	_	_	_	_	_	_	_
+16	inesse	_	_	_	_	_	_	_	_
+17	crediderim	_	_	_	_	_	_	_	_
+18	quae	_	_	_	_	_	_	_	_
+19	uicini	_	_	_	_	_	_	_	_
+20	solis	_	_	_	_	_	_	_	_
+21	radiis	_	_	_	_	_	_	_	_
+22	expressa	_	_	_	_	_	_	_	_
+23	atque	_	_	_	_	_	_	_	_
+24	liquentia	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	proximum	_	_	_	_	_	_	_	_
+27	mare	_	_	_	_	_	_	_	_
+28	labuntur	_	_	_	_	_	_	_	_
+29	ac	_	_	_	_	_	_	_	_
+30	ui	_	_	_	_	_	_	_	_
+31	tempestatum	_	_	_	_	_	_	_	_
+32	in	_	_	_	_	_	_	_	_
+33	aduersa	_	_	_	_	_	_	_	_
+34	litora	_	_	_	_	_	_	_	_
+35	exundant	_	_	_	_	_	_	_	_
+
+# sent_id = 284
+# text = si naturam sucini admoto igne temptes in modum taedae accenditur alitque flammam pinguem et olentem mox ut in picem resinamue lentescit
+1	si	_	_	_	_	_	_	_	_
+2	naturam	_	_	_	_	_	_	_	_
+3	sucini	_	_	_	_	_	_	_	_
+4	admoto	_	_	_	_	_	_	_	_
+5	igne	_	_	_	_	_	_	_	_
+6	temptes	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	modum	_	_	_	_	_	_	_	_
+9	taedae	_	_	_	_	_	_	_	_
+10	accenditur	_	_	_	_	_	_	_	_
+11	alitque	_	_	_	_	_	_	_	_
+12	flammam	_	_	_	_	_	_	_	_
+13	pinguem	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	olentem	_	_	_	_	_	_	_	_
+16	mox	_	_	_	_	_	_	_	_
+17	ut	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	picem	_	_	_	_	_	_	_	_
+20	resinamue	_	_	_	_	_	_	_	_
+21	lentescit	_	_	_	_	_	_	_	_
+
+# sent_id = 285
+# text = Suionibus Sitonum gentes continuantur
+1	Suionibus	_	_	_	_	_	_	_	_
+2	Sitonum	_	_	_	_	_	_	_	_
+3	gentes	_	_	_	_	_	_	_	_
+4	continuantur	_	_	_	_	_	_	_	_
+
+# sent_id = 286
+# text = cetera similes uno differunt quod femina dominatur in tantum non modo a libertate sed etiam a seruitute degenerant
+1	cetera	_	_	_	_	_	_	_	_
+2	similes	_	_	_	_	_	_	_	_
+3	uno	_	_	_	_	_	_	_	_
+4	differunt	_	_	_	_	_	_	_	_
+5	quod	_	_	_	_	_	_	_	_
+6	femina	_	_	_	_	_	_	_	_
+7	dominatur	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	tantum	_	_	_	_	_	_	_	_
+10	non	_	_	_	_	_	_	_	_
+11	modo	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	libertate	_	_	_	_	_	_	_	_
+14	sed	_	_	_	_	_	_	_	_
+15	etiam	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	seruitute	_	_	_	_	_	_	_	_
+18	degenerant	_	_	_	_	_	_	_	_
+
+# sent_id = 287
+# text = Hic Suebiae finis
+1	Hic	_	_	_	_	_	_	_	_
+2	Suebiae	_	_	_	_	_	_	_	_
+3	finis	_	_	_	_	_	_	_	_
+
+# sent_id = 288
+# text = Peucinorum Uenethorumque et Fennorum nationes Germanis an Sarmatis adscribam dubito
+1	Peucinorum	_	_	_	_	_	_	_	_
+2	Uenethorumque	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	Fennorum	_	_	_	_	_	_	_	_
+5	nationes	_	_	_	_	_	_	_	_
+6	Germanis	_	_	_	_	_	_	_	_
+7	an	_	_	_	_	_	_	_	_
+8	Sarmatis	_	_	_	_	_	_	_	_
+9	adscribam	_	_	_	_	_	_	_	_
+10	dubito	_	_	_	_	_	_	_	_
+
+# sent_id = 289
+# text = quamquam Peucini quos quidam Bastarnas uocant sermone cultu sede ac domiciliis ut Germani agunt
+1	quamquam	_	_	_	_	_	_	_	_
+2	Peucini	_	_	_	_	_	_	_	_
+3	quos	_	_	_	_	_	_	_	_
+4	quidam	_	_	_	_	_	_	_	_
+5	Bastarnas	_	_	_	_	_	_	_	_
+6	uocant	_	_	_	_	_	_	_	_
+7	sermone	_	_	_	_	_	_	_	_
+8	cultu	_	_	_	_	_	_	_	_
+9	sede	_	_	_	_	_	_	_	_
+10	ac	_	_	_	_	_	_	_	_
+11	domiciliis	_	_	_	_	_	_	_	_
+12	ut	_	_	_	_	_	_	_	_
+13	Germani	_	_	_	_	_	_	_	_
+14	agunt	_	_	_	_	_	_	_	_
+
+# sent_id = 290
+# text = sordes omnium ac torpor procerum conubiis mixtis nonnihil in Sarmatarum habitum foedantur
+1	sordes	_	_	_	_	_	_	_	_
+2	omnium	_	_	_	_	_	_	_	_
+3	ac	_	_	_	_	_	_	_	_
+4	torpor	_	_	_	_	_	_	_	_
+5	procerum	_	_	_	_	_	_	_	_
+6	conubiis	_	_	_	_	_	_	_	_
+7	mixtis	_	_	_	_	_	_	_	_
+8	nonnihil	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	Sarmatarum	_	_	_	_	_	_	_	_
+11	habitum	_	_	_	_	_	_	_	_
+12	foedantur	_	_	_	_	_	_	_	_
+
+# sent_id = 291
+# text = Uenethi multum ex moribus traxerunt nam quidquid inter Peucinos Fennosque siluarum ac montium erigitur latrociniis pererrant
+1	Uenethi	_	_	_	_	_	_	_	_
+2	multum	_	_	_	_	_	_	_	_
+3	ex	_	_	_	_	_	_	_	_
+4	moribus	_	_	_	_	_	_	_	_
+5	traxerunt	_	_	_	_	_	_	_	_
+6	nam	_	_	_	_	_	_	_	_
+7	quidquid	_	_	_	_	_	_	_	_
+8	inter	_	_	_	_	_	_	_	_
+9	Peucinos	_	_	_	_	_	_	_	_
+10	Fennosque	_	_	_	_	_	_	_	_
+11	siluarum	_	_	_	_	_	_	_	_
+12	ac	_	_	_	_	_	_	_	_
+13	montium	_	_	_	_	_	_	_	_
+14	erigitur	_	_	_	_	_	_	_	_
+15	latrociniis	_	_	_	_	_	_	_	_
+16	pererrant	_	_	_	_	_	_	_	_
+
+# sent_id = 292
+# text = hi tamen inter Germanos potius referuntur quia et domos figunt et scuta gestant et pedum usu et pernicitate gaudent quae omnia diuersa Sarmatis sunt in plaustro equoque uiuentibus
+1	hi	_	_	_	_	_	_	_	_
+2	tamen	_	_	_	_	_	_	_	_
+3	inter	_	_	_	_	_	_	_	_
+4	Germanos	_	_	_	_	_	_	_	_
+5	potius	_	_	_	_	_	_	_	_
+6	referuntur	_	_	_	_	_	_	_	_
+7	quia	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	domos	_	_	_	_	_	_	_	_
+10	figunt	_	_	_	_	_	_	_	_
+11	et	_	_	_	_	_	_	_	_
+12	scuta	_	_	_	_	_	_	_	_
+13	gestant	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	pedum	_	_	_	_	_	_	_	_
+16	usu	_	_	_	_	_	_	_	_
+17	et	_	_	_	_	_	_	_	_
+18	pernicitate	_	_	_	_	_	_	_	_
+19	gaudent	_	_	_	_	_	_	_	_
+20	quae	_	_	_	_	_	_	_	_
+21	omnia	_	_	_	_	_	_	_	_
+22	diuersa	_	_	_	_	_	_	_	_
+23	Sarmatis	_	_	_	_	_	_	_	_
+24	sunt	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	plaustro	_	_	_	_	_	_	_	_
+27	equoque	_	_	_	_	_	_	_	_
+28	uiuentibus	_	_	_	_	_	_	_	_
+
+# sent_id = 293
+# text = Fennis mira feritas foeda paupertas non arma non equi non penates uictui herba uestitui pelles cubile humus solae in sagittis spes quas inopia ferri ossibus asperant
+1	Fennis	_	_	_	_	_	_	_	_
+2	mira	_	_	_	_	_	_	_	_
+3	feritas	_	_	_	_	_	_	_	_
+4	foeda	_	_	_	_	_	_	_	_
+5	paupertas	_	_	_	_	_	_	_	_
+6	non	_	_	_	_	_	_	_	_
+7	arma	_	_	_	_	_	_	_	_
+8	non	_	_	_	_	_	_	_	_
+9	equi	_	_	_	_	_	_	_	_
+10	non	_	_	_	_	_	_	_	_
+11	penates	_	_	_	_	_	_	_	_
+12	uictui	_	_	_	_	_	_	_	_
+13	herba	_	_	_	_	_	_	_	_
+14	uestitui	_	_	_	_	_	_	_	_
+15	pelles	_	_	_	_	_	_	_	_
+16	cubile	_	_	_	_	_	_	_	_
+17	humus	_	_	_	_	_	_	_	_
+18	solae	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	sagittis	_	_	_	_	_	_	_	_
+21	spes	_	_	_	_	_	_	_	_
+22	quas	_	_	_	_	_	_	_	_
+23	inopia	_	_	_	_	_	_	_	_
+24	ferri	_	_	_	_	_	_	_	_
+25	ossibus	_	_	_	_	_	_	_	_
+26	asperant	_	_	_	_	_	_	_	_
+
+# sent_id = 294
+# text = idemque uenatus uiros pariter ac feminas alit passim enim comitantur partemque praedae petunt
+1	idemque	_	_	_	_	_	_	_	_
+2	uenatus	_	_	_	_	_	_	_	_
+3	uiros	_	_	_	_	_	_	_	_
+4	pariter	_	_	_	_	_	_	_	_
+5	ac	_	_	_	_	_	_	_	_
+6	feminas	_	_	_	_	_	_	_	_
+7	alit	_	_	_	_	_	_	_	_
+8	passim	_	_	_	_	_	_	_	_
+9	enim	_	_	_	_	_	_	_	_
+10	comitantur	_	_	_	_	_	_	_	_
+11	partemque	_	_	_	_	_	_	_	_
+12	praedae	_	_	_	_	_	_	_	_
+13	petunt	_	_	_	_	_	_	_	_
+
+# sent_id = 295
+# text = nec aliud infantibus ferarum imbriumque suffugium quam ut in aliquo ramorum nexu contegantur huc redeunt iuuenes hoc senum receptaculum
+1	nec	_	_	_	_	_	_	_	_
+2	aliud	_	_	_	_	_	_	_	_
+3	infantibus	_	_	_	_	_	_	_	_
+4	ferarum	_	_	_	_	_	_	_	_
+5	imbriumque	_	_	_	_	_	_	_	_
+6	suffugium	_	_	_	_	_	_	_	_
+7	quam	_	_	_	_	_	_	_	_
+8	ut	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	aliquo	_	_	_	_	_	_	_	_
+11	ramorum	_	_	_	_	_	_	_	_
+12	nexu	_	_	_	_	_	_	_	_
+13	contegantur	_	_	_	_	_	_	_	_
+14	huc	_	_	_	_	_	_	_	_
+15	redeunt	_	_	_	_	_	_	_	_
+16	iuuenes	_	_	_	_	_	_	_	_
+17	hoc	_	_	_	_	_	_	_	_
+18	senum	_	_	_	_	_	_	_	_
+19	receptaculum	_	_	_	_	_	_	_	_
+
+# sent_id = 296
+# text = sed beatius arbitrantur quam ingemere agris inlaborare domibus suas alienasque fortunas spe metuque uersare securi aduersus homines securi aduersus deos rem difficillimam adsecuti sunt ut illis ne uoto quidem opus esset
+1	sed	_	_	_	_	_	_	_	_
+2	beatius	_	_	_	_	_	_	_	_
+3	arbitrantur	_	_	_	_	_	_	_	_
+4	quam	_	_	_	_	_	_	_	_
+5	ingemere	_	_	_	_	_	_	_	_
+6	agris	_	_	_	_	_	_	_	_
+7	inlaborare	_	_	_	_	_	_	_	_
+8	domibus	_	_	_	_	_	_	_	_
+9	suas	_	_	_	_	_	_	_	_
+10	alienasque	_	_	_	_	_	_	_	_
+11	fortunas	_	_	_	_	_	_	_	_
+12	spe	_	_	_	_	_	_	_	_
+13	metuque	_	_	_	_	_	_	_	_
+14	uersare	_	_	_	_	_	_	_	_
+15	securi	_	_	_	_	_	_	_	_
+16	aduersus	_	_	_	_	_	_	_	_
+17	homines	_	_	_	_	_	_	_	_
+18	securi	_	_	_	_	_	_	_	_
+19	aduersus	_	_	_	_	_	_	_	_
+20	deos	_	_	_	_	_	_	_	_
+21	rem	_	_	_	_	_	_	_	_
+22	difficillimam	_	_	_	_	_	_	_	_
+23	adsecuti	_	_	_	_	_	_	_	_
+24	sunt	_	_	_	_	_	_	_	_
+25	ut	_	_	_	_	_	_	_	_
+26	illis	_	_	_	_	_	_	_	_
+27	ne	_	_	_	_	_	_	_	_
+28	uoto	_	_	_	_	_	_	_	_
+29	quidem	_	_	_	_	_	_	_	_
+30	opus	_	_	_	_	_	_	_	_
+31	esset	_	_	_	_	_	_	_	_
+
+# sent_id = 297
+# text = cetera iam fabulosa Hellusios et Oxionas ora hominum uultusque corpora atque artus ferarum gerere quod ego ut incompertum in medio relinquam
+1	cetera	_	_	_	_	_	_	_	_
+2	iam	_	_	_	_	_	_	_	_
+3	fabulosa	_	_	_	_	_	_	_	_
+4	Hellusios	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	Oxionas	_	_	_	_	_	_	_	_
+7	ora	_	_	_	_	_	_	_	_
+8	hominum	_	_	_	_	_	_	_	_
+9	uultusque	_	_	_	_	_	_	_	_
+10	corpora	_	_	_	_	_	_	_	_
+11	atque	_	_	_	_	_	_	_	_
+12	artus	_	_	_	_	_	_	_	_
+13	ferarum	_	_	_	_	_	_	_	_
+14	gerere	_	_	_	_	_	_	_	_
+15	quod	_	_	_	_	_	_	_	_
+16	ego	_	_	_	_	_	_	_	_
+17	ut	_	_	_	_	_	_	_	_
+18	incompertum	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	medio	_	_	_	_	_	_	_	_
+21	relinquam	_	_	_	_	_	_	_	_
+

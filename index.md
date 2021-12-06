@@ -1,24 +1,15 @@
 ***
 
-<p style="text-align: center;">--Home--&nbsp;&nbsp;--<a href="CFP">CFP</a>--&nbsp;&nbsp;--<a href="EvaLatin">EvaLatin</a>--&nbsp;&nbsp;--<a href="Keynote">Keynote Speaker</a>--&nbsp;&nbsp;--<a href="Program">Program</a>--&nbsp;&nbsp;--<a href="organization">Organization</a>--</p>
+<p style="text-align: center;">--<a href="2020">2020</a>--&nbsp;&nbsp;--<a href="2022">2022</a>--</p>
 ***
 
-# Workshop on Language Technologies for Historical and Ancient Languages (#LT4HALA)
-## Co-located with [LREC 2020](https://lrec2020.lrec-conf.org/)
-## Tuesday, May 12 2020 - Marseille, France
-
-**Due to the COVID-19 pandemic, the workshop will not take place. However, the [proceedings are published online](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf).**
-
-Word-cloud of keywords extracted from the abstracts with [KD-Keyphrase digger](http://celct.fbk.eu:8080/KD_KeyDigger/).
-![](KD.png)
+# Workshop on Language Technologies for Historical and Ancient Languages
 
 The ever increasing number of writings in historical and ancient languages available in digital form is leading to a growth of interest in the creation of tools for their automatic linguistic processing. However, these languages present a number of characteristics, which set them apart from modern languages, with a significant impact on language technologies. 
 
 Typically, historical and ancient languages lack large linguistic resources, such as annotated corpora, and data can be sparse and very inconsistent; texts present considerable orthographic variation, they can be transmitted by different witnesses and in different critical editions, they can be incomplete and scattered across a wide temporal and geographical span. This makes the selection of representative texts, and thus the development of benchmarks, very hard. Moreover, texts in machine-readable format are often the result of manuscript digitization processes during which OCR systems can cause errors degrading the quality of the documents. Another peculiarity is that most of the texts written in historical and ancient languages are literary, philosophical or documentary, therefore of a very different genre from that on which LTs are usually trained, i.e. news. This is strictly connected to the fact that the final users of LTs for historical and ancient languages are mostly humanists, such as philologists, who expect a high accuracy of results that allows a precise analysis of linguistic data.
 
-This **one-day workshop** seeks to bring together scholars, who are developing and/or are using Language Technologies (LTs) for historically attested languages, so to foster cross-fertilization between the Computational Linguistics community and the areas in the Humanities dealing with historical linguistic data, e.g. historians, philologists, linguists, archaeologists and literary scholars. Despite the current availability of large collections of digitized texts written in historical languages, such interdisciplinary collaboration is still hampered by the limited availability of annotated linguistic resources for most of the historical languages. Creating such resources is a challenge and an obligation for LTs, both to support historical linguistic research with the most updated technologies and to preserve those precious linguistic data that survived from past times.
-
-The workshop will also be the venue of [EvaLatin](EvaLatin), the first evaluation campaign totally devoted to the evaluation of NLP tools for Latin.
+The workshop is also be the venue of EvaLatin, the first evaluation campaign totally devoted to the evaluation of NLP tools for Latin.
 
 This workshop is organized in the context of the [*LiLa: Linking Latin*](https://lila-erc.eu/#page-top) ERC project, Grant Agreement No. 769994.
 
