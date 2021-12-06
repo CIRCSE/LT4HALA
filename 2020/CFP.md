@@ -67,3 +67,7 @@ Describing your LRs in the [LRE Map](http://lremap.elra.info/) is now a normal p
 
 ### ISLRN number
 As scientific work requires accurate citations of referenced work so as to allow the community to understand the whole context and also replicate the experiments conducted by other researchers, LREC 2020 endorses the need to uniquely Identify LRs through the use of the International Standard Language Resource Number ([ISLRN](www.islrn.org)), a Persistent Unique Identifier to be assigned to each Language Resource. The assignment of ISLRNs to LRs cited in LREC papers  will be offered at submission time. 
+
+***
+<p style="text-align: center;">Back to the <a href="https://circse.github.io/LT4HALA/"><b>Main Page</b></a></p>
+***
