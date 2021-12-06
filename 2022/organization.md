@@ -34,6 +34,7 @@
 rachele.sprugnoli[AT]unicatt.it
 
 Please, write "LT4HALA" or "EvaLatin" in the subject of your email.
+
 For more information on EvaHan, please write to libin.njnu[AT]gmail.com writing "EvaHan" in the subject of the email.
 
 Follow [@ERC_LiLa](https://twitter.com/ERC_LiLa) and the hashtag [#LT4HALA2022](https://twitter.com/search?q=%23LT4HALA&src=typed_query) on Twitter for updates.
