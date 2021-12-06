@@ -16,4 +16,6 @@ This **one-day workshop** seeks to bring together scholars, who are developing a
 
 The workshop will also be the venue of [EvaLatin](EvaLatin), the first evaluation campaign totally devoted to the evaluation of NLP tools for Latin.
 
-
+***
+<p style="text-align: center;">Back to the <a href="https://circse.github.io/LT4HALA/"><b>Main Page</b></a></p>
+***
