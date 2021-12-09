@@ -5,7 +5,7 @@
 
 ## EvaHan
 
-![](LOGOEvaHan.png)
+![](logo-EvaHan.png)
 
 - [Introduction](#introduction)
 - [Important Dates](#important-dates)
