@@ -43,19 +43,19 @@ EvaHan 2022 is organized by Li Bin, Yiguo Yuan, Feng Minxuan,Chao Xu, Wang Dongb
 |-----------| ----------|---------|---  -------|-----------------|
 | Train | Zuozhuan_Train| Zuozhuan| 166,142| 194,995|
 | Test A| Zuozhuan_Test | Zuozhuan| 28,131 | 33,298 |
-| Blind Test B| Blind_Test| Other similar ancient ChineseBook| Around 40,000| Around 50,000|
+| Test B| Blind_Test| Other similar ancient ChineseBook| Around 40,000| Around 50,000|
 
 
 #### Test Data
 
 Test data will be provided in raw format, only Chinese characters and punctuation. The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation. 
 There are two test data sets. Test A is designed to see how a system perform on the data from the same book. Zuozhuan_Test is extracted from Zuozhuan, not overlapping with Zuozhuan_Train.
-Blind Test B is designed to see how a system performs on similar data (texts of similar content but from a different book). Blind_Test has not been released publicly. The size of it is similar to Zuozhuan_Test.
+Test B is designed to see how a system performs on similar data (texts of similar content but from a different book). Blind_Test has not been released publicly. The size of it is similar to Zuozhuan_Test.
 The details of the test data will be provided to the participants after the evaluation.
 
 ### HOW TO PARTICIPATE
 
-Each participant can submit runs following two modalities. In the closed modality, the resources each team could use are limited. Each team only use the Training data Zuozhuan_Train, and the pretrained model SIKU-Roberta[7]1. It is word embeddings pretrained on a very large corpus of traditional Chinese collection, Siku Quanshu(四库全书)2. Other resources are not allowed in the closed modality.
+Each participant can submit runs following two modalities. In the closed modality, the resources each team could use are limited. Each team only use the Training data Zuozhuan_Train, and the pretrained model SIKU-Roberta. It is word embeddings pretrained on a very large corpus of traditional Chinese collection, Siku Quanshu(四库全书). Other resources are not allowed in the closed modality.
 In the open modality, there is no limit on the resources, data and models. Annotated external data, such as the components or Pinyin of the Chinese characters, word embeddings can be employed. But each team has to state all the resources, data and models they use in each system in the final report.
 
 For detailed information, please read the [guidelines]().
