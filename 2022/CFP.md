@@ -50,7 +50,8 @@ As for [**EvaLatin**](EvaLatin) and [**EvaHan**](EvaHan), participants will be r
 - 20 April 2022: camera-ready (PDF) due
 
 
-**Shared Tasks** 
+**Shared Tasks**
+
 **PLEASE NOTE THAT NO EXTENSION IS PLANNED FOR THE SHARED TASKS**
 
 *EvaLatin*
