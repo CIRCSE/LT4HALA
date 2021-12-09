@@ -6,7 +6,7 @@
 ## CALL FOR PAPERS
 
 - Website: [https://circse.github.io/LT4HALA/2022](https://circse.github.io/LT4HALA/2022)
-- Submission page: [https://www.softconf.com/lrec2020/LT4HALA](https://www.softconf.com/lrec2022/LT4HALA)
+- Submission page: TBA
 - Date: TBA
 - Place: co-located with [LREC 2022](https://lrec2022.lrec-conf.org/), June 20-25, Marseille, France
 
