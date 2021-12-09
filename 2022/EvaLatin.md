@@ -29,7 +29,7 @@ We plan to have one oral session and one poster session during the workshop at L
 EvaLatin 2022 is organized by Rachele Sprugnoli, Margherita Fantoli, Flavio M. Cecchini and Marco Passarotti.
 
 ### IMPORTANT DATES
-- 18 December 2021: training data available
+- 20 December 2021: training data available
 - Evaluation Window I - Task: Lemmatization
   - 24 February 2022: test data available
   - 2 March 2022 system results due to organizers
