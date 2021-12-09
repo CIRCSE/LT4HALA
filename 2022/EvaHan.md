@@ -21,22 +21,18 @@ ___
 
 EvaHan 2022 is the first campaign totally devoted to the evaluation of Natural Language Processing (NLP) tools for the Ancient Chinese language. The Ancient Chinese language is dated back around 1000BC-221BC. 
 
-EvaLatin first edition will have 2 tasks (i.e. Lemmatization and PoS tagging) each with 3 sub-tasks (i.e. Classical, Cross-Genre, Cross-Time). Shared data in CoNLL-U format and an evaluation script will be provided to the participants who will choose to participate in either one or all tasks and subtasks. 
+EvaHan first edition has one task (i.e. a joint task of Word Segmentation and POS Tagging).
 
 EvaHan 2022 is organized by Li Bin, Yiguo Yuan, Feng Minxuan,Chao Xu, Wang Dongbo.
 
 ### IMPORTANT DATES
-- 10 December 2019: training data available
-- Evaluation Window I - Task: Lemmatization
-  - 17 February 2020: test data available
-  - 21 February 2020 system results due to organizers
-- Evaluation Window II - Task: PoS tagging
-  - 24 February 2020: test data available
-  - 28 February 2020: system results due to organizers
-- 6 March 2020: assessment returned to participants
-- 27 March 2020: reports due to organizers
-- 10 April 2020: camera ready version of reports due to organizers
-- 12 May 2020: workshop
+- 20 December 2021: training data available
+- Evaluation Window
+  - 10 March 2022: test data available
+  - 16 March 2022: system results due to organizers
+- 30 March 2022: reports due to organizers
+- 06 April 2022: short report review deadline
+- 20 April 2022: camera ready version of reports due to organizers
 
 ### DATA
 
@@ -52,8 +48,17 @@ EvaHan 2022 is organized by Li Bin, Yiguo Yuan, Feng Minxuan,Chao Xu, Wang Dongb
 
 #### Test Data
 
+Test data will be provided in raw format, only Chinese characters and punctuation. The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation. 
+There are two test data sets. Test A is designed to see how a system perform on the data from the same book. Zuozhuan_Test is extracted from Zuozhuan, not overlapping with Zuozhuan_Train.
+Blind Test B is designed to see how a system performs on similar data (texts of similar content but from a different book). Blind_Test has not been released publicly. The size of it is similar to Zuozhuan_Test.
+The details of the test data will be provided to the participants after the evaluation.
 
 ### HOW TO PARTICIPATE
+
+Each participant can submit runs following two modalities. In the closed modality, the resources each team could use are limited. Each team only use the Training data Zuozhuan_Train, and the pretrained model SIKU-Roberta[7]1. It is word embeddings pretrained on a very large corpus of traditional Chinese collection, Siku Quanshu(四库全书)2. Other resources are not allowed in the closed modality.
+In the open modality, there is no limit on the resources, data and models. Annotated external data, such as the components or Pinyin of the Chinese characters, word embeddings can be employed. But each team has to state all the resources, data and models they use in each system in the final report.
+
+For detailed information, please read the [guidelines]().
 
 ***
 <p style="text-align: center;">Back to the <a href="https://circse.github.io/LT4HALA/"><b>Main Page</b></a></p>
