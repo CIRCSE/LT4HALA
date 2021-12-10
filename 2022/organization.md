@@ -4,8 +4,8 @@
 ***
 
 ## Organizers
-- [Marco Passarotti](https://docenti.unicatt.it/ppd2/en/#/en/docenti/14144/marco-carlo-passarotti/profilo), Università Cattolica del Sacro Cuore, Milan, Italy;
-- [Rachele Sprugnoli](https://www.researchgate.net/profile/Rachele_Sprugnoli), [@RSprugnoli](https://twitter.com/RSprugnoli), Università Cattolica del Sacro Cuore, Milan, Italy.
+- [Marco Passarotti](https://docenti.unicatt.it/ppd2/en/#/en/docenti/14144/marco-carlo-passarotti/profilo), Università Cattolica del Sacro Cuore, Milan, Italy
+- [Rachele Sprugnoli](https://www.researchgate.net/profile/Rachele_Sprugnoli), [@RSprugnoli](https://twitter.com/RSprugnoli), Università Cattolica del Sacro Cuore, Milan, Italy
 
 
 ## Programme Committee
@@ -30,6 +30,19 @@
 - Philippe Roelli, University of Zurich, Switzerland
 - Matteo Romanello, Université de Lausanne, Switzerland
 - Halim Sayoud, USTHB University, Algeria
+
+## EvaLatin 2022 Organizers
+- Rachele Sprugnoli, Università Cattolica del Sacro Cuore, Milan, Italy
+- Margherita Fantoli, KU Leuven, Belgium
+- Flavio M. Cecchini, Università Cattolica del Sacro Cuore, Milan, Italy
+- Marco Passarotti, Università Cattolica del Sacro Cuore, Milan, Italy
+
+## EvaHan 2022 Organizers
+- Bin Li, Nanjing Normal University, P.R. China
+- Yiguo Yuan, Nanjing Normal University, P.R. China
+- Minxuan Feng, Nanjing Normal University, P.R. China
+- Chao Xu, Nanjing Normal University, P.R. China
+- Dongbo Wang, Nanjing Agricultural University, P.R. China
 
 ## Contact
 rachele.sprugnoli[AT]unicatt.it
