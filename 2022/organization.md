@@ -19,7 +19,7 @@
 - Heidi Jauhiainen, University of Helsinki, Finland
 - Neven Jovanovic, University of Zagreb, Croatia
 - Timo Korkiakangas, University of Helsinki, Finland
-- Bin Li, School of Chinese Language and Literature, Nanjing Normal University, P.R. China
+- Bin Li, Nanjing Normal University, P.R. China
 - Eleonora Litta, Università Cattolica del Sacro Cuore, Italy
 - Chao-Lin  Liu, National Chengchi University, Taiwan
 - Barbara McGillivray, Turing Institute, UK
