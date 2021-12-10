@@ -4,8 +4,8 @@
 ***
 
 ## Organizers
-- [Marco Passarotti](https://docenti.unicatt.it/ppd2/en/#/en/docenti/14144/marco-carlo-passarotti/profilo), Università Cattolica del Sacro Cuore,Milan, Italy;
-- [Rachele Sprugnoli](https://www.researchgate.net/profile/Rachele_Sprugnoli), [@RSprugnoli](https://twitter.com/RSprugnoli), Università Cattolica del Sacro Cuore,Milan, Italy.
+- [Marco Passarotti](https://docenti.unicatt.it/ppd2/en/#/en/docenti/14144/marco-carlo-passarotti/profilo), Università Cattolica del Sacro Cuore, Milan, Italy;
+- [Rachele Sprugnoli](https://www.researchgate.net/profile/Rachele_Sprugnoli), [@RSprugnoli](https://twitter.com/RSprugnoli), Università Cattolica del Sacro Cuore, Milan, Italy.
 
 
 ## Programme Committee
@@ -18,7 +18,8 @@
 - Hannes A. Fellner, Universität Wien, Austria
 - Heidi Jauhiainen, University of Helsinki, Finland
 - Neven Jovanovic, University of Zagreb, Croatia
-- Timo Korkiakangas, University of Helsinki, Finland 
+- Timo Korkiakangas, University of Helsinki, Finland
+- Bin Li, School of Chinese Language and Literature, Nanjing Normal University, P.R. China
 - Eleonora Litta, Università Cattolica del Sacro Cuore, Italy
 - Chao-Lin  Liu, National Chengchi University, Taiwan
 - Barbara McGillivray, Turing Institute, UK
