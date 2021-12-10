@@ -7,8 +7,8 @@
 
 - Website: [https://circse.github.io/LT4HALA/2022](https://circse.github.io/LT4HALA/2022)
 - Submission page: TBA
-- Date: TBA
 - Place: co-located with [LREC 2022](https://lrec2022.lrec-conf.org/), June 20-25, Marseille, France
+- Date: TBA
 
 ### DESCRIPTION
 
@@ -27,7 +27,7 @@ Relevant topics for the workshop include, but are not limited to:
 
 ### SHARED TASKS
 Just because of the limited amount of data preserved for historical and ancient languages, an important role is played by evaluation practices, to understand the level of accuracy of the NLP tools used to build and analyze resources. LT4HALA 2022 will hosts two shared tasks:
-- the second edition of [**EvaLatin**](EvaLatin), an evaluation campaign entirely devoted to the evaluation of NLP tools for Latin. The second edition of EvaLatin will focus on three tasks (i.e. Lemmatization, PoS tagging, and Inflectional Feature Identification), each featuring three sub-tasks (i.e. Classical, Cross-Genre, Cross-Time).
+- the second edition of [**EvaLatin**](EvaLatin), an evaluation campaign entirely devoted to the evaluation of NLP tools for Latin. The second edition of EvaLatin will focus on three tasks (i.e. Lemmatization, PoS tagging, and Morphological Feature Identification), each featuring three sub-tasks (i.e. Classical, Cross-Genre, Cross-Time).
 - the first edition of [**EvaHan**](EvaHan), the first evaluation campaign for the evaluation of NLP tools for Ancient Chinese organized by the team of Bin Li (School of Chinese Language and Literature, Nanjing Normal University). EvaHan first edition has one task (i.e. a joint task of Word Segmentation and POS Tagging).
 
 ### SUBMISSIONS
@@ -36,7 +36,9 @@ Both long and short papers describing original and unpublished work are welcome.
 
 **Long papers** should deal with substantial completed research and/or report on the development of new methodologies. They may consist of up to 8 pages of content plus 2 pages of references. 
 
-**Short papers** are instead appropriate for reporting on works in progress or for describing a singular tool or project. They may consist of up to 4 pages of content plus 2 pages of references. We encourage the authors of papers reporting experimental results to make their results reproducible and the entire process of analysis replicable, by making the data and the tools they used available. The form of the presentation may be oral or poster, whereas in the proceedings there is no difference between the accepted papers. 
+**Short papers** are instead appropriate for reporting on works in progress or for describing a singular tool or project. They may consist of up to 4 pages of content plus 2 pages of references. 
+
+We encourage the authors of papers reporting experimental results to make their results reproducible and the entire process of analysis replicable, by making the data and the tools they used available. The form of the presentation may be oral or poster, whereas in the proceedings there is no difference between the accepted papers. 
 The submission is NOT anonymous. The [LREC official format](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/) is requested. Each paper will be reviewed but three independent reviewers.
 
 As for [**EvaLatin**](EvaLatin) and [**EvaHan**](EvaHan), participants will be required to submit a technical report for each task (with all the related sub-tasks) they took part in. Technical reports will be included in the proceedings as short papers: the maximum length is 4 pages (excluding references) and they should follow the [LREC official format](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/). Reports will receive a light review (we will check for the correctness of the format, the exactness of results and ranking, and overall exposition). All participants will have the possibility to present their results at the workshop: we will allocate an oral session and a poster session fully devoted to the shared tasks in the afternoon.
