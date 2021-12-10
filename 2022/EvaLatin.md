@@ -22,7 +22,7 @@ The LT4HALA 2022 workshop will also be the venue of the second edition of *EvaLa
 - How can we promote the development of resources and language technologies for the Latin language?
 - How can we foster collaboration among scholars working on Latin and attract researchers from different disciplines?
 
-EvaLatin 2022 edition will have 3 tasks (i.e. Lemmatization, PoS tagging, and Inflectional Feature Identification) each with 3 sub-tasks (i.e. Classical, Cross-Genre, Cross-Time). These sub-tasks are designed to measure the impact of genre and diachrony on the NLP tools performances, a relevant aspect to keep in mind when dealing with the diachronic and diatopic diversity of Latin. Shared data in CoNLL-U format and an evaluation script will be provided to the participants who will choose to participate in either one or all tasks and subtasks. 
+EvaLatin 2022 edition will have 3 tasks (i.e. Lemmatization, PoS tagging, and Morphological Feature Identification) each with 3 sub-tasks (i.e. Classical, Cross-Genre, Cross-Time). These sub-tasks are designed to measure the impact of genre and diachrony on the NLP tools performances, a relevant aspect to keep in mind when dealing with the diachronic and diatopic diversity of Latin. Shared data in CoNLL-U format and an evaluation script will be provided to the participants who will choose to participate in either one or all tasks and subtasks. 
 
 We plan to have one oral session and one poster session during the workshop at LREC 2022 to disseminate the results of EvaLatin.
 
@@ -62,9 +62,9 @@ Texts are by 5 Classical authors for a total of more than 300,000 tokens: Caesar
 | Seneca            | De Clementia                    | 8,172   |
 | Seneca            | De Vita Beata                   | 7,270   |
 | Seneca            | De Providentia                  | 4,077   |
-| Tacito            | Historiae                       | 51,420  |
-| Tacito            | Agricola                        | 6,737   |
-| Tacito            | Germania                        | 5,513   |
+| Tacitus            | Historiae                       | 51,420  |
+| Tacitus           | Agricola                        | 6,737   |
+| Tacitus            | Germania                        | 5,513   |
 | TOTAL             | TEXTS                           | 316,573 |
 
 #### Test Data
