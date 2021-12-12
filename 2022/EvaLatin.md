@@ -76,8 +76,9 @@ Participants will be required to submit their runs and to provide a technical re
   
 The first run will be produced according to the *closed modality*: the only annotated data to be used for training and tuning the systems are those distributed by the organizers. Other non-annotated resources, e.g. word embeddings, are instead allowed. The second run will be produced according to the *open modality*: annotated external data, such as the Latin datasets of the Universal Dependecies initiative, can be also employed. All external resources are expected to be described in the systems' reports. The closed run is compulsory, while the open run is optional.
 
+<!---
 For detailed information, please read the [guidelines]().
-
+--->
 ***
 <p style="text-align: center;">Back to the <a href="https://circse.github.io/LT4HALA/"><b>Main Page</b></a></p>
 ***
