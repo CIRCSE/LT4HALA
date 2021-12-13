@@ -23,7 +23,7 @@ EvaHan 2022 is the first campaign totally devoted to the evaluation of Natural L
 
 EvaHan first edition has one task (i.e. a joint task of Word Segmentation and POS Tagging).
 
-EvaHan 2022 is organized by Li Bin, Yiguo Yuan, Feng Minxuan,Chao Xu, Wang Dongbo.
+EvaHan 2022 is organized by Bin Li, Yiguo Yuan, Minxuan Feng, Chao Xu, Dongbo Wang.
 
 ### IMPORTANT DATES
 - 20 December 2021: training data available
