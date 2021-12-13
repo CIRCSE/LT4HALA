@@ -30,6 +30,7 @@
 - Philippe Roelli, University of Zurich, Switzerland
 - Matteo Romanello, Université de Lausanne, Switzerland
 - Halim Sayoud, USTHB University, Algeria
+- Dongbo Wang, Nanjing Agricultural University, P.R. China
 
 ## EvaLatin 2022 Organizers
 - Rachele Sprugnoli, Università Cattolica del Sacro Cuore, Milan, Italy
