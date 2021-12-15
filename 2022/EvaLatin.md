@@ -44,7 +44,7 @@ EvaLatin 2022 is organized by Rachele Sprugnoli, Margherita Fantoli, Flavio M. C
 - 20 April 2022: camera ready version of reports due to organizers
 
 ### DATA
-Training data will be distributed in the [CoNLL-U format](https://universaldependencies.org/format.html). In our dataset ID, FORM, LEMMA, UPOS, XPOS and FEATS fields are annotated: all the other fields are filled in with underscores.
+Training data will be distributed in the [CoNLL-U format](https://universaldependencies.org/format.html). In our dataset ID, FORM, LEMMA, UPOS, and FEATS fields are annotated: all the other fields are filled in with underscores.
 
 #### Training Data
 Texts provided as training data are the same adopted as training and test data in EvaLatin 2020 but the annotation can be different from the one of the previous edition of the campaign: indeed, in 2020 we did not use the LASLA corpus directly but a manually revised version of the annotations automatically made by the Perseus model of UDPiPe.
@@ -70,6 +70,9 @@ Texts are by 5 Classical authors for a total of more than 300,000 tokens: Caesar
 #### Test Data
 Tokenisation is a central issue in evaluation and comparison because each system could apply different tokenisation rules leading to different outputs. In order to avoid this problem, test data will be provided in tokenised format, one token per line, and with a white line separating each sentence. Test data will contain only the tokenized words but not the correct tags, that have to be added by the participant systems to be submitted for the evaluation.
 The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation.
+
+### Evaluation
+The scorer is available: [conll18_ud_eval_EvaLatin_2022.py](https://github.com/CIRCSE/LT4HALA/tree/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022.py)
 
 ### HOW TO PARTICIPATE
 Participants will be required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
