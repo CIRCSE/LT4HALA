@@ -1,4 +1,4 @@
-The EvaLatin and EvaHan 2022 datasets are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 4.0 International.
+The EvaLatin 2022 dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 4.0 International.
 
 The complete license text is available at:
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
