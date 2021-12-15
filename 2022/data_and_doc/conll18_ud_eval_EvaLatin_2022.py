@@ -11,7 +11,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #
 # Authors: Milan Straka, Martin Popel <surname@ufal.mff.cuni.cz>
-# Modified by Giovanni Moretti for EvaLatin Campaing in December 2019
+# Modified by Giovanni Moretti for EvaLatin Campaigns in December 2019 and in December 2021.
 #
 # Changelog:
 # - [12 Apr 2018] Version 0.9: Initial release.
