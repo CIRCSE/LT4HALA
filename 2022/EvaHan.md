@@ -56,7 +56,7 @@ Test B is designed to see how a system performs on similar data (texts of simila
 The details of the test data will be provided to the participants after the evaluation.
 
 ### SCORER
-Download the scorer: [EvaHan_scorer](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_scorer.zip)
+Download the scorer: [EvaHan_scorer.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_scorer.zip)
 
 ### HOW TO PARTICIPATE
 
