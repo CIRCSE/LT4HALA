@@ -75,7 +75,7 @@ Tokenisation is a central issue in evaluation and comparison because each system
 The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation.
 
 ### EVALUATION
-The scorer is available: [conll18_ud_eval_EvaLatin_2022.py](https://github.com/CIRCSE/LT4HALA/tree/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022.py)
+The scorer is available: [conll18_ud_eval_EvaLatin_2022.py](https://github.com/CIRCSE/LT4HALA/tree/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022.py).
 
 ### HOW TO PARTICIPATE
 Participants will be required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
