@@ -12,6 +12,7 @@
 - [Data](#data)
   * [Training Data](#training-data)
   * [Test Data](#test-data)
+- [Scorer](#scorer)
 - [How to participate](#how-to-participate)
 
 ___
@@ -53,6 +54,9 @@ Test data will be provided in raw format, only Chinese characters and punctuatio
 There are two test data sets. Test A is designed to see how a system perform on the data from the same book. Zuozhuan_Test is extracted from Zuozhuan, not overlapping with Zuozhuan_Train.
 Test B is designed to see how a system performs on similar data (texts of similar content but from a different book). Blind_Test has not been released publicly. The size of it is similar to Zuozhuan_Test.
 The details of the test data will be provided to the participants after the evaluation.
+
+### SCORER
+Download the scorer: [EvaHan_scorer](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_scorer.zip)
 
 ### HOW TO PARTICIPATE
 
