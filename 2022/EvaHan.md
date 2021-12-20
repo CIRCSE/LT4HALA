@@ -36,15 +36,16 @@ EvaHan 2022 is organized by Bin Li, Yiguo Yuan, Minxuan Feng, Chao Xu, Dongbo Wa
 
 ### DATA
 
-
-#### Training Data
-
 | Data Sets | Data name | Sources | Word Tokens| Char Tokens|
 |-----------| ----------|---------|---  -------|-----------------|
 | Train | Zuozhuan_Train| Zuozhuan| 166,142| 194,995|
 | Test A| Zuozhuan_Test | Zuozhuan| 28,131 | 33,298 |
 | Test B| Blind_Test| Other similar ancient ChineseBook| Around 40,000| Around 50,000|
 
+
+#### Training Data
+
+Download training data: [zuozhuan_train_utf8.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/zuozhuan_train_utf8.zip)
 
 #### Test Data
 
