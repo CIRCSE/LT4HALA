@@ -48,7 +48,7 @@ EvaLatin 2022 is organized by Rachele Sprugnoli, Margherita Fantoli, Flavio M. C
 Training data will be distributed in the [CoNLL-U format](https://universaldependencies.org/format.html). In our dataset ID, FORM, LEMMA, UPOS, and FEATS fields are annotated: all the other fields are filled in with underscores.
 
 #### Training Data
-Download training data: EvaLatin2022-training.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin2022-training.zip).
+Download training data: [EvaLatin2022-training.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin2022-training.zip).
 
 Texts provided as training data are the same adopted as training and test data in EvaLatin 2020 but the annotation can be different from the one of the previous edition of the campaign: indeed, in 2020 we did not use the LASLA corpus directly but a manually revised version of the annotations automatically made by the Perseus model of UDPiPe.
 
