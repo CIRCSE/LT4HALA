@@ -12,6 +12,7 @@
 - [Data](#data)
   * [Training Data](#training-data)
   * [Test Data](#test-data)
+- [Evaluation](#evaluation)
 - [How to participate](#how-to-participate)
 
 ___
@@ -71,7 +72,7 @@ Texts are by 5 Classical authors for a total of more than 300,000 tokens: Caesar
 Tokenisation is a central issue in evaluation and comparison because each system could apply different tokenisation rules leading to different outputs. In order to avoid this problem, test data will be provided in tokenised format, one token per line, and with a white line separating each sentence. Test data will contain only the tokenized words but not the correct tags, that have to be added by the participant systems to be submitted for the evaluation.
 The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation.
 
-### Evaluation
+### EVALUATION
 The scorer is available: [conll18_ud_eval_EvaLatin_2022.py](https://github.com/CIRCSE/LT4HALA/tree/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022.py)
 
 ### HOW TO PARTICIPATE
