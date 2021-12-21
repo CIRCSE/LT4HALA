@@ -65,7 +65,7 @@ As for [**EvaLatin**](EvaLatin) and [**EvaHan**](EvaHan), participants will be r
 - 24 May 2022: camera ready version of reports due to organizers
 
 *EvaHan*
-2- 0 December 2021: training data available
+- 20 December 2021: training data available
 - Evaluation Window
   - 31 March 2022: test data available
   - 6 April 2022: system results due to organizers
