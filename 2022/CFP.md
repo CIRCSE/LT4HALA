@@ -46,36 +46,36 @@ As for [**EvaLatin**](EvaLatin) and [**EvaHan**](EvaHan), participants will be r
 ### IMPORTANT DATES
 
 *Workshop*
-8 April 2022: submission due
-29 April 2022: reviews due
-3 May 2022: notifications to authors
-24 May 2022: camera-ready (PDF) due
+- 8 April 2022: submission due
+- 29 April 2022: reviews due
+- 3 May 2022: notifications to authors
+- 24 May 2022: camera-ready (PDF) due
 
 **Shared Tasks - PLEASE NOTE THAT NO EXTENSION IS PLANNED FOR THE SHARED TASKS**
 
 *EvaLatin*
-20 December 2021: training data available
-Evaluation Window I - Task: Lemmatization
-17 March 2022: test data available
-23 March 2022 system results due to organizers
-Evaluation Window II - Task: PoS tagging
-24 March 2022: test data available
-30 March 2022: system results due to organizers
-Evaluation Window III - Task: Features tagging
-31 March 2022: test data available
-6 April 2022: system results due to organizers
-26 April 2022: reports due to organizers
-10 May 2022: short report review deadline
-24 May 2022: camera ready version of reports due to organizers
+- 20 December 2021: training data available
+- Evaluation Window I - Task: Lemmatization
+  - 17 March 2022: test data available
+  - 23 March 2022 system results due to organizers
+- Evaluation Window II - Task: PoS tagging
+  - 24 March 2022: test data available
+  - 30 March 2022: system results due to organizers
+- Evaluation Window III - Task: Features tagging
+  - 31 March 2022: test data available
+  - 6 April 2022: system results due to organizers
+- 26 April 2022: reports due to organizers
+- 10 May 2022: short report review deadline
+- 24 May 2022: camera ready version of reports due to organizers
 
 *EvaHan*
-20 December 2021: training data available
-Evaluation Window
-31 March 2022: test data available
-6 April 2022: system results due to organizers
-26 April 2022: reports due to organizers
-10 May 2022: short report review deadline
-24 May 2022: camera ready version of reports due to organizers
+2- 0 December 2021: training data available
+- Evaluation Window
+  - 31 March 2022: test data available
+  - 6 April 2022: system results due to organizers
+- 26 April 2022: reports due to organizers
+- 10 May 2022: short report review deadline
+- 24 May 2022: camera ready version of reports due to organizers
 
 
 ### SHARE YOUR LRs!
