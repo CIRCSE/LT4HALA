@@ -8,8 +8,8 @@
 - Website: [https://circse.github.io/LT4HALA/2022](https://circse.github.io/LT4HALA/2022)
 - Place: co-located with [LREC 2022](https://lrec2022.lrec-conf.org/), June 20-25 2022, Marseille, France
 - Date: June 25 2022 (post-conference workshop)
-- Submission page: TBA
-- 
+- Submission page: [https://www.softconf.com/lrec2022/LT4HALA/](https://www.softconf.com/lrec2022/LT4HALA/)
+
 ### DESCRIPTION
 
 LT4HALA 2022 is a **one-day workshop** that seeks to bring together scholars who are developing and/or are using Language Technologies (LTs) for historically attested languages, so to foster cross-fertilization between the Computational Linguistics community and the areas in the Humanities dealing with historical linguistic data, e.g. historians, philologists, linguists, archaeologists and literary scholars. Despite the current availability of large collections of digitized texts written in historical languages, such interdisciplinary collaboration is still hampered by the limited availability of annotated linguistic resources for most of the historical languages. Creating such resources is a challenge and an obligation for LTs, both to support historical linguistic research with the most updated technologies and to preserve those precious linguistic data that survived from past times.
