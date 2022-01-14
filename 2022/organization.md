@@ -5,7 +5,7 @@
 
 ## Organizers
 - [Marco Passarotti](https://docenti.unicatt.it/ppd2/en/#/en/docenti/14144/marco-carlo-passarotti/profilo), Università Cattolica del Sacro Cuore, Milan, Italy
-- [Rachele Sprugnoli](https://www.researchgate.net/profile/Rachele_Sprugnoli), [@RSprugnoli](https://twitter.com/RSprugnoli), Università Cattolica del Sacro Cuore, Milan, Italy
+- [Rachele Sprugnoli](https://www.researchgate.net/profile/Rachele_Sprugnoli), [@RSprugnoli](https://twitter.com/RSprugnoli), Università degli Studi di Parma, Italy
 
 
 ## Programme Committee
@@ -33,7 +33,7 @@
 - Dongbo Wang, Nanjing Agricultural University, P.R. China
 
 ## EvaLatin 2022 Organizers
-- Rachele Sprugnoli, Università Cattolica del Sacro Cuore, Milan, Italy
+- Rachele Sprugnoli, Università degli Studi di Parma, Italy
 - Margherita Fantoli, KU Leuven, Belgium
 - Flavio M. Cecchini, Università Cattolica del Sacro Cuore, Milan, Italy
 - Marco Passarotti, Università Cattolica del Sacro Cuore, Milan, Italy
@@ -46,7 +46,7 @@
 - Dongbo Wang, Nanjing Agricultural University, P.R. China
 
 ## Contact
-rachele.sprugnoli[AT]unicatt.it
+rachele.sprugnoli[AT]unipr.it
 
 Please, write "LT4HALA" or "EvaLatin" in the subject of your email.
 
