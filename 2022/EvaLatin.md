@@ -32,17 +32,17 @@ EvaLatin 2022 is organized by Rachele Sprugnoli, Margherita Fantoli, Flavio M. C
 ### IMPORTANT DATES
 - 20 December 2021: training data available
 - Evaluation Window I - Task: Lemmatization
-  - 24 February 2022: test data available
-  - 2 March 2022 system results due to organizers
+  - 17 March 2022: test data available
+  - 23 March 2022 system results due to organizers
 - Evaluation Window II - Task: PoS tagging
-  - 03 March 2022: test data available
-  - 9 March 2022: system results due to organizers
+  - 24 March 2022: test data available
+  - 30 March 2022: system results due to organizers
 - Evaluation Window III - Task: Features tagging
-  - 10 March 2022: test data available
-  - 16 March 2022: system results due to organizers
-- 30 March 2022: reports due to organizers
-- 06 April 2022: short report review deadline
-- 20 April 2022: camera ready version of reports due to organizers
+  - 31 March 2022: test data available
+  - 6 April 2022: system results due to organizers
+- 26 April 2022: reports due to organizers
+- 10 May 2022: short report review deadline
+- 24 May 2022: camera ready version of reports due to organizers
 
 ### DATA
 Training data will be distributed in the [CoNLL-U format](https://universaldependencies.org/format.html). In our dataset ID, FORM, LEMMA, UPOS, and FEATS fields are annotated: all the other fields are filled in with underscores.
