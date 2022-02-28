@@ -71,6 +71,8 @@ Texts are by 5 Classical authors for a total of more than 300,000 tokens: Caesar
 | TOTAL             | TEXTS                           | 316,573 |
 
 #### Test Data
+**Download test data: available after March 17th.**
+
 Tokenisation is a central issue in evaluation and comparison because each system could apply different tokenisation rules leading to different outputs. In order to avoid this problem, test data will be provided in tokenised format, one token per line, and with a white line separating each sentence. Test data will contain only the tokenized words but not the correct tags, that have to be added by the participant systems to be submitted for the evaluation.
 The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation.
 
