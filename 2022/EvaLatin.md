@@ -77,7 +77,9 @@ Tokenisation is a central issue in evaluation and comparison because each system
 The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation.
 
 ### EVALUATION
-The scorer is available: [conll18_ud_eval_EvaLatin_2022.py](https://github.com/CIRCSE/LT4HALA/tree/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022.py).
+**17 March 2022 --> A new version of the scorer is available: [conll18_ud_eval_EvaLatin_2022_rev2.py](https://github.com/CIRCSE/LT4HALA/tree/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022_rev2.py). In this version of the scorer, tokens affected by a bug in the training set are skipped and not taken into consideration when calculating the accuracy.**
+
+The previous version (with no skipped tokens) is also still available: [conll18_ud_eval_EvaLatin_2022.py](https://github.com/CIRCSE/LT4HALA/tree/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022.py).
 
 ### HOW TO PARTICIPATE
 Participants will be required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
@@ -85,7 +87,9 @@ Participants will be required to submit their runs and to provide a technical re
 The first run will be produced according to the *closed modality*: the only annotated data to be used for training and tuning the systems are those distributed by the organizers. Other non-annotated resources, e.g. word embeddings, are instead allowed. The second run will be produced according to the *open modality*: annotated external data, such as the Latin datasets of the Universal Dependecies initiative, can be also employed. All external resources are expected to be described in the systems' reports. The closed run is compulsory, while the open run is optional.
 
 
-For detailed information, please read the [EvaLatin_2022_guidelines_v1.pdf](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin_2022_guidelines_v1.pdf).
+For detailed information, please read the guidelines:
+- version 1 (training): [EvaLatin_2022_guidelines_v1.pdf](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin_2022_guidelines_v1.pdf).
+- **version 2 (updated on March 17): [EvaLatin_2022_guidelines-TEST.pdf](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin_2022_guidelines-TEST.pdf)**
 
 ***
 <p style="text-align: center;">Back to the <a href="https://circse.github.io/LT4HALA/"><b>Main Page</b></a></p>
