@@ -48,7 +48,7 @@ EvaLatin 2022 is organized by Rachele Sprugnoli, Margherita Fantoli, Flavio M. C
 Training data will be distributed in the [CoNLL-U format](https://universaldependencies.org/format.html). In our dataset ID, FORM, LEMMA, UPOS, and FEATS fields are annotated: all the other fields are filled in with underscores.
 
 #### Training Data
-Download training data: [EvaLatin2022-training.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin2022-training.zip).
+**17 March 2022 --> Download NEW training data: [EvaLatin2022-training-new.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin2022-training-new.zip). In the previous version of the training data some tokens were misspelled due to a bug in the script used for the conversion of the LASLA annotation into the CoNLL-U format (72 types - 1,109 tokens). Misspelled types are reported in Appendix B of the [guidelines](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin_2022_guidelines-TEST.pdf) and the corresponding tokens will not be taken into consideration in the evaluation).**
 
 Texts provided as training data are the same adopted as training and test data in EvaLatin 2020 but the annotation can be different from the one of the previous edition of the campaign: indeed, in 2020 we did not use the LASLA corpus directly but a manually revised version of the annotations automatically made by the Perseus model of UDPiPe.
 
@@ -71,7 +71,7 @@ Texts are by 5 Classical authors for a total of more than 300,000 tokens: Caesar
 | TOTAL             | TEXTS                           | 316,573 |
 
 #### Test Data
-**Download test data: available after March 17th.**
+**17 March 2022 --> Download test data: [EvaLatin2022-test.zip](https://github.com/CIRCSE/LT4HALA/tree/master/2022/data_and_doc/EvaLatin2022-test.zip)**
 
 Tokenisation is a central issue in evaluation and comparison because each system could apply different tokenisation rules leading to different outputs. In order to avoid this problem, test data will be provided in tokenised format, one token per line, and with a white line separating each sentence. Test data will contain only the tokenized words but not the correct tags, that have to be added by the participant systems to be submitted for the evaluation.
 The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation.
