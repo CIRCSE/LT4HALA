@@ -45,10 +45,10 @@ EvaLatin 2022 is organized by Rachele Sprugnoli, Margherita Fantoli, Flavio M. C
 - 24 May 2022: camera ready version of reports due to organizers
 
 ### DATA
-Data are distributed in the [CoNLL-U format](https://universaldependencies.org/format.html). In our dataset ID, FORM, LEMMA, UPOS, and FEATS fields are annotated: all the other fields are filled in with underscores.
+Data is distributed in the [CoNLL-U format](https://universaldependencies.org/format.html). In our dataset ID, FORM, LEMMA, UPOS, and FEATS fields are annotated: all the other fields are filled in with underscores.
 
 #### Training Data
-**17 March 2022 --> Download NEW training data: [EvaLatin2022-training-new.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin2022-training-new.zip). In the previous version of the training data some tokens were misspelled due to a bug in the script used for the conversion of the LASLA annotation into the CoNLL-U format (72 types - 1,109 tokens). Misspelled types are reported in Appendix B of the [guidelines](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin_2022_guidelines-TEST.pdf) and the corresponding tokens will not be taken into consideration in the evaluation (download the new version of the [scorer](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022_rev2.py)).**
+**17 March 2022 --> Download NEW training data: [EvaLatin2022-training-new.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin2022-training-new.zip). In the previous version of the training data some tokens were misspelled due to a bug in the script used for the conversion of the LASLA annotation into the CoNLL-U format (72 types - 1,109 tokens out of 316,573). Misspelled types are reported in Appendix B of the [guidelines](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin_2022_guidelines-TEST.pdf) and the corresponding tokens will not be taken into consideration in the evaluation (download the new version of the [scorer](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022_rev2.py)).**
 
 Texts provided as training data are the same adopted as training and test data in EvaLatin 2020 but the annotation can be different from the one of the previous edition of the campaign: indeed, in 2020 we did not use the LASLA corpus directly but a manually revised version of the annotations automatically made by the Perseus model of UDPiPe.
 
@@ -76,10 +76,32 @@ Texts are by 5 Classical authors for a total of more than 300,000 tokens: Caesar
 Tokenisation is a central issue in evaluation and comparison because each system could apply different tokenisation rules leading to different outputs. In order to avoid this problem, test data will be provided in tokenised format, one token per line, and with a white line separating each sentence. Test data will contain only the tokenized words but not the correct tags, that have to be added by the participant systems to be submitted for the evaluation.
 The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation.
 
+*CLASSICAL SUB-TASK*
+
+| AUTHOR | TEXT                        | # TOKENS |
+|--------|-----------------------------|----------|
+| Livius | Ab Urbe Condita (book VIII) | 13,572   |
+
+*CROSS-GENRE SUB-TASK*
+
+| AUTHORS         | TEXTS                            | # TOKENS |
+|-----------------|----------------------------------|----------|
+| Pliny the Elder | Naturalis Historia (book XXXVII) | 11,371   |
+| Ovidius         | Metamorphoseon (books IX-X)      | 11,325   |
+| TOTAL           | TEXTS                            | 22,696   |
+
+*CROSS-TIME SUB-TASK*
+
+| AUTHOR     | TEXT                           | # TOKENS |
+|------------|--------------------------------|----------|
+| Sabellicus | De Latinae Linguae Reparatione | 9,278    |
+
 ### EVALUATION
 **17 March 2022 --> A new version of the scorer is available: [conll18_ud_eval_EvaLatin_2022_rev2.py](https://github.com/CIRCSE/LT4HALA/tree/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022_rev2.py). In this version of the scorer, tokens affected by a bug in the training set are skipped and not taken into consideration when calculating the accuracy.**
 
 The previous version (with no skipped tokens) is also still available: [conll18_ud_eval_EvaLatin_2022.py](https://github.com/CIRCSE/LT4HALA/tree/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022.py).
+
+Baselines are reported in the guidelines (Chapter 4 "Evaluation").
 
 ### HOW TO PARTICIPATE
 Participants will be required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results.
