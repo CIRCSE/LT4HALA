@@ -45,7 +45,7 @@ EvaLatin 2022 is organized by Rachele Sprugnoli, Margherita Fantoli, Flavio M. C
 - 24 May 2022: camera ready version of reports due to organizers
 
 ### DATA
-Training data will be distributed in the [CoNLL-U format](https://universaldependencies.org/format.html). In our dataset ID, FORM, LEMMA, UPOS, and FEATS fields are annotated: all the other fields are filled in with underscores.
+Data are distributed in the [CoNLL-U format](https://universaldependencies.org/format.html). In our dataset ID, FORM, LEMMA, UPOS, and FEATS fields are annotated: all the other fields are filled in with underscores.
 
 #### Training Data
 **17 March 2022 --> Download NEW training data: [EvaLatin2022-training-new.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin2022-training-new.zip). In the previous version of the training data some tokens were misspelled due to a bug in the script used for the conversion of the LASLA annotation into the CoNLL-U format (72 types - 1,109 tokens). Misspelled types are reported in Appendix B of the [guidelines](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin_2022_guidelines-TEST.pdf) and the corresponding tokens will not be taken into consideration in the evaluation (download the new version of the [scorer](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/conll18_ud_eval_EvaLatin_2022_rev2.py)).**
@@ -89,7 +89,7 @@ The first run will be produced according to the *closed modality*: the only anno
 
 For detailed information, please read the guidelines:
 - version 1 (training): [EvaLatin_2022_guidelines_v1.pdf](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin_2022_guidelines_v1.pdf).
-- **version 2 (updated on March 17): [EvaLatin_2022_guidelines-TEST.pdf](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin_2022_guidelines-TEST.pdf)**
+- **version 2 (updated on March 16): [EvaLatin_2022_guidelines-TEST.pdf](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaLatin_2022_guidelines-TEST.pdf)**
 
 ***
 <p style="text-align: center;">Back to the <a href="https://circse.github.io/LT4HALA/"><b>Main Page</b></a></p>
