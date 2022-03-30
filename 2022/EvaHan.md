@@ -45,11 +45,10 @@ EvaHan 2022 is organized by Bin Li, Yiguo Yuan, Minxuan Feng, Chao Xu, Dongbo Wa
 
 
 #### Training Data
-
 Download training data: [zuozhuan_train_utf8.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/zuozhuan_train_utf8.zip)
 
 #### Test Data
-**Download test data: available after March 31st.**
+**Download test data: [EvaHan_testa_raw.txt](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_testa_raw.txt) and [EvaHan_testb_raw.txt](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_testb_raw.txt)**
 
 Test data will be provided in raw format, only Chinese characters and punctuation. The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation. 
 There are two test data sets. Test A is designed to see how a system perform on the data from the same book. Zuozhuan_Test is extracted from Zuozhuan, not overlapping with Zuozhuan_Train.
@@ -57,7 +56,9 @@ Test B is designed to see how a system performs on similar data (texts of simila
 The details of the test data will be provided to the participants after the evaluation.
 
 ### EVALUATION
-Download the scorer: [EvaHan_scorer.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_scorer.zip)
+Revised script: [eval_EvaHan_2022.py](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/eval_EvaHan_2022.py)
+
+The old scorer is still available: [EvaHan_scorer.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_scorer.zip)
 
 ### HOW TO PARTICIPATE
 
