@@ -42,7 +42,7 @@ As for [**EvaLatin**](EvaLatin) and [**EvaHan**](EvaHan), participants will be r
 ### IMPORTANT DATES
 
 *Workshop*
-- 8 April 2022: submission due
+- ~~8 April 2022~~ **NEW - 15 April 2022: submission due**
 - 29 April 2022: reviews due
 - 3 May 2022: notifications to authors
 - 24 May 2022: camera-ready (PDF) due
