@@ -60,18 +60,18 @@ As for [**EvaLatin**](EvaLatin) and [**EvaHan**](EvaHan), participants will be r
 - Evaluation Window III - Task: Features tagging
   - 31 March 2022: test data available
   - 6 April 2022: system results due to organizers
-- 26 April 2022: reports due to organizers
+- 26 April 2022: reports submission via SoftConf
 - 10 May 2022: short report review deadline
-- 24 May 2022: camera ready version of reports due to organizers
+- 24 May 2022: camera ready version submission via SoftConf
 
 *EvaHan*
 - 20 December 2021: training data available
 - Evaluation Window
   - 31 March 2022: test data available
   - 6 April 2022: system results due to organizers
-- 26 April 2022: reports due to organizers
+- 26 April 2022: reports submission via SoftConf
 - 10 May 2022: short report review deadline
-- 24 May 2022: camera ready version of reports due to organizers
+- 24 May 2022: camera ready version submission via SoftConf
 
 
 ### IDENTIFY, DESCRIBE AND SHARE YOUR LRs!
