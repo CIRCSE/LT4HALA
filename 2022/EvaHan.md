@@ -31,9 +31,9 @@ EvaHan 2022 is organized by Bin Li, Yiguo Yuan, Minxuan Feng, Chao Xu, Dongbo Wa
 - Evaluation Window
   - 31 March 2022: test data available
   - 6 April 2022: system results due to organizers
-- 26 April 2022: reports due to organizers
+- 26 April 2022: reports submission via SoftConf
 - 10 May 2022: short report review deadline
-- 24 May 2022: camera ready version of reports due to organizers
+- 24 May 2022: camera ready version submission via SoftConf
 
 ### DATA
 
