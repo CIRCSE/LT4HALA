@@ -58,9 +58,11 @@ Test B is designed to see how a system performs on similar data (texts of simila
 The details of the test data will be provided to the participants after the evaluation.
 
 ### EVALUATION
-**NEW revised script: [eval_EvaHan_2022.py](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/eval_EvaHan_2022.py)**
+**FINAL script (revised for some new kinds of format errors that occurred in participants' files): [eval_EvaHan_2022_FINAL.py](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/eval_EvaHan_2022_FINAL.py)**
 
-The old scorer is still available: [EvaHan_scorer.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_scorer.zip)
+The old scorers are still available: 
+- first version: [EvaHan_scorer.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_scorer.zip)
+- second version: [eval_EvaHan_2022.py](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/eval_EvaHan_2022.py)
 
 ### HOW TO PARTICIPATE
 
