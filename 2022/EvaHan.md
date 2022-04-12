@@ -50,6 +50,8 @@ Download training data: [zuozhuan_train_utf8.zip](https://github.com/CIRCSE/LT4H
 #### Test Data
 **Download test data: [EvaHan_testa_raw.txt](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_testa_raw.txt) and [EvaHan_testb_raw.txt](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_testb_raw.txt)**
 
+**Download gold data: [EvaHan_testa_gold.txt](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_testa_gold.txt) and [EvaHan_testb_gold.txt](https://github.com/CIRCSE/LT4HALA/blob/master/2022/data_and_doc/EvaHan_testb_gold.txt)**
+
 Test data will be provided in raw format, only Chinese characters and punctuation. The gold standard test data, that is the annotation used for the evaluation, will be provided to the participants after the evaluation. 
 There are two test data sets. Test A is designed to see how a system perform on the data from the same book. Zuozhuan_Test is extracted from Zuozhuan, not overlapping with Zuozhuan_Train.
 Test B is designed to see how a system performs on similar data (texts of similar content but from a different book). Blind_Test has not been released publicly. The size of it is similar to Zuozhuan_Test.
