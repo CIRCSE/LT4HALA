@@ -24,7 +24,9 @@
 - Chao-Lin  Liu, National Chengchi University, Taiwan
 - Barbara McGillivray, Turing Institute, UK
 - Beáta  Megyesi, Uppsala University, Sweden
+- Giulia Pedonese, Università Cattolica del Sacro Cuore, Italy
 - Saskia Peels, University of Groningen, The Netherlands
+- Matteo Pellegrini, Università Cattolica del Sacro Cuore, Italy
 - Eva Pettersson, Uppsala University, Sweden
 - Sophie Prévost, Laboratoire Lattice, France
 - Philippe Roelli, University of Zurich, Switzerland
