@@ -7,6 +7,7 @@
 **9:00-9:15 Welcome**
 
 **9:15-10:30 Session 1**
+
 Title: From Inscriptions to Lexica and back: A Platform for Editing and Linking the languages of Ancient Italy
 Authors: Valeria Quochi, Andrea Bellandi, Fahad Khan, Michele Mallia, Francesca Murano, Silvia Piccini, Luca Rigobianco, Alessandro Tommasi and Cesare Zavattari
 
@@ -25,6 +26,7 @@ Authors: Alessio Palmero Aprosio, Stefano Menini and Sara Tonelli
 **10:30-11:00 break**
 
 11:00-13:00 Session 2
+
 Title: A Treebank-based Approach to the Supprema Constructio in Dante's Latin Works
 Authors: Flavio Massimiliano Cecchini and Giulia Pedonese
 
@@ -58,6 +60,7 @@ Authors: Tariq Yousef, Chiara Palladino, David J. Wright and Monica Berti
 **16:00-16:30 break**
 
 **16:30-17:45 Session 3**
+
 Title: 	Syntactic parsing of a Neo-Latin mathematical text: a pilot study
 Authors: 	Margherita Fantoli and Miryam de Lhoneux
 
