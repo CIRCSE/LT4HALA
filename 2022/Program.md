@@ -4,51 +4,52 @@
 ***
 
 ## Program
+
 **9:00-9:15 Welcome**
 
 **9:15-10:30 Session 1**
 
-Title: From Inscriptions to Lexica and back: A Platform for Editing and Linking the languages of Ancient Italy
+*9:15-9:30* - Title: From Inscriptions to Lexica and back: A Platform for Editing and Linking the languages of Ancient Italy
 Authors: Valeria Quochi, Andrea Bellandi, Fahad Khan, Michele Mallia, Francesca Murano, Silvia Piccini, Luca Rigobianco, Alessandro Tommasi and Cesare Zavattari
 
-Title: Contextual Unsupervised Clustering of Signs for Ancient Writing Systems
+*9:30-9:45* - Title: Contextual Unsupervised Clustering of Signs for Ancient Writing Systems
 Authors: Michele Corazza, Fabio Tamburini, Miguel Valério and Silvia Ferrara
 
-Title: Multilingual Named Entity Recognition for Medieval Charters using Stacked Embeddings and Bert-based Models.
+*9:45-10:00* - Title: Multilingual Named Entity Recognition for Medieval Charters using Stacked Embeddings and Bert-based Models.
 Authors: Sergio Torres Aguilar
 
-Title: Towards the Creation of a Diachronic Corpus for Italian: a Case Study on the GDLI Quotations
+*10:00-10:15* - Title: Towards the Creation of a Diachronic Corpus for Italian: a Case Study on the GDLI Quotations
 Authors: Manuel Favaro, Elisa Guadagnini, Marco Biffi and Simonetta Montemagni
 
-Title: BERToldo, the Historical BERT for Italian
+*10:15-10:30* - Title: BERToldo, the Historical BERT for Italian
 Authors: Alessio Palmero Aprosio, Stefano Menini and Sara Tonelli
 
 **10:30-11:00 break**
 
-11:00-13:00 Session 2
+**11:00-13:00 Session 2**
 
-Title: A Treebank-based Approach to the Supprema Constructio in Dante's Latin Works
+*11:00-11:15* - Title: A Treebank-based Approach to the Supprema Constructio in Dante's Latin Works
 Authors: Flavio Massimiliano Cecchini and Giulia Pedonese
 
-Title: The IKUVINA Treebank
+*11:15-11:30* - Title: The IKUVINA Treebank
 Authors: Mathieu Dehouck
 
-Title: In Search of the Flocks: How to Perform Onomasiological Queries in an Ancient Greek Corpus?
+*11:30-11:45* - Title: In Search of the Flocks: How to Perform Onomasiological Queries in an Ancient Greek Corpus?
 Authors: Alek Keersmaekers and toon van hal
 
-Title: Handling Stress in Finite-State Morphological Analyzers for Ancient Greek and Ancient Hebrew
+*11:45-12:00* - Title: Handling Stress in Finite-State Morphological Analyzers for Ancient Greek and Ancient Hebrew
 Authors: Daniel G. Swanson and Francis Tyers
 
-Title: Annotating “Absolute” Preverbs in the Homeric and Vedic Treebanks
+*12:00 - 12:15* - Title: Annotating “Absolute” Preverbs in the Homeric and Vedic Treebanks
 Authors: Luca Brigada Villa, Erica Biagetti and Chiara Zanchi
 
-Title: Detecting Diachronic Syntactic Developments in Presence of Bias Terms
+*12:15 - 12:30* - Title: Detecting Diachronic Syntactic Developments in Presence of Bias Terms
 Authors: Oliver Hellwig and Sven Sellmer
 
-Title: Machine Translation of 16th Century Letters from Latin to German
+*12:30 - 12:45* - Title: Machine Translation of 16th Century Letters from Latin to German
 Authors: Lukas Fischer, Patricia Scheurer, Raphael Schwitter and Martin Volk
 
-Title: Automatic Translation Alignment for Ancient Greek and Latin
+*12:45 - 13:00* - Title: Automatic Translation Alignment for Ancient Greek and Latin
 Authors: Tariq Yousef, Chiara Palladino, David J. Wright and Monica Berti
 
 **13:00-14:00 lunch**
@@ -61,19 +62,19 @@ Authors: Tariq Yousef, Chiara Palladino, David J. Wright and Monica Berti
 
 **16:30-17:45 Session 3**
 
-Title: 	Syntactic parsing of a Neo-Latin mathematical text: a pilot study
+*16:30 - 16:45* - Title: 	Syntactic parsing of a Neo-Latin mathematical text: a pilot study
 Authors: 	Margherita Fantoli and Miryam de Lhoneux
 
-Title: CHJ-WLSP: Annotation of `Word List by Semantic Principles' Labels for the Corpus of Historical Japanese
+*16:45 - 17:00* - Title: CHJ-WLSP: Annotation of `Word List by Semantic Principles' Labels for the Corpus of Historical Japanese
 Authors: Masayuki Asahara, Nao Ikegami, Tai Suzuki, Taro Ichimura, Asuko Kondo, Sachi Kato and Makoto Yamazaki
 
-Title: Identifying Cleartext in Historical Ciphers
+*17:00 - 17:15* - Title: Identifying Cleartext in Historical Ciphers
 Authors: Maria-Elena Gambardella, Beata Megyesi and Eva Pettersson
 
-Title: Accurate Dependency Parsing and Tagging of Latin
+*17:15 - 17:30* - Title: Accurate Dependency Parsing and Tagging of Latin
 Authors: Sebastian Nehrdich and Oliver Hellwig
 
-Title: From Inscription to Semi-automatic Annotation of Maya Hieroglyphic Texts
+*17:30 - 17:45* - Title: From Inscription to Semi-automatic Annotation of Maya Hieroglyphic Texts
 Authors: Cristina Vertan and Christian Prager
 
 **17:45-18:00 conclusions**
