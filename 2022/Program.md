@@ -40,7 +40,6 @@
 - Yutong Shen, Jiahuan Li, Shujian Huang, Yi Zhou, Xiaopeng Xie and Qinxin Zhao, *Data Augmentation for Low-resource Word Segmentation and POS Tagging of Ancient Chinese Texts*
 - Shuxun Yang, *A Joint Framework for Ancient Chinese WS and POS Tagging based on Adversarial Ensemble Learning*
 - Wei Xin Xinyuan, liu Weihao, 晴 宗, zhang shao qing and Baotian Hu, *Glyph features Matter: a Multimodal solution for EvaHan in LT4HALA2022*
-- 
 
 ***
 <p style="text-align: center;">Back to the <a href="https://circse.github.io/LT4HALA/"><b>Main Page</b></a></p>
