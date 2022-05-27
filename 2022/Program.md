@@ -49,7 +49,7 @@
 
 **16:30-17:45 Session 3**
 
-*16:30 - 16:45* - Syntactic parsing of a Neo-Latin mathematical text: a pilot study,    Margherita Fantoli and Miryam de Lhoneux
+*16:30 - 16:45* - inguistic annotation of Neo-Latin mathematical texts: a pilot-study to improve the automatic parsing of the Archimedes Latinus, Margherita Fantoli and Miryam de Lhoneux
 
 *16:45 - 17:00* - CHJ-WLSP: Annotation of `Word List by Semantic Principles' Labels for the Corpus of Historical Japanese, Masayuki Asahara, Nao Ikegami, Tai Suzuki, Taro Ichimura, Asuko Kondo, Sachi Kato and Makoto Yamazaki
 
