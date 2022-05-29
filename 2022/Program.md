@@ -42,6 +42,7 @@
 **13:00-14:00 lunch**
 
 **14:00-15:30 EvaHan**
+
 *14:00 - 14:10* - Opening
 
 *14:10 - 14:25* - Organizer’s report
