@@ -42,14 +42,31 @@
 **13:00-14:00 lunch**
 
 **14:00-15:30 EvaHan**
+*14:00 - 14:10* - Opening
+
+*14:10 - 14:25* - Organizer’s report
+
+*14:25 - 15:05* - Participants' reports
+
+*15:05 - 15:15* - Prize time
+
+*15:15 - 15:30* - Discussion and Closing
 
 **15:30-16:00 EvaLatin**
+
+*15:30-15:35* Organizer’s report
+
+*15:35-15:45* Transformer-based Part-of-Speech Tagging and Lemmatization for Latin, Krzysztof Wróbel and Krzysztof Nowak
+
+*15:45-15:55* An ELECTRA Model for Latin Token Tagging Tasks, Wouter Mercelis and Alek Keersmaekers
+
+*15:55-16:00* QA Time
 
 **16:00-16:30 break**
 
 **16:30-17:45 Session 3**
 
-*16:30 - 16:45* - inguistic annotation of Neo-Latin mathematical texts: a pilot-study to improve the automatic parsing of the Archimedes Latinus, Margherita Fantoli and Miryam de Lhoneux
+*16:30 - 16:45* - Linguistic annotation of Neo-Latin mathematical texts: a pilot-study to improve the automatic parsing of the Archimedes Latinus, Margherita Fantoli and Miryam de Lhoneux
 
 *16:45 - 17:00* - CHJ-WLSP: Annotation of `Word List by Semantic Principles' Labels for the Corpus of Historical Japanese, Masayuki Asahara, Nao Ikegami, Tai Suzuki, Taro Ichimura, Asuko Kondo, Sachi Kato and Makoto Yamazaki
 
