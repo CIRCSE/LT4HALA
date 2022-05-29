@@ -31,37 +31,37 @@
 
 *11:45-12:00* - Handling Stress in Finite-State Morphological Analyzers for Ancient Greek and Ancient Hebrew, Daniel G. Swanson and Francis Tyers
 
-*12:00 - 12:15* - Annotating “Absolute” Preverbs in the Homeric and Vedic Treebanks, Luca Brigada Villa, Erica Biagetti and Chiara Zanchi
+*12:00-12:15* - Annotating “Absolute” Preverbs in the Homeric and Vedic Treebanks, Luca Brigada Villa, Erica Biagetti and Chiara Zanchi
 
-*12:15 - 12:30* - Detecting Diachronic Syntactic Developments in Presence of Bias Terms, Oliver Hellwig and Sven Sellmer
+*12:15-12:30* - Detecting Diachronic Syntactic Developments in Presence of Bias Terms, Oliver Hellwig and Sven Sellmer
 
-*12:30 - 12:45* - Machine Translation of 16th Century Letters from Latin to German, Lukas Fischer, Patricia Scheurer, Raphael Schwitter and Martin Volk
+*12:30-12:45* - Machine Translation of 16th Century Letters from Latin to German, Lukas Fischer, Patricia Scheurer, Raphael Schwitter and Martin Volk
 
-*12:45 - 13:00* - Automatic Translation Alignment for Ancient Greek and Latin, Tariq Yousef, Chiara Palladino, David J. Wright and Monica Berti
+*12:45-13:00* - Automatic Translation Alignment for Ancient Greek and Latin, Tariq Yousef, Chiara Palladino, David J. Wright and Monica Berti
 
 **13:00-14:00 lunch**
 
 **14:00-15:30 EvaHan**
 
-*14:00 - 14:10* - Opening
+*14:00-14:10* - Opening
 
-*14:10 - 14:25* - Organizer’s report
+*14:10-14:25* - Organizer’s report
 
-*14:25 - 15:05* - Participants' reports
+*14:25-15:05* - Participants' reports
 
-*15:05 - 15:15* - Prize time
+*15:05-15:15* - Prize time
 
-*15:15 - 15:30* - Discussion and Closing
+*15:15-15:30* - Discussion and Closing
 
 **15:30-16:00 EvaLatin**
 
-*15:30-15:35* Organizer’s report
+*15:30-15:35* - Organizer’s report
 
-*15:35-15:45* Transformer-based Part-of-Speech Tagging and Lemmatization for Latin, Krzysztof Wróbel and Krzysztof Nowak
+*15:35-15:45* - Transformer-based Part-of-Speech Tagging and Lemmatization for Latin, Krzysztof Wróbel and Krzysztof Nowak
 
-*15:45-15:55* An ELECTRA Model for Latin Token Tagging Tasks, Wouter Mercelis and Alek Keersmaekers
+*15:45-15:55* - An ELECTRA Model for Latin Token Tagging Tasks, Wouter Mercelis and Alek Keersmaekers
 
-*15:55-16:00* QA Time
+*15:55-16:00* - QA Time
 
 **16:00-16:30 break**
 
