@@ -77,7 +77,7 @@
 
 *17:30 - 17:45* - From Inscription to Semi-automatic Annotation of Maya Hieroglyphic Texts, Cristina Vertan and Christian Prager
 
-**17:45-18:00 conclusions**
+**17:45-18:00 Conclusions**
 
 ### Accepted Papers
 - Maria-Elena Gambardella, Beata Megyesi and Eva Pettersson, *Identifying Cleartext in Historical Ciphers*
