@@ -9,6 +9,7 @@
 ## Date: June 25 2022 (post-conference workshop)
 ## Submission page: [https://www.softconf.com/lrec2022/LT4HALA/](https://www.softconf.com/lrec2022/LT4HALA/)
 
+**[Proceedings](http://www.lrec-conf.org/proceedings/lrec2022/workshops/LT4HALA/2022.lt4hala2022-1.0.pdf) are online.**
 Word-cloud of keywords extracted from the abstracts with [KD-Keyphrase digger](http://dhlab.fbk.eu:8080/KD_KeyDigger/).
 ![](KD2022.png)
 
