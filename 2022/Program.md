@@ -15,7 +15,7 @@
 
 *9:45-10:00* - Multilingual Named Entity Recognition for Medieval Charters using Stacked Embeddings and Bert-based Models., Sergio Torres Aguilar
 
-*10:00-10:15* - Towards the Creation of a Diachronic Corpus for Italian: a Case Study on the GDLI Quotations, Manuel Favaro, Elisa Guadagnini, Marco Biffi and Simonetta Montemagni
+*10:00-10:15* - From Inscription to Semi-automatic Annotation of Maya Hieroglyphic Texts, Cristina Vertan and Christian Prager
 
 *10:15-10:30* - BERToldo, the Historical BERT for Italian, Alessio Palmero Aprosio, Stefano Menini and Sara Tonelli
 
@@ -75,7 +75,7 @@
 
 *17:15 - 17:30* - Accurate Dependency Parsing and Tagging of Latin, Sebastian Nehrdich and Oliver Hellwig
 
-*17:30 - 17:45* - From Inscription to Semi-automatic Annotation of Maya Hieroglyphic Texts, Cristina Vertan and Christian Prager
+*17:30 - 17:45* - Towards the Creation of a Diachronic Corpus for Italian: a Case Study on the GDLI Quotations, Manuel Favaro, Elisa Guadagnini, Marco Biffi and Simonetta Montemagni
 
 **17:45-18:00 Conclusions**
 
