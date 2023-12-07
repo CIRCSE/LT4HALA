@@ -12,7 +12,7 @@ This **one-day workshop** seeks to bring together scholars, who are developing a
 
 The workshop will also be the venue of the:
 - third edition of [EvaLatin](EvaLatin), the evaluation campaign totally devoted to the evaluation of NLP tools for Latin;
-- second edition of [EvaHan](EvaHan), the first evaluation campaign totally devoted to the evaluation of NLP tools for Ancient Chinese organized by the team of Bin Li (School of Chinese Language and Literature, Nanjing Normal University).
+- third edition of [EvaHan](EvaHan), the first evaluation campaign totally devoted to the evaluation of NLP tools for Ancient Chinese organized by the team of Bin Li (School of Chinese Language and Literature, Nanjing Normal University).
 
 
 ***
