@@ -56,10 +56,10 @@ As for EvaLatin and EvaHan, participants will be required to submit a technical 
 **PLEASE NOTE THAT NO EXTENSION IS PLANNED FOR THE SHARED TASKS**
 **EvaLatin** 
 - 22 December 2023: guidelines available
-- Evaluation Window I - Task: Syntactic Parsing
+- Evaluation Window I - Task: Dependency Parsing
   - 1 February 2024: test data available
   - 8 February 2024: system results due to organizers
-- Evaluation Window II - Task: Sentiment Analysis
+- Evaluation Window II - Task: Emotion Polarity Detection
   - 12 February 2024: test data available
   - 19 February 2024: system results due to organizers
 - 11 March 2024: reports due to organizers
