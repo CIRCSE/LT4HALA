@@ -52,8 +52,6 @@ As for EvaLatin and EvaHan, participants will be required to submit a technical 
 - 22 March 2024: notifications to authors
 - 5 April 2024: camera-ready (PDF) due
 
-
-**PLEASE NOTE THAT NO EXTENSION IS PLANNED FOR THE SHARED TASKS**
 **EvaLatin** 
 - 22 December 2023: guidelines available
 - Evaluation Window I - Task: Dependency Parsing
