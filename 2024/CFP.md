@@ -57,23 +57,23 @@ As for EvaLatin and EvaHan, participants will be required to submit a technical 
 **EvaLatin** 
 - 22 December 2023: guidelines available
 - Evaluation Window I - Task: Syntactic Parsing
-  - 14 February 2024: test data available
-  - 24 February 2024: system results due to organizers
+  - 1 February 2024: test data available
+  - 8 February 2024: system results due to organizers
 - Evaluation Window II - Task: Sentiment Analysis
-  - 28 February 2024: test data available
-  - 10 March 2024: system results due to organizers
-- 24 March 2024: reports due to organizers
-- 28 March 2024: short report review deadline
+  - 12 February 2024: test data available
+  - 19 February 2024: system results due to organizers
+- 11 March 2024: reports due to organizers
+- 22 March 2024: short report review deadline
 - 5 April 2024: camera ready version of reports due to organizers
 
 **EvaHan** 
 - 22 December 2023: training data available
 - Evaluation Window
-  - 14 February 2024: test data available
-  - 24 February 2024: system results due to organizers
-- 24 March 2024: reports due to organizers
-- 31 March 2024: short report review deadline
-- 14 April 2024: camera ready version of reports due to organizers
+  - 12 February 2024: test data available
+  - 19 February 2024: system results due to organizers
+- 11 March 2024: reports due to organizers
+- 22 March 2024: short report review deadline
+- 5 April 2024: camera ready version of reports due to organizers
 
 
 ### Identify, Describe and Share your LRs!
