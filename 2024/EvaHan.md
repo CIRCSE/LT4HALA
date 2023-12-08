@@ -29,15 +29,13 @@ ___
 
 # Important Dates
 
--   22 December 2023: training data available
--   Evaluation Window
-    -   14 February 2024: test data available
-    -   24 February 2024: system results due to organizers
--   24 March 2024: reports due to organizers
--   31 March 2024: short report review deadline
--   14 April 2024: camera ready version of reports due to organizers
-
-
+- 22 December 2023: training data available
+- Evaluation Window
+  - 12 February 2024: test data available
+  - 19 February 2024: system results due to organizers
+- 11 March 2024: reports due to organizers
+- 22 March 2024: short report review deadline
+- 5 April 2024: camera ready version of reports due to organizers
 
 # Data
 
