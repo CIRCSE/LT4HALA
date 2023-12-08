@@ -7,7 +7,7 @@
 
 - Website: [https://circse.github.io/LT4HALA/](https://circse.github.io/LT4HALA/)
 - Submission page: TBA
-- Date: TBA
+- Date: Saturday, May 25 2024 (post-conference workshop)
 - Place: co-located with [LREC-COLING 2024](https://lrec-coling-2024.org), May 20-25, Torino, Italy
 
 ### DESCRIPTION
@@ -47,10 +47,10 @@ As for EvaLatin and EvaHan, participants will be required to submit a technical 
 
 ### IMPORTANT DATES
 **Workshop**
-- 4 March 2024: submission due
-- 25 March 2024: reviews due
-- 1 April 2024: notifications to authors
-- 15 April 2024: camera-ready (PDF) due
+- 26 February 2024: submission due
+- 18 March 2024: reviews due
+- 22 March 2024: notifications to authors
+- 5 April 2024: camera-ready (PDF) due
 
 
 **PLEASE NOTE THAT NO EXTENSION IS PLANNED FOR THE SHARED TASKS**
@@ -63,8 +63,8 @@ As for EvaLatin and EvaHan, participants will be required to submit a technical 
   - 28 February 2024: test data available
   - 10 March 2024: system results due to organizers
 - 24 March 2024: reports due to organizers
-- 31 March 2024: short report review deadline
-- 14 April 2024: camera ready version of reports due to organizers
+- 28 March 2024: short report review deadline
+- 5 April 2024: camera ready version of reports due to organizers
 
 **EvaHan** 
 - 22 December 2023: training data available
