@@ -3,7 +3,7 @@
 <p style="text-align: center;">--Home--&nbsp;&nbsp;--<a href="CFP">CFP</a>--&nbsp;&nbsp;--<a href="EvaLatin">EvaLatin</a>--&nbsp;&nbsp;--<a href="EvaHan">EvaHan</a>--&nbsp;&nbsp;--<a href="Program">Program</a>--&nbsp;&nbsp;--<a href="organization">Organization</a>--</p>
 ***
 
-# The Third Workshop on Language Technologies for Historical and Ancient Languages (#LT4HALA2024)
+# The Third Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2024)
 ## Co-located with [LREC-COLING 2024](https://lrec-coling-2024.org)
 ## Location: Torino, Italy
 ## Date: Saturday, May 25 2024 
