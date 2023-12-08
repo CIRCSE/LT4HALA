@@ -26,15 +26,15 @@ EvaLatin 2024 is organized by Rachele Sprugnoli, Federica Iurescia and Marco Pas
 
 ### IMPORTANT DATES
 - 22 December 2023: guidelines available
-- Evaluation Window I - Task: Syntactic Parsing
- - 14 February 2024: test data available
- - 24 February 2024: system results due to organizers
+- Evaluation Window I - Task: Dependency Parsing
+  - 1 February 2024: test data available
+  - 8 February 2024: system results due to organizers
 - Evaluation Window II - Task: Emotion Polarity Detection
- - 28 February 2024: test data available
- - 10 March 2024: system results due to organizers
-- 25 March 2024: reports due to organizers
-- 01 April 2024: short report review deadline
-- 14 April 2024: camera ready version of reports due to organizers
+  - 12 February 2024: test data available
+  - 19 February 2024: system results due to organizers
+- 11 March 2024: reports due to organizers
+- 22 March 2024: short report review deadline
+- 5 April 2024: camera ready version of reports due to organizers
 
 
 ### DATA
