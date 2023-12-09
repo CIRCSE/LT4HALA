@@ -129,7 +129,7 @@ In the open modality, there is no limit on the resources, data and models. Annot
 
 | **Model name** |  **Language**   |                       **Description**                        |
 | :------------: | :-------------: | :----------------------------------------------------------: |
-|   XunziALLM    | Ancient Chinese | Ancient  Chinese RoBERTa pre-trained on  high-quality full-text corpus. |
+|   XunziALLM    | Ancient Chinese | Large language base model for ancient Chinese processing. |
 
 
 
