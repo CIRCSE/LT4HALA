@@ -198,7 +198,7 @@ Reports will receive a light review: we will check for the correctness of the fo
 -   **Bolin Chang**, School of Chinese Language and Literature, Nanjing Normal University, China
 -   **Jingxuan Xi**, School of Chinese Language and Literature, Nanjing Normal University, China
 -   **Pengxiu Lu**, School of Chinese Language and Literature, Nanjing Normal University, China
--   **Zhixingu Xu**, School of Chinese Language and Literature, Nanjing Normal University, China
+-   **Zhixing Xu**, School of Chinese Language and Literature, Nanjing Normal University, China
 
 
 
