@@ -162,7 +162,7 @@ Technical reports will be included in the proceedings of the Workshop on Languag
 
 All the reports must:
 
-•    be submitted through the START platform (URL available soon)
+•    be submitted through the START platform: [START submission page of the workshop](https://softconf.com/lrec-coling2024/lt4hala2024/).
 
 •    use the [official LREC-COLING style templates](https://lrec-coling-2024.org/authors-kit/).
 
