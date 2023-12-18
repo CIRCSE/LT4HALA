@@ -28,7 +28,7 @@ Relevant topics for the workshop include, but are not limited to:
 - Large Language Models for the automatic analysis of ancient texts.
 
 ### SHARED TASKS
-LT4HALA 2024 will also hosts:
+LT4HALA 2024 will also host:
 - the third edition of [**EvaLatin**](EvaLatin), an evaluation campaign entirely devoted to the evaluation of NLP tools for Latin. The third edition of EvaLatin will focus on two tasks (i.e. dependency parsing and emotion polarity detection). Dependency parsing will be based on the Universal Dependencies framework. No specific training data will be released but participants will be free to make use of any (kind of) resource they consider useful for the task, including the Latin treebanks already available in the UD collection. In this regard, one of the challenges of this task will be to understand which treebank (or combination of treebanks) is the most suitable to deal with new test data. Test data will be both prose and poetic texts from different time periods. Also for the emotion polarity detection task, no training data will be released but the organizers will provide an annotation sample, a manually created polarity lexicon and annotation guidelines. Also in this task, participants will be free to pursue the approach they prefer, including unsupervised and/or cross-language ones (which promise to be the most efficient, given the lack of training data for Latin for this task). Test data will be poetic texts from different time periods.
 - the third edition of [**EvaHan**](EvaHan), the evaluation campaign for the evaluation of NLP tools for Ancient Chinese. EvaHan 2024 will focus on two tasks: Ancient Chinese sentence segmentation and sentence punctuation.
 
