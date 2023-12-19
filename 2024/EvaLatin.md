@@ -40,9 +40,11 @@ EvaLatin 2024 is organized by Rachele Sprugnoli, Federica Iurescia and Marco Pas
 ### DATA
 
 **Dependency parsing** 
+
 The dependency parsing task will be based on the Universal Dependencies framework. **No** specific training data will be released but participants will be free to make use of any (kind of) resource they consider useful for the task, including the Latin treebanks already available in the UD collection. In this regard, one of the challenges of this task will be to understand which treebank (or combination of treebanks) is the most suitable to deal with new test data. Test data will be both prose and poetic texts from different time periods. 
 
 **Emotion polarity detection**
+
 Even for the emotion polarity detection task, **no** training data will be released but the organizers provide [an annotation sample](https://github.com/CIRCSE/LT4HALA/blob/master/2024/GoldStandardv1-Horace.tsv), a manually created [polarity lexicon](https://github.com/CIRCSE/LT4HALA/blob/master/2024/LatinAffectusv4.tsv) and annotation guidelines. Also in this task, participants will be free to pursue the approach they prefer, including unsupervised and/or cross-language ones (which promise to be the most efficient, given the lack of training data for Latin for this task). Test data will be poetic texts from different time periods.
 
 ### HOW TO PARTICIPATE
