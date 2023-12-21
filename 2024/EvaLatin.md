@@ -10,6 +10,7 @@
 - [Introduction](#introduction)
 - [Important Dates](#important-dates)
 - [Data](#data)
+- [Evaluation](#evaluation)
 - [How to participate](#how-to-participate)
 
 ___
@@ -46,6 +47,10 @@ The dependency parsing task will be based on the Universal Dependencies framewor
 **Emotion polarity detection**
 
 Even for the emotion polarity detection task, **no** training data will be released but the organizers provide [an annotation sample](https://github.com/CIRCSE/LT4HALA/blob/master/2024/GoldStandardv1-Horace.tsv), a manually created [polarity lexicon](https://github.com/CIRCSE/LT4HALA/blob/master/2024/LatinAffectusv4.tsv) and annotation guidelines. Also in this task, participants will be free to pursue the approach they prefer, including unsupervised and/or cross-language ones (which promise to be the most efficient, given the lack of training data for Latin for this task). Test data will be poetic texts from different time periods.
+
+### EVALUATION
+- Scorer for the Dependency Parsing task: [https://github.com/CIRCSE/LT4HALA/blob/master/2024/conll18_ud_eval.py](https://github.com/CIRCSE/LT4HALA/blob/master/2024/conll18_ud_eval.py)
+- Scorer for the Emotion Polarity Detection task: [https://github.com/CIRCSE/LT4HALA/blob/master/2024/scorer-emotion.py](https://github.com/CIRCSE/LT4HALA/blob/master/2024/scorer-emotion.py)
 
 ### HOW TO PARTICIPATE
 Participants will be required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results. Technical reports will be included in the proceedings as short papers: the maximum length is 4 pages (excluding references) and they should follow the [LREC-COLING 2024 official format](https://lrec-coling-2024.org/authors-kit/). Reports will receive a light review (we will check for the correctness of the format, the exactness of results and ranking, and overall exposition). Reports should be submitted using the [START submission page of the workshop](https://softconf.com/lrec-coling2024/lt4hala2024/).
