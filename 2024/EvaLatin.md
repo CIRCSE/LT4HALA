@@ -23,6 +23,8 @@ The LT4HALA 2024 workshop will also be the venue of the third edition of *EvaLat
 
 EvaLatin 2024 edition will have 2 task, i.e. Dependency Parsing and Emotion Polarity Detection. Shared test data and an evaluation script will be provided to the participants who will choose to participate in either one or all tasks. 
 
+**22/12/2024: [Guidelines](https://github.com/CIRCSE/LT4HALA/blob/master/2024/data_and_doc/EvaLatin_2024_guidelines.pdf) are available.**
+
 EvaLatin 2024 is organized by Rachele Sprugnoli, Federica Iurescia and Marco Passarotti.
 
 ### IMPORTANT DATES
