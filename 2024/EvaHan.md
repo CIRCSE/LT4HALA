@@ -143,7 +143,7 @@ As a baseline, we will provide the scores obtained on test set using SikuRoBERTa
 
 Participants will be required to submit their runs and to provide a technical report for the task they participated in.
 ## Registration
-If you are interested in participating, please fill out the electronic application form: https://forms.office.com/r/jxDBanU7pd
+If you are interested in participating, please fill out the electronic application form: [https://forms.office.com/r/jxDBanU7pd](https://forms.office.com/r/jxDBanU7pd). 
 When filling it out, please make sure your information is correct and your email address is working. After receiving your registration information, we will send you an email to notify you, please pay attention to check it.
 
 
