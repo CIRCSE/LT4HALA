@@ -142,6 +142,10 @@ As a baseline, we will provide the scores obtained on test set using SikuRoBERTa
 # How to Participate
 
 Participants will be required to submit their runs and to provide a technical report for the task they participated in.
+## Registration
+If you are interested in participating, please fill out the electronic application form: https://forms.office.com/r/jxDBanU7pd
+When filling it out, please make sure your information is correct and your email address is working. After receiving your registration information, we will send you an email to notify you, please pay attention to check it.
+
 
 ## Submitting Runs
 
@@ -172,7 +176,8 @@ All the reports must:
 
 Reports will receive a light review: we will check for the correctness of the format, the exactness of results and ranking, and overall exposition. If needed, we will contact the authors asking for corrections.
 
-
+## Consultation
+If you have any questions about this review, please feel free to send an email to our official email: libin.njnu@gmail.com.
 
 # Participants
 
