@@ -56,11 +56,12 @@ All evaluation data are txt files in Unicode (UTF-8) format. The raw texts only 
 
 ## Training Data
 
-The training data comprises 10 million characters sourced from the *Siku Quanshu*. The files are presented in UTF-8 plain text using traditional Chinese script.
+The training data comprises 10 million characters sourced from the *Siku Quanshu*. The files are presented in UTF-8 plain text using traditional Chinese script. 
+Download training data: [train_dataset.txt](https://www.dhbase.com/evahan/evahan2024/train_dataset.txt)
 
 ## Test Data
 
-The test data includes approximately 50,000 characters of Ancient Chinese texts. More details will be provided to the participants before the evaluation.
+The test data includes approximately 50,000 characters of Ancient Chinese texts. More details will be provided to the participants before the evaluation. Download link will be released soon.
 
 
 
