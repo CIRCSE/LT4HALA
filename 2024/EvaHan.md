@@ -57,7 +57,7 @@ All evaluation data are txt files in Unicode (UTF-8) format. The raw texts only 
 ## Training Data
 
 The training data comprises 10 million characters sourced from the *Siku Quanshu*. The files are presented in UTF-8 plain text using traditional Chinese script. Training data will be sent to your email after registration. 
-If you are from China, please sign [the sharing agreement](https://github.com/GoThereGit/EvaHan/blob/6caa8c859190765a8ca7bffd24b03a87fd4f7fe6/%E8%AE%A1%E7%AE%97%E4%BA%BA%E6%96%87%E4%B8%AD%E5%BF%83%20%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90%E5%8D%8F%E8%AE%AE%EF%BC%88Evahan2024%EF%BC%89.docx) and send it to libin.njnu@gmail.com to obtain the training corpus.
+If you are from China, please sign [the sharing agreement](https://github.com/GoThereGit/EvaHan/blob/6caa8c859190765a8ca7bffd24b03a87fd4f7fe6/%E8%AE%A1%E7%AE%97%E4%BA%BA%E6%96%87%E4%B8%AD%E5%BF%83%20%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90%E5%8D%8F%E8%AE%AE%EF%BC%88Evahan2024%EF%BC%89.docx) and send it to libin.njnu@gmail.com to get the training data.
 
 
 ## Test Data
