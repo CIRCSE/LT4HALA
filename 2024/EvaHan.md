@@ -29,7 +29,7 @@ ___
 
 # Important Dates
 
-- 22 December 2023: training data available
+- 8 January 2024: training data available
 - Evaluation Window
   - 12 February 2024: test data available
   - 19 February 2024: system results due to organizers
