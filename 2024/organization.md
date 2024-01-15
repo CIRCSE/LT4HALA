@@ -1,4 +1,4 @@
-***
+f***
 <p style="text-align: center;"><b>LT4HALA 2024</b></p>
 <p style="text-align: center;">--<a href="index">Home</a>--&nbsp;&nbsp;--<a href="CFP">CFP</a>--&nbsp;&nbsp;--<a href="EvaLatin">EvaLatin</a>--&nbsp;&nbsp;--<a href="EvaHan">EvaHan</a>--&nbsp;&nbsp;--<a href="Program">Program</a>--&nbsp;&nbsp;--Organization--</p>
 ***
@@ -13,7 +13,7 @@
 - Yannis Assael, Google DeepMind
 - Monica Berti, University of Leipzig, Germany
 - Luca Brigada Villa, Università di Bergamo, Italy
-- Flavio Massimiliano Cecchini, Università Cattolica del Sacro Cuore di Milano, Italy 
+- Flavio Massimiliano Cecchini, University of Leuven, Belgium
 - Margherita Fantoli, University of Leuven, Belgium
 - Federica Gamba, Charles University, Czech Republic
 - Shai Gordin, Ariel University, Israel
