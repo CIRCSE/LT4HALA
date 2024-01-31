@@ -36,7 +36,7 @@ ___
 - 24 March 2024: paper submission deadline
 - 30 March 2024: notification of acceptance
 - 15 April 2024: camera-ready paper submission
-- 20-25 May 2024: workshop date
+- 20-25 May 2024: workshop
 
 # Data
 
