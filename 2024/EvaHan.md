@@ -32,10 +32,10 @@ ___
 - 8 January 2024: training data available
 - Evaluation Window
   - 8 March 2024: test data available
-  - 15 March 2024: system results due to organizers
+  - 15 March 2024: system results submission deadline
 - 24 March 2024: paper submission deadline
 - 30 March 2024: notification of acceptance
-- 15 April 2024: camera-ready paper submission
+- 10 April 2024: camera-ready paper submission
 - 20-25 May 2024: workshop
 
 # Data
