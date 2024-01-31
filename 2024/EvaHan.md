@@ -159,7 +159,7 @@ Once the system has produced the results for the task over the test set, partici
     testID_teamName_systemID_modality.txt
     For example: *testa_unicatt_1_closed.txt* would be the first run of a team called *unicatt* using the closed modality for the task using *testa.txt* document.
     *testb_unicatt_2_open.txt* would be the second run of a team called *unicatt* using the open modality for the task using the blind testb.txt document.
--    Send the file to the following email address: libin.njnu[AT]gmail.com, using the subject “EvaHan Submission: task - teamName”, where the “task” is either *testa* or *testb*.
+-    Send the file to the following email address: libin.njnu[AT]gmail.com, using the subject "EvaHan Submission: task - teamName", where the "task" is either *testa* or *testb*.
 -   Each team could submit up to 2 running files for each test file in each modality. Thus, each team could submit up to 8 running files in total.
 
 ## Writing the Technical Report
