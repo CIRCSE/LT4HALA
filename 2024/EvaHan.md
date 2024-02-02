@@ -183,7 +183,7 @@ If you have any questions about this review, please feel free to send an email t
 
 # Participants
 
--   Researchers who are interested in machine translation and assisted machine translation of Chinese classic texts.
+-   Researchers who are interested in sentence segmentation and punctuation and assisted sentence segmentation and punctuation of Chinese classic texts.
 -   Estimated number of participants: 8-20 teams
 
 
