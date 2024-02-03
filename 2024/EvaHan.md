@@ -23,7 +23,7 @@ ___
 
 -   EvaHan 2024 is the third International Evaluation of Ancient Chinese Information Processing, focusing this year on the intricate tasks of sentence segmentation and punctuation in ancient Chinese.
 -   EvaHan third edition has one task (i.e. a joint task of Sentence Segmentation and Punctuation.
--   EvaHan 2024 is organized by Bin Li, Bolin Chang, Pengxiu Lu, Minxuan Feng, Chao Xu, Liu Liu, Dongbo Wang.
+-   EvaHan 2024 is organized by Bin Li, Bolin Chang, Minxuan Feng, Chao Xu, Liu Liu, Dongbo Wang.
 
 
 
@@ -204,7 +204,6 @@ If you have any questions about this review, please feel free to send an email t
 
 -   **Bolin Chang**, School of Chinese Language and Literature, Nanjing Normal University, China
 -   **Jingxuan Xi**, School of Chinese Language and Literature, Nanjing Normal University, China
--   **Pengxiu Lu**, School of Chinese Language and Literature, Nanjing Normal University, China
 -   **Zhixing Xu**, School of Chinese Language and Literature, Nanjing Normal University, China
 
 
