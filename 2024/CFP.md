@@ -50,7 +50,7 @@ As for EvaLatin and EvaHan, participants will be required to submit a technical 
 - 26 February 2024: submission due
 - 18 March 2024: reviews due
 - 22 March 2024: notifications to authors
-- 5 April 2024: camera-ready (PDF) due
+- 1 April 2024: camera-ready (PDF) due
 
 **EvaLatin** 
 - 22 December 2023: guidelines available
