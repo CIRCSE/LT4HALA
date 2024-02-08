@@ -35,7 +35,7 @@ EvaLatin 2024 is organized by Rachele Sprugnoli, Federica Iurescia and Marco Pas
   - 19 February 2024: system results due to organizers
 - 11 March 2024: reports due to organizers
 - 22 March 2024: short report review deadline
-- 5 April 2024: camera ready version of reports due to organizers
+- 1 April 2024: camera ready version of reports due to organizers
 
 
 ### DATA
