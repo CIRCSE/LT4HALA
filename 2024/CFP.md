@@ -62,7 +62,7 @@ As for EvaLatin and EvaHan, participants will be required to submit a technical 
   - 19 February 2024: system results due to organizers
 - 11 March 2024: reports due to organizers
 - 22 March 2024: short report review deadline
-- 5 April 2024: camera ready version of reports due to organizers
+- 1 April 2024: camera ready version of reports due to organizers
 
 **EvaHan** 
 - 22 December 2023: training data available
@@ -71,7 +71,7 @@ As for EvaLatin and EvaHan, participants will be required to submit a technical 
   - 19 February 2024: system results due to organizers
 - 11 March 2024: reports due to organizers
 - 22 March 2024: short report review deadline
-- 5 April 2024: camera ready version of reports due to organizers
+- 1 April 2024: camera ready version of reports due to organizers
 
 
 ### Identify, Describe and Share your LRs!
