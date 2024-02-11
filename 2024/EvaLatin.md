@@ -46,12 +46,17 @@ The dependency parsing task is based on the Universal Dependencies framework. **
 
 **1 February 2024 –> Download [test data for the Dependency Parsing task](https://github.com/CIRCSE/LT4HALA/blob/master/2024/data_and_doc/EvaLatin_2024_Syntactic_Parsing_test_data.zip).**
 
-**1 February 2024 –> Check the [updated version of the guidelines](https://github.com/CIRCSE/LT4HALA/blob/master/2024/data_and_doc/EvaLatin_2024_V11_parsing.pdf) with information about dependency parsing test data and the baseline.**
+**1 February 2024 –> Check the [updated version of the guidelines - v1.1](https://github.com/CIRCSE/LT4HALA/blob/master/2024/data_and_doc/EvaLatin_2024_V11_parsing.pdf) with information about Dependency Parsing test data and the baseline.**
 
 
 **Emotion polarity detection**
 
 Even for the emotion polarity detection task, **no** training data will be released but the organizers provide [an annotation sample](https://github.com/CIRCSE/LT4HALA/blob/master/2024/GoldStandardv1-Horace.tsv), a manually created [polarity lexicon](https://github.com/CIRCSE/LT4HALA/blob/master/2024/LatinAffectusv4.tsv) and annotation guidelines. Also in this task, participants will be free to pursue the approach they prefer, including unsupervised and/or cross-language ones (which promise to be the most efficient, given the lack of training data for Latin for this task). Test data will be poetic texts from different time periods.
+
+**12 February 2024 –> Download [test data for the Emotion Polarity Detection task](https://github.com/CIRCSE/LT4HALA/blob/master/2024/data_and_doc/EvaLatin_2024_EmotionPolarityDetection_test_data.zip).**
+
+**12 February 2024 –> Check the [updated version of the guidelines - v1.2](https://github.com/CIRCSE/LT4HALA/blob/master/2024/data_and_doc/EvaLatin_2024_V12_parsing_emotion.pdf) with information about Emotion Polarity Detection test data and the baseline.**
+
 
 ### EVALUATION
 - Scorer for the Dependency Parsing task: [https://github.com/CIRCSE/LT4HALA/blob/master/2024/conll18_ud_eval.py](https://github.com/CIRCSE/LT4HALA/blob/master/2024/conll18_ud_eval.py)
