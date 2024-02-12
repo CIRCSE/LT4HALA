@@ -27,7 +27,7 @@ f***
 - John Pavlopoulos, Athens University of Economics and Business, Greece
 - Eva Pettersson, Uppsala University, Sweden
 - Sophie Prévost, Laboratoire Lattice, France
-- Thea Sommerschield, Ca’ Foscari University of Venice, Italy
+- Thea Sommerschield, University of Nottingham, UK
 - James Tauber, Eldarion, USA
 - Toon Van Hal, Katholieke Universiteit Leuven, Belgium
 - Tariq Yousef, University of Southern Denmark, Denmark
