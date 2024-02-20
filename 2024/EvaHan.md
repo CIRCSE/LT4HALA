@@ -110,7 +110,7 @@ The punctuation set, is shown in Table 3.
 
 ## Metrics
 
-Each team will initially have access only to the training data. Later, the unlabeled test data will also be released. After the assessment, the labels for the test data will also be released. The scorer employed for EvaHan is a modified version of the one developed for the ref[4]. An illustration of the output of the scorer is given in Table 4. The evaluation will align the system-produced punctuation to the gold standard ones. Then, Sentence Segmentation (SS) and Sentence Punctuation (SP) are evaluated: precision, recall, and F1 score are calculated. The final ranking of teams will be based on the F1 scores. 
+Each team will initially have access only to the training data. Later, the unlabeled test data will also be released. After the assessment, the labels for the test data will also be released. The scorer employed for EvaHan is a modified version of the one developed for the ref[1]. An illustration of the output of the scorer is given in Table 4. The evaluation will align the system-produced punctuation to the gold standard ones. Then, Sentence Segmentation (SS) and Sentence Punctuation (SP) are evaluated: precision, recall, and F1 score are calculated. The final ranking of teams will be based on the F1 scores. 
 
 <p align="center">Table 4. Example of scorers' output</p>
 
@@ -223,6 +223,8 @@ If you have any questions about this review, please feel free to send an email t
 -   A very Large Online Ancient Chinese Corpus Retrieval System: http://dh.ersjk.com/ 
 -   A GPI Ancient Chinese raw corpus: https://github.com/garychowcmu/daizhigev20 
 
+# Bibliography
+[1]	CHENG Ning, LI Bin, XIAO Liming, XU Changwei, GE Sijia, HAO Xingyue, FENG Minxuan. Integration of Automatic Sentence Segmentation and Lexical Analysis of Ancient Chinese based on BiLSTM-CRF Mode.  1st Workshop on Language Technologies for Historical and Ancient Languages, (LT4HALA 2020), pp 52-58. Marseille, 11–16 May 2020.
  
 
 ***
