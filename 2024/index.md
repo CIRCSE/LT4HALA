@@ -5,7 +5,7 @@
 
 # The Third Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2024)
 ## Co-located with [LREC-COLING 2024](https://lrec-coling-2024.org)
-## Location: Torino, Italy
+## Location: Torino, Italy (and online)
 ## Date: Saturday, May 25 2024 
 ## Submission page: [https://softconf.com/lrec-coling2024/lt4hala2024/](https://softconf.com/lrec-coling2024/lt4hala2024/)
 
