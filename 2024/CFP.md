@@ -8,7 +8,7 @@
 - Website: [https://circse.github.io/LT4HALA/](https://circse.github.io/LT4HALA/)
 - Submission page: [https://softconf.com/lrec-coling2024/lt4hala2024/](https://softconf.com/lrec-coling2024/lt4hala2024/)
 - Date: Saturday, May 25 2024 (post-conference workshop)
-- Place: co-located with [LREC-COLING 2024](https://lrec-coling-2024.org), May 20-25, Torino, Italy
+- Place: co-located with [LREC-COLING 2024](https://lrec-coling-2024.org), May 20-25, Torino, Italy (and online)
 
 ### DESCRIPTION
 
