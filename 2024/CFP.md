@@ -47,7 +47,7 @@ As for EvaLatin and EvaHan, participants will be required to submit a technical 
 
 ### IMPORTANT DATES
 **Workshop**
-- 26 February 2024: submission due
+- ~~26 February 2024:~~ submission due --> **NEW: 1 March 2024 (23:59 CET)**
 - 18 March 2024: reviews due
 - 22 March 2024: notifications to authors
 - 1 April 2024: camera-ready (PDF) due
