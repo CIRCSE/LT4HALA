@@ -21,10 +21,12 @@ f***
 - Bin Li, School of Chinese Language and Literature at Nanjing Normal University, P.R. China
 - Eleonora Litta, Università Cattolica del Sacro Cuore di Milano, Italy
 - Yudong Liu, Western Washington University
+- Francesco Mambrini, Università Cattolica del Sacro Cuore di Milano, Italy
 - Barbara McGillivray, Turing Institute, UK
 - Beáta  Megyesi, Uppsala University, Sweden
 - Chiara Palladino, Furman University, USA
 - John Pavlopoulos, Athens University of Economics and Business, Greece
+- Matteo Pellegrini, Università Cattolica del Sacro Cuore di Milano, Italy
 - Eva Pettersson, Uppsala University, Sweden
 - Sophie Prévost, Laboratoire Lattice, France
 - Thea Sommerschield, University of Nottingham, UK
