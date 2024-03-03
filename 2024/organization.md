@@ -26,6 +26,7 @@
 - Beáta  Megyesi, Uppsala University, Sweden
 - Chiara Palladino, Furman University, USA
 - John Pavlopoulos, Athens University of Economics and Business, Greece
+- Giulia Pedonese, Istituto di Linguistica Computazionale, CNR, Italy
 - Matteo Pellegrini, Università Cattolica del Sacro Cuore di Milano, Italy
 - Eva Pettersson, Uppsala University, Sweden
 - Sophie Prévost, Laboratoire Lattice, France
