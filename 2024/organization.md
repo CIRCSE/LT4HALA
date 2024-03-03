@@ -17,6 +17,7 @@
 - Margherita Fantoli, University of Leuven, Belgium
 - Federica Gamba, Charles University, Czech Republic
 - Shai Gordin, Ariel University, Israel
+- Timo Korkiakangas, University of Helsinki, Finland
 - Federica Iurescia, Università Cattolica del Sacro Cuore di Milano, Italy
 - Bin Li, School of Chinese Language and Literature at Nanjing Normal University, P.R. China
 - Eleonora Litta, Università Cattolica del Sacro Cuore di Milano, Italy
@@ -32,6 +33,7 @@
 - Sophie Prévost, Laboratoire Lattice, France
 - Thea Sommerschield, University of Nottingham, UK
 - James Tauber, Eldarion, USA
+- Alan Thomas, University of Sheffield, UK
 - Toon Van Hal, Katholieke Universiteit Leuven, Belgium
 - Tariq Yousef, University of Southern Denmark, Denmark
 
