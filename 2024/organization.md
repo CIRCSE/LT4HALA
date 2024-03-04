@@ -14,6 +14,7 @@
 - Monica Berti, University of Leipzig, Germany
 - Luca Brigada Villa, Università di Bergamo, Italy
 - Flavio Massimiliano Cecchini, University of Leuven, Belgium
+- Claudia Corbetta, Università degli Studi di Bergamo, Italy
 - Margherita Fantoli, University of Leuven, Belgium
 - Federica Gamba, Charles University, Czech Republic
 - Shai Gordin, Ariel University, Israel
