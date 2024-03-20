@@ -25,7 +25,6 @@
 - Yudong Liu, Western Washington University
 - Francesco Mambrini, Università Cattolica del Sacro Cuore di Milano, Italy
 - Barbara McGillivray, Turing Institute, UK
-- Beáta  Megyesi, Uppsala University, Sweden
 - Chiara Palladino, Furman University, USA
 - John Pavlopoulos, Athens University of Economics and Business, Greece
 - Giulia Pedonese, Istituto di Linguistica Computazionale, CNR, Italy
