@@ -35,7 +35,7 @@ ___
   - 8 March 2024: system results submission deadline
 - 15 March 2024: paper submission deadline
 - 24 March 2024: notification of acceptance
-- 30 March 2024: camera-ready paper submission
+- 27 March 2024: camera-ready paper submission
 - 20-25 May 2024: workshop
 
 # Data
