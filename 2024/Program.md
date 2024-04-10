@@ -27,6 +27,12 @@
 - Martin Volk, Dominic Philipp Fischer, Lukas Fischer, Patricia Scheurer and Phillip Ströbel, *LLM-based Machine Translation and Summarization for Latin*
  
 **12:00-13:00 EvaLatin**
+- *12:00-12:10* - Rachele Sprugnoli, Federica Iurescia and Marco Passarotti, *Overview of the EvaLatin 2024 Evaluation Campaign*
+- *12:10-12:20* - Rufus Behr, *Behr at EvaLatin 2024: Latin Dependency Parsing Using Historical Sentence Embeddings*
+- *12:20-12:30* - Wouter Mercelis,	*KU Leuven / Brepols-CTLO at EvaLatin 2024: Span extraction approaches for Latin dependency parsing*
+- *12:30-12:40* - Milan Straka, Jana Straková and Federica Gamba,	*ÚFAL LatinPipe at EvaLatin 2024: Morphosyntactic Analysis of Latin*
+- *12:40-12:50* - Stephen Bothwell, Abigail Swenor and David Chiang,	*Nostra Domina at EvaLatin 2024: Improving Latin Polarity Detection through Data Augmentation*
+- *12:50-13:00* - Aleksei Dorkin and Kairit Sirts,	*TartuNLP at EvaLatin 2024: Emotion Polarity Detection*
  
 **13:00-14:00 Lunch Break**
  
@@ -34,15 +40,15 @@
  
 **15:30-16:00 Oral Session 2**
  
-- Tess Dejaeghere, Els Lefever, Pranaydeep Singh and Julie Birkholz, *Exploring aspect-based sentiment analysis methodologies for literary-historical research purposes*
-- Florian Debaene, Kornee van der Haven and Veronique Hoste, *Early Modern Dutch Comedies and Farces in the Spotlight: Introducing EmDComF and its Emotion Framework*
+- *15:30-15:45* - Tess Dejaeghere, Els Lefever, Pranaydeep Singh and Julie Birkholz, *Exploring aspect-based sentiment analysis methodologies for literary-historical research purposes*
+- *15:45-16:00* - Florian Debaene, Kornee van der Haven and Veronique Hoste, *Early Modern Dutch Comedies and Farces in the Spotlight: Introducing EmDComF and its Emotion Framework*
  
 **16:00-16:30 coffee break**
  
 **16:30-17:15 Oral Session 3**
-- Ricardo Muñoz Sánchez, *When Hieroglyphs Meet Technology: A Linguistic Journey through Ancient Egypt Using Natural Language Processing*
-- Thomas Laurs, *Towards a Readability Formula for Latin*
-- Raphael Rubino, Sandra Coram-Mekkey, Johanna Gerlach, Jonathan David Mutal and Pierrette Bouillon, *Automatic Normalisation of Middle French and its Impact on Productivity*
+- *16:30-16:45* - Ricardo Muñoz Sánchez, *When Hieroglyphs Meet Technology: A Linguistic Journey through Ancient Egypt Using Natural Language Processing*
+- *16:45-17:00* - Thomas Laurs, *Towards a Readability Formula for Latin*
+- *17:00-17:15* - Raphael Rubino, Sandra Coram-Mekkey, Johanna Gerlach, Jonathan David Mutal and Pierrette Bouillon, *Automatic Normalisation of Middle French and its Impact on Productivity*
  
 **17:15-17:30 closing**
 
