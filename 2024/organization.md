@@ -13,9 +13,9 @@
 - Yannis Assael, Google DeepMind
 - Monica Berti, University of Leipzig, Germany
 - Luca Brigada Villa, Università di Bergamo, Italy
-- Flavio Massimiliano Cecchini, University of Leuven, Belgium
+- Flavio Massimiliano Cecchini, Katholieke Universiteit Leuven, Belgium
 - Claudia Corbetta, Università degli Studi di Bergamo, Italy
-- Margherita Fantoli, University of Leuven, Belgium
+- Margherita Fantoli, Katholieke Universiteit Leuven, Belgium
 - Federica Gamba, Charles University, Czech Republic
 - Shai Gordin, Ariel University, Israel
 - Timo Korkiakangas, University of Helsinki, Finland
