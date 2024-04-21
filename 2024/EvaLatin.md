@@ -61,6 +61,9 @@ Even for the emotion polarity detection task, **no** training data will be relea
 ### EVALUATION
 - Scorer for the Dependency Parsing task: [https://github.com/CIRCSE/LT4HALA/blob/master/2024/conll18_ud_eval.py](https://github.com/CIRCSE/LT4HALA/blob/master/2024/conll18_ud_eval.py)
 - Scorer for the Emotion Polarity Detection task: [https://github.com/CIRCSE/LT4HALA/blob/master/2024/scorer-emotion.py](https://github.com/CIRCSE/LT4HALA/blob/master/2024/scorer-emotion.py)
+- **Gold data** for the Dependency Parsing task: [https://github.com/CIRCSE/LT4HALA/blob/master/2024/data_and_doc/EvaLatin_2024_Syntactic_Parsing_test_data_gold.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2024/data_and_doc/EvaLatin_2024_Syntactic_Parsing_test_data_gold.zip)
+- **Gold data** for the Emotion Polarity Detection task: [https://github.com/CIRCSE/LT4HALA/blob/master/2024/data_and_doc/EvaLatin_2024_EmotionPolarityDetection_gold_data.zip](https://github.com/CIRCSE/LT4HALA/blob/master/2024/data_and_doc/EvaLatin_2024_EmotionPolarityDetection_gold_data.zip)
+  
 
 ### HOW TO PARTICIPATE
 Participants will be required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results. Technical reports will be included in the proceedings as short papers: the maximum length is 4 pages (excluding references) and they should follow the [LREC-COLING 2024 official format](https://lrec-coling-2024.org/authors-kit/). Reports will receive a light review (we will check for the correctness of the format, the exactness of results and ranking, and overall exposition). Reports should be submitted using the [START submission page of the workshop](https://softconf.com/lrec-coling2024/lt4hala2024/).
