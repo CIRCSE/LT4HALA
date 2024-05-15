@@ -191,16 +191,17 @@ If you have any questions about this review, please feel free to send an email t
 
 | Torino Time | Beijing Time |                   Session                   |
 | :---------: | :---------: | :------------------------------------------: |
-| 14:00-14:05 | 20:00-20:05 |  Opening  ｜
-| 14:05-14:15 | 14:05-14:15 |  Prof. Zhiwei Feng, *Invited talk*  ｜
-| 14:15-14:35 | 14:15-14:35 |  Bin Li, Bolin Chang, Zhixing Xu, Minxuan Feng, Chao Xu, Weiguang Qu, Si Shen, Dongbo Wang, *Overview of EvaHan 2024: the First International Ancient Chinese Sentence Segmentation and Punctuation Evaluation*  ｜
-| 14:35-14:43 | 20:35-20:43 |  Jie Huang, *Ancient Chinese Punctuation via In-Context Learning*  ｜
-| 14:43-14:51 | 20:43-20:51 |  Shiquan Wang, Weiwei Fu, Mengxiang Li, Zhongjiang He, Yongxiang Li, Ruiyu Fang, Li Guan and Shuangyong Song, *Sentence Segmentation and Punctuation for Ancient Books based on Supervised In-context Training*  ｜
-| 14:51-14:59 | 20:51-20:59 |  Shitu Huo and Wenhui Chen, *Ancient Chinese Sentence Segmentation and Punctuation on Xunzi LLM*  ｜
-| 14:59-15:07 | 20:59-21:07 |  Xia Tian, Yu Kai, Yu Qianrong and Peng Xinran, *SPEADO: Segmentation and Punctuation for Ancient Chinese Texts via Example Augmentation and Decoding Optimization*  ｜
-| 15:07-15:15 | 21:07-21:15 |  Xuebin Wang and Zhenghua Li, *Two Sequence Labeling Approaches to Sentence Segmentation and Punctuation Prediction for Classic Chinese Texts*  ｜
-| 15:15-15:23 | 21:15-21:23 |  Zihong Chen, *Sentence Segmentation and Sentence Punctuation based on XunziALLM*  ｜
-| 15:23-15:30 | 21:23-21:30 |  Discussion and Closing  ｜
+| 14:00-14:05 | 20:00-20:05 | Opening                                      |
+| 14:05-14:15 | 20:05-20:15 | Prof. Zhiwei Feng, *Invited talk*            |
+| 14:15-14:35 | 20:15-20:35 | Bin Li, Bolin Chang, Zhixing Xu, Minxuan Feng, Chao Xu, Weiguang Qu, Si Shen, Dongbo Wang, *Overview of EvaHan 2024: the First International Ancient Chinese Sentence Segmentation and Punctuation Evaluation* |
+| 14:35-14:43 | 20:35-20:43 | Jie Huang, *Ancient Chinese Punctuation via In-Context Learning* |
+| 14:43-14:51 | 20:43-20:51 | Shiquan Wang, Weiwei Fu, Mengxiang Li, Zhongjiang He, Yongxiang Li, Ruiyu Fang, Li Guan, and Shuangyong Song, *Sentence Segmentation and Punctuation for Ancient Books based on Supervised In-context Training* |
+| 14:51-14:59 | 20:51-20:59 | Shitu Huo and Wenhui Chen, *Ancient Chinese Sentence Segmentation and Punctuation on Xunzi LLM* |
+| 14:59-15:07 | 20:59-21:07 | Xia Tian, Yu Kai, Yu Qianrong and Peng Xinran, *SPEADO: Segmentation and Punctuation for Ancient Chinese Texts via Example Augmentation and Decoding Optimization* |
+| 15:07-15:15 | 21:07-21:15 | Xuebin Wang and Zhenghua Li, *Two Sequence Labeling Approaches to Sentence Segmentation and Punctuation Prediction for Classic Chinese Texts* |
+| 15:15-15:23 | 21:15-21:23 | Zihong Chen, *Sentence Segmentation and Sentence Punctuation based on XunziALLM* |
+| 15:23-15:30 | 21:23-21:30 | Discussion and Closing                        |
+
 
 
 # Organizers
