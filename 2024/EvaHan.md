@@ -190,7 +190,7 @@ If you have any questions about this review, please feel free to send an email t
 # Program
 
 | Torino Time | Beijing Time |                   Session                   |
-| :---------: | :---------: | :------------------------------------------: |
+| :---------- | :---------- | :------------------------------------------- |
 | 14:00-14:05 | 20:00-20:05 | Opening                                      |
 | 14:05-14:15 | 20:05-20:15 | Prof. Zhiwei Feng, *Invited talk*            |
 | 14:15-14:35 | 20:15-20:35 | Bin Li, Bolin Chang, Zhixing Xu, Minxuan Feng, Chao Xu, Weiguang Qu, Si Shen, Dongbo Wang, *Overview of EvaHan 2024: the First International Ancient Chinese Sentence Segmentation and Punctuation Evaluation* |
