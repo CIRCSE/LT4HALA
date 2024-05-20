@@ -60,7 +60,7 @@
 - *16:45-17:00* - Thomas Laurs, *Towards a Readability Formula for Latin*
 - *17:00-17:15* - Raphael Rubino, Sandra Coram-Mekkey, Johanna Gerlach, Jonathan David Mutal and Pierrette Bouillon, *Automatic Normalisation of Middle French and its Impact on Productivity*
  
-**17:15-17:30 closing**
+**17:15-17:30 Closing**
 
 ### Accepted Papers
 - Adrian Doyle and John P. McCrae, *Developing a Part-of-speech Tagger for Diplomatically Edited Old Irish Text*
