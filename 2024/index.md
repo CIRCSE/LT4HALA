@@ -8,7 +8,7 @@
 ## Location: Torino, Italy (and online)
 ## Date: Saturday, May 25 2024 (Room: Istanbul)
 ## Submission page: [https://softconf.com/lrec-coling2024/lt4hala2024/](https://softconf.com/lrec-coling2024/lt4hala2024/)
-## Proceedings: [pre-print version](https://github.com/CIRCSE/LT4HALA/blob/master/2024/data_and_doc/LT4HALA2024-preprint.pdf)
+## Proceedings: [https://aclanthology.org/volumes/2024.lt4hala-1/](https://aclanthology.org/volumes/2024.lt4hala-1/)
 
 Word-cloud of keywords extracted from the abstracts with [KD-Keyphrase digger](http://dhlab.fbk.eu:8080/KD_KeyDigger/).
 ![](KD2024.png)
