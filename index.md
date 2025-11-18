@@ -1,6 +1,6 @@
 ***
 
-<p style="text-align: center;">--<a href="2020">2020</a>--&nbsp;&nbsp;--<a href="2022">2022</a>--&nbsp;&nbsp;--<a href="2024">2024</a>--</p>
+<p style="text-align: center;">--<a href="2020">2020</a>--&nbsp;&nbsp;--<a href="2022">2022</a>--&nbsp;&nbsp;--<a href="2024">2024</a>--&nbsp;&nbsp;--<a href="2026">2026</a></p>
 ***
 
 # Workshop on Language Technologies for Historical and Ancient Languages
