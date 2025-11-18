@@ -27,10 +27,10 @@ Shared test data and an evaluation script will be provided to the participants w
 
 ### IMPORTANT DATES
 - 22 December 2025: guidelines available
-Evaluation Window I - Task: Dependency Parsing
+- Evaluation Window I - Task: Dependency Parsing
   - 3 February 2026: test data available
   - 10 February 2026: system results due to organizers
-Evaluation Window II - Task: Named Entity Recognition
+- Evaluation Window II - Task: Named Entity Recognition
   - 12 February 2026: test data available
   - 19 February 2026: system results due to organizers
 - 10 March 2026: reports due to organizers
