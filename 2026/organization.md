@@ -36,9 +36,11 @@
 - Tariq Yousef, University of Southern Denmark, Denmark.
 
 ## EvaLatin 2026 Organizers
-- Federica Iurescia, Università Cattolica del Sacro Cuore di Milano, Italy;
-- Marco Passarotti, Università Cattolica del Sacro Cuore di Milano, Italy;
-- Eleonora Litta, Researcher, Università Cattolica del Sacro cuire, Italy.
+- Dependency Parsing:
+  - Federica Iurescia, Università Cattolica del Sacro Cuore di Milano, Italy;
+  - Marco Passarotti, Università Cattolica del Sacro Cuore di Milano, Italy;
+- Named Entity Recognition:
+  - Eleonora Litta, Università Cattolica del Sacro cuire, Italy.
 
 ## EvaHan 2026 Organizers
 - Bin Li, Nanjing Normal University, P.R. China;
