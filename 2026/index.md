@@ -1,6 +1,6 @@
 ***
 <p style="text-align: center;"><b>LT4HALA 2026</b></p>
-<p style="text-align: center;">--Home--&nbsp;&nbsp;--<a href="CFP">CFP</a>--&nbsp;&nbsp;--<a href="EvaLatin">EvaLatin</a>--&nbsp;&nbsp;--<a href="EvaHan">EvaHan</a>&nbsp;&nbsp;--<a href="EvaCun">EvaCun</a>--&nbsp;&nbsp;--<a href="Program">Program</a>--&nbsp;&nbsp;--<a href="organization">Organization</a>--</p>
+<p style="text-align: center;">--Home--&nbsp;&nbsp;--<a href="CFP">CFP</a>--&nbsp;&nbsp;--<a href="EvaLatin">EvaLatin</a>--&nbsp;&nbsp;--<a href="EvaHan">EvaHan</a>--&nbsp;&nbsp;--<a href="EvaCun">EvaCun</a>--&nbsp;&nbsp;--<a href="Program">Program</a>--&nbsp;&nbsp;--<a href="organization">Organization</a>--</p>
 ***
 
 # The Fourth Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2026)
