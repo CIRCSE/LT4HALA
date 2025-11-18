@@ -1,4 +1,4 @@
-<p style="text-align: center;"><b>LT4HALA 2024</b></p>
+<p style="text-align: center;"><b>LT4HALA 2026</b></p>
 <p style="text-align: center;">--<a href="index">Home</a>--&nbsp;&nbsp;--<a href="CFP">CFP</a>--&nbsp;&nbsp;--<a href="EvaLatin">EvaLatin</a>--&nbsp;&nbsp;--<a href="EvaHan">EvaHan</a>--&nbsp;&nbsp;--<a href="EvaCun">EvaCun</a>--&nbsp;&nbsp;--Program--&nbsp;&nbsp;--<a href="organization">Organization</a>--</p>
 
 TBA
