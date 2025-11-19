@@ -16,20 +16,20 @@
 - Luca Brigada Villa, University of Bergamo and University of Pavia, Italy;
 - Flavio Massimiliano Cecchini, KU Leuven, Belgium;
 - Claudia Corbetta, University of Bergamo and University of Pavia, Italy;
-- Angelo Mario Del Grosso, Istituto di Linguistica Computazionale - CNR \& CLARIN Knowledge Centre for Digital and Public Textual Scholarship (DiPText-KC), Italy;
+- Angelo Mario Del Grosso, Istituto di Linguistica Computazionale - CNR & CLARIN Knowledge Centre for Digital and Public Textual Scholarship (DiPText-KC), Italy;
 - Margherita Fantoli, KU Leuven, Belgium;
 - Federica Gamba, Charles University, Czech Republic;
 - Shai Gordin, Ariel University, Israel;
-- Federica Iurescia, Università Cattolica del Sacro cuire, Italy;
+- Federica Iurescia, Università Cattolica del Sacro Cuore di Milano, Italy;
 - Bin Li, Nanjing Normal University, China;
-- Eleonora Litta, Università Cattolica del Sacro cuire, Italy;
+- Eleonora Litta, Università Cattolica del Sacro Cuore di Milano, Italy;
 - Yudong Liu, Western Washington University, USA;
-- Francesco Mambrini, Università Cattolica del Sacro cuire, Italy;
+- Francesco Mambrini, Università Cattolica del Sacro Cuore di Milano, Italy;
 - Barbara McGillivray, King's College London, United Kingdom;
 - Chiara Palladino, Durham University, United Kingdom;
 - Alessio Palmero Aprosio, University of Trento, Italy;
-- Matteo Pellegrini, Università Cattolica del Sacro cuire, Italy;
-- Eva Pettersson, Uppsala University \& CLARIN Knowledge Centre on Diachronic Language Resources (DiaRes), Sweden;
+- Matteo Pellegrini, Università Cattolica del Sacro Cuore di Milano, Italy;
+- Eva Pettersson, Uppsala University & CLARIN Knowledge Centre on Diachronic Language Resources (DiaRes), Sweden;
 - Sophie Prévost, Laboratoire Lattice - CNRS, France;
 - Colin Swaelens, Ghent University, Belgium;
 - James K. Tauber, Signum University, USA;
@@ -40,7 +40,7 @@
   - Federica Iurescia, Università Cattolica del Sacro Cuore di Milano, Italy;
   - Marco Passarotti, Università Cattolica del Sacro Cuore di Milano, Italy.
 - Named Entity Recognition:
-  - Eleonora Litta, Università Cattolica del Sacro cuire, Italy.
+  - Eleonora Litta, Università Cattolica del Sacro Cuore di Milano, Italy.
 
 ## EvaHan 2026 Organizers
 - Bin Li, Nanjing Normal University, P.R. China;
