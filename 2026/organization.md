@@ -38,6 +38,7 @@
 ## EvaLatin 2026 Organizers
 - Dependency Parsing:
   - Federica Iurescia, Università Cattolica del Sacro Cuore di Milano, Italy;
+  - Rachele Sprugnoli, Università Cattolica del Sacro Cuore di Milano, Italy;
   - Marco Passarotti, Università Cattolica del Sacro Cuore di Milano, Italy.
 - Named Entity Recognition:
   - Eleonora Litta, Università Cattolica del Sacro Cuore di Milano, Italy.
