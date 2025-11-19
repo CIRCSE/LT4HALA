@@ -4,8 +4,8 @@
 ***
 
 ## Organizers
-- [Marco Passarotti](https://docenti.unicatt.it/ppd2/en/#/en/docenti/14144/marco-carlo-passarotti/profilo), Università Cattolica del Sacro Cuore,Milan, Italy;
-- [Rachele Sprugnoli](https://www.researchgate.net/profile/Rachele-Sprugnoli), Università Cattolica del Sacro Cuore,Milan, Italy.
+- [Marco Passarotti](https://docenti.unicatt.it/ppd2/en/#/en/docenti/14144/marco-carlo-passarotti/profilo), Università Cattolica del Sacro Cuore di Milano, Italy;
+- [Rachele Sprugnoli](https://www.researchgate.net/profile/Rachele-Sprugnoli), Università Cattolica del Sacro Cuore di Milano, Italy.
 
 
 ## Programme Committee
