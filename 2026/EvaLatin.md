@@ -41,7 +41,9 @@ Shared test data and an evaluation script will be provided to the participants w
 
 **Dependency parsing** 
 
-The dependency parsing task is based on the Universal Dependencies framework.
+The dependency parsing task is based on the [Universal Dependencies](https://universaldependencies.org) (UD) framework. No specific training data was released but participants are free to make use of any (kind of) resource they consider useful for the task, including the Latin treebanks already available in the UD collection. In this regard, one of the challenges of this task is to understand which treebank (or combination of treebanks) is the most suitable to deal with new test data. 
+
+Test data will be distributed in the CoNLL-U format with gold tokenization, lemmatization, part-of-speech tagging and morphological annotation.
 
 **Named Entity Recognition**
 
@@ -49,6 +51,12 @@ TBA
 
 
 ### EVALUATION
+
+**Dependency parsing** 
+
+The output .conllu file provided by the participants shall have the indications of the syntactic head and of the dependency relations in the fields 7 (HEAD) and 8 (DEPREL) respectively. We will provide an official scorer and we will evaluate dependency relations with and without subtypes separately, e.g., "advcl:abs" (_ablativus absolutus_/_ablative absolute_) and "advcl" (_adverbial clause modifier_), providing two separate rankings. However, the use of subtypes is not mandatory: participants who do not use subtypes will not be penalized but they will still be evaluated for dependency relations without subtypes.
+
+**Named Entity Recognition**
 
 TBA
 
