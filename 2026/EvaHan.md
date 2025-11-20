@@ -8,7 +8,7 @@
 
 ## EvaHan 2026
 
--   EvaHan 2026 is the Fifth International Evaluation of Ancient Chinese
+-   <a href="https://github.com/GoThereGit/EvaHan"><b>EvaHan 2026</b></a> is the Fifth International Evaluation of Ancient Chinese
     Information Processing, focusing on OCR tasks for multimodal large
     language models in ancient Chinese.
 
@@ -103,7 +103,50 @@ Quanshu* and other ancient books.
 Buddhist canon, including the Chinese Buddhist canon (TKH) dataset, and the Chinese Buddhist canon (MTH)
 dataset.
 
-***
+# Organizers
+
+-   **Dongbo Wang**, College of Information Management, Nanjing
+    Agricultural University, China
+
+-   **Bin Li**, School of Chinese Language and Literature, Nanjing
+    Normal University, China
+
+-   **Minxuan Feng**, School of Chinese Language and Literature, Nanjing
+    Normal University, China
+
+-   **Chao Xu**, School of Chinese Language and Literature, Nanjing
+    Normal University, China
+
+-   **Weiguang Qu**, School of Computer and Electronic Information
+    /School of Artificial Intelligence, Nanjing Normal University, China
+
+-   **Liu Liu**, College of Information Management, Nanjing Agricultural
+    University, China
+
+-   **Si Shen**, School of Economics and Management, Nanjing University
+    of Science and Technology, China
+
+# Student Members
+
+-   **Dongmei Zhu**, College of Information Management, Nanjing
+    Agricultural University, China
+
+-   **Jieqiong Li**, College of Information Management, Nanjing
+    Agricultural University, China
+
+-  **Ruifeng Wu**,College of Information Management, Nanjing Agricultural
+    University, China
+
+-   **Junyi Yang**，College of Information Management, Nanjing Agricultural
+    University, China
+
+-   **Junjie Li**, School of Chinese Language and Literature, Nanjing Normal
+    University, China
+
+-   **Zhixing Xu**, School of Chinese Language and Literature, Nanjing
+    Normal University, China
+
+
 For more information, please refer to our home page: <a href="https://github.com/GoThereGit/EvaHan"><b>EvaHan 2026</b></a>
 
 <p style="text-align: center;">Back to the <a href="https://circse.github.io/LT4HALA/"><b>Main Page</b></a></p>
