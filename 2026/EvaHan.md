@@ -92,14 +92,14 @@ by meticulous correction and refinement by experts in classical Chinese
 language and history to ensure the highest quality of the training
 materials and gold-standard texts.
 
-● Dataset A （ Printed Texts） consists of data selected from the *Siku Quanshu* (Complete
+● Dataset A (Printed Texts) consists of data selected from the *Siku Quanshu* (Complete
 Library of the Four Treasuries), including classics, history,
 philosophy, and literature, as well as various other ancient books.
 
-● Dataset B （Mixed Layouts） contains mixed image-text data selected from the *Siku
+● Dataset B (Mixed Layouts) contains mixed image-text data selected from the *Siku
 Quanshu* and other ancient books.
 
-● Dataset C （Handwritten Texts） includes handwritten ancient books, primarily the Chinese
+● Dataset C (Handwritten Texts) includes handwritten ancient books, primarily the Chinese
 Buddhist canon, including the Chinese Buddhist canon (TKH) dataset, and the Chinese Buddhist canon (MTH)
 dataset.
 
