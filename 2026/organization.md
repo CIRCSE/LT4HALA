@@ -41,7 +41,9 @@
   - Rachele Sprugnoli, Università Cattolica del Sacro Cuore di Milano, Italy;
   - Marco Passarotti, Università Cattolica del Sacro Cuore di Milano, Italy.
 - Named Entity Recognition:
-  - Eleonora Litta, Università Cattolica del Sacro Cuore di Milano, Italy.
+  - Valeria Boano, KU Leuven, Belgium;
+  - Eleonora Litta, Università Cattolica del Sacro Cuore di Milano, Italy;
+  - Matteo Ramanello, Swiss Art Research Infrastructure (SARI), University of Zurich.
 
 ## EvaHan 2026 Organizers
 - Bin Li, Nanjing Normal University, P.R. China;
