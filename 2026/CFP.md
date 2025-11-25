@@ -54,6 +54,8 @@ As for EvaLatin and EvaHan, participants will be required to submit a technical 
 - 20 March 2026: notifications to authors
 - 27 March 2026: camera-ready (PDF) due
 
+Shared tasks deadlines are available in the specific web pages: [**EvaLatin**](EvaLatin), [**EvaHan**](EvaHan), [**EvaCun**](EvaCun).
+
 ### Identify, Describe and Share your LRs!
 When submitting a paper from the START page, authors will be asked to provide essential information about resources (in a broad sense, i.e. also technologies, standards, evaluation kits, etc.) that have been used for the work described in the paper or are a new result of your research. Moreover, ELRA encourages all LREC authors to share the described LRs (data, tools, services, etc.) to enable their reuse and replicability of experiments (including evaluation ones).
 
