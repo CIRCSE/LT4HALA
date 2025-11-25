@@ -47,7 +47,7 @@ ancient Chinese.
 
 ## Important Dates for EvaHan 2026
 
--   Registration deadline: January 30, 2026
+-   [Registration](https://jsj.top/f/nWLK2R) deadline: January 30, 2026
 
 -   Training data release: January 1, 2026
 
@@ -66,7 +66,7 @@ ancient Chinese.
 To participate in EvaHan 2026, you must complete the following steps:
 
 1. **Registration:**\
-Submit a registration form to officially register your team for the
+Fill in the [registration form]((https://jsj.top/f/nWLK2R) to officially register your team for the
 task. Registration is open from December 1, 2025, to January 30, 2026.
 Only registered participants will gain access to the training dataset.
 
