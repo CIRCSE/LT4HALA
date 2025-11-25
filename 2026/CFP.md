@@ -31,7 +31,7 @@ Relevant topics for the workshop include, but are not limited to:
 ### SHARED TASKS
 LT4HALA 2026 will also host:
 - the 4th edition of [**EvaLatin**](EvaLatin), a campaign entirely devoted to the evaluation of NLP tools for Latin. This new edition will focus on two tasks: dependency parsing and named entity recognition. Dependency parsing will be based on the Universal Dependencies framework.
-- the 4th edition of [**EvaHan**](EvaHan), the campaign for the evaluation of NLP tools for Ancient Chinese. EvaHan 2026 will focus on Ancient Chinese OCR (Optical Character Recognition) Evaluation.
+- the 5th edition of [**EvaHan**](EvaHan), the campaign for the evaluation of NLP tools for Ancient Chinese. EvaHan 2026 will focus on Ancient Chinese OCR (Optical Character Recognition) Evaluation.
 - the 2nd edition of [**EvaCun**](EvaCun), the campaign for the evaluation of Ancient Cuneiform Languages, with a shared task on Akkadian to English Machine Translation.
 
 
