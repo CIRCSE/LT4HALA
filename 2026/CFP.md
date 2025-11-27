@@ -5,7 +5,7 @@
 
 ## CALL FOR PAPERS
 
-- Website: [https://circse.github.io/LT4HALA/](https://circse.github.io/LT4HALA/)
+- Website: [https://circse.github.io/LT4HALA/2026/](https://circse.github.io/LT4HALA/2026/)
 - Submission page: TBA
 - Date: TBA
 - Place: co-located with [LREC 2026](https://lrec2026.info/), May 11-16, Palma, Mallorca (Spain)
