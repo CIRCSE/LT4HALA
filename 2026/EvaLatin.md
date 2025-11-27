@@ -47,7 +47,9 @@ Test data will be distributed in the CoNLL-U format with gold tokenization, lemm
 
 **Named Entity Recognition**
 
-TBA
+In the Named Entity Recognition task Participants are required to develop systems capable of automatically identifying and classifying proper names in provided Classical Latin texts. The goal is to detect the span of the mention and assign it to a pre-defined category. A small training set (plain text HIPE IOB format) will be made available in advance, together with the participation guidelines. 
+
+Test data will be distributed in the same HIPE IOB format with the values for the NER predictions obscured.
 
 
 ### EVALUATION
@@ -58,10 +60,13 @@ The output .conllu file provided by the participants shall have the indications 
 
 **Named Entity Recognition**
 
-TBA
+The output IOB file that the participants will provide must have the column of the NER predictions filled in.
+System performance will be assessed using standard Information Retrieval metrics: Precision, Recall, and F-1 score. To account for the complexities of Latin morphology and potential ambiguity in text segmentation, two distinct evaluation settings will be employed. Two evaluation settings will be considered considered: strict (exact boundary matching) and relaxed (fuzzy boundary matching). Results will be computed using the [CLEF HIPE Scorer](https://github.com/hipe-eval/HIPE-scorer), an evaluation toolkit designed for historical named entity recognition.
 
 ### HOW TO PARTICIPATE
-Participants will be required to submit their runs and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results. Technical reports will be included in the proceedings as short papers: the maximum length is 4 pages (excluding references) and they should follow the [LREC 2026 official format](https://lrec2026.info/authors-kit/)). Reports will receive a light review (we will check for the correctness of the format, the exactness of results and ranking, and overall exposition). Reports should be submitted using the START submission page of the workshop (TBA).
+Participants will be required to submit their runs using specific email addresses and to provide a technical report that should include a brief description of their approach, focusing on the adopted algorithms, models and resources, a summary of their experiments, and an analysis of the obtained results. 
+
+Technical reports will be included in the proceedings as short papers: the maximum length is 4 pages (excluding references) and they should follow the [LREC 2026 official format](https://lrec2026.info/authors-kit/)). Reports will receive a light review (we will check for the correctness of the format, the exactness of results and ranking, and overall exposition). Reports should be submitted using the START submission page of the workshop (TBA).
 
 Participants are allowed to use any approach (e.g. from traditional machine learning algorithms to Large Language Models) and any resource (annotated and non-annotated data, embeddings): all approaches and resources are expected to be described in the systems' reports.
 
