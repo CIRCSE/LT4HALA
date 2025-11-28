@@ -49,9 +49,9 @@ Accepted papers will appear in the workshop proceedings, which include both oral
 As for EvaLatin and EvaHan, participants will be required to submit a technical report for each task (with all the related sub-tasks) they took part in. Technical reports will be included in the proceedings as short papers: the maximum length is 4 pages (excluding references) and they should follow the [LREC 2026 official format](https://lrec2026.info/authors-kit/). Reports will receive a light review (we will check for the correctness of the format, the exactness of results and ranking, and overall exposition). All participants will have the possibility to present their results at the workshop. Reports of the shared tasks are not anonymous.
 
 ### WORKSHOP IMPORTANT DATES
-- 24 February 2026: submissions due
-- 17 March 2026: reviews due
-- 20 March 2026: notifications to authors
+- 17 February 2026: submissions due
+- 13 March 2026: reviews due
+- 16 March 2026: notifications to authors
 - 27 March 2026: camera-ready (PDF) due
 
 Shared tasks deadlines are available in the specific web pages: [**EvaLatin**](EvaLatin), [**EvaHan**](EvaHan), [**EvaCun**](EvaCun).
