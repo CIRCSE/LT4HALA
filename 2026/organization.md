@@ -43,7 +43,7 @@
 - Named Entity Recognition:
   - Valeria Boano, KU Leuven, Belgium;
   - Eleonora Litta, Università Cattolica del Sacro Cuore di Milano, Italy;
-  - Matteo Ramanello, Swiss Art Research Infrastructure (SARI), University of Zurich, Switzerland.
+  - Matteo Romanello, Swiss Art Research Infrastructure (SARI), University of Zurich, Switzerland.
 
 ## EvaHan 2026 Organizers
 - Bin Li, Nanjing Normal University, P.R. China;
