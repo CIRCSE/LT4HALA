@@ -52,7 +52,7 @@ As for EvaLatin and EvaHan, participants will be required to submit a technical 
 - 17 February 2026: submissions due
 - 13 March 2026: reviews due
 - 16 March 2026: notifications to authors
-- 27 March 2026: camera-ready (PDF) due
+- 27 March 2026: camera-ready due
 
 Shared tasks deadlines are available in the specific web pages: [**EvaLatin**](EvaLatin), [**EvaHan**](EvaHan), [**EvaCun**](EvaCun).
 
