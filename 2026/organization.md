@@ -9,7 +9,7 @@
 
 
 ## Programme Committee
-- Alaa Mamdouh Akef, Beijing Language and Culture University, China;
+- Alaa Mamdouh Akef, Peking University, China;
 - Adam Anderson, UC Berkeley, USA;
 - Masayuki Asahara, National Institute for Japanese Language and Linguistics, Japan;
 - Monica Berti, University of Leipzig, Germany;
