@@ -17,6 +17,7 @@
 - Flavio Massimiliano Cecchini, KU Leuven, Belgium;
 - Claudia Corbetta, University of Bergamo and University of Pavia, Italy;
 - Angelo Mario Del Grosso, Istituto di Linguistica Computazionale - CNR & CLARIN Knowledge Centre for Digital and Public Textual Scholarship (DiPText-KC), Italy;
+- Mathieu Dehouck, Laboratoire Lattice - CNRS, France;
 - Margherita Fantoli, KU Leuven, Belgium;
 - Federica Gamba, Charles University, Czech Republic;
 - Shai Gordin, Ariel University, Israel;
