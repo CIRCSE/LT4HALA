@@ -6,7 +6,7 @@
 # The Fourth Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2026)
 ## Co-located with [LREC 2026](https://lrec2026.info/)
 ## Location: Palma, Mallorca (Spain)
-## Date: TBA
+## Date: Monday, May 11 2026
 ## Submission page: TBA
 ## Proceedings: TBA
 
