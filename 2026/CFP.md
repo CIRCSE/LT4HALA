@@ -32,8 +32,7 @@ Relevant topics for the workshop include, but are not limited to:
 LT4HALA 2026 will also host:
 - the 4th edition of [**EvaLatin**](EvaLatin), a campaign entirely devoted to the evaluation of NLP tools for Latin. This new edition will focus on two tasks: dependency parsing and named entity recognition. Dependency parsing will be based on the Universal Dependencies framework.
 - the 5th edition of [**EvaHan**](EvaHan), the campaign for the evaluation of NLP tools for Ancient Chinese. EvaHan 2026 will focus on Ancient Chinese OCR (Optical Character Recognition) Evaluation.
-- the 2nd edition of [**EvaCun**](EvaCun), the campaign for the evaluation of Ancient Cuneiform Languages, with a shared task on Akkadian to English Machine Translation.
-
+- the 2nd edition of [**EvaCun**](EvaCun), the campaign for the evaluation of Ancient Cuneiform Languages, with a shared tasks on transliteration normalization, morphological analysis and lemmatization, Named Entity Recognition of Akkadian and/or Sumerian.
 
 ### SUBMISSIONS
 Submissions should be 4 to 8 pages in length and follow the LREC stylesheet (see below). The maximum number of pages excludes potential ethics Statements and discussion on limitations, acknowledgements and references, as well as data and code availability statements. Appendices or supplementary material are not permitted during the initial submission phase, as papers should be self-contained and reviewable on their own.
