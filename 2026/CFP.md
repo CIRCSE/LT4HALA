@@ -35,7 +35,7 @@ LT4HALA 2026 will also host:
 - the 2nd edition of [**EvaCun**](EvaCun), the campaign for the evaluation of Ancient Cuneiform Languages, with a shared tasks on transliteration normalization, morphological analysis and lemmatization, Named Entity Recognition of Akkadian and/or Sumerian.
 
 ### SUBMISSIONS
-Submissions should be 4 to 8 pages in length and follow the LREC stylesheet (see below). The maximum number of pages excludes potential ethics Statements and discussion on limitations, acknowledgements and references, as well as data and code availability statements. Appendices or supplementary material are not permitted during the initial submission phase, as papers should be self-contained and reviewable on their own.
+Submissions should be 4 to 8 pages in length and follow the LREC stylesheet (see below). The maximum number of pages excludes potential Ethics Statements and discussion on Limitations, acknowledgements and references, as well as data and code availability statements. Appendices or supplementary material are not permitted during the initial submission phase, as papers should be self-contained and reviewable on their own.
 
 Papers must be of original, previously unpublished work. Papers must be anonymized to support double-blind reviewing. Submissions thus must not include authors’ names and affiliations. The submissions should also avoid links to non-anonymized repositories: the code should be either submitted as supplementary material in the final version of the paper, or as a link to an anonymized repository (e.g., Anonymous GitHub or Anonym Share). Papers that do not conform to these requirements will be rejected without review.
 
