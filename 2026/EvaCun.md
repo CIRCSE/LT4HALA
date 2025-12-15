@@ -55,7 +55,7 @@ The schedule for **EvaCun 2026** follows the same timeline as the other LT4HALA 
 - **Running results submission:** February 6, 2026  
 - **Technical report submission deadline:** February 28, 2026  
 - **Notification of acceptance:** March 1, 2026  
-- **Camera-ready papers due:** March 10, 2026  
+- **Camera-ready posters due:** March 10, 2026  
 
 (Registration is planned to open **December 1, 2025**.)
 
