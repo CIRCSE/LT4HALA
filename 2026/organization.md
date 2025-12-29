@@ -33,7 +33,7 @@
 - Eva Pettersson, Uppsala University & CLARIN Knowledge Centre on Diachronic Language Resources (DiaRes), Sweden;
 - Sophie Prévost, Laboratoire Lattice - CNRS, France;
 - Colin Swaelens, Ghent University, Belgium;
-- James K. Tauber, Signum University, USA;
+- James K. Tauber, FAU Erlangen, Germany;
 - Tariq Yousef, University of Southern Denmark, Denmark.
 
 ## EvaLatin 2026 Organizers
