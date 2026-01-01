@@ -65,6 +65,10 @@ The schedule for **EvaCun 2026** follows the same timeline as the other LT4HALA 
 
 The **EvaCun 2026** dataset will consist of expert-curated **cuneiform transliterations** drawn from established scholarly corpora and digital editions. All texts are provided in a unified encoding and split into **training**, **development**, and **test** partitions.
 
+**Training data (released January 1, 2026):**
+- [Zenodo record 10794626](https://zenodo.org/records/10794626)
+- [Zenodo record 17220688](https://zenodo.org/records/17220688)
+
 Planned characteristics of the dataset include:
 
 - **Languages and Periods**  
