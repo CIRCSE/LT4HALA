@@ -129,7 +129,7 @@ Results will be summarized in the **LT4HALA 2026 overview paper** and in the **E
 To participate in **EvaCun 2026**, please follow these steps:
 
 1. **Registration**  
-   - Complete the EvaCun registration form (link to be announced on the LT4HALA main page).  
+   - Complete the [EvaCun registration form](https://docs.google.com/forms/d/e/1FAIpQLScoPDLN_u3m2XndeaeuKT0PMe_zgN-OPzZgDWuA1wvvYP6KVg/viewform).  
    - Registration is open from **December 1, 2025** until **January 30, 2026**.  
    - Only **registered teams** will receive access credentials for the training and test data.
 
