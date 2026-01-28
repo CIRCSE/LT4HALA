@@ -26,7 +26,9 @@ EvaLatin 2026 edition will have 2 tasks, i.e. Dependency Parsing and Named Entit
 Shared test data and an evaluation script will be provided to the participants who will choose to participate in either one or all tasks. 
 
 ### IMPORTANT DATES
-- 22 December 2025: guidelines available
+- 22 December 2025:
+  - [Dependency Parsing guidelines available](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/EvaLatin_2026_guidelines_DEP.pdf)
+  - [Named Entity Recognition guidelines available](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/EvaLatin_2026_guidelines_NER.pdf)
 - Evaluation Window I - Task: Dependency Parsing
   - 3 February 2026: test data available
   - 10 February 2026: system results due to organizers
