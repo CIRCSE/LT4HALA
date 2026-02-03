@@ -30,7 +30,7 @@ Shared test data and an evaluation script will be provided to the participants w
   - [Dependency Parsing guidelines available](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/EvaLatin_2026_guidelines_DEP.pdf)
   - [Named Entity Recognition guidelines available](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/EvaLatin_2026_guidelines_NER.pdf)
 - Evaluation Window I - Task: Dependency Parsing
-  - 3 February 2026: test data available
+  - 3 February 2026: [test data available](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/EvaLatin_2026_Syntactic_Parsing_test_data.zip)
   - 10 February 2026: system results due to organizers
 - Evaluation Window II - Task: Named Entity Recognition
   - 12 February 2026: test data available
@@ -45,7 +45,7 @@ Shared test data and an evaluation script will be provided to the participants w
 
 The dependency parsing task is based on the [Universal Dependencies](https://universaldependencies.org) (UD) framework. No specific training set is released but participants are free to make use of any (kind of) data/resource they consider useful for the task, including the Latin treebanks already available in the UD collection. In this regard, one of the challenges of this task is to understand which treebank (or combination of treebanks) is the most suitable to deal with new test data. 
 
-Test data will be distributed in the CoNLL-U format with gold tokenization, lemmatization, part-of-speech tagging and morphological annotation.
+**Test data** is distributed in the CoNLL-U format with gold tokenization, lemmatization, part-of-speech tagging and morphological annotation: [zip file](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/EvaLatin_2026_Syntactic_Parsing_test_data.zip).
 
 **Named Entity Recognition**
 
