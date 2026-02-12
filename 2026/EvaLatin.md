@@ -51,7 +51,7 @@ The dependency parsing task is based on the [Universal Dependencies](https://uni
 
 In the Named Entity Recognition task Participants are required to develop systems capable of automatically identifying and classifying proper names in provided Classical Latin texts. The goal is to detect the span of the mention and assign it to a pre-defined category. A small training set (plain text HIPE IOB format) will be made available in advance, together with the participation guidelines. 
 
-Test data is distributed in the same HIPE IOB format with the values for the NER predictions obscured: [file](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/evalatin2026-ner-v0.1-test-masked.tsv).
+**Test data** is distributed in the same HIPE IOB format with the values for the NER predictions obscured: [file](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/evalatin2026-ner-v0.1-test-masked.tsv).
 
 
 ### EVALUATION
