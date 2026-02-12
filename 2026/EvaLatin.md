@@ -33,7 +33,7 @@ Shared test data and an evaluation script will be provided to the participants w
   - 3 February 2026: [test data available](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/EvaLatin_2026_Syntactic_Parsing_test_data.zip)
   - 10 February 2026: system results due to organizers
 - Evaluation Window II - Task: Named Entity Recognition
-  - 12 February 2026: test data available
+  - 12 February 2026: [test data available](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/evalatin2026-ner-v0.1-test-masked.tsv)
   - 19 February 2026: system results due to organizers
 - 10 March 2026: reports due to organizers
 - 20 March 2026: short report review deadline
@@ -51,7 +51,7 @@ The dependency parsing task is based on the [Universal Dependencies](https://uni
 
 In the Named Entity Recognition task Participants are required to develop systems capable of automatically identifying and classifying proper names in provided Classical Latin texts. The goal is to detect the span of the mention and assign it to a pre-defined category. A small training set (plain text HIPE IOB format) will be made available in advance, together with the participation guidelines. 
 
-Test data will be distributed in the same HIPE IOB format with the values for the NER predictions obscured.
+Test data is distributed in the same HIPE IOB format with the values for the NER predictions obscured: [file](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/evalatin2026-ner-v0.1-test-masked.tsv).
 
 
 ### EVALUATION
