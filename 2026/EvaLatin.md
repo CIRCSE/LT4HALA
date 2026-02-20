@@ -62,6 +62,7 @@ In the Named Entity Recognition task Participants are required to develop system
 
 The output .conllu file provided by the participants shall have the indications of the syntactic head and of the dependency relation in the fields 7 (HEAD) and 8 (DEPREL) respectively. We will provide an official scorer and we will evaluate dependency relations with and without subtypes separately, e.g., "advcl:abs" (_ablativus absolutus_/_ablative absolute_) and "advcl" (_adverbial clause modifier_), providing two separate rankings. However, the use of subtypes is not mandatory: participants who do not use subtypes will not be penalized but they will still be evaluated for dependency relations without subtypes.
 - [Scorer](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/conll18_ud_eval_with_subtypes-EvaLatin2026.py): the instructions are set out in the guidelines that will be published by 22 December 2025.
+- **Gold data**: [Gold data](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/EvaLatin_2026_Syntactic_Parsing_test_data_gold.zip) for the Dependency Parsing task are online.
 
 **Named Entity Recognition**
 
