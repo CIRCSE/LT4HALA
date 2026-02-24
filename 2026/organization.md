@@ -15,7 +15,9 @@
 - Monica Berti, University of Leipzig, Germany;
 - Federico Boschetti, Università Ca' Foscari, Istituto di Linguistica Computazionale - CNR & CLARIN Knowledge Centre for Digital and Public Textual Scholarship (DiPText-KC), Italy;
 - Luca Brigada Villa, University of Bergamo and University of Pavia, Italy;
+- Patrick J. Burns, Institute for the Study of the Ancient World / NYU, USA;
 - Flavio Massimiliano Cecchini, KU Leuven, Belgium;
+- Thibault Clérice, Inria Paris, France;
 - Claudia Corbetta, University of Bergamo and University of Pavia, Italy;
 - Angelo Mario Del Grosso, Istituto di Linguistica Computazionale - CNR & CLARIN Knowledge Centre for Digital and Public Textual Scholarship (DiPText-KC), Italy;
 - Mathieu Dehouck, Laboratoire Lattice - CNRS, France;
