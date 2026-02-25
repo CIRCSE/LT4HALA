@@ -38,7 +38,7 @@
 - Sophie Prévost, Laboratoire Lattice - CNRS, France;
 - Matteo Romanello, Swiss Art Research Infrastructure (SARI), University of Zurich, Switzerland;
 - Colin Swaelens, Ghent University, Belgium;
-- Muhammad Shoaib Tahir, University Islamabad, Pakistan;
+- Muhammad Shoaib Tahir, COMSATS University Islamabad, Lahore Campus, Pakistan;
 - James K. Tauber, FAU Erlangen, Germany;
 - Tatiana Tommasi, Università Ca' Foscari, Venezia, Italy;
 - Tariq Yousef, University of Southern Denmark, Denmark.
