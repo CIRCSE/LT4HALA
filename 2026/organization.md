@@ -13,12 +13,16 @@
 - Adam Anderson, UC Berkeley, USA;
 - Masayuki Asahara, National Institute for Japanese Language and Linguistics, Japan;
 - Monica Berti, University of Leipzig, Germany;
+- Federico Boschetti, Università Ca' Foscari, Istituto di Linguistica Computazionale - CNR & CLARIN Knowledge Centre for Digital and Public Textual Scholarship (DiPText-KC), Italy;
 - Luca Brigada Villa, University of Bergamo and University of Pavia, Italy;
+- Patrick J. Burns, Institute for the Study of the Ancient World / NYU, USA;
 - Flavio Massimiliano Cecchini, KU Leuven, Belgium;
+- Thibault Clérice, Inria Paris, France;
 - Claudia Corbetta, University of Bergamo and University of Pavia, Italy;
 - Angelo Mario Del Grosso, Istituto di Linguistica Computazionale - CNR & CLARIN Knowledge Centre for Digital and Public Textual Scholarship (DiPText-KC), Italy;
 - Mathieu Dehouck, Laboratoire Lattice - CNRS, France;
 - Margherita Fantoli, KU Leuven, Belgium;
+- Andrea Farina, King’s College London, UK;
 - Federica Gamba, Charles University, Czech Republic;
 - Shai Gordin, Ariel University, Israel;
 - Federica Iurescia, Università Cattolica del Sacro Cuore di Milano, Italy;
@@ -27,13 +31,17 @@
 - Yudong Liu, Western Washington University, USA;
 - Francesco Mambrini, Università Cattolica del Sacro Cuore di Milano, Italy;
 - Barbara McGillivray, King's College London, United Kingdom;
+- Vivi Nastase, University of Geneva/Idiap Research Institute, Martigny, Switzerland;
 - Chiara Palladino, Durham University, United Kingdom;
 - Alessio Palmero Aprosio, University of Trento, Italy;
 - Matteo Pellegrini, Università Cattolica del Sacro Cuore di Milano, Italy;
 - Eva Pettersson, Uppsala University & CLARIN Knowledge Centre on Diachronic Language Resources (DiaRes), Sweden;
 - Sophie Prévost, Laboratoire Lattice - CNRS, France;
+- Matteo Romanello, Swiss Art Research Infrastructure (SARI), University of Zurich, Switzerland;
 - Colin Swaelens, Ghent University, Belgium;
+- Muhammad Shoaib Tahir, COMSATS University Islamabad, Lahore Campus, Pakistan;
 - James K. Tauber, FAU Erlangen, Germany;
+- Tatiana Tommasi, Università Ca' Foscari, Venezia, Italy;
 - Tariq Yousef, University of Southern Denmark, Denmark.
 
 ## EvaLatin 2026 Organizers
