@@ -25,6 +25,7 @@
 - Andrea Farina, King’s College London, UK;
 - Federica Gamba, Charles University, Czech Republic;
 - Shai Gordin, Ariel University, Israel;
+- Alek Keersmaekers, KU Leuven, Belgium; 
 - Federica Iurescia, Università Cattolica del Sacro Cuore di Milano, Italy;
 - Bin Li, Nanjing Normal University, China;
 - Eleonora Litta, Università Cattolica del Sacro Cuore di Milano, Italy;
@@ -32,6 +33,7 @@
 - Francesco Mambrini, Università Cattolica del Sacro Cuore di Milano, Italy;
 - Barbara McGillivray, King's College London, United Kingdom;
 - Vivi Nastase, University of Geneva/Idiap Research Institute, Martigny, Switzerland;
+- Teresa Paccosi, Royal Netherlands Academy of Arts & Sciences (KNAW), The Netherlands;
 - Chiara Palladino, Durham University, United Kingdom;
 - Alessio Palmero Aprosio, University of Trento, Italy;
 - Matteo Pellegrini, Università Cattolica del Sacro Cuore di Milano, Italy;
