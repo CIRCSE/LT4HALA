@@ -37,7 +37,7 @@
 - Teresa Paccosi, Royal Netherlands Academy of Arts & Sciences (KNAW), The Netherlands;
 - Chiara Palladino, Durham University, United Kingdom;
 - Alessio Palmero Aprosio, University of Trento, Italy;
-- Matteo Pellegrini, Università Cattolica del Sacro Cuore di Milano, Italy;
+- Matteo Pellegrini, University of Surrey, UK;
 - Eva Pettersson, Uppsala University & CLARIN Knowledge Centre on Diachronic Language Resources (DiaRes), Sweden;
 - Sophie Prévost, Laboratoire Lattice - CNRS, France;
 - Matteo Romanello, Swiss Art Research Infrastructure (SARI), University of Zurich, Switzerland;
