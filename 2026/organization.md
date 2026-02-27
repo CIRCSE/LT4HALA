@@ -25,6 +25,7 @@
 - Andrea Farina, King’s College London, UK;
 - Federica Gamba, Charles University, Czech Republic;
 - Shai Gordin, Ariel University, Israel;
+- Marisa Hudspeth, University of Massachusetts Amhers, USA;
 - Alek Keersmaekers, KU Leuven, Belgium; 
 - Federica Iurescia, Università Cattolica del Sacro Cuore di Milano, Italy;
 - Bin Li, Nanjing Normal University, China;
