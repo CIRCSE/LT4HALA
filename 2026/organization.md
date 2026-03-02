@@ -46,7 +46,8 @@
 - Muhammad Shoaib Tahir, COMSATS University Islamabad, Lahore Campus, Pakistan;
 - James K. Tauber, FAU Erlangen, Germany;
 - Tatiana Tommasi, Università Ca' Foscari, Venezia, Italy;
-- Tariq Yousef, University of Southern Denmark, Denmark.
+- Tariq Yousef, University of Southern Denmark, Denmark;
+- Chiara Zanchi, Università di Pavia, Italy.
 
 ## EvaLatin 2026 Organizers
 - Dependency Parsing:
