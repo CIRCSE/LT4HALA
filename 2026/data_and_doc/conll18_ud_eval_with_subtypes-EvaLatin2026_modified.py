@@ -26,6 +26,10 @@
 # ------------------
 # conll18_ud_eval.py [-v] gold_conllu_file system_conllu_file
 #
+# if you want to use the modified version for evaluating subtypes:
+# conll18_ud_eval_with_subtypes-EvaLatin2026_modified.py -v -s -b <gold.conllu> <run.conllu>
+#
+# - the option -b prints per-deprel F1 breakdown for LAS and CLAS
 # - if no -v is given, only the official CoNLL18 UD Shared Task evaluation metrics
 #   are printed
 # - if -v is given, more metrics are printed (as precision, recall, F1 score,
