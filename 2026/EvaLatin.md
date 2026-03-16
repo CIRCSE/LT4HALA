@@ -49,7 +49,7 @@ The dependency parsing task is based on the [Universal Dependencies](https://uni
 
 - **Final version of the guidelines** are online: [PDF](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/EvaLatin_2026_guidelines_DEP_V11.pdf)
 
-- **New scorer** that calculates LAS and CLAS at subtype-leve: [LINK to PYTHON](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/conll18_ud_eval_with_subtypes-EvaLatin2026_modified.py)
+- **New scorer** that calculates LAS and CLAS at subtype-leve: [LINK to PYTHON SCRIPT](https://github.com/CIRCSE/LT4HALA/blob/master/2026/data_and_doc/conll18_ud_eval_with_subtypes-EvaLatin2026_modified.py)
 You can run the script as follows:
 ```
 python3 conll18_ud_eval_with_subtypes-EvaLatin2026_modified.py -v -s -b <gold.conllu> <run.conllu>
