@@ -33,6 +33,7 @@
 - Yudong Liu, Western Washington University, USA;
 - Francesco Mambrini, Università Cattolica del Sacro Cuore di Milano, Italy;
 - Barbara McGillivray, King's College London, United Kingdom;
+- Domenico Giuseppe Muscianisi, Università di Parma, Italy;
 - Vivi Nastase, University of Geneva/Idiap Research Institute, Martigny, Switzerland;
 - Carlos Javier Nusch, Universidad Nacional de La Plata, Argentina;
 - Teresa Paccosi, Royal Netherlands Academy of Arts & Sciences (KNAW), The Netherlands;
