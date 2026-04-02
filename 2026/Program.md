@@ -58,7 +58,7 @@
 - Stymne, *UppsalaNLP at EvaLatin 2026: Multilingual parsing for Latin*
 - Maria Mihaela Trusca, Mark Depauw, Violet Soen, Ine de Daele, Kevin Verbruggen and Tim Van de Cruys, *Contextual Probing for Low-Resource Named Entity Recognition in Latin *
 - Ripoll-Alberola, *Classificatio Sine Iactu – That Is, Zero-Shot NERC in Latin*
-- Hirosci Matsuda, *Extending omnes flores for the EvaLatin 2026 Dependency Parsing Tasks 
+- Hirosci Matsuda, *Extending omnes flores for the EvaLatin 2026 Dependency Parsing Tasks*
  
 **17:00-17:45 Oral Session 4**
 
