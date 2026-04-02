@@ -10,8 +10,8 @@
 ## Submission page: [https://softconf.com/lrec2026/LT4HALA2026/](https://softconf.com/lrec2026/LT4HALA2026/)
 ## Proceedings: TBA
 
-Word-cloud of keywords extracted from the abstracts with [KD-Keyphrase digger](http://dh-server.fbk.eu/KD_KeyDigger/).
-![](KD-2026.png)
+Word-cloud of keywords extracted from the abstracts of the main workshop accepted papers with [KD-Keyphrase digger](http://dh-server.fbk.eu/KD_KeyDigger/).
+![](KD-2026.png | width=100)
 
 This **one-day workshop** seeks to bring together scholars, who are developing and/or are using Language Technologies (LTs) for historically attested languages, so to foster cross-fertilization between the Computational Linguistics community and the areas in the Humanities dealing with historical linguistic data, e.g. historians, philologists, linguists, archaeologists and literary scholars. Despite the current availability of large collections of digitized texts written in historical languages, such interdisciplinary collaboration is still hampered by the limited availability of annotated linguistic resources for most of the historical languages. Creating such resources is a challenge and an obligation for LTs, both to support historical linguistic research with the most updated technologies and to preserve those precious linguistic data that survived from past times.
 
