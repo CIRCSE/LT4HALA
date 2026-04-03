@@ -41,7 +41,25 @@
 **13:00-14:00 Lunch Break**
  
 **14:00-15:15 EvaHan**
- 
+
+- Li Bin, *Opening Remarks*
+- Feng Zhiwei, *Invited talk*
+- Wang Dongbo, *Overview of EvaHan2026: The First International Evaluation on Ancient Chinese OCR and Layout Analysis*
+- KeYan Liang, Meiling Liu, *A Multi-Stage System for Ancient Chinese OCR and Layout Understanding in the EvaHan2026 Shared Task*
+- Chaokun Zhang, Xin Wen, Tongtong Zhou, *A Multi-Modal Recognition Framework for Ancient Books Integrating DoRA-DPO Text Recognition and YOLO Layout Analysis*
+- Yihuan Yin, Qian Zhao, *Beijing Normal University at EvaHan 2026: Enhancing Ancient Chinese Character Recognition and Layout Analysis via VLM Fine-Tuning and Linguistic Post-Processing*
+- Qi Fan, Jieming Hu, Chen Ye, *A Dual-Modality Framework for Ancient Document Layout Analysis and Text Recognition*
+- Chenrui Zheng, *EvaHan 2026 Ancient Books Multimodal OCR and Layout Analysis System Technical Report*
+- Yuchun Meng, *A Parameter-Efficient and Data-Centric Framework for Ancient Chinese Text*
+- Xia Tian, Liu Yulong, Wang Yilin, Yang Yumeng, Cai Dongheng, Tan Yuyang,Yang Menghui, *LVLM Optimization for Ancient Chinese Book Image Analysis with Task-specific Augmentation and Instruction Tuning*
+- Chengfei Li, Yunjie Zhang, Xiaoyi Li, Changshun Quan, Taihe Cao, Bin Liu, *Data-Centric Strategies for Ancient Chinese Text Recognition: Augmentation, Annotation Refinement, and Style Transfer in EvaHan 2026*
+- Chengfei Li, Yunjie Zhang, Xiaoyi Li, Changshun Quan, Taihe Cao, Bin Liu, *Data-Centric Strategies for Ancient Chinese Text Recognition: Augmentation, Annotation Refinement, and Style Transfer in EvaHan 2026*
+- Colin Brisson, Ayoub Kahfy, Frédéric Constant, Marc Bui, *AnandaSky: A Vision–Language Model for Line-Level Transcription of Historical Sinographic Documents*
+- Liqi He, Qiwei Li, Ziye Yang, Zuchao Li, *Multimodal Ancient Document Parsing: Technical Report for EvaHan2026 Competition*
+- Huizi Zhou, Yuhan Shu, *Multi-Task Learning Trade-offs in Vision–Language Models for Ancient Chinese OCR: An Empirical Analysis of Parameter-Efficient Adaptation*
+- Denise Atzori, Marie Bizais-Lillig, Mathias Garnier, Maxime Létoffé, Charles Planque, Tianjie Yin, Chahan Vidal-Gorène, *Building Character(s): Synthetic Data and In-Context Learning Strategies for Few-Shot Ancient Chinese Recognition*
+- *Closing Remarks*
+
 **15:15-16:00 Oral Session 3**
  
 - *15:15-15:30* - Lucas Consolin Dezotti, Marco Passarotti, Federica Iurescia and Giovanni Moretti, *The UD_Latin-PROIEL as Linked Open Data: Integrating a Latin Treebank into the LiLa Knowledge Base*
