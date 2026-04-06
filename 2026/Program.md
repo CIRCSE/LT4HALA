@@ -53,7 +53,6 @@
 - Yuchun Meng, *A Parameter-Efficient and Data-Centric Framework for Ancient Chinese Text*
 - Xia Tian, Liu Yulong, Wang Yilin, Yang Yumeng, Cai Dongheng, Tan Yuyang,Yang Menghui, *LVLM Optimization for Ancient Chinese Book Image Analysis with Task-specific Augmentation and Instruction Tuning*
 - Chengfei Li, Yunjie Zhang, Xiaoyi Li, Changshun Quan, Taihe Cao, Bin Liu, *Data-Centric Strategies for Ancient Chinese Text Recognition: Augmentation, Annotation Refinement, and Style Transfer in EvaHan 2026*
-- Chengfei Li, Yunjie Zhang, Xiaoyi Li, Changshun Quan, Taihe Cao, Bin Liu, *Data-Centric Strategies for Ancient Chinese Text Recognition: Augmentation, Annotation Refinement, and Style Transfer in EvaHan 2026*
 - Colin Brisson, Ayoub Kahfy, Frédéric Constant, Marc Bui, *AnandaSky: A Vision–Language Model for Line-Level Transcription of Historical Sinographic Documents*
 - Liqi He, Qiwei Li, Ziye Yang, Zuchao Li, *Multimodal Ancient Document Parsing: Technical Report for EvaHan2026 Competition*
 - Huizi Zhou, Yuhan Shu, *Multi-Task Learning Trade-offs in Vision–Language Models for Ancient Chinese OCR: An Empirical Analysis of Parameter-Efficient Adaptation*
