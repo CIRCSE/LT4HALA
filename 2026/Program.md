@@ -14,11 +14,11 @@
 **10:30-11:30 Poster Session + Coffee Break**
 
  - Elisha Rosensweig, Yitzchak Lindenbaum, Hillel Gershuni, Vered Raziel-Kretzmer, Daniel Caine and Avi Shmidman, *A New State-of-the-Art BERT Model for Judeo-Arabic*
+- Iglika Nikolova-Stoupak, Maxime Amblard and Frédérique Rey, *BEReshiT: an Ancient Hebrew Model based on DictaBERT*
 - Hang Zhu, Mitoki Ohara, Rei Kikuchi, Kanako Komiya, Masayuki Asahara and Sachi Kato, *Automatic Detection of Metaphorical Expressions in Classical Japanese Using WLSP-Enhanced BERT*
 - Shmuel LIebeskind, Maayan Zhitomirsky-Geffet, Binyamin Katzoff, Nati Ben-Gigi and Jonathan Schler, *Domain-Aware Error Correction for Citation NER in Medieval Hebrew Responsa*
 - Colin Swaelens, Francesco Mambrini and Marco Passarotti, *From Lemmas to Links: A Lemma Bank for Ancient Greek*
 - Wenhui Cui and Phillip Benjamin Ströbel, *Across Generations: A Comparative Analysis of NER for Latin Inscriptions from Classical Machine Learning to LLMs*
-- Charlene Ellul, Vanessa Buhagiar, Claudia Borg and Charlie Abela, *Cost-Aware Pre-Annotation Strategies for Nested NER in Historical Latin Notarial Deeds*
 - Irene Miani, Gregory Darwin and Sara Stymne, *POS Tagging with Generative LLMs for Historical Germanic Low-Resource Languages: An Evaluation Against Fine-Tuned BERT*
 - Nicklas Sindlev Anderesn, Byron Macdougall, Tariq Yousef and Aglae Pizzone, *From Manuscript to Model: Developing HTR for Medieval Greek*
 - Marijke Beersmans, Evelien de Graaf, Julie Nijs, Valeria Irene Boano, Alek Keersmaekers, Mark Depauw, Tim Van de Cruys and Margherita Fantoli, *I, RE:Claudius 256: Towards Linking Classical Latin Person Mentions to a Domain-specific Knowledge Base*
@@ -70,7 +70,7 @@
 - Thomas Koppens and Claudia Borg, *Miktub: A Manuscript Dataset of Historical Maltese for Handwritten Text Recognition*
 - Teresa Paccosi and Marijn Koolen, *Smelling the Past: Investigating Historical Models for Olfactory Event Extraction*
 - Heiki-Jaan Kaalep, *Contemporizing 20-th Century Estonian*
-- Iglika Nikolova-Stoupak, Maxime Amblard and Frédérique Rey, *BEReshiT: an Ancient Hebrew Model based on DictaBERT*
+- Charlene Ellul, Vanessa Buhagiar, Claudia Borg and Charlie Abela, *Cost-Aware Pre-Annotation Strategies for Nested NER in Historical Latin Notarial Deeds*
 - Paola Marongiu and Eva Sassolini, *From Lemmatization to Legal Terminology: Assessing an Hybrid Pipeline on Justinian's Digest*
 - Stymne, *UppsalaNLP at EvaLatin 2026: Multilingual parsing for Latin*
 - Maria Mihaela Trusca, Mark Depauw, Violet Soen, Ine de Daele, Kevin Verbruggen and Tim Van de Cruys, *Contextual Probing for Low-Resource Named Entity Recognition in Latin*
