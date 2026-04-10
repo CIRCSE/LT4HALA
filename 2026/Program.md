@@ -34,7 +34,7 @@
 
 - *12:15-12:25* - Federica Iurescia, Marco Passarotti and Rachele Sprugnoli, *Overview of the Dependency Parsing Task at EvaLatin 2026*
 - *12:25-12:35* - Luc Pommeret, Thibault Wagret and Jules Deret, *THIVLVC: Retrieval Augmented Dependency Parsing for Latin*
-- *12:35-12:45* - Valeria Boano, Eleonora Litta and Matteo Romanello,	*Overview of the Named Entity Recognition Task at EvaLatin 2026*
+- *12:35-12:45* - Valeria Irene Boano, Eleonora Litta and Matteo Romanello,	*Overview of the Named Entity Recognition Task at EvaLatin 2026*
 - *12:45-12:55* - Callum Chan, *Transfer Learning for Named Entity Recognition of Classical Latin through LLM Prompting*
 - *12:55-13:00* - QA
  
