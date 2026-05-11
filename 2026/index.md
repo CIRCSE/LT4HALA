@@ -5,10 +5,10 @@
 
 # The Fourth Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2026)
 ## Co-located with [LREC 2026](https://lrec2026.info/)
-## Location: Palma, Mallorca (Spain), Palau de Congressos de Palma, Room Menorca (third floor)
+## Location: Palma, Mallorca (Spain), Palau de Congressos de Palma, Room Menorca 2 (third floor)
 ## Date: Monday, May 11 2026
 ## Submission page: [https://softconf.com/lrec2026/LT4HALA2026/](https://softconf.com/lrec2026/LT4HALA2026/)
-## Proceedings: TBA
+## Proceedings: [http://lrec-conf.org/proceedings/lrec2026/workshops/lt4hala/2026.lt4hala-1.0.pdf](http://lrec-conf.org/proceedings/lrec2026/workshops/lt4hala/2026.lt4hala-1.0.pdf)
 
 Word-cloud of keywords extracted from the abstracts of the main workshop accepted papers with [KD-Keyphrase digger](http://dh-server.fbk.eu/KD_KeyDigger/).
 
