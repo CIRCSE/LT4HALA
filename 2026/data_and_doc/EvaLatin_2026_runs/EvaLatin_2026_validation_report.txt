@@ -1,0 +1,1522 @@
+OMNESFLORES:
+
+POETRY1
+<Path> python3 <ValidatorPath>/validate.py --lang=la --max-err=0 <RunPath>parsing_EvaLatin_2026_poetry_test_data_OmnesFlores_1.conllu
+
+[Line 417 Sent SenPhoen-P-17-27]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 6] ('domum', 'regna') under the predicate 'petant'.
+[Line 433 Sent SenPhoen-P-17-28]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 8] ('hunc', 'sceptra') under the predicate 'auferet'.
+[Line 461 Sent SenPhoen-P-17-28]: [L3 SYNTAX too-many-objects] Multiple direct objects [26, 31] ('nostros', 'manum') under the predicate 'cadat'.
+[Line 688 Sent SenPhoen-P-17-46]: [L3 SYNTAX too-many-objects] Multiple direct objects [13, 19] ('undas', 'lampas') under the predicate 'afferet'.
+[Line 787 Sent SenPhoen-P-17-53]: [L3 SYNTAX too-many-subjects] Multiple subjects [4, 8] ('nolentem', 'qui') under the predicate 'impedit' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 1033 Sent SenPhoen-P-17-66]: [L3 SYNTAX too-many-objects] Multiple direct objects [40, 46] ('Elin', 'agros') under the predicate 'tondes'.
+[Line 1612 Sent SenPhoen-P-17-100]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 4] ('hoc', 'te') under the predicate 'uoca'.
+[Line 1672 Sent SenPhoen-P-17-105]: [L3 SYNTAX too-many-objects] Multiple direct objects [5, 7] ('natos', 'matrem') under the predicate 'fugis'.
+[Line 1717 Sent SenPhoen-P-17-109]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 7] ('me', 'pectus') under the predicate 'fugio'.
+[Line 2133 Sent SenPhoen-P-17-134]: [L3 SYNTAX too-many-objects] Multiple direct objects [36, 39] ('pretium', 'scelus') under the predicate 'accepi'.
+[Line 2297 Sent SenPhoen-P-17-141]: [L3 SYNTAX too-many-subjects] Multiple subjects [1, 7] ('tu', 'tu') under the predicate 'potes' not subtyped as ':outer'.
+[Line 2467 Sent SenPhoen-P-17-150]: [L3 SYNTAX too-many-objects] Multiple direct objects [20, 21] ('te', 'flammas') under the predicate 'iubente'.
+[Line 2969 Sent SenPhoen-P-17-176]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 2] ('uota', 'quae') under the predicate 'faciam'.
+[Line 3117 Sent SenPhoen-P-17-182]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 5] ('amorem', 'pacem') under the predicate 'redde'.
+[Line 3743 Sent SenPhoen-P-17-220]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB' ('mane')
+[Line 3797 Sent SenPhoen-P-17-224]: [L3 SYNTAX too-many-subjects] Multiple subjects [1, 3] ('ille', 'tu') under the predicate 'times' not subtyped as ':outer'.
+[Line 3797 Sent SenPhoen-P-17-224]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 4] ('te', 'illum') under the predicate 'times'.
+[Line 3821 Sent SenPhoen-P-17-227]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 6] ('id', 'bellum') under the predicate 'gerere'.
+[Line 4246 Sent SenPhoen-P-17-248]: [L3 SYNTAX too-many-objects] Multiple direct objects [75, 78] ('quae', 'domos') under the predicate 'petunt'.
+[Line 4254 Sent SenPhoen-P-17-248]: [L3 SYNTAX too-many-subjects] Multiple subjects [81, 82] ('facinus', 'quod') under the predicate 'nouum' not subtyped as ':outer'.
+[Line 4269 Sent SenPhoen-P-17-248]: [L3 SYNTAX too-many-objects] Multiple direct objects [92, 97] ('exercitus', 'hoc') under the predicate 'uidit'.
+[Line 4766 Sent SenPhoen-P-17-279]: [L3 SYNTAX too-many-objects] Multiple direct objects [75, 83] ('regna', 'arma') under the predicate 'ferat'.
+[Line 4967 Sent SenPhoen-P-17-291]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 2] ('hunc', 'quem') under the predicate 'uincere'.
+SYNTAX errors: 23
+*** FAILED *** with 23 errors
+
+
+POETRY2
+<Path> python3 <ValidatorPath>/validate.py --lang=la --max-err=0 <RunPath>/parsing_EvaLatin_2026_poetry_test_data_OmnesFlores_2.conllu
+
+[Line 12 Sent SenPhoen-P-17-1]: [L4 MORPHO feature-value-upos-not-permitted] Value Acc of feature Case is not permitted with UPOS ADV in language [la] ('quam').
+
+The following 126 feature values are currently permitted in language [la]:
+Abbr=Yes, AdpType=Post, AdpType=Prep, AdvType=Loc, AdvType=Tim, Aspect=Imp, Aspect=Inch, Aspect=Perf, Aspect=Prosp, Case=Abl, Case=Acc, Case=Dat, Case=Gen, Case=Loc, Case=Nom, Case=Voc, Compound=Yes, Degree=Abs, Degree=Cmp, Degree=Dim, Degree=Pos, Degree=Sup, ExtPos=ADJ, ExtPos=ADP, ExtPos=ADV, ExtPos=CCONJ, ExtPos=DET, ExtPos=INTJ, ExtPos=PRON, ExtPos=PROPN, ExtPos=SCONJ, Foreign=Yes, Form=Emp, Gender=Fem, Gender=Masc, Gender=Neut, InflClass=Ind, InflClass=IndEurA, InflClass=IndEurE, InflClass=IndEurI, InflClass=IndEurO, InflClass=IndEurU, InflClass=IndEurX, InflClass=LatA, InflClass=LatAnom, InflClass=LatE, InflClass=LatI, InflClass=LatI2, InflClass=LatPron, InflClass=LatX, InflClass[nominal]=Ind, InflClass[nominal]=IndEurA, InflClass[nominal]=IndEurI, InflClass[nominal]=IndEurO, InflClass[nominal]=IndEurU, InflClass[nominal]=IndEurX, Mood=Imp, Mood=Ind, Mood=Sub, NameType=Ast, NameType=Cal, NameType=Com, NameType=Geo, NameType=Giv, NameType=Let, NameType=Lit, NameType=Met, NameType=Nat, NameType=Oth, NameType=Rel, NameType=Sur, NumForm=Digit, NumForm=Reference, NumForm=Roman, NumForm=Word, NumType=Card, NumType=Dist, NumType=Mult, NumType=Ord, NumValue=1, NumValue=2, Number=Plur, Number=Sing, Number[psor]=Plur, Number[psor]=Sing, PartType=Emp, PartType=Int, Person=1, Person=2, Person=3, Person[psor]=1, Person[psor]=2, Person[psor]=3, Polarity=Neg, Poss=Yes, PronType=Art, PronType=Con, PronType=Dem, PronType=Ind, PronType=Int, PronType=Neg, PronType=Prs, PronType=Rcp, PronType=Rel, PronType=Tot, Proper=Yes, Reflex=Yes, Style=Arch, Tense=Fut, Tense=Past, Tense=Pqp, Tense=Pres, Typo=Yes, Variant=Archaic, Variant=Greek, VerbForm=Conv, VerbForm=Fin, VerbForm=Gdv, VerbForm=Ger, VerbForm=Inf, VerbForm=Part, VerbForm=Sup, VerbForm=Vnoun, VerbType=Mod, Voice=Act, Voice=Pass
+If a language needs a feature that is not documented in the universal guidelines, the feature must
+have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+All features including universal must be specifically turned on for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl for details.
+
+
+[Line 12 Sent SenPhoen-P-17-1]: [L4 MORPHO feature-value-upos-not-permitted] Value Fem of feature Gender is not permitted with UPOS ADV in language [la] ('quam').
+[Line 12 Sent SenPhoen-P-17-1]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('quam').
+[Line 12 Sent SenPhoen-P-17-1]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('quam').
+[Line 13 Sent SenPhoen-P-17-1]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('tanti').
+[Line 17 Sent SenPhoen-P-17-1]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS CCONJ in language [la] ('uel').
+[Line 41 Sent SenPhoen-P-17-3]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('solus').
+[Line 41 Sent SenPhoen-P-17-3]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('solus').
+[Line 60 Sent SenPhoen-P-17-4]: [L4 MORPHO feature-value-upos-not-permitted] Value Acc of feature Case is not permitted with UPOS ADV in language [la] ('quantulum').
+[Line 60 Sent SenPhoen-P-17-4]: [L4 MORPHO feature-value-upos-not-permitted] Value Masc of feature Gender is not permitted with UPOS ADV in language [la] ('quantulum').
+[Line 60 Sent SenPhoen-P-17-4]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS ADV in language [la] ('quantulum').
+[Line 60 Sent SenPhoen-P-17-4]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('quantulum').
+[Line 60 Sent SenPhoen-P-17-4]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('quantulum').
+[Line 70 Sent SenPhoen-P-17-5]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('conscium').
+[Line 139 Sent SenPhoen-P-17-7]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('inlisum').
+[Line 139 Sent SenPhoen-P-17-7]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('inlisum').
+[Line 139 Sent SenPhoen-P-17-7]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('inlisum').
+[Line 139 Sent SenPhoen-P-17-7]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('inlisum').
+[Line 173 Sent SenPhoen-P-17-7]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('natum').
+[Line 199 Sent SenPhoen-P-17-8]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('petam').
+[Line 199 Sent SenPhoen-P-17-8]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('petam').
+[Line 199 Sent SenPhoen-P-17-8]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('petam').
+[Line 199 Sent SenPhoen-P-17-8]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('petam').
+[Line 199 Sent SenPhoen-P-17-8]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('petam').
+[Line 199 Sent SenPhoen-P-17-8]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('petam').
+[Line 199 Sent SenPhoen-P-17-8]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('petam').
+[Line 231 Sent SenPhoen-P-17-10]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('senex').
+[Line 234 Sent SenPhoen-P-17-10]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('infans').
+[Line 246 Sent SenPhoen-P-17-12]: [L4 MORPHO feature-value-upos-not-permitted] Value Voc of feature Case is not permitted with UPOS ADV in language [la] ('saeue').
+[Line 246 Sent SenPhoen-P-17-12]: [L4 MORPHO feature-value-upos-not-permitted] Value Masc of feature Gender is not permitted with UPOS ADV in language [la] ('saeue').
+[Line 246 Sent SenPhoen-P-17-12]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('saeue').
+[Line 246 Sent SenPhoen-P-17-12]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('saeue').
+[Line 264 Sent SenPhoen-P-17-12]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS CCONJ in language [la] ('et').
+[Line 279 Sent SenPhoen-P-17-14]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS VERB in language [la] ('nata').
+[Line 300 Sent SenPhoen-P-17-17]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADV in language [la] ('parce').
+[Line 300 Sent SenPhoen-P-17-17]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('parce').
+[Line 300 Sent SenPhoen-P-17-17]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADV in language [la] ('parce').
+[Line 300 Sent SenPhoen-P-17-17]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('parce').
+[Line 300 Sent SenPhoen-P-17-17]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADV in language [la] ('parce').
+[Line 300 Sent SenPhoen-P-17-17]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADV in language [la] ('parce').
+[Line 300 Sent SenPhoen-P-17-17]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADV in language [la] ('parce').
+[Line 324 Sent SenPhoen-P-17-19]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS VERB in language [la] ('nata').
+[Line 344 Sent SenPhoen-P-17-21]: [L4 MORPHO feature-value-upos-not-permitted] Value LatAnom of feature InflClass is not permitted with UPOS DET in language [la] ('tui').
+[Line 356 Sent SenPhoen-P-17-22]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('totam').
+[Line 356 Sent SenPhoen-P-17-22]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('totam').
+[Line 362 Sent SenPhoen-P-17-22]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('uiuo').
+[Line 362 Sent SenPhoen-P-17-22]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('uiuo').
+[Line 362 Sent SenPhoen-P-17-22]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADJ in language [la] ('uiuo').
+[Line 362 Sent SenPhoen-P-17-22]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADJ in language [la] ('uiuo').
+[Line 362 Sent SenPhoen-P-17-22]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('uiuo').
+[Line 362 Sent SenPhoen-P-17-22]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS ADJ in language [la] ('uiuo').
+[Line 362 Sent SenPhoen-P-17-22]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('uiuo').
+[Line 375 Sent SenPhoen-P-17-24]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('miser').
+[Line 388 Sent SenPhoen-P-17-25]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurI of feature InflClass is not permitted with UPOS PRON in language [la] ('omnia').
+[Line 423 Sent SenPhoen-P-17-27]: [L3 SYNTAX too-many-subjects] Multiple subjects [9, 17] ('pars', 'pater') under the predicate 'regno' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 470 Sent SenPhoen-P-17-29]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 470 Sent SenPhoen-P-17-29]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 470 Sent SenPhoen-P-17-29]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 470 Sent SenPhoen-P-17-29]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 470 Sent SenPhoen-P-17-29]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 470 Sent SenPhoen-P-17-29]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 470 Sent SenPhoen-P-17-29]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 474 Sent SenPhoen-P-17-29]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('inuiti').
+[Line 486 Sent SenPhoen-P-17-31]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('praerupta').
+[Line 487 Sent SenPhoen-P-17-31]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('appetis').
+[Line 487 Sent SenPhoen-P-17-31]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('appetis').
+[Line 487 Sent SenPhoen-P-17-31]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('appetis').
+[Line 487 Sent SenPhoen-P-17-31]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('appetis').
+[Line 487 Sent SenPhoen-P-17-31]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('appetis').
+[Line 487 Sent SenPhoen-P-17-31]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('appetis').
+[Line 487 Sent SenPhoen-P-17-31]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('appetis').
+[Line 529 Sent SenPhoen-P-17-33]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 529 Sent SenPhoen-P-17-33]: [L4 MORPHO feature-value-upos-not-permitted] Value LatAnom of feature InflClass is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 529 Sent SenPhoen-P-17-33]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 529 Sent SenPhoen-P-17-33]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 529 Sent SenPhoen-P-17-33]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 529 Sent SenPhoen-P-17-33]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 529 Sent SenPhoen-P-17-33]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 545 Sent SenPhoen-P-17-34]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 545 Sent SenPhoen-P-17-34]: [L4 MORPHO feature-value-upos-not-permitted] Value LatAnom of feature InflClass is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 545 Sent SenPhoen-P-17-34]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 545 Sent SenPhoen-P-17-34]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 545 Sent SenPhoen-P-17-34]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 545 Sent SenPhoen-P-17-34]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 545 Sent SenPhoen-P-17-34]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 560 Sent SenPhoen-P-17-35]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('exesas').
+[Line 560 Sent SenPhoen-P-17-35]: [L4 MORPHO feature-value-upos-not-permitted] Value LatAnom of feature InflClass is not permitted with UPOS ADJ in language [la] ('exesas').
+[Line 560 Sent SenPhoen-P-17-35]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('exesas').
+[Line 560 Sent SenPhoen-P-17-35]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('exesas').
+[Line 564 Sent SenPhoen-P-17-35]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('ruamus').
+[Line 564 Sent SenPhoen-P-17-35]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('ruamus').
+[Line 564 Sent SenPhoen-P-17-35]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('ruamus').
+[Line 564 Sent SenPhoen-P-17-35]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('ruamus').
+[Line 564 Sent SenPhoen-P-17-35]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('ruamus').
+[Line 564 Sent SenPhoen-P-17-35]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('ruamus').
+[Line 564 Sent SenPhoen-P-17-35]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('ruamus').
+[Line 551 Sent SenPhoen-P-17-35]: [L3 WARNING pron-det-without-prontype] The word 'hic' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 572 Sent SenPhoen-P-17-36]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS PRON in language [la] ('eo').
+[Line 572 Sent SenPhoen-P-17-36]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS PRON in language [la] ('eo').
+[Line 572 Sent SenPhoen-P-17-36]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS PRON in language [la] ('eo').
+[Line 572 Sent SenPhoen-P-17-36]: [L4 MORPHO feature-upos-not-permitted] Feature VerbForm is not permitted with UPOS PRON in language [la] ('eo').
+[Line 572 Sent SenPhoen-P-17-36]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS PRON in language [la] ('eo').
+[Line 572 Sent SenPhoen-P-17-36]: [L3 WARNING pron-det-without-prontype] The word 'eo' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 619 Sent SenPhoen-P-17-40]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('tantis').
+[Line 682 Sent SenPhoen-P-17-46]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('citas').
+[Line 683 Sent SenPhoen-P-17-46]: [L3 SYNTAX too-many-subjects] Multiple subjects [11, 14] ('citas', 'amnis') under the predicate 'reuolutus' not subtyped as ':outer'.
+[Line 754 Sent SenPhoen-P-17-51]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('ducis').
+[Line 754 Sent SenPhoen-P-17-51]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('ducis').
+[Line 754 Sent SenPhoen-P-17-51]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('ducis').
+[Line 754 Sent SenPhoen-P-17-51]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('ducis').
+[Line 754 Sent SenPhoen-P-17-51]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('ducis').
+[Line 754 Sent SenPhoen-P-17-51]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('ducis').
+[Line 754 Sent SenPhoen-P-17-51]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('ducis').
+[Line 765 Sent SenPhoen-P-17-52]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('peccas').
+[Line 765 Sent SenPhoen-P-17-52]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS NOUN in language [la] ('peccas').
+[Line 765 Sent SenPhoen-P-17-52]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('peccas').
+[Line 765 Sent SenPhoen-P-17-52]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('peccas').
+[Line 765 Sent SenPhoen-P-17-52]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('peccas').
+[Line 765 Sent SenPhoen-P-17-52]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('peccas').
+[Line 765 Sent SenPhoen-P-17-52]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('peccas').
+[Line 793 Sent SenPhoen-P-17-53]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('alterum').
+[Line 793 Sent SenPhoen-P-17-53]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('alterum').
+[Line 811 Sent SenPhoen-P-17-54]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('coepto').
+[Line 828 Sent SenPhoen-P-17-55]: [L4 MORPHO feature-value-upos-not-permitted] Value LatAnom of feature InflClass is not permitted with UPOS DET in language [la] ('mei').
+[Line 837 Sent SenPhoen-P-17-56]: [L4 MORPHO feature-value-upos-not-permitted] Value Acc of feature Case is not permitted with UPOS ADV in language [la] ('ensem').
+[Line 837 Sent SenPhoen-P-17-56]: [L4 MORPHO feature-value-upos-not-permitted] Value Masc of feature Gender is not permitted with UPOS ADV in language [la] ('ensem').
+[Line 837 Sent SenPhoen-P-17-56]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('ensem').
+[Line 837 Sent SenPhoen-P-17-56]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('ensem').
+[Line 843 Sent SenPhoen-P-17-56]: [L4 MORPHO feature-value-upos-not-permitted] Value Acc of feature Case is not permitted with UPOS ADV in language [la] ('ensem').
+[Line 843 Sent SenPhoen-P-17-56]: [L4 MORPHO feature-value-upos-not-permitted] Value Masc of feature Gender is not permitted with UPOS ADV in language [la] ('ensem').
+[Line 843 Sent SenPhoen-P-17-56]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('ensem').
+[Line 843 Sent SenPhoen-P-17-56]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('ensem').
+[Line 852 Sent SenPhoen-P-17-58]: [L4 MORPHO feature-upos-not-permitted] Feature PartType is not permitted with UPOS ADV in language [la] ('an').
+[Line 857 Sent SenPhoen-P-17-58]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS CCONJ in language [la] ('et').
+[Line 898 Sent SenPhoen-P-17-61]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurX of feature InflClass is not permitted with UPOS VERB in language [la] ('struem').
+[Line 1005 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('notum').
+[Line 1006 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('sacra').
+[Line 1014 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('bibis').
+[Line 1014 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('bibis').
+[Line 1014 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('bibis').
+[Line 1014 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('bibis').
+[Line 1014 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('bibis').
+[Line 1014 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('bibis').
+[Line 1014 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('bibis').
+[Line 1034 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-value-upos-not-permitted] Value Gen of feature Case is not permitted with UPOS ADV in language [la] ('soli').
+[Line 1034 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS ADV in language [la] ('soli').
+[Line 1034 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('soli').
+[Line 1034 Sent SenPhoen-P-17-66]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('soli').
+[Line 1068 Sent SenPhoen-P-17-69]: [L4 MORPHO feature-upos-not-permitted] Feature Person[psor] is not permitted with UPOS PRON in language [la] ('suorum').
+[Line 1073 Sent SenPhoen-P-17-69]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS NUM in language [la] ('uno').
+[Line 1087 Sent SenPhoen-P-17-70]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('tanta').
+[Line 1109 Sent SenPhoen-P-17-72]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS ADP in language [la] ('ultra').
+[Line 1178 Sent SenPhoen-P-17-77]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('artis').
+[Line 1234 Sent SenPhoen-P-17-82]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS CCONJ in language [la] ('et').
+[Line 1242 Sent SenPhoen-P-17-82]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('toto').
+[Line 1242 Sent SenPhoen-P-17-82]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('toto').
+[Line 1244 Sent SenPhoen-P-17-82]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('toto').
+[Line 1244 Sent SenPhoen-P-17-82]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('toto').
+[Line 1247 Sent SenPhoen-P-17-82]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('totis').
+[Line 1247 Sent SenPhoen-P-17-82]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('totis').
+[Line 1254 Sent SenPhoen-P-17-83]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS NUM in language [la] ('unum').
+[Line 1258 Sent SenPhoen-P-17-83]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('totus').
+[Line 1258 Sent SenPhoen-P-17-83]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('totus').
+[Line 1279 Sent SenPhoen-P-17-84]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('nuda').
+[Line 1279 Sent SenPhoen-P-17-84]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS ADJ in language [la] ('nuda').
+[Line 1279 Sent SenPhoen-P-17-84]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADJ in language [la] ('nuda').
+[Line 1279 Sent SenPhoen-P-17-84]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADJ in language [la] ('nuda').
+[Line 1279 Sent SenPhoen-P-17-84]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('nuda').
+[Line 1279 Sent SenPhoen-P-17-84]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS ADJ in language [la] ('nuda').
+[Line 1279 Sent SenPhoen-P-17-84]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('nuda').
+[Line 1285 Sent SenPhoen-P-17-85]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('incitatis').
+[Line 1307 Sent SenPhoen-P-17-86]: [L4 MORPHO feature-value-upos-not-permitted] Value Card of feature NumType is not permitted with UPOS ADJ in language [la] ('multo').
+[Line 1307 Sent SenPhoen-P-17-86]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('multo').
+[Line 1312 Sent SenPhoen-P-17-86]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS PRON in language [la] ('hac').
+[Line 1312 Sent SenPhoen-P-17-86]: [L3 WARNING pron-det-without-prontype] The word 'hac' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1331 Sent SenPhoen-P-17-87]: [L4 MORPHO feature-value-upos-not-permitted] Value Acc of feature Case is not permitted with UPOS ADV in language [la] ('tantum').
+[Line 1331 Sent SenPhoen-P-17-87]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS ADV in language [la] ('tantum').
+[Line 1331 Sent SenPhoen-P-17-87]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('tantum').
+[Line 1331 Sent SenPhoen-P-17-87]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('tantum').
+[Line 1342 Sent SenPhoen-P-17-87]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('contentus').
+[Line 1405 Sent SenPhoen-P-17-90]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurU of feature InflClass is not permitted with UPOS VERB in language [la] ('uultus').
+[Line 1413 Sent SenPhoen-P-17-91]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS AUX in language [la] ('eruisti').
+[Line 1413 Sent SenPhoen-P-17-91]: [L5 MORPHO aux-lemma] 'eruo' is not an auxiliary in language [la]
+
+The following 3 auxiliaries are currently documented in language [la]:
+eo, habeo, sum
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl?lcode=la for details.
+
+
+[Line 1413 Sent SenPhoen-P-17-91]: [L5 SYNTAX cop-lemma] 'eruo' is not a copula in language [la]
+
+The following 1 copulas are currently documented in language [la]:
+sum
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl?lcode=la for details.
+
+
+[Line 1412 Sent SenPhoen-P-17-91]: [L3 SYNTAX leaf-aux-cop] 'cop' not expected to have children (5:eruisti:cop --> 4:minus:advmod)
+[Line 1414 Sent SenPhoen-P-17-91]: [L3 SYNTAX leaf-aux-cop] 'cop' not expected to have children (5:eruisti:cop --> 6:lumina:nsubj)
+[Line 1436 Sent SenPhoen-P-17-93]: [L4 MORPHO feature-value-upos-not-permitted] Value Card of feature NumType is not permitted with UPOS ADJ in language [la] ('pauca').
+[Line 1436 Sent SenPhoen-P-17-93]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('pauca').
+[Line 1446 Sent SenPhoen-P-17-93]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS VERB in language [la] ('placata').
+[Line 1475 Sent SenPhoen-P-17-94]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('remisso').
+[Line 1493 Sent SenPhoen-P-17-94]: [L3 SYNTAX too-many-objects] Multiple direct objects [40, 43] ('uictum', 'terga') under the predicate 'dare'.
+[Line 1566 Sent SenPhoen-P-17-97]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('situs').
+[Line 1566 Sent SenPhoen-P-17-97]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('situs').
+[Line 1566 Sent SenPhoen-P-17-97]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('situs').
+[Line 1566 Sent SenPhoen-P-17-97]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS NOUN in language [la] ('situs').
+[Line 1566 Sent SenPhoen-P-17-97]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('situs').
+[Line 1612 Sent SenPhoen-P-17-100]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 4] ('hoc', 'te') under the predicate 'uoca'.
+[Line 1627 Sent SenPhoen-P-17-101]: [L4 MORPHO feature-upos-not-permitted] Feature Case is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 1627 Sent SenPhoen-P-17-101]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 1627 Sent SenPhoen-P-17-101]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 1627 Sent SenPhoen-P-17-101]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 1694 Sent SenPhoen-P-17-106]: [L3 SYNTAX too-many-subjects] Multiple subjects [12, 18] ('mors', 'tumultus') under the predicate 'abstulit' not subtyped as ':outer'.
+[Line 1766 Sent SenPhoen-P-17-112]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('satior').
+[Line 1766 Sent SenPhoen-P-17-112]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS ADJ in language [la] ('satior').
+[Line 1766 Sent SenPhoen-P-17-112]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADJ in language [la] ('satior').
+[Line 1766 Sent SenPhoen-P-17-112]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADJ in language [la] ('satior').
+[Line 1766 Sent SenPhoen-P-17-112]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('satior').
+[Line 1766 Sent SenPhoen-P-17-112]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS ADJ in language [la] ('satior').
+[Line 1766 Sent SenPhoen-P-17-112]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('satior').
+[Line 1805 Sent SenPhoen-P-17-115]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS DET in language [la] ('quirem').
+[Line 1805 Sent SenPhoen-P-17-115]: [L4 MORPHO feature-value-upos-not-permitted] Value LatAnom of feature InflClass is not permitted with UPOS DET in language [la] ('quirem').
+[Line 1805 Sent SenPhoen-P-17-115]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS DET in language [la] ('quirem').
+[Line 1805 Sent SenPhoen-P-17-115]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS DET in language [la] ('quirem').
+[Line 1805 Sent SenPhoen-P-17-115]: [L4 MORPHO feature-upos-not-permitted] Feature VerbForm is not permitted with UPOS DET in language [la] ('quirem').
+[Line 1805 Sent SenPhoen-P-17-115]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS DET in language [la] ('quirem').
+[Line 1824 Sent SenPhoen-P-17-115]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS VERB in language [la] ('nata').
+[Line 1827 Sent SenPhoen-P-17-115]: [L4 MORPHO feature-value-upos-not-permitted] Value LatAnom of feature InflClass is not permitted with UPOS DET in language [la] ('tui').
+[Line 1805 Sent SenPhoen-P-17-115]: [L3 WARNING pron-det-without-prontype] The word 'quirem' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1877 Sent SenPhoen-P-17-119]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('grauo').
+[Line 1877 Sent SenPhoen-P-17-119]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS ADJ in language [la] ('grauo').
+[Line 1877 Sent SenPhoen-P-17-119]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADJ in language [la] ('grauo').
+[Line 1877 Sent SenPhoen-P-17-119]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADJ in language [la] ('grauo').
+[Line 1877 Sent SenPhoen-P-17-119]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('grauo').
+[Line 1877 Sent SenPhoen-P-17-119]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS ADJ in language [la] ('grauo').
+[Line 1877 Sent SenPhoen-P-17-119]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('grauo').
+[Line 1943 Sent SenPhoen-P-17-125]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('infanti').
+[Line 2000 Sent SenPhoen-P-17-128]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS CCONJ in language [la] ('et').
+[Line 2006 Sent SenPhoen-P-17-129]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('abditum').
+[Line 2008 Sent SenPhoen-P-17-129]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('dubium').
+[Line 2013 Sent SenPhoen-P-17-129]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('infandi').
+[Line 2044 Sent SenPhoen-P-17-129]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('regio').
+[Line 2068 Sent SenPhoen-P-17-131]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('straui').
+[Line 2068 Sent SenPhoen-P-17-131]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('straui').
+[Line 2068 Sent SenPhoen-P-17-131]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADJ in language [la] ('straui').
+[Line 2068 Sent SenPhoen-P-17-131]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADJ in language [la] ('straui').
+[Line 2068 Sent SenPhoen-P-17-131]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('straui').
+[Line 2068 Sent SenPhoen-P-17-131]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS ADJ in language [la] ('straui').
+[Line 2068 Sent SenPhoen-P-17-131]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('straui').
+[Line 2076 Sent SenPhoen-P-17-132]: [L3 SYNTAX too-many-subjects] Multiple subjects [1, 6] ('hoc', 'patrem') under the predicate 'redimet' not subtyped as ':outer'.
+[Line 2184 Sent SenPhoen-P-17-137]: [L4 MORPHO feature-value-upos-not-permitted] Value Acc of feature Case is not permitted with UPOS ADV in language [la] ('alias').
+[Line 2184 Sent SenPhoen-P-17-137]: [L4 MORPHO feature-value-upos-not-permitted] Value Fem of feature Gender is not permitted with UPOS ADV in language [la] ('alias').
+[Line 2184 Sent SenPhoen-P-17-137]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('alias').
+[Line 2184 Sent SenPhoen-P-17-137]: [L4 MORPHO feature-value-upos-not-permitted] Value Plur of feature Number is not permitted with UPOS ADV in language [la] ('alias').
+[Line 2217 Sent SenPhoen-P-17-139]: [L4 MORPHO feature-value-upos-not-permitted] Value Nom of feature Case is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2217 Sent SenPhoen-P-17-139]: [L4 MORPHO feature-value-upos-not-permitted] Value Masc of feature Gender is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2217 Sent SenPhoen-P-17-139]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2217 Sent SenPhoen-P-17-139]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2241 Sent SenPhoen-P-17-139]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS VERB in language [la] ('fessis').
+[Line 2275 Sent SenPhoen-P-17-140]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS NUM in language [la] ('una').
+[Line 2283 Sent SenPhoen-P-17-140]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('furentes').
+[Line 2283 Sent SenPhoen-P-17-140]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('furentes').
+[Line 2283 Sent SenPhoen-P-17-140]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('furentes').
+[Line 2283 Sent SenPhoen-P-17-140]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('furentes').
+[Line 2292 Sent SenPhoen-P-17-141]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS NUM in language [la] ('unus').
+[Line 2297 Sent SenPhoen-P-17-141]: [L3 SYNTAX too-many-subjects] Multiple subjects [6, 7] ('unus', 'tu') under the predicate 'potes' not subtyped as ':outer'.
+[Line 2302 Sent SenPhoen-P-17-141]: [L3 SYNTAX too-many-objects] Multiple direct objects [14, 17] ('pacem', 'quietem') under the predicate 'dare'.
+[Line 2334 Sent SenPhoen-P-17-143]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('scelestis').
+[Line 2370 Sent SenPhoen-P-17-145]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('afflicti').
+[Line 2376 Sent SenPhoen-P-17-145]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('attonitum').
+[Line 2409 Sent SenPhoen-P-17-147]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS VERB in language [la] ('nata').
+[Line 2413 Sent SenPhoen-P-17-147]: [L5 MORPHO aux-lemma] 'fleo' is not an auxiliary in language [la]
+[Line 2425 Sent SenPhoen-P-17-149]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS NUM in language [la] ('unum').
+[Line 2438 Sent SenPhoen-P-17-149]: [L3 SYNTAX too-many-objects] Multiple direct objects [12, 15] ('affectus', 'duros') under the predicate 'mollire'.
+[Line 2455 Sent SenPhoen-P-17-150]: [L4 MORPHO feature-upos-not-permitted] Feature Case is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2455 Sent SenPhoen-P-17-150]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2455 Sent SenPhoen-P-17-150]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2455 Sent SenPhoen-P-17-150]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2462 Sent SenPhoen-P-17-150]: [L4 MORPHO feature-value-upos-not-permitted] Value Nom of feature Case is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2462 Sent SenPhoen-P-17-150]: [L4 MORPHO feature-value-upos-not-permitted] Value Masc of feature Gender is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2462 Sent SenPhoen-P-17-150]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2462 Sent SenPhoen-P-17-150]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2501 Sent SenPhoen-P-17-150]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS CCONJ in language [la] ('uel').
+[Line 2450 Sent SenPhoen-P-17-150]: [L3 SYNTAX too-many-subjects] Multiple subjects [1, 9] ('nil', 'sciam') under the predicate 'graue' not subtyped as ':outer'.
+[Line 2471 Sent SenPhoen-P-17-150]: [L3 WARNING pron-det-without-prontype] The word 'que' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2513 Sent SenPhoen-P-17-151]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('pauentes').
+[Line 2513 Sent SenPhoen-P-17-151]: [L4 MORPHO feature-value-upos-not-permitted] Value LatE of feature InflClass is not permitted with UPOS ADJ in language [la] ('pauentes').
+[Line 2513 Sent SenPhoen-P-17-151]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('pauentes').
+[Line 2513 Sent SenPhoen-P-17-151]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('pauentes').
+[Line 2542 Sent SenPhoen-P-17-153]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('pactas').
+[Line 2542 Sent SenPhoen-P-17-153]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('pactas').
+[Line 2542 Sent SenPhoen-P-17-153]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('pactas').
+[Line 2542 Sent SenPhoen-P-17-153]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS NOUN in language [la] ('pactas').
+[Line 2542 Sent SenPhoen-P-17-153]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('pactas').
+[Line 2549 Sent SenPhoen-P-17-153]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 12] ('pactas', 'populos') under the predicate 'agit'.
+[Line 2554 Sent SenPhoen-P-17-153]: [L3 SYNTAX too-many-subjects] Multiple subjects [4, 16] ('frater', 'castra') under the predicate 'premunt' not subtyped as ':outer'.
+[Line 2579 Sent SenPhoen-P-17-155]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('caro').
+[Line 2602 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('laudo').
+[Line 2602 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS NOUN in language [la] ('laudo').
+[Line 2602 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('laudo').
+[Line 2602 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('laudo').
+[Line 2602 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('laudo').
+[Line 2602 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('laudo').
+[Line 2602 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('laudo').
+[Line 2606 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('exhortor').
+[Line 2606 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS NOUN in language [la] ('exhortor').
+[Line 2606 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('exhortor').
+[Line 2606 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('exhortor').
+[Line 2606 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('exhortor').
+[Line 2606 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('exhortor').
+[Line 2606 Sent SenPhoen-P-17-157]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('exhortor').
+[Line 2612 Sent SenPhoen-P-17-157]: [L3 SYNTAX too-many-objects] Multiple direct objects [13, 16] ('aliquid', 'hoc') under the predicate 'gerant'.
+[Line 2623 Sent SenPhoen-P-17-158]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('factis').
+[Line 2689 Sent SenPhoen-P-17-161]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('maculatos').
+[Line 2689 Sent SenPhoen-P-17-161]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS ADJ in language [la] ('maculatos').
+[Line 2689 Sent SenPhoen-P-17-161]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('maculatos').
+[Line 2689 Sent SenPhoen-P-17-161]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('maculatos').
+[Line 2680 Sent SenPhoen-P-17-161]: [L3 SYNTAX too-many-objects] Multiple direct objects [18, 21] ('omnia', 'moenia') under the predicate 'disicite'.
+[Line 2735 Sent SenPhoen-P-17-163]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurI of feature InflClass is not permitted with UPOS VERB in language [la] ('amantem').
+[Line 2746 Sent SenPhoen-P-17-164]: [L3 SYNTAX too-many-subjects] Multiple subjects [3, 6] ('ira', 'dolor') under the predicate 'feruet' not subtyped as ':outer'.
+[Line 2760 Sent SenPhoen-P-17-164]: [L3 SYNTAX too-many-objects] Multiple direct objects [7, 16] ('maius', 'aliquid') under the predicate 'cupio'.
+[Line 2765 Sent SenPhoen-P-17-165]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('satis').
+[Line 2776 Sent SenPhoen-P-17-165]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('sat').
+[Line 2778 Sent SenPhoen-P-17-165]: [L4 MORPHO feature-upos-not-permitted] Feature Case is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2778 Sent SenPhoen-P-17-165]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2778 Sent SenPhoen-P-17-165]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2778 Sent SenPhoen-P-17-165]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2807 Sent SenPhoen-P-17-166]: [L4 MORPHO feature-value-upos-not-permitted] Value Abl of feature Case is not permitted with UPOS ADV in language [la] ('sepe').
+[Line 2807 Sent SenPhoen-P-17-166]: [L4 MORPHO feature-value-upos-not-permitted] Value Fem of feature Gender is not permitted with UPOS ADV in language [la] ('sepe').
+[Line 2807 Sent SenPhoen-P-17-166]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('sepe').
+[Line 2807 Sent SenPhoen-P-17-166]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('sepe').
+[Line 2824 Sent SenPhoen-P-17-167]: [L4 MORPHO feature-upos-not-permitted] Feature Case is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2824 Sent SenPhoen-P-17-167]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2824 Sent SenPhoen-P-17-167]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2824 Sent SenPhoen-P-17-167]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 2860 Sent SenPhoen-P-17-169]: [L3 SYNTAX too-many-subjects] Multiple subjects [1, 6] ('hoc', 'nocens') under the predicate 'leue' not subtyped as ':outer'.
+[Line 2875 Sent SenPhoen-P-17-170]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('peperi').
+[Line 2875 Sent SenPhoen-P-17-170]: [L4 MORPHO feature-value-upos-not-permitted] Value LatI2 of feature InflClass is not permitted with UPOS NOUN in language [la] ('peperi').
+[Line 2875 Sent SenPhoen-P-17-170]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('peperi').
+[Line 2875 Sent SenPhoen-P-17-170]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('peperi').
+[Line 2875 Sent SenPhoen-P-17-170]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('peperi').
+[Line 2875 Sent SenPhoen-P-17-170]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('peperi').
+[Line 2875 Sent SenPhoen-P-17-170]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('peperi').
+[Line 2876 Sent SenPhoen-P-17-170]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurI of feature InflClass is not permitted with UPOS VERB in language [la] ('nocentes').
+[Line 2908 Sent SenPhoen-P-17-172]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('profugus').
+[Line 2912 Sent SenPhoen-P-17-172]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('Graiorum').
+[Line 2927 Sent SenPhoen-P-17-173]: [L4 MORPHO feature-value-upos-not-permitted] Value Nom of feature Case is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2927 Sent SenPhoen-P-17-173]: [L4 MORPHO feature-value-upos-not-permitted] Value Masc of feature Gender is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2927 Sent SenPhoen-P-17-173]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2927 Sent SenPhoen-P-17-173]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('hic').
+[Line 2975 Sent SenPhoen-P-17-177]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('natum').
+[Line 2984 Sent SenPhoen-P-17-177]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('alteri').
+[Line 2984 Sent SenPhoen-P-17-177]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('alteri').
+[Line 2986 Sent SenPhoen-P-17-177]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('nato').
+[Line 2988 Sent SenPhoen-P-17-177]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('alterius').
+[Line 2988 Sent SenPhoen-P-17-177]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('alterius').
+[Line 3016 Sent SenPhoen-P-17-178]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS PRON in language [la] ('suis').
+[Line 3016 Sent SenPhoen-P-17-178]: [L4 MORPHO feature-upos-not-permitted] Feature Person[psor] is not permitted with UPOS PRON in language [la] ('suis').
+[Line 3027 Sent SenPhoen-P-17-179]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('teris').
+[Line 3027 Sent SenPhoen-P-17-179]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('teris').
+[Line 3027 Sent SenPhoen-P-17-179]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('teris').
+[Line 3027 Sent SenPhoen-P-17-179]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('teris').
+[Line 3027 Sent SenPhoen-P-17-179]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('teris').
+[Line 3027 Sent SenPhoen-P-17-179]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('teris').
+[Line 3027 Sent SenPhoen-P-17-179]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('teris').
+[Line 3050 Sent SenPhoen-P-17-180]: [L4 MORPHO feature-value-upos-not-permitted] Value Dist of feature NumType is not permitted with UPOS NUM in language [la] ('septena').
+[Line 3061 Sent SenPhoen-P-17-180]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('citato').
+[Line 3116 Sent SenPhoen-P-17-182]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADV in language [la] ('i').
+[Line 3116 Sent SenPhoen-P-17-182]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('i').
+[Line 3116 Sent SenPhoen-P-17-182]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADV in language [la] ('i').
+[Line 3116 Sent SenPhoen-P-17-182]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('i').
+[Line 3116 Sent SenPhoen-P-17-182]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADV in language [la] ('i').
+[Line 3116 Sent SenPhoen-P-17-182]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADV in language [la] ('i').
+[Line 3116 Sent SenPhoen-P-17-182]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADV in language [la] ('i').
+[Line 3126 Sent SenPhoen-P-17-182]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurU of feature InflClass is not permitted with UPOS VERB in language [la] ('oppositu').
+[Line 3163 Sent SenPhoen-P-17-184]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('obuium').
+[Line 3174 Sent SenPhoen-P-17-184]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS ADP in language [la] ('ante').
+[Line 3208 Sent SenPhoen-P-17-186]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS CCONJ in language [la] ('et').
+[Line 3215 Sent SenPhoen-P-17-186]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS NUM in language [la] ('unum').
+[Line 3246 Sent SenPhoen-P-17-188]: [L4 MORPHO feature-value-upos-not-permitted] Value Nom of feature Case is not permitted with UPOS ADV in language [la] ('segne').
+[Line 3246 Sent SenPhoen-P-17-188]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS ADV in language [la] ('segne').
+[Line 3246 Sent SenPhoen-P-17-188]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('segne').
+[Line 3246 Sent SenPhoen-P-17-188]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('segne').
+[Line 3285 Sent SenPhoen-P-17-191]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('praepetem').
+[Line 3313 Sent SenPhoen-P-17-193]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurI of feature InflClass is not permitted with UPOS VERB in language [la] ('furenti').
+[Line 3344 Sent SenPhoen-P-17-194]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('citatis').
+[Line 3348 Sent SenPhoen-P-17-194]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS VERB in language [la] ('attonita').
+[Line 3352 Sent SenPhoen-P-17-194]: [L4 MORPHO feature-value-upos-not-permitted] Value Dist of feature NumType is not permitted with UPOS NUM in language [la] ('binas').
+[Line 3379 Sent SenPhoen-P-17-195]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('suspensa').
+[Line 3392 Sent SenPhoen-P-17-196]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('tectum').
+[Line 3392 Sent SenPhoen-P-17-196]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('tectum').
+[Line 3392 Sent SenPhoen-P-17-196]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('tectum').
+[Line 3392 Sent SenPhoen-P-17-196]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS NOUN in language [la] ('tectum').
+[Line 3392 Sent SenPhoen-P-17-196]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('tectum').
+[Line 3401 Sent SenPhoen-P-17-197]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS VERB in language [la] ('canas').
+[Line 3432 Sent SenPhoen-P-17-199]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS NUM in language [la] ('unam').
+[Line 3438 Sent SenPhoen-P-17-199]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS PROPN in language [la] ('Inachio').
+[Line 3439 Sent SenPhoen-P-17-199]: [L3 SYNTAX too-many-subjects] Multiple subjects [12, 13] ('iuuentus', 'quae') under the predicate 'uenit' not subtyped as ':outer'.
+[Line 3478 Sent SenPhoen-P-17-201]: [L4 MORPHO feature-upos-not-permitted] Feature PartType is not permitted with UPOS ADV in language [la] ('an').
+[Line 3500 Sent SenPhoen-P-17-203]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurI of feature InflClass is not permitted with UPOS VERB in language [la] ('nocentes').
+[Line 3521 Sent SenPhoen-P-17-204]: [L4 MORPHO feature-value-upos-not-permitted] Value Acc of feature Case is not permitted with UPOS ADV in language [la] ('utrum').
+[Line 3521 Sent SenPhoen-P-17-204]: [L4 MORPHO feature-value-upos-not-permitted] Value Masc of feature Gender is not permitted with UPOS ADV in language [la] ('utrum').
+[Line 3521 Sent SenPhoen-P-17-204]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS ADV in language [la] ('utrum').
+[Line 3521 Sent SenPhoen-P-17-204]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('utrum').
+[Line 3521 Sent SenPhoen-P-17-204]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('utrum').
+[Line 3534 Sent SenPhoen-P-17-204]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('paratum').
+[Line 3580 Sent SenPhoen-P-17-209]: [L5 MORPHO aux-lemma] 'absum' is not an auxiliary in language [la]
+[Line 3587 Sent SenPhoen-P-17-209]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('alter').
+[Line 3587 Sent SenPhoen-P-17-209]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('alter').
+[Line 3615 Sent SenPhoen-P-17-211]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('fessus').
+[Line 3658 Sent SenPhoen-P-17-213]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('belligeri').
+[Line 3659 Sent SenPhoen-P-17-213]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('leua').
+[Line 3659 Sent SenPhoen-P-17-213]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS ADJ in language [la] ('leua').
+[Line 3659 Sent SenPhoen-P-17-213]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADJ in language [la] ('leua').
+[Line 3659 Sent SenPhoen-P-17-213]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADJ in language [la] ('leua').
+[Line 3659 Sent SenPhoen-P-17-213]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('leua').
+[Line 3659 Sent SenPhoen-P-17-213]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS ADJ in language [la] ('leua').
+[Line 3659 Sent SenPhoen-P-17-213]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('leua').
+[Line 3681 Sent SenPhoen-P-17-215]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('totum').
+[Line 3681 Sent SenPhoen-P-17-215]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('totum').
+[Line 3684 Sent SenPhoen-P-17-215]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('tegam').
+[Line 3684 Sent SenPhoen-P-17-215]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('tegam').
+[Line 3684 Sent SenPhoen-P-17-215]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('tegam').
+[Line 3684 Sent SenPhoen-P-17-215]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('tegam').
+[Line 3684 Sent SenPhoen-P-17-215]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('tegam').
+[Line 3684 Sent SenPhoen-P-17-215]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('tegam').
+[Line 3684 Sent SenPhoen-P-17-215]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('tegam').
+[Line 3696 Sent SenPhoen-P-17-216]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('haeres').
+[Line 3696 Sent SenPhoen-P-17-216]: [L4 MORPHO feature-value-upos-not-permitted] Value LatE of feature InflClass is not permitted with UPOS NOUN in language [la] ('haeres').
+[Line 3696 Sent SenPhoen-P-17-216]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('haeres').
+[Line 3696 Sent SenPhoen-P-17-216]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('haeres').
+[Line 3696 Sent SenPhoen-P-17-216]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('haeres').
+[Line 3696 Sent SenPhoen-P-17-216]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('haeres').
+[Line 3696 Sent SenPhoen-P-17-216]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('haeres').
+[Line 3700 Sent SenPhoen-P-17-217]: [L4 MORPHO feature-upos-not-permitted] Feature PartType is not permitted with UPOS ADV in language [la] ('an').
+[Line 3720 Sent SenPhoen-P-17-219]: [L4 MORPHO feature-upos-not-permitted] Feature PartType is not permitted with UPOS ADV in language [la] ('ne').
+[Line 3743 Sent SenPhoen-P-17-220]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADV in language [la] ('mane').
+[Line 3743 Sent SenPhoen-P-17-220]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('mane').
+[Line 3743 Sent SenPhoen-P-17-220]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADV in language [la] ('mane').
+[Line 3743 Sent SenPhoen-P-17-220]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('mane').
+[Line 3743 Sent SenPhoen-P-17-220]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADV in language [la] ('mane').
+[Line 3743 Sent SenPhoen-P-17-220]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADV in language [la] ('mane').
+[Line 3743 Sent SenPhoen-P-17-220]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADV in language [la] ('mane').
+[Line 3752 Sent SenPhoen-P-17-221]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('ferri').
+[Line 3766 Sent SenPhoen-P-17-222]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS VERB in language [la] ('inducias').
+[Line 3776 Sent SenPhoen-P-17-222]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('nato').
+[Line 3797 Sent SenPhoen-P-17-224]: [L3 SYNTAX too-many-subjects] Multiple subjects [1, 3] ('ille', 'tu') under the predicate 'times' not subtyped as ':outer'.
+[Line 3797 Sent SenPhoen-P-17-224]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 4] ('te', 'illum') under the predicate 'times'.
+[Line 3810 Sent SenPhoen-P-17-226]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('strictum').
+[Line 3810 Sent SenPhoen-P-17-226]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('strictum').
+[Line 3810 Sent SenPhoen-P-17-226]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('strictum').
+[Line 3810 Sent SenPhoen-P-17-226]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('strictum').
+[Line 3811 Sent SenPhoen-P-17-226]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('abnuis').
+[Line 3811 Sent SenPhoen-P-17-226]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('abnuis').
+[Line 3811 Sent SenPhoen-P-17-226]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADJ in language [la] ('abnuis').
+[Line 3811 Sent SenPhoen-P-17-226]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADJ in language [la] ('abnuis').
+[Line 3811 Sent SenPhoen-P-17-226]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('abnuis').
+[Line 3811 Sent SenPhoen-P-17-226]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS ADJ in language [la] ('abnuis').
+[Line 3811 Sent SenPhoen-P-17-226]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('abnuis').
+[Line 3846 Sent SenPhoen-P-17-229]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS PRON in language [la] ('suis').
+[Line 3846 Sent SenPhoen-P-17-229]: [L4 MORPHO feature-upos-not-permitted] Feature Person[psor] is not permitted with UPOS PRON in language [la] ('suis').
+[Line 3857 Sent SenPhoen-P-17-230]: [L4 MORPHO feature-upos-not-permitted] Feature PartType is not permitted with UPOS ADV in language [la] ('ne').
+[Line 3874 Sent SenPhoen-P-17-232]: [L4 MORPHO feature-upos-not-permitted] Feature PartType is not permitted with UPOS ADV in language [la] ('an').
+[Line 3885 Sent SenPhoen-P-17-233]: [L4 MORPHO feature-upos-not-permitted] Feature PartType is not permitted with UPOS CCONJ in language [la] ('an').
+[Line 3895 Sent SenPhoen-P-17-234]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurI of feature InflClass is not permitted with UPOS VERB in language [la] ('reclinis').
+[Line 3908 Sent SenPhoen-P-17-235]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('nate').
+[Line 3991 Sent SenPhoen-P-17-238]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS PRON in language [la] ('tuis').
+[Line 3991 Sent SenPhoen-P-17-238]: [L4 MORPHO feature-upos-not-permitted] Feature Number[psor] is not permitted with UPOS PRON in language [la] ('tuis').
+[Line 3991 Sent SenPhoen-P-17-238]: [L4 MORPHO feature-upos-not-permitted] Feature Person[psor] is not permitted with UPOS PRON in language [la] ('tuis').
+[Line 4015 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('nate').
+[Line 4017 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-value-upos-not-permitted] Value Card of feature NumType is not permitted with UPOS ADJ in language [la] ('multos').
+[Line 4017 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('multos').
+[Line 4021 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('nate').
+[Line 4022 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS VERB in language [la] ('suspensae').
+[Line 4036 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-value-upos-not-permitted] Value Acc of feature Case is not permitted with UPOS ADV in language [la] ('tantum').
+[Line 4036 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS ADV in language [la] ('tantum').
+[Line 4036 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('tantum').
+[Line 4036 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('tantum').
+[Line 4041 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-value-upos-not-permitted] Value Acc of feature Case is not permitted with UPOS ADV in language [la] ('quantum').
+[Line 4041 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS ADV in language [la] ('quantum').
+[Line 4041 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('quantum').
+[Line 4041 Sent SenPhoen-P-17-240]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('quantum').
+[Line 4082 Sent SenPhoen-P-17-243]: [L4 MORPHO feature-value-upos-not-permitted] Value LatAnom of feature InflClass is not permitted with UPOS DET in language [la] ('tui').
+[Line 4142 Sent SenPhoen-P-17-246]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('miser').
+[Line 4154 Sent SenPhoen-P-17-247]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('uacem').
+[Line 4154 Sent SenPhoen-P-17-247]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS NOUN in language [la] ('uacem').
+[Line 4154 Sent SenPhoen-P-17-247]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('uacem').
+[Line 4154 Sent SenPhoen-P-17-247]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('uacem').
+[Line 4154 Sent SenPhoen-P-17-247]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('uacem').
+[Line 4154 Sent SenPhoen-P-17-247]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('uacem').
+[Line 4154 Sent SenPhoen-P-17-247]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('uacem').
+[Line 4164 Sent SenPhoen-P-17-247]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4181 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4181 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4181 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4181 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4181 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4181 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4181 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4192 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurI of feature InflClass is not permitted with UPOS VERB in language [la] ('nocens').
+[Line 4225 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('fulgentes').
+[Line 4225 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-value-upos-not-permitted] Value LatE of feature InflClass is not permitted with UPOS ADJ in language [la] ('fulgentes').
+[Line 4225 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('fulgentes').
+[Line 4225 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('fulgentes').
+[Line 4255 Sent SenPhoen-P-17-248]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS CCONJ in language [la] ('et').
+[Line 4269 Sent SenPhoen-P-17-248]: [L3 SYNTAX too-many-subjects] Multiple subjects [92, 94] ('exercitus', 'populus') under the predicate 'uidit' not subtyped as ':outer'.
+[Line 4279 Sent SenPhoen-P-17-248]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4299 Sent SenPhoen-P-17-250]: [L4 MORPHO feature-upos-not-permitted] Feature PartType is not permitted with UPOS ADV in language [la] ('ne').
+[Line 4331 Sent SenPhoen-P-17-253]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 4331 Sent SenPhoen-P-17-253]: [L4 MORPHO feature-value-upos-not-permitted] Value LatAnom of feature InflClass is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 4331 Sent SenPhoen-P-17-253]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 4331 Sent SenPhoen-P-17-253]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 4331 Sent SenPhoen-P-17-253]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 4331 Sent SenPhoen-P-17-253]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 4331 Sent SenPhoen-P-17-253]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('uis').
+[Line 4354 Sent SenPhoen-P-17-254]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('totos').
+[Line 4354 Sent SenPhoen-P-17-254]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('totos').
+[Line 4369 Sent SenPhoen-P-17-254]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('iubes').
+[Line 4369 Sent SenPhoen-P-17-254]: [L4 MORPHO feature-value-upos-not-permitted] Value LatE of feature InflClass is not permitted with UPOS NOUN in language [la] ('iubes').
+[Line 4369 Sent SenPhoen-P-17-254]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('iubes').
+[Line 4369 Sent SenPhoen-P-17-254]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('iubes').
+[Line 4369 Sent SenPhoen-P-17-254]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('iubes').
+[Line 4369 Sent SenPhoen-P-17-254]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('iubes').
+[Line 4369 Sent SenPhoen-P-17-254]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('iubes').
+[Line 4362 Sent SenPhoen-P-17-254]: [L3 WARNING pron-det-without-prontype] The word 'sua' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4392 Sent SenPhoen-P-17-256]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('tecta').
+[Line 4474 Sent SenPhoen-P-17-261]: [L4 MORPHO feature-upos-not-permitted] Feature Degree is not permitted with UPOS CCONJ in language [la] ('et').
+[Line 4479 Sent SenPhoen-P-17-261]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('datas').
+[Line 4479 Sent SenPhoen-P-17-261]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('datas').
+[Line 4479 Sent SenPhoen-P-17-261]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS NOUN in language [la] ('datas').
+[Line 4479 Sent SenPhoen-P-17-261]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS NOUN in language [la] ('datas').
+[Line 4479 Sent SenPhoen-P-17-261]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('datas').
+[Line 4542 Sent SenPhoen-P-17-267]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4542 Sent SenPhoen-P-17-267]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4542 Sent SenPhoen-P-17-267]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4542 Sent SenPhoen-P-17-267]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4542 Sent SenPhoen-P-17-267]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4542 Sent SenPhoen-P-17-267]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4542 Sent SenPhoen-P-17-267]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('precor').
+[Line 4554 Sent SenPhoen-P-17-268]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('profugus').
+[Line 4574 Sent SenPhoen-P-17-270]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 3] ('quid', 'aliud') under the predicate 'paterer'.
+[Line 4604 Sent SenPhoen-P-17-273]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADP in language [la] ('da').
+[Line 4604 Sent SenPhoen-P-17-273]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADP in language [la] ('da').
+[Line 4604 Sent SenPhoen-P-17-273]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADP in language [la] ('da').
+[Line 4604 Sent SenPhoen-P-17-273]: [L4 MORPHO feature-upos-not-permitted] Feature Number is not permitted with UPOS ADP in language [la] ('da').
+[Line 4604 Sent SenPhoen-P-17-273]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADP in language [la] ('da').
+[Line 4604 Sent SenPhoen-P-17-273]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADP in language [la] ('da').
+[Line 4604 Sent SenPhoen-P-17-273]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS ADP in language [la] ('da').
+[Line 4604 Sent SenPhoen-P-17-273]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADP in language [la] ('da').
+[Line 4670 Sent SenPhoen-P-17-278]: [L4 MORPHO feature-value-upos-not-permitted] Value Card of feature NumType is not permitted with UPOS ADJ in language [la] ('multa').
+[Line 4670 Sent SenPhoen-P-17-278]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('multa').
+[Line 4676 Sent SenPhoen-P-17-278]: [L4 MORPHO feature-value-upos-not-permitted] Value LatPron of feature InflClass is not permitted with UPOS ADJ in language [la] ('toto').
+[Line 4676 Sent SenPhoen-P-17-278]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('toto').
+[Line 4730 Sent SenPhoen-P-17-279]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS PROPN in language [la] ('Idaeis').
+[Line 4736 Sent SenPhoen-P-17-279]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS PROPN in language [la] ('Ionii').
+[Line 4750 Sent SenPhoen-P-17-279]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurI of feature InflClass is not permitted with UPOS VERB in language [la] ('orienti').
+[Line 4799 Sent SenPhoen-P-17-281]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('exulas').
+[Line 4799 Sent SenPhoen-P-17-281]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS NOUN in language [la] ('exulas').
+[Line 4799 Sent SenPhoen-P-17-281]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('exulas').
+[Line 4799 Sent SenPhoen-P-17-281]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('exulas').
+[Line 4799 Sent SenPhoen-P-17-281]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('exulas').
+[Line 4799 Sent SenPhoen-P-17-281]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('exulas').
+[Line 4799 Sent SenPhoen-P-17-281]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('exulas').
+[Line 4821 Sent SenPhoen-P-17-283]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('comitatus').
+[Line 4821 Sent SenPhoen-P-17-283]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('comitatus').
+[Line 4821 Sent SenPhoen-P-17-283]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS NOUN in language [la] ('comitatus').
+[Line 4821 Sent SenPhoen-P-17-283]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS NOUN in language [la] ('comitatus').
+[Line 4821 Sent SenPhoen-P-17-283]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('comitatus').
+[Line 4849 Sent SenPhoen-P-17-285]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurI of feature InflClass is not permitted with UPOS PRON in language [la] ('omnibus').
+[Line 4921 Sent SenPhoen-P-17-289]: [L4 MORPHO feature-upos-not-permitted] Feature Number[psor] is not permitted with UPOS PRON in language [la] ('tuis').
+[Line 4921 Sent SenPhoen-P-17-289]: [L4 MORPHO feature-upos-not-permitted] Feature Person[psor] is not permitted with UPOS PRON in language [la] ('tuis').
+[Line 4924 Sent SenPhoen-P-17-289]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('auersi').
+[Line 4924 Sent SenPhoen-P-17-289]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS NOUN in language [la] ('auersi').
+[Line 4924 Sent SenPhoen-P-17-289]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('auersi').
+[Line 4924 Sent SenPhoen-P-17-289]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS NOUN in language [la] ('auersi').
+[Line 4924 Sent SenPhoen-P-17-289]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('auersi').
+[Line 4949 Sent SenPhoen-P-17-290]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurI of feature InflClass is not permitted with UPOS PRON in language [la] ('quale').
+[Line 4956 Sent SenPhoen-P-17-290]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('execrandum').
+[Line 4997 Sent SenPhoen-P-17-293]: [L3 SYNTAX too-many-objects] Multiple direct objects [5, 9] ('poenas', 'nullas') under the predicate 'ferat'.
+[Line 5001 Sent SenPhoen-P-17-294]: [L4 MORPHO feature-upos-not-permitted] Feature PartType is not permitted with UPOS ADV in language [la] ('ne').
+[Line 5002 Sent SenPhoen-P-17-294]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADV in language [la] ('metue').
+[Line 5002 Sent SenPhoen-P-17-294]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('metue').
+[Line 5002 Sent SenPhoen-P-17-294]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS ADV in language [la] ('metue').
+[Line 5002 Sent SenPhoen-P-17-294]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('metue').
+[Line 5002 Sent SenPhoen-P-17-294]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS ADV in language [la] ('metue').
+[Line 5002 Sent SenPhoen-P-17-294]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADV in language [la] ('metue').
+[Line 5002 Sent SenPhoen-P-17-294]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADV in language [la] ('metue').
+[Line 5023 Sent SenPhoen-P-17-297]: [L4 MORPHO feature-upos-not-permitted] Feature Case is not permitted with UPOS INTJ in language [la] ('auo').
+[Line 5023 Sent SenPhoen-P-17-297]: [L4 MORPHO feature-upos-not-permitted] Feature Gender is not permitted with UPOS INTJ in language [la] ('auo').
+[Line 5023 Sent SenPhoen-P-17-297]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS INTJ in language [la] ('auo').
+[Line 5023 Sent SenPhoen-P-17-297]: [L4 MORPHO feature-upos-not-permitted] Feature Number is not permitted with UPOS INTJ in language [la] ('auo').
+[Line 5040 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-value-upos-not-permitted] Value Pos of feature Degree is not permitted with UPOS PROPN in language [la] ('Thebano').
+[Line 5052 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('numeres').
+[Line 5052 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-value-upos-not-permitted] Value LatA of feature InflClass is not permitted with UPOS NOUN in language [la] ('numeres').
+[Line 5052 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS NOUN in language [la] ('numeres').
+[Line 5052 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS NOUN in language [la] ('numeres').
+[Line 5052 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('numeres').
+[Line 5052 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS NOUN in language [la] ('numeres').
+[Line 5052 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('numeres').
+[Line 5053 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5053 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5053 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5053 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5053 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5053 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5053 Sent SenPhoen-P-17-298]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5062 Sent SenPhoen-P-17-299]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('tanti').
+[Line 5079 Sent SenPhoen-P-17-301]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('inuisus').
+[Line 5080 Sent SenPhoen-P-17-301]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS PRON in language [la] ('tuis').
+[Line 5080 Sent SenPhoen-P-17-301]: [L4 MORPHO feature-upos-not-permitted] Feature Number[psor] is not permitted with UPOS PRON in language [la] ('tuis').
+[Line 5080 Sent SenPhoen-P-17-301]: [L4 MORPHO feature-upos-not-permitted] Feature Person[psor] is not permitted with UPOS PRON in language [la] ('tuis').
+[Line 5089 Sent SenPhoen-P-17-302]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('inuisus').
+[Line 5095 Sent SenPhoen-P-17-302]: [L3 SYNTAX too-many-objects] Multiple direct objects [13, 14] ('deus', 'odium') under the predicate 'posuit'.
+[Line 5110 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-value-upos-not-permitted] Value Card of feature NumType is not permitted with UPOS ADJ in language [la] ('multa').
+[Line 5110 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-upos-not-permitted] Feature PronType is not permitted with UPOS ADJ in language [la] ('multa').
+[Line 5114 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-upos-not-permitted] Feature Person[psor] is not permitted with UPOS PRON in language [la] ('suorum').
+[Line 5115 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-value-upos-not-permitted] Value Nom of feature Case is not permitted with UPOS ADV in language [la] ('plus').
+[Line 5115 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS ADV in language [la] ('plus').
+[Line 5115 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('plus').
+[Line 5115 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('plus').
+[Line 5118 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5118 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5118 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5118 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5118 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5118 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5118 Sent SenPhoen-P-17-303]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS SCONJ in language [la] ('licet').
+[Line 5131 Sent SenPhoen-P-17-305]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurO of feature InflClass is not permitted with UPOS VERB in language [la] ('inuisa').
+Warnings: 8
+MORPHO errors: 582
+SYNTAX errors: 27
+*** FAILED *** with 609 errors
+
+PROSE2
+
+<Path> python3 <ValidatorPath>/validate.py --lang=la --max-err=0 <RunPath>parsing_EvaLatin_2026_prose_test_data_OmnesFlores_2.conllu
+
+[Line 9 Sent s1]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('prouectos').
+
+The following 126 feature values are currently permitted in language [la]:
+Abbr=Yes, AdpType=Post, AdpType=Prep, AdvType=Loc, AdvType=Tim, Aspect=Imp, Aspect=Inch, Aspect=Perf, Aspect=Prosp, Case=Abl, Case=Acc, Case=Dat, Case=Gen, Case=Loc, Case=Nom, Case=Voc, Compound=Yes, Degree=Abs, Degree=Cmp, Degree=Dim, Degree=Pos, Degree=Sup, ExtPos=ADJ, ExtPos=ADP, ExtPos=ADV, ExtPos=CCONJ, ExtPos=DET, ExtPos=INTJ, ExtPos=PRON, ExtPos=PROPN, ExtPos=SCONJ, Foreign=Yes, Form=Emp, Gender=Fem, Gender=Masc, Gender=Neut, InflClass=Ind, InflClass=IndEurA, InflClass=IndEurE, InflClass=IndEurI, InflClass=IndEurO, InflClass=IndEurU, InflClass=IndEurX, InflClass=LatA, InflClass=LatAnom, InflClass=LatE, InflClass=LatI, InflClass=LatI2, InflClass=LatPron, InflClass=LatX, InflClass[nominal]=Ind, InflClass[nominal]=IndEurA, InflClass[nominal]=IndEurI, InflClass[nominal]=IndEurO, InflClass[nominal]=IndEurU, InflClass[nominal]=IndEurX, Mood=Imp, Mood=Ind, Mood=Sub, NameType=Ast, NameType=Cal, NameType=Com, NameType=Geo, NameType=Giv, NameType=Let, NameType=Lit, NameType=Met, NameType=Nat, NameType=Oth, NameType=Rel, NameType=Sur, NumForm=Digit, NumForm=Reference, NumForm=Roman, NumForm=Word, NumType=Card, NumType=Dist, NumType=Mult, NumType=Ord, NumValue=1, NumValue=2, Number=Plur, Number=Sing, Number[psor]=Plur, Number[psor]=Sing, PartType=Emp, PartType=Int, Person=1, Person=2, Person=3, Person[psor]=1, Person[psor]=2, Person[psor]=3, Polarity=Neg, Poss=Yes, PronType=Art, PronType=Con, PronType=Dem, PronType=Ind, PronType=Int, PronType=Neg, PronType=Prs, PronType=Rcp, PronType=Rel, PronType=Tot, Proper=Yes, Reflex=Yes, Style=Arch, Tense=Fut, Tense=Past, Tense=Pqp, Tense=Pres, Typo=Yes, Variant=Archaic, Variant=Greek, VerbForm=Conv, VerbForm=Fin, VerbForm=Gdv, VerbForm=Ger, VerbForm=Inf, VerbForm=Part, VerbForm=Sup, VerbForm=Vnoun, VerbType=Mod, Voice=Act, Voice=Pass
+If a language needs a feature that is not documented in the universal guidelines, the feature must
+have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+All features including universal must be specifically turned on for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl for details.
+
+
+[Line 9 Sent s1]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('prouectos').
+[Line 9 Sent s1]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('prouectos').
+[Line 9 Sent s1]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('prouectos').
+[Line 40 Sent s1]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurA of feature InflClass is not permitted with UPOS VERB in language [la] ('escam').
+[Line 45 Sent s2]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('propositum').
+[Line 45 Sent s2]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('propositum').
+[Line 45 Sent s2]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS NOUN in language [la] ('propositum').
+[Line 45 Sent s2]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('propositum').
+[Line 45 Sent s2]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('propositum').
+[Line 65 Sent s2]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 88 Sent s3]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS ADV in language [la] ('plurimum').
+[Line 88 Sent s3]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS ADV in language [la] ('plurimum').
+[Line 88 Sent s3]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS ADV in language [la] ('plurimum').
+[Line 94 Sent s3]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'advmod'.
+[Line 124 Sent s4]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 131 Sent s4]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 186 Sent s6]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 203 Sent s7]: [L3 SYNTAX too-many-subjects] Multiple subjects [9, 14] ('comprehendatur', 'inuestigare') under the predicate 'necessarium' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 372 Sent s21]: [L4 MORPHO feature-upos-not-permitted] Feature AdpType is not permitted with UPOS ADV in language [la] ('supra').
+[Line 375 Sent s21]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [3]
+[Line 504 Sent s27]: [L3 SYNTAX too-many-subjects] Multiple subjects [4, 15] ('quod', 'utilis') under the predicate 'dicitur' not subtyped as ':outer'.
+[Line 664 Sent s33]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 664 Sent s33]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 664 Sent s33]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 664 Sent s33]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 664 Sent s33]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 710 Sent s35]: [L3 WARNING pron-det-without-prontype] The word 'paucis' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 754 Sent s36]: [L3 SYNTAX too-many-subjects] Multiple subjects [9, 19] ('proueniat', 'instruantur') under the predicate 'necessarium' not subtyped as ':outer'.
+[Line 873 Sent s42]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 873 Sent s42]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 873 Sent s42]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 873 Sent s42]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 873 Sent s42]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 873 Sent s42]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 914 Sent s43]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 926 Sent s43]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 984 Sent s47]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('notis').
+[Line 984 Sent s47]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('notis').
+[Line 984 Sent s47]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('notis').
+[Line 984 Sent s47]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('notis').
+[Line 984 Sent s47]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('notis').
+[Line 1002 Sent s48]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('noti').
+[Line 1002 Sent s48]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('noti').
+[Line 1002 Sent s48]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('noti').
+[Line 1002 Sent s48]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('noti').
+[Line 1052 Sent s51]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1052 Sent s51]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1052 Sent s51]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1052 Sent s51]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1052 Sent s51]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1052 Sent s51]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1054 Sent s51]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS NOUN in language [la] ('gestis').
+[Line 1054 Sent s51]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('gestis').
+[Line 1054 Sent s51]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('gestis').
+[Line 1054 Sent s51]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('gestis').
+[Line 1080 Sent s53]: [L4 MORPHO feature-upos-not-permitted] Feature Case is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 1080 Sent s53]: [L4 MORPHO feature-value-upos-not-permitted] Value Neut of feature Gender is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 1080 Sent s53]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 1080 Sent s53]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('quod').
+[Line 1270 Sent s62]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 1270 Sent s62]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 1270 Sent s62]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 1270 Sent s62]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 1270 Sent s62]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 1353 Sent s65]: [L4 MORPHO feature-upos-not-permitted] Feature NumType is not permitted with UPOS NOUN in language [la] ('tertium').
+[Line 1524 Sent s75]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1524 Sent s75]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1524 Sent s75]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1524 Sent s75]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1524 Sent s75]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1524 Sent s75]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 1552 Sent s76]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1558 Sent s76]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1620 Sent s78]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1960 Sent s94]: [L3 WARNING pron-det-without-prontype] The word 'diuersis' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2034 Sent s97]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2457 Sent s116]: [L4 MORPHO feature-upos-not-permitted] Feature AdpType is not permitted with UPOS SCONJ in language [la] ('quoad').
+[Line 2691 Sent s124]: [L4 MORPHO feature-upos-not-permitted] Feature NumType is not permitted with UPOS NOUN in language [la] ('sextum').
+[Line 2724 Sent s126]: [L4 MORPHO feature-value-upos-not-permitted] Value IndEurI of feature InflClass is not permitted with UPOS VERB in language [la] ('sapientis').
+[Line 2782 Sent s129]: [L4 MORPHO feature-upos-not-permitted] Feature NumForm is not permitted with UPOS PROPN in language [la] ('ui').
+[Line 2855 Sent s135]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2856 Sent s135]: [L3 SYNTAX too-many-subjects] Multiple subjects [4, 16] ('quod', 'sapientia') under the predicate 'dicitur' not subtyped as ':outer'.
+[Line 2904 Sent s137]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('sapientis').
+[Line 2904 Sent s137]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('sapientis').
+[Line 2904 Sent s137]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('sapientis').
+[Line 3025 Sent s140]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [2]
+[Line 3085 Sent s141]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('notum').
+[Line 3085 Sent s141]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('notum').
+[Line 3085 Sent s141]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('notum').
+[Line 3085 Sent s141]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('notum').
+[Line 3085 Sent s141]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('notum').
+[Line 3100 Sent s141]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('notum').
+[Line 3100 Sent s141]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('notum').
+[Line 3100 Sent s141]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('notum').
+[Line 3100 Sent s141]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('notum').
+[Line 3100 Sent s141]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('notum').
+[Line 3058 Sent s141]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 3174 Sent s144]: [L4 MORPHO feature-upos-not-permitted] Feature Aspect is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 3174 Sent s144]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 3174 Sent s144]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass[nominal] is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 3174 Sent s144]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 3174 Sent s144]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS ADJ in language [la] ('nota').
+[Line 3254 Sent s146]: [L4 MORPHO feature-upos-not-permitted] Feature NameType is not permitted with UPOS NUM in language [la] ('cor.').
+[Line 3245 Sent s146]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [19]
+[Line 3280 Sent s147]: [L4 MORPHO feature-value-upos-not-permitted] Value LatX of feature InflClass is not permitted with UPOS NOUN in language [la] ('sapientem').
+[Line 3280 Sent s147]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS NOUN in language [la] ('sapientem').
+[Line 3280 Sent s147]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS NOUN in language [la] ('sapientem').
+[Line 3365 Sent s149]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('etiam')
+[Line 3438 Sent s151]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 3560 Sent s158]: [L4 MORPHO feature-upos-not-permitted] Feature InflClass is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 3560 Sent s158]: [L4 MORPHO feature-upos-not-permitted] Feature Mood is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 3560 Sent s158]: [L4 MORPHO feature-value-upos-not-permitted] Value Sing of feature Number is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 3560 Sent s158]: [L4 MORPHO feature-upos-not-permitted] Feature Person is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 3560 Sent s158]: [L4 MORPHO feature-upos-not-permitted] Feature Tense is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 3560 Sent s158]: [L4 MORPHO feature-upos-not-permitted] Feature Voice is not permitted with UPOS SCONJ in language [la] ('puta').
+[Line 3951 Sent s173]: [L4 MORPHO feature-value-upos-not-permitted] Value Ord of feature NumType is not permitted with UPOS NUM in language [la] ('octauum').
+[Line 4107 Sent s182]: [L3 WARNING pron-det-without-prontype] The word 'quod' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4253 Sent s186]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [30]
+[Line 4264 Sent s186]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [49]
+[Line 4510 Sent s193]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [23]
+Warnings: 17
+MORPHO errors: 93
+SYNTAX errors: 11
+*** FAILED *** with 104 errors
+
+PROSE1 
+
+<Path> python3 <ValidatorPath>/validate.py --lang=la --max-err=0 <RunPath>parsing_EvaLatin_2026_prose_test_data_OmnesFlores_1.conllu
+
+[Line 375 Sent s21]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [3]
+[Line 389 Sent s21]: [L3 SYNTAX too-many-objects] Multiple direct objects [19, 20] ('altiora', 'te') under the predicate 'quaesieris'.
+[Line 2128 Sent s103]: [L3 SYNTAX too-many-subjects] Multiple subjects [3, 5] ('scientiae', 'ista') under the predicate 'uidentur' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 2404 Sent s114]: [L3 SYNTAX too-many-subjects] Multiple subjects [1, 10] ('finis', 'beatitudo') under the predicate 'practica' not subtyped as ':outer'.
+[Line 2669 Sent s123]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [11, 12, 13]
+[Line 2671 Sent s123]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[Line 3025 Sent s140]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [2]
+[Line 3245 Sent s146]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [19]
+[Line 3365 Sent s149]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('etiam')
+[Line 3420 Sent s150]: [L3 WARNING fixed-without-extpos] Fixed expression 'sed et' does not have the 'ExtPos' feature
+[Line 4253 Sent s186]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [30]
+Warnings: 1
+SYNTAX errors: 10
+*** FAILED *** with 10 errors
+
+UPPSALA2:
+
+POETRY1
+
+<Path> python3 <ValidatorPath>/validate.py --lang=la --max-err=0 <RunPath>parsing_EvaLatin_2026_poetry_test_data_UppsalaNLP_1.conllu 
+
+[Line 86 Sent SenPhoen-P-17-6]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 164 Sent SenPhoen-P-17-7]: [L2 SYNTAX invalid-deprel] Invalid DEPREL value '_'. Only lowercase English letters or a colon are expected.
+[Line 164 Sent SenPhoen-P-17-7]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'None'
+
+The following 84 relations are currently permitted in language [la]:
+acl, acl:relcl, advcl, advcl:abs, advcl:cmp, advcl:pred, advcl:relcl, advmod, advmod:emph, advmod:lmod, advmod:neg, advmod:tmod, amod, appos, aux, aux:pass, case, cc, ccomp, ccomp:relcl, ccomp:reported, clf, compound, conj, conj:expl, cop, cop:outer, csubj, csubj:cleft, csubj:outer, csubj:pass, csubj:relcl, csubj:reported, dep, det, det:numgov, det:poss, discourse, dislocated, dislocated:advcl, dislocated:ccomp, dislocated:csubj, dislocated:nsubj, dislocated:obj, dislocated:obl, expl, expl:pass, fixed, flat, flat:foreign, flat:gov, flat:name, flat:redup, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:cleft, nsubj:outer, nsubj:pass, nummod, nummod:gov, obj, obl, obl:agent, obl:arg, obl:cmp, obl:lmod, obl:tmod, orphan, orphan:missing, parataxis, parataxis:rep, parataxis:reporting, parataxis:speaker, punct, reparandum, root, vocative, xcomp, xcomp:relcl
+If a language needs a relation subtype that is not documented in the universal guidelines, the relation
+must have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+Documented dependency relations can be specifically turned on/off for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl for details.
+
+
+[Line 93 Sent SenPhoen-P-17-7]: [L3 SYNTAX right-to-left-conj] Parent of relation 'conj' must precede the child in the word order.
+Traceback (most recent call last):
+  File "/Users/federica.iurescia/Documents/UD/tools/validate.py", line 33, in <module>
+    errcode = main()
+              ^^^^^^
+  File "/Users/federica.iurescia/Documents/UD/tools/validate.py", line 22, in main
+    state = validator.validate_files(args.input)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/validator.py", line 155, in validate_files
+    self.validate_file(filename, state)
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/validator.py", line 190, in validate_file
+    self.validate_file_handle(inp, state)
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/validator.py", line 217, in validate_file_handle
+    self.validate_sentence(lines, state)
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/validator.py", line 326, in validate_sentence
+    self.check_single_subject(state, node)
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/level3.py", line 517, in check_single_subject
+    subjects = [x for x in node.children if is_inner_subject(x)]
+                                            ^^^^^^^^^^^^^^^^^^^
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/level3.py", line 509, in is_inner_subject
+    if not re.search(r'subj', node.udeprel):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.12/site-packages/regex/regex.py", line 268, in search
+    return pat.search(string, pos, endpos, concurrent, partial, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: expected string or buffer
+
+POETRY2
+
+<Path> python3 <ValidatorPath>/validate.py --lang=la --max-err=0 <RunPath>parsing_EvaLatin_2026_poetry_test_data_UppsalaNLP_2.conllu
+
+[Line 12 Sent SenPhoen-P-17-1]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quam')
+[Line 13 Sent SenPhoen-P-17-1]: [L3 SYNTAX too-many-subjects] Multiple subjects [3, 14] ('regimen', 'genuisse') under the predicate 'tanti' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 164 Sent SenPhoen-P-17-7]: [L2 SYNTAX invalid-deprel] Invalid DEPREL value '_'. Only lowercase English letters or a colon are expected.
+[Line 164 Sent SenPhoen-P-17-7]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'None'
+
+The following 84 relations are currently permitted in language [la]:
+acl, acl:relcl, advcl, advcl:abs, advcl:cmp, advcl:pred, advcl:relcl, advmod, advmod:emph, advmod:lmod, advmod:neg, advmod:tmod, amod, appos, aux, aux:pass, case, cc, ccomp, ccomp:relcl, ccomp:reported, clf, compound, conj, conj:expl, cop, cop:outer, csubj, csubj:cleft, csubj:outer, csubj:pass, csubj:relcl, csubj:reported, dep, det, det:numgov, det:poss, discourse, dislocated, dislocated:advcl, dislocated:ccomp, dislocated:csubj, dislocated:nsubj, dislocated:obj, dislocated:obl, expl, expl:pass, fixed, flat, flat:foreign, flat:gov, flat:name, flat:redup, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:cleft, nsubj:outer, nsubj:pass, nummod, nummod:gov, obj, obl, obl:agent, obl:arg, obl:cmp, obl:lmod, obl:tmod, orphan, orphan:missing, parataxis, parataxis:rep, parataxis:reporting, parataxis:speaker, punct, reparandum, root, vocative, xcomp, xcomp:relcl
+If a language needs a relation subtype that is not documented in the universal guidelines, the relation
+must have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+Documented dependency relations can be specifically turned on/off for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl for details.
+
+
+Traceback (most recent call last):
+  File "/Users/federica.iurescia/Documents/UD/tools/validate.py", line 33, in <module>
+    errcode = main()
+              ^^^^^^
+  File "/Users/federica.iurescia/Documents/UD/tools/validate.py", line 22, in main
+    state = validator.validate_files(args.input)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/validator.py", line 155, in validate_files
+    self.validate_file(filename, state)
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/validator.py", line 190, in validate_file
+    self.validate_file_handle(inp, state)
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/validator.py", line 217, in validate_file_handle
+    self.validate_sentence(lines, state)
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/validator.py", line 326, in validate_sentence
+    self.check_single_subject(state, node)
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/level3.py", line 517, in check_single_subject
+    subjects = [x for x in node.children if is_inner_subject(x)]
+                                            ^^^^^^^^^^^^^^^^^^^
+  File "/Users/federica.iurescia/Documents/UD/tools/udtools/src/udtools/level3.py", line 509, in is_inner_subject
+    if not re.search(r'subj', node.udeprel):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.12/site-packages/regex/regex.py", line 268, in search
+    return pat.search(string, pos, endpos, concurrent, partial, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: expected string or buffer
+
+PROSE2
+
+<Path> python3 <ValidatorPath>/validate.py --lang=la --max-err=0 <RunPath>parsing_EvaLatin_2026_prose_test_data_UppsalaNLP_2.conllu
+
+[Line 622 Sent s31]: [L3 SYNTAX too-many-subjects] Multiple subjects [23, 26] ('oculus', 'deus') under the predicate 'uidit' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 711 Sent s35]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [13]
+[Line 2769 Sent s129]: [L3 SYNTAX too-many-subjects] Multiple subjects [6, 14] ('probare', 'dicitur') under the predicate 'pertinet' not subtyped as ':outer'.
+[Line 2776 Sent s129]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ut')
+[Line 3248 Sent s146]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ut')
+[Line 3263 Sent s146]: [L3 SYNTAX too-many-objects] Multiple direct objects [45, 47] ('altitudinem', 'se') under the predicate 'extollentem'.
+[Line 3303 Sent s148]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'modo') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3365 Sent s149]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('etiam')
+[Line 3933 Sent s172]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ut')
+[Line 4150 Sent s183]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('non')
+[Line 4613 Sent s197]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ubi')
+[Line 4629 Sent s198]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [5]
+[Line 4760 Sent s203]: [L1 FORMAT non-unix-newline] Only the unix-style LF line terminator is allowed.
+FORMAT errors: 1
+SYNTAX errors: 12
+*** FAILED *** with 13 errors
+
+PROSE1
+
+<Path> python3 <ValidatorPath>/validate.py --lang=la --max-err=0 <RunPath>parsing_EvaLatin_2026_prose_test_data_UppsalaNLP_1.conllu
+
+[Line 16 Sent s1]: [L3 SYNTAX too-many-subjects] Multiple subjects [16, 17] ('incipientes', 'erudire') under the predicate 'pertinet' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 248 Sent s10]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [3, 4, 5]
+[Line 288 Sent s14]: [L3 SYNTAX leaf-aux-cop] 'cop' not expected to have children (4:sit:cop --> 3:utrum:advmod)
+[Line 290 Sent s14]: [L3 SYNTAX leaf-aux-cop] 'cop' not expected to have children (4:sit:cop --> 5:sapientia:nsubj)
+[Line 503 Sent s27]: [L3 SYNTAX rel-upos-mark] 'mark' should not be 'PRON' ('quod')
+[Line 1080 Sent s53]: [L3 SYNTAX rel-upos-mark] 'mark' should not be 'PRON' ('quod')
+[Line 1795 Sent s85]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'philosophum') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2216 Sent s107]: [L3 SYNTAX too-many-subjects] Multiple subjects [7, 14] ('dicuntur', 'misit') under the predicate 'est' not subtyped as ':outer'.
+[Line 3248 Sent s146]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ut')
+[Line 3263 Sent s146]: [L3 SYNTAX too-many-objects] Multiple direct objects [45, 47] ('altitudinem', 'se') under the predicate 'extollentem'.
+[Line 3311 Sent s148]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [14, 15, 16]
+[Line 3365 Sent s149]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('etiam')
+[Line 3590 Sent s160]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [11]
+[Line 3596 Sent s160]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'sermo') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3933 Sent s172]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ut')
+[Line 3941 Sent s172]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ut')
+[Line 4079 Sent s180]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [15, 16]
+[Line 4108 Sent s182]: [L3 SYNTAX too-many-subjects] Multiple subjects [4, 13] ('quod', 'amplectentem') under the predicate 'dicitur' not subtyped as ':outer'.
+[Line 4116 Sent s182]: [L3 SYNTAX too-many-objects] Multiple direct objects [14, 21] ('eum', 'sermonem') under the predicate 'amplectentem'.
+[Line 4150 Sent s183]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('non')
+[Line 4253 Sent s186]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [30]
+[Line 4760 Sent s203]: [L1 FORMAT non-unix-newline] Only the unix-style LF line terminator is allowed.
+FORMAT errors: 1
+SYNTAX errors: 21
+*** FAILED *** with 22 errors
+
+THIVLVC:
+
+POETRY1
+
+<Path> python3 <ValidatorPath>validate.py --lang=la --max-err=0 <RunPath>parsing_EvaLatin_2026_poetry_test_data_THIVLVC_1.conllu
+
+[Line 5 Sent SenPhoen-P-17-1]: [L3 SYNTAX right-to-left-appos] Parent of relation 'appos' must precede the child in the word order.
+[Line 86 Sent SenPhoen-P-17-6]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 95 Sent SenPhoen-P-17-7]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 101 Sent SenPhoen-P-17-7]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 113 Sent SenPhoen-P-17-7]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 136 Sent SenPhoen-P-17-7]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 143 Sent SenPhoen-P-17-7]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 153 Sent SenPhoen-P-17-7]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 161 Sent SenPhoen-P-17-7]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 172 Sent SenPhoen-P-17-7]: [L3 SYNTAX too-many-objects] Multiple direct objects [79, 80] ('natum', 'se') under the predicate 'mersura'.
+[Line 361 Sent SenPhoen-P-17-22]: [L3 SYNTAX rel-upos-mark] 'mark' should not be 'PRON' ('quod')
+[Line 863 Sent SenPhoen-P-17-59]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ubicumque')
+[Line 1261 Sent SenPhoen-P-17-83]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 1323 Sent SenPhoen-P-17-87]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ubicumque')
+[Line 1482 Sent SenPhoen-P-17-94]: [L3 SYNTAX too-many-subjects] Multiple subjects [30, 36] ('hoc', 'esse') under the predicate 'decebat' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 1529 Sent SenPhoen-P-17-95]: [L3 SYNTAX right-to-left-appos] Parent of relation 'appos' must precede the child in the word order.
+[Line 1812 Sent SenPhoen-P-17-115]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 1998 Sent SenPhoen-P-17-128]: [L3 WARNING fixed-without-extpos] Fixed expression 'num quid' does not have the 'ExtPos' feature
+[Line 2131 Sent SenPhoen-P-17-134]: [L3 SYNTAX right-to-left-appos] Parent of relation 'appos' must precede the child in the word order.
+[Line 2176 Sent SenPhoen-P-17-137]: [L3 SYNTAX right-to-left-appos] Parent of relation 'appos' must precede the child in the word order.
+[Line 2550 Sent SenPhoen-P-17-153]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'ADJ' ('septena')
+[Line 2561 Sent SenPhoen-P-17-154]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc:preconj'
+
+The following 84 relations are currently permitted in language [la]:
+acl, acl:relcl, advcl, advcl:abs, advcl:cmp, advcl:pred, advcl:relcl, advmod, advmod:emph, advmod:lmod, advmod:neg, advmod:tmod, amod, appos, aux, aux:pass, case, cc, ccomp, ccomp:relcl, ccomp:reported, clf, compound, conj, conj:expl, cop, cop:outer, csubj, csubj:cleft, csubj:outer, csubj:pass, csubj:relcl, csubj:reported, dep, det, det:numgov, det:poss, discourse, dislocated, dislocated:advcl, dislocated:ccomp, dislocated:csubj, dislocated:nsubj, dislocated:obj, dislocated:obl, expl, expl:pass, fixed, flat, flat:foreign, flat:gov, flat:name, flat:redup, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:cleft, nsubj:outer, nsubj:pass, nummod, nummod:gov, obj, obl, obl:agent, obl:arg, obl:cmp, obl:lmod, obl:tmod, orphan, orphan:missing, parataxis, parataxis:rep, parataxis:reporting, parataxis:speaker, punct, reparandum, root, vocative, xcomp, xcomp:relcl
+If a language needs a relation subtype that is not documented in the universal guidelines, the relation
+must have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+Documented dependency relations can be specifically turned on/off for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl for details.
+
+
+[Line 3050 Sent SenPhoen-P-17-180]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'ADJ' ('septena')
+[Line 3238 Sent SenPhoen-P-17-188]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'INTJ' ('ecce')
+[Line 3521 Sent SenPhoen-P-17-204]: [L3 SYNTAX rel-upos-mark] 'mark' should not be 'DET' ('utrum')
+[Line 3708 Sent SenPhoen-P-17-218]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('nihil')
+[Line 3778 Sent SenPhoen-P-17-222]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc:preconj'
+[Line 3770 Sent SenPhoen-P-17-222]: [L3 SYNTAX too-many-objects] Multiple direct objects [9, 10] ('inducias', 'te') under the predicate 'rogat'.
+[Line 3861 Sent SenPhoen-P-17-230]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc:preconj'
+[Line 3962 Sent SenPhoen-P-17-237]: [L3 SYNTAX right-to-left-conj] Parent of relation 'conj' must precede the child in the word order.
+[Line 4031 Sent SenPhoen-P-17-240]: [L3 SYNTAX too-many-objects] Multiple direct objects [14, 15] ('aspectum', 'deos') under the predicate 'rogaui'.
+[Line 4269 Sent SenPhoen-P-17-248]: [L3 SYNTAX too-many-objects] Multiple direct objects [91, 93, 97] ('hoc', 'hoc', 'hoc') under the predicate 'uidit'.
+[Line 4689 Sent SenPhoen-P-17-279]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 4696 Sent SenPhoen-P-17-279]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 4733 Sent SenPhoen-P-17-279]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 4746 Sent SenPhoen-P-17-279]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('qua')
+[Line 5094 Sent SenPhoen-P-17-302]: [L3 SYNTAX right-to-left-appos] Parent of relation 'appos' must precede the child in the word order.
+[Line 5100 Sent SenPhoen-P-17-302]: [L3 SYNTAX too-many-subjects] Multiple subjects [18, 23] ('hoc', 'premere') under the predicate 'regis' not subtyped as ':outer'.
+Warnings: 1
+SYNTAX errors: 37
+*** FAILED *** with 37 errors
+
+POETRY2
+
+<Path> python3 <ValidatorPath>validate.py --lang=la --max-err=0 <RunPath> parsing_EvaLatin_2026_poetry_test_data_THIVLVC_2.conllu
+
+[Line 8 Sent SenPhoen-P-17-1]: [L3 SYNTAX right-to-left-appos] Parent of relation 'appos' must precede the child in the word order.
+[Line 16 Sent SenPhoen-P-17-1]: [L3 WARNING pron-det-without-prontype] The word 'tanti' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 30 Sent SenPhoen-P-17-2]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 74 Sent SenPhoen-P-17-5]: [L3 WARNING pron-det-without-prontype] The word 'nostrae' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 89 Sent SenPhoen-P-17-6]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('qua')
+[Line 216 Sent SenPhoen-P-17-9]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 219 Sent SenPhoen-P-17-9]: [L3 WARNING pron-det-without-prontype] The word 'meas' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 361 Sent SenPhoen-P-17-22]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 364 Sent SenPhoen-P-17-22]: [L3 SYNTAX rel-upos-mark] 'mark' should not be 'PRON' ('quod')
+[Line 369 Sent SenPhoen-P-17-23]: [L3 WARNING pron-det-without-prontype] The word 'nullum' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 391 Sent SenPhoen-P-17-25]: [L3 WARNING pron-det-without-prontype] The word 'omnia' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 404 Sent SenPhoen-P-17-26]: [L3 WARNING pron-det-without-prontype] The word 'nemo' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 460 Sent SenPhoen-P-17-28]: [L3 WARNING pron-det-without-prontype] The word 'nostros' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 622 Sent SenPhoen-P-17-40]: [L3 WARNING pron-det-without-prontype] The word 'tantis' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 645 Sent SenPhoen-P-17-42]: [L3 WARNING pron-det-without-prontype] The word 'suo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 654 Sent SenPhoen-P-17-44]: [L3 WARNING pron-det-without-prontype] The word 'aliquis' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 700 Sent SenPhoen-P-17-46]: [L3 WARNING pron-det-without-prontype] The word 'aliquid' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 728 Sent SenPhoen-P-17-49]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 883 Sent SenPhoen-P-17-60]: [L3 WARNING pron-det-without-prontype] The word 'uterque' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 994 Sent SenPhoen-P-17-66]: [L3 WARNING pron-det-without-prontype] The word 'nostrae' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 999 Sent SenPhoen-P-17-66]: [L3 WARNING pron-det-without-prontype] The word 'nemo' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1074 Sent SenPhoen-P-17-69]: [L3 WARNING pron-det-without-prontype] The word 'suorum' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1093 Sent SenPhoen-P-17-70]: [L3 WARNING pron-det-without-prontype] The word 'tanta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1113 Sent SenPhoen-P-17-72]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 1115 Sent SenPhoen-P-17-72]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('ultra')
+[Line 1120 Sent SenPhoen-P-17-73]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 1155 Sent SenPhoen-P-17-74]: [L3 WARNING pron-det-without-prontype] The word 'quid' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1221 Sent SenPhoen-P-17-81]: [L3 WARNING pron-det-without-prontype] The word 'nemo' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1226 Sent SenPhoen-P-17-81]: [L3 WARNING pron-det-without-prontype] The word 'nemo' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1248 Sent SenPhoen-P-17-82]: [L3 WARNING pron-det-without-prontype] The word 'toto' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1250 Sent SenPhoen-P-17-82]: [L3 WARNING pron-det-without-prontype] The word 'toto' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1253 Sent SenPhoen-P-17-82]: [L3 WARNING pron-det-without-prontype] The word 'totis' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1264 Sent SenPhoen-P-17-83]: [L3 WARNING pron-det-without-prontype] The word 'totus' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1283 Sent SenPhoen-P-17-84]: [L3 WARNING pron-det-without-prontype] The word 'totos' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1333 Sent SenPhoen-P-17-87]: [L3 WARNING pron-det-without-prontype] The word 'mearum' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1422 Sent SenPhoen-P-17-91]: [L3 WARNING pron-det-without-prontype] The word 'tua' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1490 Sent SenPhoen-P-17-94]: [L3 WARNING pron-det-without-prontype] The word 'tanti' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1524 Sent SenPhoen-P-17-95]: [L3 SYNTAX too-many-subjects] Multiple subjects [1, 14] ('qui', 'ipse') under the predicate 'proculcauit' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 1554 Sent SenPhoen-P-17-96]: [L3 WARNING pron-det-without-prontype] The word 'nemo' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1652 Sent SenPhoen-P-17-102]: [L3 WARNING pron-det-without-prontype] The word 'his' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1814 Sent SenPhoen-P-17-115]: [L3 SYNTAX right-to-left-conj] Parent of relation 'conj' must precede the child in the word order.
+[Line 1836 Sent SenPhoen-P-17-115]: [L3 WARNING pron-det-without-prontype] The word 'tui' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1884 Sent SenPhoen-P-17-119]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 1919 Sent SenPhoen-P-17-121]: [L3 WARNING pron-det-without-prontype] The word 'has' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1930 Sent SenPhoen-P-17-123]: [L3 WARNING pron-det-without-prontype] The word 'nullas' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2008 Sent SenPhoen-P-17-128]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 2100 Sent SenPhoen-P-17-133]: [L3 WARNING pron-det-without-prontype] The word 'nostras' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2140 Sent SenPhoen-P-17-134]: [L3 SYNTAX right-to-left-appos] Parent of relation 'appos' must precede the child in the word order.
+[Line 2161 Sent SenPhoen-P-17-135]: [L3 WARNING pron-det-without-prontype] The word 'nullum' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2185 Sent SenPhoen-P-17-137]: [L3 SYNTAX right-to-left-appos] Parent of relation 'appos' must precede the child in the word order.
+[Line 2200 Sent SenPhoen-P-17-137]: [L3 WARNING pron-det-without-prontype] The word 'nemo' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2217 Sent SenPhoen-P-17-139]: [L3 SYNTAX right-to-left-conj] Parent of relation 'conj' must precede the child in the word order.
+[Line 2236 Sent SenPhoen-P-17-139]: [L3 SYNTAX right-to-left-appos] Parent of relation 'appos' must precede the child in the word order.
+[Line 2268 Sent SenPhoen-P-17-139]: [L3 WARNING pron-det-without-prontype] The word 'nemo' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2353 Sent SenPhoen-P-17-144]: [L3 WARNING pron-det-without-prontype] The word 'omne' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2386 Sent SenPhoen-P-17-145]: [L5 MORPHO aux-lemma] 'fio' is not an auxiliary in language [la]
+
+The following 3 auxiliaries are currently documented in language [la]:
+eo, habeo, sum
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl?lcode=la for details.
+
+
+[Line 2410 Sent SenPhoen-P-17-146]: [L3 WARNING pron-det-without-prontype] The word 'nemo' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2419 Sent SenPhoen-P-17-147]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 2427 Sent SenPhoen-P-17-148]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 2442 Sent SenPhoen-P-17-149]: [L3 WARNING pron-det-without-prontype] The word 'aliis' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2471 Sent SenPhoen-P-17-150]: [L3 SYNTAX rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADV' ('hic')
+[Line 2562 Sent SenPhoen-P-17-153]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'ADJ' ('septena')
+[Line 2573 Sent SenPhoen-P-17-154]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc:preconj'
+
+The following 84 relations are currently permitted in language [la]:
+acl, acl:relcl, advcl, advcl:abs, advcl:cmp, advcl:pred, advcl:relcl, advmod, advmod:emph, advmod:lmod, advmod:neg, advmod:tmod, amod, appos, aux, aux:pass, case, cc, ccomp, ccomp:relcl, ccomp:reported, clf, compound, conj, conj:expl, cop, cop:outer, csubj, csubj:cleft, csubj:outer, csubj:pass, csubj:relcl, csubj:reported, dep, det, det:numgov, det:poss, discourse, dislocated, dislocated:advcl, dislocated:ccomp, dislocated:csubj, dislocated:nsubj, dislocated:obj, dislocated:obl, expl, expl:pass, fixed, flat, flat:foreign, flat:gov, flat:name, flat:redup, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:cleft, nsubj:outer, nsubj:pass, nummod, nummod:gov, obj, obl, obl:agent, obl:arg, obl:cmp, obl:lmod, obl:tmod, orphan, orphan:missing, parataxis, parataxis:rep, parataxis:reporting, parataxis:speaker, punct, reparandum, root, vocative, xcomp, xcomp:relcl
+If a language needs a relation subtype that is not documented in the universal guidelines, the relation
+must have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+Documented dependency relations can be specifically turned on/off for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl for details.
+
+
+[Line 2607 Sent SenPhoen-P-17-157]: [L3 WARNING pron-det-without-prontype] The word 'meorum' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2619 Sent SenPhoen-P-17-157]: [L3 WARNING pron-det-without-prontype] The word 'aliquid' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2642 Sent SenPhoen-P-17-158]: [L3 WARNING pron-det-without-prontype] The word 'aliquid' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2687 Sent SenPhoen-P-17-161]: [L3 WARNING pron-det-without-prontype] The word 'cuncta' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2693 Sent SenPhoen-P-17-161]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB' ('passim')
+[Line 2771 Sent SenPhoen-P-17-164]: [L3 WARNING pron-det-without-prontype] The word 'aliquid' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2788 Sent SenPhoen-P-17-165]: [L5 MORPHO aux-lemma] 'satis' is not an auxiliary in language [la]
+[Line 2788 Sent SenPhoen-P-17-165]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'AUX' ('sat')
+[Line 2808 Sent SenPhoen-P-17-166]: [L3 WARNING pron-det-without-prontype] The word 'nemo' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2871 Sent SenPhoen-P-17-169]: [L3 WARNING pron-det-without-prontype] The word 'hoc' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2874 Sent SenPhoen-P-17-169]: [L3 SYNTAX rel-upos-mark] 'mark' should not be 'PRON' ('quod')
+[Line 2882 Sent SenPhoen-P-17-170]: [L3 WARNING pron-det-without-prontype] The word 'hoc' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2996 Sent SenPhoen-P-17-177]: [L3 WARNING pron-det-without-prontype] The word 'alteri' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3028 Sent SenPhoen-P-17-178]: [L3 WARNING pron-det-without-prontype] The word 'suis' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3186 Sent SenPhoen-P-17-184]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('ante')
+[Line 3219 Sent SenPhoen-P-17-186]: [L3 WARNING pron-det-without-prontype] The word 'aliquod' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3482 Sent SenPhoen-P-17-200]: [L3 WARNING pron-det-without-prontype] The word 'utrumque' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3486 Sent SenPhoen-P-17-200]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN' ('ocius')
+[Line 3586 Sent SenPhoen-P-17-208]: [L3 WARNING pron-det-without-prontype] The word 'utramque' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3602 Sent SenPhoen-P-17-209]: [L3 WARNING pron-det-without-prontype] The word 'alter' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3621 Sent SenPhoen-P-17-211]: [L3 WARNING pron-det-without-prontype] The word 'tot' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3624 Sent SenPhoen-P-17-211]: [L3 SYNTAX rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADV' ('tot')
+[Line 3650 Sent SenPhoen-P-17-212]: [L3 WARNING pron-det-without-prontype] The word 'solo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3653 Sent SenPhoen-P-17-212]: [L3 WARNING pron-det-without-prontype] The word 'tuo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3696 Sent SenPhoen-P-17-215]: [L3 WARNING pron-det-without-prontype] The word 'totum' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3709 Sent SenPhoen-P-17-216]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 3723 Sent SenPhoen-P-17-218]: [L3 WARNING pron-det-without-prontype] The word 'nihil' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 3723 Sent SenPhoen-P-17-218]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('nihil')
+[Line 3735 Sent SenPhoen-P-17-219]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ne')
+[Line 3785 Sent SenPhoen-P-17-222]: [L3 SYNTAX too-many-objects] Multiple direct objects [9, 10] ('inducias', 'te') under the predicate 'rogat'.
+[Line 3817 Sent SenPhoen-P-17-225]: [L3 WARNING pron-det-without-prontype] The word 'utrumque' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3820 Sent SenPhoen-P-17-225]: [L3 WARNING pron-det-without-prontype] The word 'utroque' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3824 Sent SenPhoen-P-17-226]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' ('quid')
+[Line 3861 Sent SenPhoen-P-17-229]: [L3 WARNING pron-det-without-prontype] The word 'suis' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3876 Sent SenPhoen-P-17-230]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc:preconj'
+[Line 3872 Sent SenPhoen-P-17-230]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ne')
+[Line 3943 Sent SenPhoen-P-17-237]: [L3 WARNING pron-det-without-prontype] The word 'solo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3951 Sent SenPhoen-P-17-237]: [L3 WARNING pron-det-without-prontype] The word 'tot' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3953 Sent SenPhoen-P-17-237]: [L3 WARNING pron-det-without-prontype] The word 'tot' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4046 Sent SenPhoen-P-17-240]: [L3 SYNTAX too-many-objects] Multiple direct objects [14, 15] ('aspectum', 'deos') under the predicate 'rogaui'.
+[Line 4048 Sent SenPhoen-P-17-240]: [L3 WARNING pron-det-without-prontype] The word 'tuus' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4086 Sent SenPhoen-P-17-242]: [L5 MORPHO aux-lemma] 'foris' is not an auxiliary in language [la]
+[Line 4121 Sent SenPhoen-P-17-244]: [L3 SYNTAX too-many-subjects] Multiple subjects [11, 18] ('hoc', 'fuisse') under the predicate 'nefas' not subtyped as ':outer'.
+[Line 4149 Sent SenPhoen-P-17-246]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('quam')
+[Line 4168 Sent SenPhoen-P-17-247]: [L3 WARNING pron-det-without-prontype] The word 'tanti' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4231 Sent SenPhoen-P-17-248]: [L3 WARNING pron-det-without-prontype] The word 'uestri' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4276 Sent SenPhoen-P-17-248]: [L3 WARNING pron-det-without-prontype] The word 'totus' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4284 Sent SenPhoen-P-17-248]: [L3 SYNTAX too-many-objects] Multiple direct objects [91, 97] ('hoc', 'hoc') under the predicate 'uidit'.
+[Line 4295 Sent SenPhoen-P-17-248]: [L3 WARNING pron-det-without-prontype] The word 'ista' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4314 Sent SenPhoen-P-17-250]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ne')
+[Line 4351 Sent SenPhoen-P-17-253]: [L3 WARNING pron-det-without-prontype] The word 'nullam' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4355 Sent SenPhoen-P-17-254]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('quin')
+[Line 4377 Sent SenPhoen-P-17-254]: [L3 WARNING pron-det-without-prontype] The word 'nemo' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4397 Sent SenPhoen-P-17-255]: [L3 WARNING pron-det-without-prontype] The word 'uter' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4415 Sent SenPhoen-P-17-257]: [L3 WARNING pron-det-without-prontype] The word 'has' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4593 Sent SenPhoen-P-17-270]: [L3 WARNING pron-det-without-prontype] The word 'aliud' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4799 Sent SenPhoen-P-17-280]: [L3 WARNING pron-det-without-prontype] The word 'hoc' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4818 Sent SenPhoen-P-17-281]: [L3 WARNING pron-det-without-prontype] The word 'tuo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4835 Sent SenPhoen-P-17-283]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('quin')
+[Line 4867 Sent SenPhoen-P-17-285]: [L3 WARNING pron-det-without-prontype] The word 'omnibus' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 5009 Sent SenPhoen-P-17-293]: [L3 WARNING pron-det-without-prontype] The word 'suae' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 5014 Sent SenPhoen-P-17-293]: [L3 WARNING pron-det-without-prontype] The word 'nullas' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 5061 Sent SenPhoen-P-17-298]: [L3 WARNING pron-det-without-prontype] The word 'nulli' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 5080 Sent SenPhoen-P-17-299]: [L3 WARNING pron-det-without-prontype] The word 'tanti' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 5126 Sent SenPhoen-P-17-302]: [L3 WARNING pron-det-without-prontype] The word 'ipsa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 5135 Sent SenPhoen-P-17-303]: [L3 WARNING pron-det-without-prontype] The word 'suorum' is tagged 'DET' but it lacks the 'PronType' feature
+Warnings: 83
+MORPHO errors: 3
+SYNTAX errors: 43
+*** FAILED *** with 46 errors
+
+PROSE2
+
+<Path> python3 <ValidatorPath>/validate.py --lang=la --max-err=0 <RunPath>parsing_EvaLatin_2026_prose_test_data_THIVLVC_2.conllu
+
+[Line 40 Sent s1]: [L3 SYNTAX too-many-objects] Multiple direct objects [32, 34] ('lac', 'potum') under the predicate 'dedi'.
+[Line 54 Sent s2]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 67 Sent s2]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 82 Sent s3]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [7, 8]
+[Line 89 Sent s3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 91 Sent s3]: [L3 WARNING pron-det-without-prontype] The word 'plurimum' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 94 Sent s3]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN' ('partim')
+[Line 113 Sent s4]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 126 Sent s4]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 133 Sent s4]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 188 Sent s6]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 207 Sent s7]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 216 Sent s7]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 230 Sent s8]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 236 Sent s9]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN' ('primo')
+[Line 249 Sent s10]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 258 Sent s11]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 261 Sent s11]: [L3 WARNING pron-det-without-prontype] The word 'plures' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 269 Sent s12]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 292 Sent s14]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 301 Sent s15]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 308 Sent s16]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN' ('octauo')
+[Line 311 Sent s16]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 337 Sent s18]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 339 Sent s18]: [L3 WARNING pron-det-without-prontype] The word 'plures' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 357 Sent s20]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 377 Sent s21]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 391 Sent s21]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ne')
+[Line 488 Sent s26]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fuit' lacks the 'Mood' feature
+[Line 504 Sent s27]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 505 Sent s27]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 507 Sent s27]: [L3 SYNTAX too-many-subjects] Multiple subjects [4, 15] ('quod', 'utilis') under the predicate 'dicitur' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 518 Sent s27]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 547 Sent s28]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 558 Sent s29]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 577 Sent s30]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fuit' lacks the 'Mood' feature
+[Line 660 Sent s33]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fuit' lacks the 'Mood' feature
+[Line 694 Sent s34]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fuit' lacks the 'Mood' feature
+[Line 723 Sent s35]: [L3 WARNING pron-det-without-prontype] The word 'multorum' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 742 Sent s35]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 758 Sent s36]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fuit' lacks the 'Mood' feature
+[Line 772 Sent s37]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fuit' lacks the 'Mood' feature
+[Line 801 Sent s38]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 807 Sent s38]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sint' lacks the 'Mood' feature
+[Line 814 Sent s38]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 833 Sent s39]: [L3 WARNING pron-det-without-prontype] The word 'plurima' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 838 Sent s39]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 876 Sent s42]: [L3 WARNING verbform-fin-without-mood] Finite verb 'puta' lacks the 'Mood' feature
+[Line 876 Sent s42]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('puta')
+[Line 879 Sent s42]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 888 Sent s42]: [L3 WARNING verbform-fin-without-mood] Finite verb 'idest' lacks the 'Mood' feature
+[Line 916 Sent s43]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 918 Sent s43]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 928 Sent s43]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 973 Sent s46]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 1002 Sent s48]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 1016 Sent s48]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1032 Sent s49]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1042 Sent s50]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1058 Sent s51]: [L3 WARNING verbform-fin-without-mood] Finite verb 'puta' lacks the 'Mood' feature
+[Line 1058 Sent s51]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('puta')
+[Line 1077 Sent s52]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1084 Sent s53]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 1085 Sent s53]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1130 Sent s55]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1148 Sent s57]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1151 Sent s57]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1160 Sent s58]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 1177 Sent s58]: [L3 WARNING pron-det-without-prontype] The word 'huiusmodi' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1184 Sent s59]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 1220 Sent s60]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1234 Sent s60]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1275 Sent s62]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 1292 Sent s63]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 1299 Sent s63]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1371 Sent s66]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 1387 Sent s67]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1389 Sent s67]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1423 Sent s69]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1465 Sent s72]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1473 Sent s73]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 1474 Sent s73]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1510 Sent s75]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1530 Sent s75]: [L3 WARNING verbform-fin-without-mood] Finite verb 'puta' lacks the 'Mood' feature
+[Line 1544 Sent s75]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1557 Sent s76]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 1559 Sent s76]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 1563 Sent s76]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 1566 Sent s76]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1570 Sent s76]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 1625 Sent s78]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 1693 Sent s81]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1709 Sent s81]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 1739 Sent s82]: [L5 SYNTAX cop-lemma] 'exsisto' is not a copula in language [la]
+
+The following 1 copulas are currently documented in language [la]:
+sum
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl?lcode=la for details.
+
+
+[Line 1739 Sent s82]: [L3 SYNTAX rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB' ('existens')
+[Line 1748 Sent s82]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 1756 Sent s82]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 1764 Sent s82]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1785 Sent s84]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 1795 Sent s85]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1834 Sent s87]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1863 Sent s89]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1873 Sent s90]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1881 Sent s91]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 1886 Sent s91]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1910 Sent s92]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1918 Sent s92]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 1926 Sent s93]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1945 Sent s94]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 1971 Sent s94]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 1985 Sent s95]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 2017 Sent s96]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2039 Sent s97]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 2083 Sent s100]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 2148 Sent s104]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2215 Sent s106]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2224 Sent s107]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 2225 Sent s107]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2225 Sent s107]: [L3 SYNTAX too-many-subjects] Multiple subjects [7, 14] ('dicuntur', 'misit') under the predicate 'est' not subtyped as ':outer'.
+[Line 2256 Sent s108]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 2263 Sent s108]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 2352 Sent s112]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [3]
+[Line 2356 Sent s112]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2384 Sent s113]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2412 Sent s114]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2415 Sent s114]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2437 Sent s115]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2460 Sent s116]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2510 Sent s117]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2536 Sent s118]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2643 Sent s122]: [L3 SYNTAX rel-upos-mark] 'mark' should not be 'PRON' ('quod')
+[Line 2649 Sent s122]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2686 Sent s123]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 2712 Sent s125]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 2728 Sent s126]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2734 Sent s126]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2768 Sent s128]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2812 Sent s131]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2855 Sent s134]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2862 Sent s135]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 2863 Sent s135]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2874 Sent s135]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2892 Sent s136]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 2914 Sent s137]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 2945 Sent s138]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ut')
+[Line 3014 Sent s139]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3033 Sent s140]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3066 Sent s141]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 3068 Sent s141]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3079 Sent s141]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3095 Sent s141]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3099 Sent s141]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3110 Sent s141]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3180 Sent s144]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 3209 Sent s145]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3212 Sent s145]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3219 Sent s145]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3243 Sent s146]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [19]
+[Line 3326 Sent s148]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 3344 Sent s148]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3424 Sent s150]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3449 Sent s151]: [L3 WARNING fixed-without-extpos] Fixed expression 'secundum quod' does not have the 'ExtPos' feature
+[Line 3477 Sent s153]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 3494 Sent s154]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3513 Sent s155]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3522 Sent s155]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3526 Sent s155]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3534 Sent s156]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3566 Sent s158]: [L3 WARNING pron-det-without-prontype] The word 'multis' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 3572 Sent s158]: [L3 WARNING verbform-fin-without-mood] Finite verb 'puta' lacks the 'Mood' feature
+[Line 3587 Sent s159]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3596 Sent s160]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 3599 Sent s160]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3605 Sent s160]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3636 Sent s162]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3648 Sent s163]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3702 Sent s165]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 3707 Sent s165]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3727 Sent s166]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 3752 Sent s167]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 3770 Sent s168]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 3775 Sent s168]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3781 Sent s168]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3838 Sent s169]: [L3 WARNING verbform-fin-without-mood] Finite verb 'idest' lacks the 'Mood' feature
+[Line 3877 Sent s171]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 3975 Sent s174]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 3994 Sent s175]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ubi')
+[Line 4016 Sent s176]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 4027 Sent s177]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4036 Sent s178]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 4066 Sent s179]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4110 Sent s181]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4117 Sent s182]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 4118 Sent s182]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4133 Sent s182]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4140 Sent s182]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 4191 Sent s183]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 4233 Sent s186]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4265 Sent s186]: [L3 SYNTAX punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [30]
+[Line 4394 Sent s190]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 4401 Sent s190]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4436 Sent s191]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 4450 Sent s191]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4462 Sent s192]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4487 Sent s192]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4510 Sent s193]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sit' lacks the 'Mood' feature
+[Line 4523 Sent s193]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4616 Sent s197]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 4625 Sent s197]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ubi')
+[Line 4652 Sent s198]: [L3 WARNING pron-det-without-prontype] The word 'uestrorum' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4657 Sent s198]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sumus' lacks the 'Mood' feature
+[Line 4734 Sent s202]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fuit' lacks the 'Mood' feature
+Warnings: 185
+SYNTAX errors: 27
+*** FAILED *** with 27 errors
+
+PROSE1
+
+<Path> python3 <ValidatorPath>/validate.py --lang=la --max-err=0 <RunPath> parsing_EvaLatin_2026_prose_test_data_THIVLVC_1.conllu
+
+[Line 388 Sent s21]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ne')
+[Line 430 Sent s24]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('nisi')
+[Line 437 Sent s24]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('nisi')
+[Line 504 Sent s27]: [L3 SYNTAX too-many-subjects] Multiple subjects [4, 15] ('quod', 'utilis') under the predicate 'dicitur' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 665 Sent s33]: [L5 SYNTAX cop-lemma] 'fio' is not a copula in language [la]
+
+The following 1 copulas are currently documented in language [la]:
+sum
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl?lcode=la for details.
+
+
+[Line 665 Sent s33]: [L3 SYNTAX rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB' ('fierent')
+[Line 1052 Sent s51]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB' ('puta')
+[Line 1078 Sent s53]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 1113 Sent s54]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('nisi')
+[Line 1268 Sent s62]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc:preconj'
+
+The following 84 relations are currently permitted in language [la]:
+acl, acl:relcl, advcl, advcl:abs, advcl:cmp, advcl:pred, advcl:relcl, advmod, advmod:emph, advmod:lmod, advmod:neg, advmod:tmod, amod, appos, aux, aux:pass, case, cc, ccomp, ccomp:relcl, ccomp:reported, clf, compound, conj, conj:expl, cop, cop:outer, csubj, csubj:cleft, csubj:outer, csubj:pass, csubj:relcl, csubj:reported, dep, det, det:numgov, det:poss, discourse, dislocated, dislocated:advcl, dislocated:ccomp, dislocated:csubj, dislocated:nsubj, dislocated:obj, dislocated:obl, expl, expl:pass, fixed, flat, flat:foreign, flat:gov, flat:name, flat:redup, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:cleft, nsubj:outer, nsubj:pass, nummod, nummod:gov, obj, obl, obl:agent, obl:arg, obl:cmp, obl:lmod, obl:tmod, orphan, orphan:missing, parataxis, parataxis:rep, parataxis:reporting, parataxis:speaker, punct, reparandum, root, vocative, xcomp, xcomp:relcl
+If a language needs a relation subtype that is not documented in the universal guidelines, the relation
+must have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+Documented dependency relations can be specifically turned on/off for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl for details.
+
+
+[Line 1328 Sent s64]: [L3 SYNTAX leaf-cc] 'cc' not expected to have children (30:tum:cc --> 31:etiam:advmod)
+[Line 1366 Sent s66]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('una')
+[Line 1379 Sent s67]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('una')
+[Line 1384 Sent s67]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('unius')
+[Line 1406 Sent s68]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('uno')
+[Line 1418 Sent s69]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('una')
+[Line 1460 Sent s72]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('una')
+[Line 1467 Sent s73]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 1477 Sent s73]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('una')
+[Line 1497 Sent s74]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('unam')
+[Line 1524 Sent s75]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB' ('puta')
+[Line 1532 Sent s75]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('una')
+[Line 1551 Sent s76]: [L3 SYNTAX leaf-mark-case] 'mark' not expected to have children (8:quod:mark --> 7:secundum:case)
+[Line 1557 Sent s76]: [L3 SYNTAX leaf-mark-case] 'mark' not expected to have children (14:quod:mark --> 13:secundum:case)
+[Line 1570 Sent s76]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('una')
+[Line 1589 Sent s77]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('una')
+[Line 1662 Sent s80]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('una')
+[Line 1704 Sent s81]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('una')
+[Line 1875 Sent s91]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 2215 Sent s107]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 2260 Sent s108]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc:preconj'
+[Line 2276 Sent s109]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc:preconj'
+[Line 2530 Sent s118]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'advcl:cmpr'
+[Line 2936 Sent s138]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ut')
+[Line 3170 Sent s144]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc:preconj'
+[Line 3205 Sent s145]: [L3 SYNTAX too-many-subjects] Multiple subjects [5, 8] ('cognitio', 'quae') under the predicate 'reuelationem' not subtyped as ':outer'.
+[Line 3365 Sent s149]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('etiam')
+[Line 3401 Sent s150]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X' ('etc.')
+[Line 3560 Sent s158]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB' ('puta')
+[Line 3584 Sent s160]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 3982 Sent s175]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ubi')
+[Line 4027 Sent s178]: [L4 SYNTAX unknown-deprel] Unknown DEPREL label: 'cc:preconj'
+[Line 4085 Sent s180]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ubi')
+[Line 4105 Sent s182]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('contra')
+[Line 4150 Sent s183]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('non')
+[Line 4317 Sent s188]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('sicut')
+[Line 4328 Sent s188]: [L3 SYNTAX rel-upos-nummod] 'nummod' should be 'NUM' but it is 'DET' ('unum')
+[Line 4613 Sent s197]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('ubi')
+[Line 4624 Sent s198]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' ('sicut')
+SYNTAX errors: 49
+*** FAILED *** with 49 errors
+
